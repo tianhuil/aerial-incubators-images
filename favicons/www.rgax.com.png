@@ -1,0 +1,1823 @@
+ <!DOCTYPE html> <html class="no-js" lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <title>
+	Reinsurance Group of America | RGA
+</title> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png"> <link rel="manifest" href="/assets/icons/site.webmanifest"> <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5"> <link rel="shortcut icon" href="/favicon.ico"> <meta name="msapplication-TileColor" content="#00aba9"> <meta name="msapplication-config" content="/assets/icons/browserconfig.xml"> <meta name="theme-color" content="#ffffff"> <link rel="preload" as="style" href="https://use.typekit.net/djp0gjp.css"> <link rel="stylesheet" href="https://use.typekit.net/djp0gjp.css"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"> <link href="/ResourcePackages/Talon/assets/dist/css/critical.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/SitefinityWebApp/ResourcePackages/Talon/assets/dist/css/tools/searchIO/searchio-input.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/pageheader/hero.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/tabcarousel.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/knowledgecenter/featured.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/callouts.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/cards/cards.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /> <script>(function () { "use strict"; var el = document.getElementsByTagName('html')[0], nojsClass = "no-js", jsClass = "js"; if (el.classList) { el.classList.remove(nojsClass); el.classList.add(jsClass); } else { el.className = el.className.replace(new RegExp('(^|\\b)' + nojsClass.split(' ').join('|') + '(\\b|$)', 'gi'), ' '); el.className += ' ' + jsClass; } }());</script> <meta property="og:title" content="Reinsurance Group of America" /><meta property="og:description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /><meta property="og:url" content="https://www.rgare.com" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Default" /><script type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55MKJCZ');
+</script><script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('803-LAW-040');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+
+
+</script><style type="text/css" media="all">
+.globe-layout {
+  background-color: $color-blue;
+  z-index: 1 !important;
+}
+
+.kc-featured.padding-top-2 {
+    z-index: 3;
+    position: relative;
+}</style><meta name="Generator" content="Sitefinity 14.4.8133.0 DX" /><link rel="canonical" href="https://www.rgare.com" /><meta name="description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /></head> <body> <header id="site-header" class="site-header" role="banner">  
+
+
+
+<script src="//engage.rgare.com/js/forms2/js/forms2.min.js"></script> 
+<form id="mktoForm_1041" style="display:none;"></form> 
+
+<script>
+    // Load the form normally
+    MktoForms2.loadForm("//engage.rgare.com", "803-LAW-040", 1041);
+    // Find the button element that you want to attach the event to
+    MktoForms2.whenReady(function (form) {
+      var btn = document.getElementsByTagName("button")[15];
+      btn.onclick = function() {
+
+        //Grab the form values
+        const firstInput = document.getElementById("Textbox-1");
+        const firstInputValue = firstInput.value;
+        const lastInput = document.getElementById("Textbox-2");
+        const lastInputValue = lastInput.value;
+        const emailInput = document.getElementById("Email-1");
+        const emailInputValue = emailInput.value;
+        const phoneInput = document.getElementById("Textbox-3");
+        const phoneInputValue = phoneInput.value;
+        const companyInput = document.getElementById("Textbox-4");
+        const companyInputValue = companyInput.value;
+        const countryInput = document.getElementById("Dropdown-2");
+        const countryInputValue = countryInput.value;
+        const messageInput = document.getElementById("Textarea-1");
+        const messageInputValue = messageInput.value;
+
+        // When the button is clicked, get the form object and submit it
+
+        // Set the value of the form fields
+form.vals({ 
+          "FirstName":firstInputValue, 
+          "LastName":lastInputValue,
+          "Email":emailInputValue,
+          "Phone":phoneInputValue,
+          "Company":companyInputValue,
+          "Country":countryInputValue,
+          "formContactQuestion":messageInputValue
+        });
+
+
+        form.submit();
+        // Get the form field values
+        //var vals = form.vals();
+        // We'll just alert them to show the principle
+        //alert("Submitted values: " + JSON.stringify(vals));
+
+      };
+    });
+  </script>
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55MKJCZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div class="header__container" data-sf-element="Container" data-placeholder-label="Header Container">
+  <div id="Header_T2734BF3E001_Col00" class="sf_colsIn header__logo" data-placeholder-label="Logo">
+<a class="header__logo-link" href="/"><img src="/images/default-source/header-logos/rga_logo_rgb_red_wht.png?sfvrsn=bc15e6b3_2" alt="Red RGA Logo" class="logo-red" sf-size="32240" sfref="[images%7COpenAccessDataProvider]b61fa7fb-350a-413b-affd-3f2f8730a673" data-sf-ec-immutable="" /><img src="/images/default-source/header-logos/rga_logo_rgb_wht_red.png?sfvrsn=b049774b_2" alt="White RGA Logo" class="logo-white" sf-size="31933" sfref="[images%7COpenAccessDataProvider]9d313eae-2278-49e0-8abf-0f1f5a38c905" data-sf-ec-immutable="" /></a></div>
+  <div class="header__utility">
+    <div id="Header_T2734BF3E001_Col01" class="sf_colsIn header__search" data-placeholder-label="Utility Navigation"><!-- TODO: Get the Account, Collection and Results page from the widget model. -->
+<!-- TODO: Change the null check after implementing getting the values from the widget model -->
+<!-- For now it will be only hardcoded -->
+
+    <div id="searchContainer" class="site-search search-bar-container">
+        
+        <div id="searchbox-8f3c329e-aa94-4f37-b0b6-cf10f0499238">
+            <div id="searchio-searchbox" data-results-page="/search" data-account="1669868074240554073" data-collection="rgare-cust" role="search"></div>
+              <div id="suggestions"></div>
+              <div>
+            </div>
+        </div>
+    </div>
+
+
+    <button type="button" class="search-box-toggle" data-toggle data-target="searchContainer" data-hold="true">
+      <svg class="icon icon-search" focusable="false" aria-hidden="true">
+          <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-search"></use>
+      </svg>
+                  <svg class="icon icon-clear" focusable="false" aria-hidden="true">
+          <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-clear"></use>
+      </svg>
+      <span class="search-box-toggle__text">Search</span>
+    </button>
+<nav class="utility-menu" aria-label="Utility Navigation">
+    
+    <ul class="utility-menu__list" id='navbar-1'>
+        <li class="utility-menu__item ">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="06d4a213-f2fa-4e52-9a89-5a16cb9e1996">
+                <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
+            <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
+        </svg></span>
+              Portal Login
+            </button>
+            <ul id="06d4a213-f2fa-4e52-9a89-5a16cb9e1996" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
+                            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="83f1f72f-88e1-44b3-a43e-b03e536b87cc">
+                    Gateway
+                </button>
+                <ul id="83f1f72f-88e1-44b3-a43e-b03e536b87cc" class="utility-menu__sub-list">
+                                <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-uk" target="_blank">Gateway UK</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-us" target="_blank">Gateway US</a>
+            </li>
+
+                </ul>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/rose" target="_blank">ROSE&#174;</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/fac-exchange" target="_blank">FAC Exchange</a>
+            </li>
+
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+<div class="utility-menu" >
+    <div ><ul class="utility-menu__list" style="border-left: 1px solid rgba(204, 204, 204, 1); margin-left: 1em"><li class="utility-menu__item "><span class="utility-menu__icon"><svg class="icon icon-document" aria-hidden="true"><use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-document"></use></svg></span>
+ <a class="utility-menu__link" href="/our-company/media">Media</a>
+ </li><li class="utility-menu__item "><span class="utility-menu__icon"><svg class="icon icon-chat" aria-hidden="true"><use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-chat"></use></svg></span>
+ <a class="utility-menu__link" href="/contact">Contact</a>
+ </li></ul></div>    
+</div>
+<button type="button" class="main__toggle" data-toggle data-target="mainMenu">
+        <svg class="icon icon-menu" focusable="false" aria-hidden="true">
+          <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-menu"></use>
+      </svg>
+                    <svg class="icon icon-clear" focusable="false" aria-hidden="true">
+          <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-clear"></use>
+      </svg>
+  </button></div>
+    <div id="mainMenu" class="header__navigation">
+      <div id="Header_T2734BF3E001_Col02" class="sf_colsIn header__navigation-wrapper" data-placeholder-label="Main Navigation">
+<!--googleoff: all-->
+
+<div class="visually-hidden focusable instructions" tabindex="0">
+    <p>The site navigation utilizes arrow, enter, escape, and space bar key commands. Left and right arrows move across top level links and expand / close menus in sub levels. Up and Down arrows will open main level menus and toggle through sub tier links. Enter and space open menus and escape closes them as well. Tab will move on to the next part of the site rather than go through menu items.</p>
+</div>
+
+<!--googleon: all-->
+
+<nav class="main" aria-label="Main Navigation">
+    
+    <ul class="main__list" id='navbar-2'>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a08b981f-23aa-4379-9031-0f67dfcfd7e7">Solutions</button>
+            <ul id="a08b981f-23aa-4379-9031-0f67dfcfd7e7" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/solutions-landing" target="_self">Solutions</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/life-and-health-risk" target="_self">Life and Health Risk</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/financial-solutions" target="_self">Financial Solutions</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/product-creation" target="_self">Product Creation</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/underwriting" target="_self">Underwriting</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/claims" target="_self">Claims</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/data-solutions" target="_self">Data Solutions</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/investment-capabilities" target="_self">Investment Capabilities</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/enabling" target="_self">Enabling</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/solutions/all-products-and-services" target="_self">All Products and Services</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="c641a1b7-5742-495c-b3ec-98cc28ccbf5c">Global Presence</button>
+            <ul id="c641a1b7-5742-495c-b3ec-98cc28ccbf5c" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/global-presence/global-presence-landing" target="_self">Global Presence</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/global-presence/americas" target="_self">Americas</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/global-presence/asia-pacific" target="_self">Asia Pacific</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/global-presence/emea" target="_self">EMEA</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/global-presence/global-accounts" target="_self">Global Accounts</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="9552b0f3-8700-4f19-8ddf-16a42ee126eb">Knowledge Center</button>
+            <ul id="9552b0f3-8700-4f19-8ddf-16a42ee126eb" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/knowledge-center/knowledge-center-landing" target="_self">Knowledge Center</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/knowledge-center/knowledge-center-library" target="_self">Knowledge Center Library</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="6f5f16f1-bc1e-4f9e-8a97-b6c1e6550279">Company</button>
+            <ul id="6f5f16f1-bc1e-4f9e-8a97-b6c1e6550279" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/our-company-landing" target="_self">Company</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/about-rga" target="_self">About RGA</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/responsibility" target="_self">Responsibility</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/media" target="_self">Media</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/leadership" target="_self">Leadership</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/our-company/financial-strength" target="_self">Financial Strength&#160;</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a5c4ef64-f672-4449-8aec-9ee5479fc9dd">Investors</button>
+            <ul id="a5c4ef64-f672-4449-8aec-9ee5479fc9dd" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/investors/investors" target="_blank">Investors&#160;</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="main__list-item ">
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="0b66920c-5f31-4b51-9d8c-c1f4185f2ad3">Careers</button>
+            <ul id="0b66920c-5f31-4b51-9d8c-c1f4185f2ad3" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+                            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/careers-overview" target="_self">Careers</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/culture-and-purpose" target="_self">Culture and Purpose</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/career-development" target="_self">Career Development</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/benefits-and-balance" target="_self">Benefits and Balance</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/work-life-worldwide" target="_self">Work Life Worldwide</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/dei" target="_self">Diversity, Equity, and Inclusion</a>
+            </li>
+            <li class="main__submenu-item">
+                <a class="main__submenu-link " href="/careers/becoming-a-candidate" target="_self">Becoming a Candidate</a>
+            </li>
+
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+<nav class="utility-menu" aria-label="Utility Navigation">
+    
+    <ul class="utility-menu__list" id='navbar-3'>
+        <li class="utility-menu__item ">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="0b38350a-a905-4279-be2b-b834503d871e">
+                <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
+            <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
+        </svg></span>
+              Portal Login
+            </button>
+            <ul id="0b38350a-a905-4279-be2b-b834503d871e" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
+                            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="6019c873-bf1d-4c33-bdaa-aa3a6045700e">
+                    Gateway
+                </button>
+                <ul id="6019c873-bf1d-4c33-bdaa-aa3a6045700e" class="utility-menu__sub-list">
+                                <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-uk" target="_blank">Gateway UK</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-us" target="_blank">Gateway US</a>
+            </li>
+
+                </ul>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/rose" target="_blank">ROSE&#174;</a>
+            </li>
+            <li class="utility-menu__sub-item">
+                <a class="utility-menu__sub-link " href="/portal-login/fac-exchange" target="_blank">FAC Exchange</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="utility-menu__item ">
+          <a class="utility-menu__link" href="/view-media" target="_self">
+              <span class="utility-menu__icon"><svg class="icon icon-document" focusable="false" aria-hidden="true">
+            <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-document"></use>
+        </svg></span>
+            Media
+            </a>
+        </li>
+        <li class="utility-menu__item ">
+          <a class="utility-menu__link" href="/contact" target="_self">
+              <span class="utility-menu__icon"><svg class="icon icon-chat" focusable="false" aria-hidden="true">
+            <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-chat"></use>
+        </svg></span>
+            Contact
+            </a>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+      </div>
+    </div>    
+  </div>
+
+</div>
+
+
+ </header> <main id="site-main" class="site-main" tabindex="-1" role="main"> 
+
+
+<div class="swiper hero-slider">
+  <div class="swiper-wrapper">  
+      <div class="page-heading page-heading--hero swiper-slide">
+        <div class="page-heading__content">
+
+            <div class="page-heading__media page-heading__media--video" aria-hidden="true">
+              <div class="page-heading__video">
+                <iframe src="https://player.vimeo.com/video/903396943?h=efa0468517&autoplay=1&background=1&autopause=0&player_id=0&app_id=58479 "width="100%" height="105%"  frameborder="0" allow="autoplay; fullscreen;" allowfullscreen title="Discovering"></iframe>
+
+              </div>              
+            </div>
+        
+          <div class="page-heading__body">  
+            <div class="container">
+                <h1 class="page-heading__title">Discovering Digital Distribution Paths</h1>
+               <div class="page-heading__buttons">
+                  <button type="button" class="hero-prev" aria-label="Previous slide">
+                    <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+                    </svg>
+                  </button>
+                  <button type="button" class="hero-next" aria-label="Next slide">
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </button>                
+                </div>
+                <div class="hero-pagination swiper-pagination"></div>  
+                
+            </div>
+          </div>
+        </div>
+
+        
+
+        <div class="page-heading__callouts">
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">OPTIMIZING THE CUSTOMER JOURNEY</span>
+                  The future of customer experience in life insurance
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/optimizing-the-customer-journey-the-keys-to-succeeding-in-digital-distribution-for-life-insurance" class="page-heading__callouts-link" target="_self">
+                    Read More <span class="visually-hidden">about The future of customer experience in life insurance</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">ACHIEVING THE RIGHT RISK RECIPE</span>
+                  A pinch of acceleration and a dash of simplified issue
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/a-pinch-of-accelerated-underwriting-and-a-dash-of-simplified-issue-could-it-be-the-perfect-recipe-for-risk" class="page-heading__callouts-link" target="_self">
+                    Read More  <span class="visually-hidden">about A pinch of acceleration and a dash of simplified issue</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+        </div>
+
+      </div>   
+      <div class="page-heading page-heading--hero swiper-slide">
+        <div class="page-heading__content">
+              <div class="page-heading__media" aria-hidden="true">
+                <img data-src="/images/default-source/banners/better-living-without-chemicals.jpg?sfvrsn=aa0db260_1" class="page-heading__img swiper-lazy" alt="A scientist tests water in a laboratory" /> 
+              </div>
+
+        
+          <div class="page-heading__body">  
+            <div class="container">
+                <h1 class="page-heading__title">Better Living Without Chemicals</h1>
+               <div class="page-heading__buttons">
+                  <button type="button" class="hero-prev" aria-label="Previous slide">
+                    <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+                    </svg>
+                  </button>
+                  <button type="button" class="hero-next" aria-label="Next slide">
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </button>                
+                </div>
+                <div class="hero-pagination swiper-pagination"></div>  
+                
+            </div>
+          </div>
+        </div>
+
+        
+
+        <div class="page-heading__callouts">
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">NAVIGATING TROUBLED WATERS</span>
+                  The high health costs of dirty water
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/navigating-troubled-waters" class="page-heading__callouts-link" target="_self">
+                    Read More <span class="visually-hidden">about The high health costs of dirty water</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">FOREVER CHEMICALS, FOREVER TROUBLE</span>
+                  Underwriting in the age of per- and polyfluoroalkyl (PFAS)
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/pfas-forever-chemicals-forever-trouble" class="page-heading__callouts-link" target="_self">
+                    Read More  <span class="visually-hidden">about Underwriting in the age of per- and polyfluoroalkyl (PFAS)</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+        </div>
+
+      </div>   
+      <div class="page-heading page-heading--hero swiper-slide">
+        <div class="page-heading__content">
+              <div class="page-heading__media" aria-hidden="true">
+                <img data-src="/images/default-source/banners/the-path-forward.jpg?sfvrsn=4077aa1b_1" class="page-heading__img swiper-lazy" alt="A woman strides confidently up a winding red stairway" /> 
+              </div>
+
+        
+          <div class="page-heading__body">  
+            <div class="container">
+                <h1 class="page-heading__title">Forging New Paths to Better Risk Prediction</h1>
+               <div class="page-heading__buttons">
+                  <button type="button" class="hero-prev" aria-label="Previous slide">
+                    <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+                    </svg>
+                  </button>
+                  <button type="button" class="hero-next" aria-label="Next slide">
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </button>                
+                </div>
+                <div class="hero-pagination swiper-pagination"></div>  
+                
+            </div>
+          </div>
+        </div>
+
+        
+
+        <div class="page-heading__callouts">
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">LOOKING BEYOND THE PANDEMIC</span>
+                  Mortality from the driver-seat view
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/beyond-the-pandemic-a-driver-based-view-of-mortality-rates-and-their-implications-for-actuaries" class="page-heading__callouts-link" target="_self">
+                    Read More <span class="visually-hidden">about Mortality from the driver-seat view</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">MODELING MORTALITY</span>
+                  Credit (data) where it’s due: Transforming mortality prediction
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/how-credit-data-enhances-mortality-risk-prediction-a-new-study-by-rga" class="page-heading__callouts-link" target="_self">
+                    Read More  <span class="visually-hidden">about Credit (data) where it’s due: Transforming mortality prediction</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+        </div>
+
+      </div>   
+      <div class="page-heading page-heading--hero swiper-slide">
+        <div class="page-heading__content">
+              <div class="page-heading__media" aria-hidden="true">
+                <img data-src="/images/default-source/banners/financial-planning-for-the-road-ahead.jpg?sfvrsn=2d47fe77_1" class="page-heading__img swiper-lazy" alt="A woman clutches a paper map in the passenger seat of a car" /> 
+              </div>
+
+        
+          <div class="page-heading__body">  
+            <div class="container">
+                <h1 class="page-heading__title">Mapping the Financial Road Ahead</h1>
+               <div class="page-heading__buttons">
+                  <button type="button" class="hero-prev" aria-label="Previous slide">
+                    <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+                    </svg>
+                  </button>
+                  <button type="button" class="hero-next" aria-label="Next slide">
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </button>                
+                </div>
+                <div class="hero-pagination swiper-pagination"></div>  
+                
+            </div>
+          </div>
+        </div>
+
+        
+
+        <div class="page-heading__callouts">
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">A RELIABLE RIDE</span>
+                  Sidecars for life insurers
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/sidecars-for-life-insurers-planning-for-the-road-ahead" class="page-heading__callouts-link" target="_self">
+                    Read More <span class="visually-hidden">about Sidecars for life insurers</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">TOMORROW’S CHALLENGE, TODAY’S OPPORTUNITY</span>
+                  Bridging the retirement income gap
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/tomorrow&#39;s-challenge-but-today&#39;s-opportunity-bridging-the-retirement-income-protection-gap" class="page-heading__callouts-link" target="_self">
+                    Read More  <span class="visually-hidden">about Bridging the retirement income gap</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+        </div>
+
+      </div>   
+      <div class="page-heading page-heading--hero swiper-slide">
+        <div class="page-heading__content">
+              <div class="page-heading__media" aria-hidden="true">
+                <img data-src="/images/default-source/banners/data-solutions-and-ai.jpg?sfvrsn=535e2c17_1" class="page-heading__img swiper-lazy" alt="A woman gazes contemplatively at a screen of data, with the reflection appearing in her glasses" /> 
+              </div>
+
+        
+          <div class="page-heading__body">  
+            <div class="container">
+                <h1 class="page-heading__title">Revolutionizing Risk Assessment with Data</h1>
+               <div class="page-heading__buttons">
+                  <button type="button" class="hero-prev" aria-label="Previous slide">
+                    <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+                    </svg>
+                  </button>
+                  <button type="button" class="hero-next" aria-label="Next slide">
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </button>                
+                </div>
+                <div class="hero-pagination swiper-pagination"></div>  
+                
+            </div>
+          </div>
+        </div>
+
+        
+
+        <div class="page-heading__callouts">
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">NEW TOOLS, NEW RISKS</span>
+                  Actuaries + AI = Oh my!
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/actuaries-take-on-ai-how-well-can-chatgpt-and-github-copilot-handle-real-actuarial-tasks" class="page-heading__callouts-link" target="_self">
+                    Read More <span class="visually-hidden">about Actuaries + AI = Oh my!</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+            <div class="page-heading__callouts-item">
+              <div class="page-heading__callouts-title">
+                  <span class="page-heading__callouts-subtitle">POWERING UNDERWRITING WITH AI</span>
+                  Digitization in the AI age
+              </div>
+              <div class="page-heading__callouts-action">
+                  <a href="/knowledge-center/article/new-tools-new-risks-digitization-in-the-ai-age" class="page-heading__callouts-link" target="_self">
+                    Read More  <span class="visually-hidden">about Digitization in the AI age</span>
+                    <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                      <use href="ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                    </svg>
+                  </a>
+              </div>
+            </div>        
+
+        </div>
+
+      </div>   
+
+    
+  </div>
+  <div class="page-heading__controls">
+   
+
+  </div>
+
+</div>
+
+
+<script src="/ResourcePackages/Talon/assets/dist/js/swiper.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script>
+<script src="/ResourcePackages/Talon/assets/dist/js/sliders.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script><div id="Main_C021_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div id="Main_C092_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small">
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Main_C013_Col00" class="sf_colsIn col-lg-6 negative-bottom-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+  <div class="red-border-right">
+    <img src="/images/default-source/purpose-videos/kids-on-swings.png?sfvrsn=32d23e15_0" title="Kids on Swings" alt="Kids on Swings"
+         
+          />    
+  </div>
+
+    </div>
+    <div id="Main_C013_Col01" class="sf_colsIn col-lg-6" data-sf-element="Column 2" data-placeholder-label="Column 2"><div id="Main_C083_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large">
+<div >
+    <div ><h2>Making Financial Protection Accessible to All.</h2><p>RGA is the only global reinsurance company to focus exclusively on life and health solutions.</p></div>    
+</div><div class="row" data-sf-element="Row">
+    <div id="Main_C016_Col00" class="sf_colsIn col-lg-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><p><a href="/our-company/about-rga/purpose" class="arrow-link">Purpose</a><br><a href="/our-company/leadership/executive-leadership" class="arrow-link">Leadership</a> </p></div>    
+</div>
+    </div>
+    <div id="Main_C016_Col01" class="sf_colsIn col-lg-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div >
+    <div ><a class="arrow-link" href="/our-company/responsibility">Responsibility</a><br><a href="/our-company/about-rga" class="arrow-link">About RGA</a></div>    
+</div>
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+
+</div>
+<div id="Main_C023_Col00" class="sf_colsIn background lightgrey-background extra-padding-top" data-sf-element="Container" data-placeholder-label="Light Grey Background"><div id="Main_C096_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div >
+    <div ><h2 style="text-align: center">Solutions for Every Situation</h2></div>    
+</div>
+
+
+
+<div id="carousel-dadf2a37-e266-4c73-abfc-d26899407550" class="callout-carousel callout-slider swiper">
+
+  <div class="callout-carousel__pagination"></div>
+
+  <div class="swiper-wrapper"> 
+      <div class="callout-carousel__slide swiper-slide" data-name="Life and Health Risk">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/life-and-health-risk.jpg?sfvrsn=a208b97a_1" class="callout-carousel__img swiper-lazy" alt="A boy leaps and kicks a ball" /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Life and Health Risk
+          </div>
+            <div class="callout-carousel__summary">You need a partner with the financial strength, global reach, and local insight to help you manage change in life and health reinsurance, and the intense client focus to make the most of your in-force book. RGA stands with you, working together to enhance your existing product portfolios, expand into new business segments, meet regulatory requirements, manage capital more efficiently, and more. </div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/life-and-health-risk" class="callout-carousel__link button" target="_self">Learn more</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="Financial Solutions">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/homepage/gfs-780.jpg?sfvrsn=7ffab29e_8" class="callout-carousel__img swiper-lazy" alt="A trio of colleagues meet around an office table to discuss a deal." /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Financial Solutions
+          </div>
+            <div class="callout-carousel__summary">Reinsurance is one of the most flexible risk and financial management tools. It should be considered alongside traditional capital instruments and corporate actions. 
+
+RGA pioneered use of reinsurance as a financial management and portfolio-optimizing tool, and we remain a leading provider of such solutions worldwide.
+</div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/financial-solutions" class="callout-carousel__link button" target="_self">Learn More</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="Product Creation">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/product-creation-.jpg?sfvrsn=9c414cce_1" class="callout-carousel__img swiper-lazy" alt="A group of employees brainstorm with notes" /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Product Creation
+          </div>
+            <div class="callout-carousel__summary">At RGA, product development isn’t a transaction; it’s a commitment to creating new opportunities together and ensuring their success. 
+
+Whether targeting new segments, insuring new risks, innovating in new channels, or assimilating the latest technologies, RGA has experience bringing the best insurance products to life. 
+</div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/product-creation" class="callout-carousel__link button" target="_self">Learn more</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="Underwriting">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/underwriting.jpg?sfvrsn=bcd9622d_1" class="callout-carousel__img swiper-lazy" alt="A pair of sailors steer a ship forward" /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Underwriting
+          </div>
+            <div class="callout-carousel__summary">We are relentless in our commitment to developing underwriting insights and innovations to empower insurers.  Our combination of global mortality expertise and local insight is entirely unique. RGA has amassed one of the largest mortality databases in the world, and we combine this insight with deep knowledge of local market drivers – from data privacy and protection regulations to consumer expectations. 
+</div>
+
+          <div class="callout-carousel__actions">
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="Claims">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/claims-.jpg?sfvrsn=f74308d7_1" class="callout-carousel__img swiper-lazy" alt="A pair of claims analysts review a case" /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Claims
+          </div>
+            <div class="callout-carousel__summary">Claims management has always been complex, and never more so than today. Every insurer’s reputation rests on the ability to pay the right claim at the right time, every time. 
+RGA is distinguished by more than the depth of our technical expertise; we are known for the value we place on forming stable, long-term partnerships and our demonstrated commitment to protecting the honest policyholder. 
+</div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/claims" class="callout-carousel__link button" target="_self">Learn more</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="Data Solutions">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/data-solutions.jpg?sfvrsn=3958a441_1" class="callout-carousel__img swiper-lazy" alt="A woman gazes intently at code." /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            Data Solutions
+          </div>
+            <div class="callout-carousel__summary">Data and analytics can reveal remarkable insights – from untapped market opportunities to shifting consumer behaviors. But it takes the right people to translate potential into value. RGA has the experience and insight to put data to work. Partner with RGA to responsibly combine technology, data, and expertise. </div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/data-solutions" class="callout-carousel__link button" target="_self">Learn more</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+      <div class="callout-carousel__slide swiper-slide" data-name="View All">
+          <div class="callout-carousel__media" aria-hidden="true">           
+            <div class="callout-carousel__prev">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </div>
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/images/default-source/refresh-carousel-images---780-by-560/all-products.jpg?sfvrsn=14a6ae4f_3" class="callout-carousel__img swiper-lazy" alt="A group of busy commuters race forward through a subway tunnel" /> 
+              <div class="swiper-lazy-preloader"></div>
+              <div class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </div> 
+          </div>
+
+        <div class="callout-carousel__content">
+          <div class="callout-carousel__title">
+            View All
+          </div>
+            <div class="callout-carousel__summary">Find solutions to meet your needs across life, health, and living benefits reinsurance, financial solutions, underwriting, claims, product development, and more. </div>
+
+          <div class="callout-carousel__actions">
+              <a href="/solutions/all-products-and-services" class="callout-carousel__link button" target="_self">Learn More</a>
+
+
+          </div>
+          <div class="callout-carousel__arrows">
+            <button type="button" class="callout-carousel__prev" aria-label="Previous slide">
+              <svg class="icon icon-arrow_back" focusable="false" aria-hidden="true">
+                <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_back"></use>
+              </svg>
+            </button>
+
+             <button type="button" class="callout-carousel__next">
+                <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true" aria-label="Next slide">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                </svg>
+              </button> 
+          </div>      
+        </div>
+      
+      </div>
+  </div>
+  
+
+
+</div>
+
+
+
+</div>
+
+</div>
+<div id="Main_C101_Col00" class="sf_colsIn container container--small" data-sf-element="Container" data-placeholder-label="Container"><div class="row padding-top-4" data-sf-element="Row">
+    <div id="Main_C035_Col00" class="sf_colsIn col-lg-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><h2>Knowledge Center Has You Covered</h2></div>    
+</div>
+    </div>
+    <div id="Main_C035_Col01" class="sf_colsIn col-lg-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div >
+    <div ><br><a class="red-arrow-link" href="/knowledge-center">View Knowledge Center</a></div>    
+</div>
+    </div>
+</div>
+
+<div >
+    <div ><hr></div>    
+</div>
+
+
+<div class="kc-featured padding-top-2">
+    <div class="kc-featured__list">
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/sidewalkcrowd.jpg?sfvrsn=34183d0e_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Aerial shot of large crowd on a city sidewalk" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/sidewalkcrowd.jpg?sfvrsn=34183d0e_1" class="kc-featured__img" alt="Aerial shot of large crowd on a city sidewalk" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">March 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/the-cdc-s-new-respiratory-guidelines--five-key-questions" target="_self">
+                   The CDC’s New Respiratory Guidelines: Five Key Questions
+                </a>
+
+                  <div class="kc-featured__summary">
+                    RGA’s Chief Science Advisor Dr. Daniel Zimmerman shares his thoughts on updated ...
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/the-cdc-s-new-respiratory-guidelines--five-key-questions" aria-label="Read More for The CDC’s New Respiratory Guidelines: Five Key Questions" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/drowning-in-forms.png?sfvrsn=39611485_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="A man wearing a red sweater stares grimly at a stack of forms" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/drowning-in-forms.png?sfvrsn=39611485_1" class="kc-featured__img" alt="A man wearing a red sweater stares grimly at a stack of forms" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">March 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/are-we-drowning-in-forms" target="_self">
+                   Are We Drowning in Forms?
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>Claims adjudicators play a pivotal role in the insurance industry. Their deci...</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/are-we-drowning-in-forms" aria-label="Read More for Are We Drowning in Forms?" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/insurance-roundtable-on-jumbo-violations.jpg?sfvrsn=665bdda3_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Group of out of focus businesspeople clustered around microphones" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/insurance-roundtable-on-jumbo-violations.jpg?sfvrsn=665bdda3_1" class="kc-featured__img" alt="Group of out of focus businesspeople clustered around microphones" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">March 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/insurance-roundtable--harnessing-structured-underwriting-data-for-automation--innovation--and-accuracy" target="_self">
+                   Insurance Roundtable: Harnessing Structured Underwriting Data for Automation, Innovation, and Accuracy
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>To look more closely at industry efforts to streamline the collection and int...</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/insurance-roundtable--harnessing-structured-underwriting-data-for-automation--innovation--and-accuracy" aria-label="Read More for Insurance Roundtable: Harnessing Structured Underwriting Data for Automation, Innovation, and Accuracy" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/defusing-the-pension-time-bomb.jpg?sfvrsn=8dc669e8_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/defusing-the-pension-time-bomb.jpg?sfvrsn=8dc669e8_1" class="kc-featured__img" alt="" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">March 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/defusing-the-pension-time-bomb--lessons-from-pension-risk-transfer" target="_self">
+                   Defusing the Pension Time Bomb: Lessons from pension risk transfer
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>This </p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/defusing-the-pension-time-bomb--lessons-from-pension-risk-transfer" aria-label="Read More for Defusing the Pension Time Bomb: Lessons from pension risk transfer" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+    </div>
+
+
+
+</div>
+</div>
+<div class="globe-layout">
+    <div class="container" data-sf-element="Container">
+        <div class="globe-layout--flex">
+            <div id="Main_C111_Col00" class="sf_colsIn globe-layout__text" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C104_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large">
+<div >
+    <div ><h2>Global Insight,<br>Locally Delivered</h2><p>RGA combines deep local insight with global perspective from operations in 25
+    markets around the world.
+</p><p><a class="arrow-link" href="/global-presence/asia-pacific">Asia Pacific</a>
+</p><p><a href="/global-presence/americas" class="arrow-link">U.S. and Latin America
+    </a>
+</p><p><a href="/global-presence/emea" class="arrow-link">EMEA
+ </a>
+</p><p><a href="/global-presence/americas/canada" class="arrow-link">Canada</a>
+</p></div>    
+</div>
+</div>
+
+            </div>
+            <div class="globe-layout__media">
+                <img src="/ResourcePackages/Talon/assets/dist/images/trans-globe.png" alt=""/>
+            </div>
+        </div>
+    </div>
+</div><div id="Main_C084_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div id="Main_C088_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small"><div class="row" data-sf-element="Row">
+  <div id="Main_C093_Col00" class="sf_colsIn col-lg-7" data-sf-element="Column 1" data-placeholder-label="Column 1">
+  <div>
+    <img src="/images/default-source/callouts/collages/csr-collage-188bde3ae-13d6-4a85-b50f-9dbc3f4f885c.png?sfvrsn=9a8d8294_1" title="Corporate Responsibility" alt="Collage of volunteers featuring smiling employee volunteer and group"
+         
+          />    
+  </div>
+
+  </div>
+  <div id="Main_C093_Col01" class="sf_colsIn col-lg-5" data-sf-element="Column 2" data-placeholder-label="Column 2"><div id="Main_C086_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large">
+<div >
+    <div ><h2>Our Responsibility at RGA</h2><div><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto"></span></p><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto"></span><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">As a leading global life and health reinsurer, our philosophy begins with the core belief that everyone deserves a longer, more fulfilling life.&nbsp;</span><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">The way we operate, the work we do, and the support we provide to communities can be traced to our commitment to extend and improve the individual lives we touch.</span></p><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto"></span><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">We believe that environmental and social responsibility is central to business success. This means operating with integrity, investing responsibly, and adhering to sound corporate governance principles of transparency and accountability.&nbsp;</span></p><p><a class="button" href="/our-company/responsibility">Learn More</a><br></p></div></div>    
+</div>
+</div>
+
+  </div>
+</div>
+
+</div>
+
+</div>
+<div id="Main_C059_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div id="Main_C063_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small"><div class="row" data-sf-element="Row">
+    <div id="Main_C050_Col00" class="sf_colsIn col-lg-8" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="background-layout" data-border="true" data-pipe="true" data-position="right" style="background-color: rgb(242, 242, 242);">
+  <div class="expandable-layout__options">
+    <div class="expandable-layout__title">Add a title</div>
+    <div class="expandable-layout__hexColor">#f2f2f2</div>
+    <div class="expandable-layout__transparency">NaN</div>
+    <div class="expandable-layout__border">true</div>
+    <div class="expandable-layout__redPipe">true</div>
+    <div class="expandable-layout__pipePosition">right</div>
+    <div class="expandable-layout__image_src">Image</div>
+    <input type="hidden" class="expandable-layout__image_obj" value="">
+    <input type="hidden" class="expandable-layout__image_id" value="">
+  </div>
+  <div class="background__media"></div>
+  <div id="Main_C051_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Background Layout"><div id="Main_C110_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large"><div class="row" data-sf-element="Row">
+    <div id="Main_C053_Col00" class="sf_colsIn col-lg-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><h2>Newsroom</h2></div>    
+</div>
+    </div>
+    <div id="Main_C053_Col01" class="sf_colsIn col-lg-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div >
+    <div ><div style="text-align: right"><a class="red-arrow-link" href="/our-company/media/press-releases">View All News</a></div></div>    
+</div>
+    </div>
+</div>
+
+<section class="news-card">
+    <ul class="news-card__list">
+            <li class="news-card__item">
+                <div class="news-card__meta">
+				    <span class="text-muted">
+					    Mar 6, 2024
+				    </span>
+                    
+                </div>
+
+				<h3 class="news-card__title">
+					Prudential and RGA entrusted to fulfill $5.9 billion in pension promises for Verizon
+				</h3>
+
+				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/06/prudential-and-rga-entrusted-to-fulfill--5.9-billion-in-pension-promises-for-verizon" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Prudential and RGA entrusted to fulfill $5.9 billion in pension promises for Verizon</span></a>
+			</li>
+            <li class="news-card__item">
+                <div class="news-card__meta">
+				    <span class="text-muted">
+					    Feb 1, 2024
+				    </span>
+                    
+                </div>
+
+				<h3 class="news-card__title">
+					Reinsurance Group of America Reports Fourth Quarter and Full Year Results
+				</h3>
+
+				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/02/01/reinsurance-group-of-america-reports-fourth-quarter-and-full-year-results" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Reinsurance Group of America Reports Fourth Quarter and Full Year Results</span></a>
+			</li>
+    </ul>
+
+</section>
+</div>
+</div> 
+</div>
+    </div>
+    <div id="Main_C050_Col01" class="sf_colsIn col-lg-4" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="background-layout" data-border="true" data-pipe="true" data-position="right">
+  <div class="expandable-layout__options">
+    <div class="expandable-layout__title"></div>
+    <div class="expandable-layout__hexColor">Hex Color</div>
+    <div class="expandable-layout__transparency">NaN</div>
+    <div class="expandable-layout__border">true</div>
+    <div class="expandable-layout__redPipe">true</div>
+    <div class="expandable-layout__pipePosition">right</div>
+    <div class="expandable-layout__image_src">Image</div>
+    <input type="hidden" class="expandable-layout__image_obj" value="">
+    <input type="hidden" class="expandable-layout__image_id" value="">
+  </div>
+  <div class="background__media"></div>
+  <div id="Main_C052_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Background Layout">
+
+
+<div class="stock-quote">
+    <div id="divStockQuote" class="stock-quote__wrapper" style="display:block;">
+        <div class="stock-quote__who">NYSE: RGA</div>
+        <div class="stock-quote__stock">
+            <span class="curr">$</span><label class="stock-quote__stock" id="lblStock2"></label>
+        </div>
+        <div class="stock-quote__extra">
+            <div>
+                <label class="stock-quote__stock-sub" id="lblStock3"></label>
+            </div>
+            <div>
+                <span class="currency">in USD </span><span>as of </span><label class="bold11" id="lblStock"></label>EDT
+            </div>
+        </div>
+    </div>
+
+    <p><a href="https://reinsurancegroupofamericainc.gcs-web.com/" target="_blank" class="button">Learn More</a></p>
+</div>
+
+
+</div> 
+</div>
+    </div>
+</div>
+
+</div>
+
+</div>
+<div id="Main_C064_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div id="Main_C065_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small"><div class="row" data-sf-element="Row">
+    <div id="Main_C066_Col00" class="sf_colsIn col-lg-6" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C070_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large">
+<div >
+    <div ><h2>Smart Career Move</h2><div><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">&nbsp;</span></p><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto"></span><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">Understanding RGA's story starts with getting to know us. Driven by our purpose, we work to solve today’s challenges while looking ahead to tomorrow. We are thinkers, creators, and innovators. We are each unique, yet we share a belief that change happens when people collaborate for good. We work to make a difference every day at RGA.<br></span></p><p>Join a community of people driven by the same purpose: <em>to make financial protection available to all.</em></p></div><p><a href="/careers/careers-overview" class="button">Find Your Future</a>&nbsp; &nbsp;
+
+    <a href="https://rgare.recruitmentplatform.com/" target="_blank" data-sf-ec-immutable="" class="button button--outline"><img src="/images/default-source/image-icons/black-search-.png?sfvrsn=a0bd2a80_3" alt="black magnifying glass">&nbsp;&nbsp;Search Jobs</a>
+</p></div>    
+</div>
+</div>
+
+    </div>
+    <div id="Main_C066_Col01" class="sf_colsIn col-lg-6" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="background-layout" data-border="false" data-pipe="true" data-position="right">
+  <div class="expandable-layout__options">
+    <div class="expandable-layout__title">Add a title</div>
+    <div class="expandable-layout__hexColor">Hex Color</div>
+    <div class="expandable-layout__transparency">NaN</div>
+    <div class="expandable-layout__border">false</div>
+    <div class="expandable-layout__redPipe">true</div>
+    <div class="expandable-layout__pipePosition">right</div>
+    <div class="expandable-layout__image_src">Image</div>
+    <input type="hidden" class="expandable-layout__image_obj" value="">
+    <input type="hidden" class="expandable-layout__image_id" value="">
+  </div>
+  <div class="background__media"></div>
+  <div id="Main_C068_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Background Layout">
+  <div>
+    <img src="/images/default-source/callouts/collages/collage-of-employees-meetings0219425f2c34494c81b966157757992c.png?sfvrsn=e93fa9ae_0" title="Smart Career Move" alt="RGA employees work to solve the challenges of today and tomorrow"
+         
+          />    
+  </div>
+</div> 
+</div>
+    </div>
+</div>
+
+</div>
+
+</div>
+<div id="Main_C057_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div >
+    <div ><hr></div>    
+</div><div id="Main_C123_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small"><div class="row" data-sf-element="Row">
+    <div id="Main_C040_Col00" class="sf_colsIn col-lg-6" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C122_Col00" class="sf_colsIn container container--small padding-bottom-3" data-sf-element="Container" data-placeholder-label="Container">
+<div >
+    <div ><h2 style="margin-left: 30px">More from RGA</h2></div>    
+</div>
+
+
+<div class="callout">
+  <div class="callout__item">
+      <div class="callout__media" aria-hidden="true">
+        <img data-src="/images/default-source/purpose-videos/elderly-woman-arranging-flowers.png?sfvrsn=79f295e_3" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="callout__media-img lazy-img fadeInUp" alt="Elderly Woman Arranging Flowers" /> 
+      </div>
+
+    <div class="callout__content">
+        <h3 class="callout__title">Longer Life Foundation: Research to Improve Wellness and Longevity</h3>
+
+
+      <div class="callout__actions">
+          <div class="callout__actions-links">
+            <a href="https://www.longerlife.org/" class="callout__link" target="_self">
+              Learn More
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>              
+          </div>
+ 
+
+
+      </div>      
+    </div>
+   
+  </div>
+</div>
+
+
+
+<div class="callout">
+  <div class="callout__item">
+      <div class="callout__media" aria-hidden="true">
+        <img data-src="/images/default-source/awards/fortune-most-admired-company-2024.png?sfvrsn=72020480_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="callout__media-img lazy-img fadeInUp" alt="FORTUNE Most Admired Company 2024" /> 
+      </div>
+
+    <div class="callout__content">
+        <h3 class="callout__title">FORTUNE Most Admired Companies</h3>
+
+        <div class="callout__summary">
+          RGA was named to the 2024 FORTUNE World’s Most Admired Companies list for the second consecutive year based on the company’s quality of management, product innovation, social responsibilit...
+
+        
+        </div>
+
+      <div class="callout__actions">
+          <div class="callout__actions-links">
+            <a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/01/31/reinsurance-group-of-america-named-to-fortune&#39;s-world&#39;s-most-admired-companies" class="callout__link" target="_self">
+              Read More
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>              
+          </div>
+ 
+
+        <div class="callout__actions-links">
+          <a href="https://brand-studio.fortune.com/rga/RGA-wants-to-make-financial-protection-accessible-to-all/?prx_t=NugIAAAAAAovEQA" class="callout__link" target="_blank">
+            Explore RGA
+            <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+              <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+            </svg>
+          </a>
+        </div>
+
+      </div>      
+    </div>
+   
+  </div>
+</div>
+
+</div>
+
+    </div>
+    <div id="Main_C040_Col01" class="sf_colsIn col-lg-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="callout">
+  <div class="callout__item">
+      <div class="callout__media" aria-hidden="true">
+        <img data-src="/images/default-source/purpose-videos/my-pension-annuity.jpg?sfvrsn=8135486f_2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="callout__media-img lazy-img fadeInUp" alt="Pension annuitants walking on the beach" /> 
+      </div>
+
+    <div class="callout__content">
+        <h3 class="callout__title">My Pension Annuity: Frequently Asked Questions</h3>
+
+        <div class="callout__summary">
+          Are you a pension risk transfer annuitant with RGA Reinsurance Company? Learn more about how we are protecting your pension annuity benefits.
+
+        
+        </div>
+
+      <div class="callout__actions">
+          <div class="callout__actions-links">
+            <a href="/solutions/financial-solutions/annuitants" class="callout__link" target="_blank">
+              Explore our FAQ
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>              
+          </div>
+ 
+
+
+      </div>      
+    </div>
+   
+  </div>
+</div>
+
+
+
+<div class="callout">
+  <div class="callout__item">
+      <div class="callout__media" aria-hidden="true">
+        <img data-src="/images/default-source/images-940-by-600-620-medium-interior-page-overlay/partnership-.jpeg?sfvrsn=3f866314_2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="callout__media-img lazy-img fadeInUp" alt="A businessman and a woman discuss business." /> 
+      </div>
+
+    <div class="callout__content">
+        <h3 class="callout__title">Together, Let&#39;s Reconsider Reinsurance Partnership</h3>
+
+        <div class="callout__summary">
+          True partnership is a state of mind. For the 11th consecutive year, RGA was ranked #1 in partnership mindset by ceding companies on NMG Consulting’s 2022 Global Life &amp; Health Reinsurance Stu...
+
+        
+        </div>
+
+      <div class="callout__actions">
+          <div class="callout__actions-links">
+            <a href="/our-company/about-rga/partnership/" class="callout__link" target="_blank">
+              Read More
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>              
+          </div>
+ 
+
+
+      </div>      
+    </div>
+   
+  </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+</div>
+<div id="Main_C071_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="background-layout" data-border="false" data-pipe="false" data-position="Pipe Position" style="background-color: rgb(242, 242, 242);">
+  <div class="expandable-layout__options">
+    <div class="expandable-layout__title">Add a title</div>
+    <div class="expandable-layout__hexColor">#f2f2f2</div>
+    <div class="expandable-layout__transparency">NaN</div>
+    <div class="expandable-layout__border">false</div>
+    <div class="expandable-layout__redPipe">false</div>
+    <div class="expandable-layout__pipePosition">Pipe Position</div>
+    <div class="expandable-layout__image_src">Image</div>
+    <input type="hidden" class="expandable-layout__image_obj" value="">
+    <input type="hidden" class="expandable-layout__image_id" value="">
+  </div>
+  <div class="background__media"></div>
+  <div id="Main_C072_Col00" class="sf_colsIn" data-sf-element="Container" data-placeholder-label="Background Layout"><div id="Main_C082_Col00" class="sf_colsIn padding-large" data-sf-element="Container" data-placeholder-label="Padding Large"><div class="row" data-sf-element="Row">
+  <div id="Main_C094_Col00" class="sf_colsIn col-lg-7" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C095_Col00" class="sf_colsIn padding-small" data-sf-element="Container" data-placeholder-label="Padding Small">
+<div >
+    <div ><h2>Policy and Governance Center&nbsp;</h2><p>&nbsp;</p><p><span style="background-color: initial; font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">We believe that creating sustainable shareholder value and business success depends on sound governance. Our directors and employees must uphold principles of integrity and transparency in all&nbsp;</span><span style="background-color: rgba(0, 0, 0, 0); font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto">we do.&nbsp;</span><span style="background-color: rgba(0, 0, 0, 0); font-family: inherit; font-size: inherit; text-transform: inherit; white-space: inherit; word-spacing: normal; caret-color: auto"></span></p><p><a class="arrow-link" href="/our-company/responsibility/policies-and-governance-center">Explore our Center</a></p><p><a class="arrow-link" href="/our-company/responsibility/policies-and-governance-center/policy-and-rights">Investigate our Privacy and Rights Disclosures&nbsp;</a></p><p><a class="arrow-link" href="/our-company/responsibility/policies-and-governance-center/corporate-governance">Understand our Governance Practices</a></p><p><a href="/our-company/responsibility/policies-and-governance-center/policy-and-rights/human-rights" class="arrow-link">Human Rights Policy and Modern Slavery and Human Trafficking Statements</a></p></div>    
+</div>
+</div>
+
+  </div>
+  <div id="Main_C094_Col01" class="sf_colsIn col-lg-5" data-sf-element="Column 2" data-placeholder-label="Column 2"><div id="Main_C078_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+<div class="callout">
+  <div class="callout__item">
+      <div class="callout__media" aria-hidden="true">
+        <img data-src="/images/default-source/purpose-videos/microphone.jpg?sfvrsn=b0e55cb2_2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="callout__media-img lazy-img fadeInUp" alt="Microphone in front of audience" /> 
+      </div>
+
+    <div class="callout__content">
+        <h3 class="callout__title">Notice: Annual Meeting of Shareholders</h3>
+
+
+      <div class="callout__actions">
+          <div class="callout__actions-links">
+            <a href="/investors/annual-meeting-of-shareholders" class="callout__link" target="_self">
+              Read More
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>              
+          </div>
+ 
+
+
+      </div>      
+    </div>
+   
+  </div>
+</div>
+
+</div>
+
+  </div>
+</div>
+
+</div>
+</div> 
+</div>
+</div>
+ </main> <footer id="site-footer" class="site-footer" role="contentinfo"> 
+<div class="footer__container" data-sf-element="Container" data-placeholder-label="Footer Container">
+  <div class="footer__top">
+    <div id="Footer_T2734BF3E002_Col00" class="sf_colsIn footer__top-left" data-sf-element="Container" data-placeholder-label="Footer Left">
+<div >
+    <div ><h2>Connect With Us</h2><br><p>Curious? So are we. Let's connect and come up with better solutions together.&nbsp;<br><br></p><a href="https://www.linkedin.com/company/248599" data-sf-ec-immutable=""><img src="/images/default-source/acquisition-timeline/social-icons_black-03.png?sfvrsn=a72f53d_1" alt="linkedin icon"></a>&nbsp; &nbsp;&nbsp; <a href="https://www.facebook.com/RGAGlobal/" data-sf-ec-immutable=""><img src="/images/default-source/acquisition-timeline/social-icons_black-02.png?sfvrsn=804bc080_1" alt="facebook icon"></a></div>    
+</div>
+    </div>
+    <div id="Footer_T2734BF3E002_Col01" class="sf_colsIn footer__top-middle" data-sf-element="Container" data-placeholder-label="Footer Middle">
+
+
+<div class="card">
+    <div class="card__content">
+            <h2 class="card__title">RGA Central</h2>
+                    <p class="card__text">RGA Central is a convenient client portal that provides a single point of access to exclusive applications and insights.</p>
+                    <a class="card__link" href="/our-company/about-rga/rga-central-portal">
+              Learn More
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>
+    </div>
+</div>
+    </div>
+    <div id="Footer_T2734BF3E002_Col02" class="sf_colsIn footer__top-right" data-sf-element="Container" data-placeholder-label="Footer Right">
+
+
+<div class="card">
+    <div class="card__content">
+            <h2 class="card__title">Contact Us</h2>
+                    <p class="card__text">At RGA, we are eager to speak with clients and counterparties. Contact us to learn more about the resources, solutions, and services available.</p>
+                    <a class="card__link" href="/contact?id=43343c70-17b0-47b7-9b1a-0e41508198f5">
+              Contact Us
+              <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                  <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+              </svg>
+            </a>
+    </div>
+</div>
+    </div>
+  </div>
+  <div class="footer__bottom" data-sf-element="Container" data-placeholder-label="Footer Bottom">
+    <div id="Footer_T2734BF3E002_Col03" class="sf_colsIn footer__bottom-nav" data-sf-element="Container" data-placeholder-label="Footer Menu"><div id="Footer_T2734BF3E015_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<nav class="horizontal" aria-label="Horizontal Footer Navigation">
+    
+    <ul class="horizontal__list" id='navbar-4'>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/solutions/all-products-and-services" target="_self">All Products and Services</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/knowledge-center" target="_self">Knowledge Center</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/our-company/responsibility/policies-and-governance-center/rights-requests" target="_self">Rights Requests</a>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+</div>
+
+    </div>
+    <div id="Footer_T2734BF3E002_Col04" class="sf_colsIn footer__bottom-sub" data-sf-element="Container" data-placeholder-label="Footer Submenu"><div id="Footer_T2734BF3E025_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<nav class="horizontal" aria-label="Horizontal Footer Navigation">
+    
+    <ul class="horizontal__list" id='navbar-5'>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/investors" target="_blank">Investors</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/careers" target="_self">Careers</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/our-company/responsibility/policies-and-governance-center/policy-and-rights" target="_self">Privacy and Rights</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/our-company/responsibility/policies-and-governance-center" target="_self">Policies and Governance Center</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="https://secure.ethicspoint.com/domain/media/en/gui/44526/index.html" target="_blank">Speak-Up Hotline</a>
+        </li>
+        <li class="horizontal__list-item ">
+          <a class="horizontal__list-link" href="/our-company/responsibility/policies-and-governance-center/policy-and-rights/legal-notice-and-terms-of-use" target="_self">Legal Notice and Terms of Use</a>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+</div>
+
+    </div>
+    <div id="Footer_T2734BF3E002_Col05" class="sf_colsIn footer__bottom-copyright" data-sf-element="Container" data-placeholder-label="Footer Copyright"><div id="Footer_T2734BF3E017_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<!-- OneTrust Cookies Settings button start -->
+<button type="button" id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>
+<!-- OneTrust Cookies Settings button end -->
+
+<div >
+    <div >Copyright © 2024 RGA Reinsurance Company. All Rights Reserved.</div>    
+</div>
+</div>
+
+    </div>
+  </div>
+</div>
+ </footer> <link href="/ResourcePackages/Talon/assets/dist/css/main.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /> <script src="/ScriptResource.axd?d=ktXPS54N4JY6vbaCTPlT9TV0mowwL8g1nrgtw6EU4anGFrmPC7o-AHtW9D4aFhe0hjRsl65pD19Ad1ETKRBlxpN9fytETPEuwM27TRVoZgiimNwAEbsm_1rzWbawj1T1-SUg-QE7d2Qqv9hG6gzjDUeTV4UZFOkm_yjyblaA7CNb1_4LcbeNA95NVxgWrVUj0&amp;t=3332166" type="text/javascript"></script><script src="/ScriptResource.axd?d=ePnjFy9PuY6CB3GWMX-b_yTB6fcq4ZbKkfK-2YewgdhMfSqmhkkNW2c35cF_a6JdEY92p3nTbDz2uIlUCORe5whb4XvwAA_KWbH4Wj2tscHnUX7H5It_qxGpt8W7nW7Uwit49LNOuFrU9fTwd0m4kCnaIb-uK-JnQvWSqm4ewKRVQYpXaQGnY4rGo7Hx20m70&amp;t=3332166" type="text/javascript"></script> <script src="/ResourcePackages/Talon/assets/dist/js/all.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script> <script type="text/javascript">
+            var _sj = _sj || [];
+            _sj.push(['project', '1669868074240554073']);
+            _sj.push(['collection', 'rgare-prod']);
+            (function () {
+                var sj = document.createElement('script');
+                sj.type = 'text/javascript';
+                sj.async = true;
+                sj.src = '//cdn.sajari.com/js/sj.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(sj, s);
+            })();
+        </script>  
+
+
+  <script src="/searchio-apps/searchio-search-box/build/static/js/main.233ec962.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="module"></script><script src="/ResourcePackages/Talon/assets/dist/js/swiper.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script><script src="/ResourcePackages/Talon/assets/dist/js/tabcarousel.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script><script src="/ResourcePackages/Talon/assets/dist/js/stockticker.min.js?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"5beddd24-e162-404e-9d9c-e70b9e1ea93f"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPt5bjXlnT3nifOYAI1uxGx0e5X9u_rOntoHkkPh71uFYTbr8viwEGPKIayQI75q1r_wd93ZGM55rOYYy_bcEN9-YhocgHQKMIkTd5OP4JrN_af5KCiGNPg9LCswTWz7WKWBqZKR3Jj7ioiJ3vrBDfA4O4wUnNm2DL77jnzirXHVkcHyBvCAbbORz2t1eD44aTJFxhQCmUv-Ex_5TOqRm_UE1&amp;t=638385328280000000">
+
+</script><script type="text/javascript" src="https://public.flourish.studio/resources/embed.js"></script> </body> </html>

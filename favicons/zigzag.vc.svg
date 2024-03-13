@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800">
+  <defs>
+    <style>.cls-1{fill:none;}.cls-2{fill:#fff;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:url(#linear-gradient);}.cls-5{fill:url(#linear-gradient-2);}.cls-6{fill:#00ebbe;}</style>
+    <clipPath id="clip-path">
+      <circle class="cls-1" cx="398.06" cy="399.03" r="344.6"></circle>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="401.53" y1="304.02" x2="401.53" y2="-35.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ebbe" stop-opacity="0.5"></stop>
+      <stop offset="0.15" stop-color="#00ebbe" stop-opacity="0.37"></stop>
+      <stop offset="0.35" stop-color="#00ebbe" stop-opacity="0.21"></stop>
+      <stop offset="0.55" stop-color="#00ebbe" stop-opacity="0.09"></stop>
+      <stop offset="0.72" stop-color="#00ebbe" stop-opacity="0.02"></stop>
+      <stop offset="0.85" stop-color="#00ebbe" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="401.53" y1="835.59" x2="401.53" y2="495.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15" stop-color="#00ebbe" stop-opacity="0"></stop>
+      <stop offset="0.28" stop-color="#00ebbe" stop-opacity="0.02"></stop>
+      <stop offset="0.45" stop-color="#00ebbe" stop-opacity="0.09"></stop>
+      <stop offset="0.65" stop-color="#00ebbe" stop-opacity="0.21"></stop>
+      <stop offset="0.85" stop-color="#00ebbe" stop-opacity="0.37"></stop>
+      <stop offset="1" stop-color="#00ebbe" stop-opacity="0.5"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-2" x="-15" y="-13" width="828" height="828"></rect>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g class="cls-3">
+      <path class="cls-4" d="M233.57,38.23,288.94-35.6H569.49L375.32,230.19H569.49L514.12,304H233.57L430.69,38.23Z"></path>
+      <path class="cls-5" d="M233.57,569.81,288.94,496H569.49L375.32,761.76H569.49l-55.37,73.83H233.57L430.69,569.81Z"></path>
+      <path class="cls-6" d="M233.57,304l55.37-73.83H569.49L375.32,496H569.49l-55.37,73.83H233.57L430.69,304Z"></path>
+    </g>
+    <path class="cls-6" d="M400,775C193.22,775,25,606.78,25,400S193.22,25,400,25,775,193.23,775,400,606.78,775,400,775Zm0-686.62C228.17,88.38,88.38,228.17,88.38,400S228.17,711.62,400,711.62,711.62,571.83,711.62,400,571.83,88.38,400,88.38Z"></path>
+  </g>
+</svg>

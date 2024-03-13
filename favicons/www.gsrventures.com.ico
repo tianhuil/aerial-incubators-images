@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>GSR Ventures</title>
+    <meta name="robots" content="noindex">
+    <link rel="alternate" hreflang="en-us"
+        href="https://gsrventuresus.com" />
+    <link rel="alternate" hreflang="zh-cn"
+        href="https://gsrventureschina.com" />
+    <link rel="alternate" hreflang="x-default"
+        href="https://gsrventuresglobal.com" />
+    <style id='georedirect1586813783113style'>body{opacity:0.0 !important;}</style>
+    <script>(function(g,e,o,t,l,y,s){
+    s = function(){g.getElementById('georedirect1586813783113style').innerHTML='body{opacity:1.0 !important;}';};
+    var l=g.getElementsByTagName(e)[0],y=g.createElement(e); y.async=true;
+    y.src='//2d4d347054426a41456c616a745a6e7536774d6f.geotargetly.co/georedirect?refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+    l.parentNode.insertBefore(y,l); georedirect1586813783113loaded = function(redirect){var to=0;if(redirect){to=500};setTimeout(function(){s();}, to)};
+    setTimeout(function(){s();}, 3000);})(document,'script','style','head');
+    </script>
+  </head>
+  <body></body>
+</html>

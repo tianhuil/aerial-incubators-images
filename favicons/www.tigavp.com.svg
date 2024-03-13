@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 111 111" viewBox="0 0 110 110" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g>
+        <path fill="#ffffff" d="M111 0v111H0V0h111z" data-color="1"/>
+        <path d="M50.94 14.01V96h8.15V22.17h36.92v-8.16H50.94Z" fill="#3d4856" data-color="2"/>
+        <path d="M14 22.13h27.15V14H14v8.13Z" fill="#c44b8f" data-color="3"/>
+    </g>
+</svg>

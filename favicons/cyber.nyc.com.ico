@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<meta name="description" content="NYC is a global cyber hub, with a 60K-person cybersecurity workforce, more than 300 dedicated cyber companies, and the most robust fundraising ecosystem in the world ranging from pre-seed to the public markets. The sector’s growth is projected to continue, in large part because of the increasing complexity, frequency and cost of cyberattacks.That’s why NYCEDC launched Cyber NYC, an initiative to champion and catalyze the cyber ecosystem in New York and build the cyber workforce of the future through programs like the Cyber NYC Internship Program, the Fullstack Academy Cybersecurity Bootcamp, and the City College of New York Cybersecurity Master’s Program." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://edc.nyc/program/cyber-nyc" />
+<meta property="og:title" content="Cyber NYC | NYCEDC" />
+<meta property="og:description" content="NYC is a global cyber hub, with a 60K-person cybersecurity workforce, more than 300 dedicated cyber companies, and the most robust fundraising ecosyst" />
+<meta property="og:image" content="https://edc.nyc/sites/default/files/styles/1x1_md/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=9g3SGs9Y" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Cyber NYC" />
+<meta name="twitter:image" content="https://edc.nyc/sites/default/files/styles/1x1_md/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=9g3SGs9Y" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="twitter:description" content="NYC is a global cyber hub, with a 60K-person cybersecurity workforce, more than 300 dedicated cyber companies, and the most robust fundraising ecosystem in the world ranging from pre-seed to the publi" />
+<link rel="icon" href="/themes/custom/nycedc_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/themes/custom/nycedc_theme/favicon.ico?v=1710270657" sizes="any" />
+<link rel="icon" href="/themes/custom/nycedc_theme/favicon-32x32.png?v=1710270657" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/themes/custom/nycedc_theme/favicon-180x180.png?v=1710270657" type="image/png" sizes="180x180" />
+<link rel="canonical" href="https://edc.nyc/program/cyber-nyc" />
+<link rel="shortlink" href="https://edc.nyc/node/531" />
+<title>Cyber NYC | NYCEDC</title>
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_i0qzwcWYchvzGOOuspq20FPkLGP3goNh1_3NqK1girk.css?delta=0&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_H6eiKtitWZzsuacd97-TpHrxzEIqUDvnbtgsOJEDsho.css?delta=1&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx" />
+</head>
+<body data-primary-color data-dynamic-text-color>
+<a href="#main-content" class="visually-hidden focusable">
+Skip to main content
+</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKLB36Z"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<div hidden>
+<span id="new-window-0">Opens in a new window</span>
+<span id="new-window-1">Opens an internal page</span>
+<span id="new-window-2">Opens an external site in a new window</span>
+</div>
+<div class="page page--program-detail">
+<a id="main-content" tabindex="-1"></a>
+<header class="header">
+<nav class="navbar js-navbar navbar--project-detail" role="navigation" aria-labelledby="navbar-brand">
+<div class="navbar__yellow-background"></div>
+<div class="navbar__main">
+<div class="navbar__main__section">
+<a href="/" class="logo logo--default" title="NYCEDC, Go to Home Page" id="navbar-brand" aria-label="NYCEDC, Go to Home page">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 648 231.5">
+<g>
+<polygon class="st0" points="134.8,181.5 64.7,203.3 134.8,203.3 134.8,228.4 2.2,228.4 2.2,201.9 70.5,179.8 2.2,179.8 2.2,154.8 134.8,154.8
+                " />
+<polygon class="st0" points="88.4,96.1 134.8,96.1 134.8,122.1 89.4,122.1 2.2,147.5 2.2,120.3 54.2,108 2.2,96.1 2.2,70.6 	" />
+<path class="st0" d="M136.6,34.9c0,21.2-14.4,31.5-36,32.2c-9.4,0.3-20.1,0.3-32.3,0.3H36.8C17.4,67.6,0,58.8,0,34.2C0,13.2,15.6,3.9,36.8,3.7
+              h17.4v25.2c-5.1,0-13.4,0-17.4,0.2c-7.3,0.2-10.9,1-10.9,5.8c0,4.3,4.2,5.5,11.1,5.6c5.5,0.2,22.9,0.5,31.7,0.5
+              c5.6,0,25.5-0.2,31-0.3c5.5-0.2,10.9-0.3,10.9-5.8c0-5.8-6-5.6-11.1-5.6H79.4V3.4h20.4C121.5,3.4,136.6,13.7,136.6,34.9" />
+<polygon class="st0" points="334.5,45.5 334.5,93.8 387.4,93.8 387.4,136.2 334.5,136.2 334.5,186.5 393.3,186.5 393.3,228.4 289,228.4
+              289,3.7 393.8,3.7 393.8,45.5 	" />
+<path class="st0" d="M482,228.4h-71.1V3.7h65.5c29.8,0,46.6,18.3,46.6,43.8v134.8C522.7,212.1,505.9,228.4,482,228.4 M478.9,58.7
+              c-1.1-7.3-5.6-13.2-14.9-13.2h-9v141h11c7.6,0,12.1-4.2,12.9-14.3c0.8-9.5,0.6-47.8,0.6-56.2C479.5,107.6,479.8,64,478.9,58.7" />
+<path class="st0" d="M594.6,231.5c-36,0-53.4-24.4-54.5-61c-0.6-16-0.6-34-0.6-54.8V62.4C539.3,29.5,554.2,0,595.8,0
+              c35.7,0,51.4,26.4,51.7,62.4v29.5h-42.7c0-8.7,0-22.8-0.3-29.5c-0.3-12.4-1.7-18.5-9.8-18.5c-7.3,0-9.3,7-9.5,18.8
+              c-0.3,9.3-0.8,38.8-0.8,53.6c0,9.5,0.3,43.3,0.6,52.5c0.3,9.3,0.6,18.5,9.8,18.5c9.8,0,9.5-10.1,9.5-18.8v-34H648v34.5
+              C648,205.9,630.6,231.5,594.6,231.5" />
+<polygon class="st1" points="162.7,228.4 214.8,3.7 261.1,3.7 208.8,228.4 	" />
+</g>
+</svg>
+</a>
+</div>
+<div class="navbar__main__section">
+<div class="navbar__main__menu">
+<div class="navbar__main__menu--wrapper">
+<div class="navbar__main__menu__header">
+<div class="navbar__main__menu__header--section">
+<a href="/" class="logo logo--default" title="NYCEDC, Go to Home Page" id="navbar-brand" aria-label="NYCEDC, Go to Home page">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 648 231.5">
+<g>
+<polygon class="st0" points="134.8,181.5 64.7,203.3 134.8,203.3 134.8,228.4 2.2,228.4 2.2,201.9 70.5,179.8 2.2,179.8 2.2,154.8 134.8,154.8
+                      " />
+<polygon class="st0" points="88.4,96.1 134.8,96.1 134.8,122.1 89.4,122.1 2.2,147.5 2.2,120.3 54.2,108 2.2,96.1 2.2,70.6 	" />
+<path class="st0" d="M136.6,34.9c0,21.2-14.4,31.5-36,32.2c-9.4,0.3-20.1,0.3-32.3,0.3H36.8C17.4,67.6,0,58.8,0,34.2C0,13.2,15.6,3.9,36.8,3.7
+            h17.4v25.2c-5.1,0-13.4,0-17.4,0.2c-7.3,0.2-10.9,1-10.9,5.8c0,4.3,4.2,5.5,11.1,5.6c5.5,0.2,22.9,0.5,31.7,0.5
+            c5.6,0,25.5-0.2,31-0.3c5.5-0.2,10.9-0.3,10.9-5.8c0-5.8-6-5.6-11.1-5.6H79.4V3.4h20.4C121.5,3.4,136.6,13.7,136.6,34.9" />
+<polygon class="st0" points="334.5,45.5 334.5,93.8 387.4,93.8 387.4,136.2 334.5,136.2 334.5,186.5 393.3,186.5 393.3,228.4 289,228.4
+            289,3.7 393.8,3.7 393.8,45.5 	" />
+<path class="st0" d="M482,228.4h-71.1V3.7h65.5c29.8,0,46.6,18.3,46.6,43.8v134.8C522.7,212.1,505.9,228.4,482,228.4 M478.9,58.7
+            c-1.1-7.3-5.6-13.2-14.9-13.2h-9v141h11c7.6,0,12.1-4.2,12.9-14.3c0.8-9.5,0.6-47.8,0.6-56.2C479.5,107.6,479.8,64,478.9,58.7" />
+<path class="st0" d="M594.6,231.5c-36,0-53.4-24.4-54.5-61c-0.6-16-0.6-34-0.6-54.8V62.4C539.3,29.5,554.2,0,595.8,0
+            c35.7,0,51.4,26.4,51.7,62.4v29.5h-42.7c0-8.7,0-22.8-0.3-29.5c-0.3-12.4-1.7-18.5-9.8-18.5c-7.3,0-9.3,7-9.5,18.8
+            c-0.3,9.3-0.8,38.8-0.8,53.6c0,9.5,0.3,43.3,0.6,52.5c0.3,9.3,0.6,18.5,9.8,18.5c9.8,0,9.5-10.1,9.5-18.8v-34H648v34.5
+            C648,205.9,630.6,231.5,594.6,231.5" />
+<polygon class="st1" points="162.7,228.4 214.8,3.7 261.1,3.7 208.8,228.4 	" />
+</g>
+</svg>
+</a>
+</div>
+<div class="navbar__main__menu__header--section">
+<button class="btn btn--icon btn--close navbar__main__menu__header__close-btn" aria-label="Close button">
+<span>
+<svg class="icon icon-close">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#close"></use>
+</svg>
+</span>
+</button>
+</div>
+</div>
+<form action="/search">
+<div class="search-bar navbar__main__menu__search js-navbar-menu-search">
+<input type="text" class="navbar__main__menu__search__input" placeholder="Start Your Search" id="navbar-search-menu" name="query" required="required" autocomplete="off" />
+<button class="btn navbar__main__menu__search js-navbar-menu-search btn--icon btn--magnify btn--search " disabled aria-label="Click to start searching" type="submit">
+<span>
+<svg class="icon icon-magnify">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#magnify"></use>
+</svg>
+</span>
+</button>
+</div>
+</form>
+<ul class="menu navbar__main__menu__list" role="menubar">
+<li data-index="0" class="menu__item has-no-sub navbar__menu__list__item " role="menuitem">
+<a href="/why-nyc" class="cta " title aria-label="Go to Why NYC">
+Why NYC
+</a>&nbsp;
+</li>
+<li data-index="1" class="menu__item has-sub navbar__menu__list__item navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub " role="menuitem" aria-haspopup="true" aria-expanded="false">
+<a href="/doing-business-new-york-city" class="cta " title aria-label="Go to Doing Business">
+Doing Business
+</a>&nbsp;
+<div class="icon-container">
+<svg class="icon icon-collapse-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#collapse-outline"></use>
+</svg>
+<svg class="icon icon-expanded-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#expanded-outline"></use>
+</svg>
+</div>
+<ul id="subnav-doing-business" class="menu__item--sub navbar__menu__item--sub__list js-navbar-sublink-list">
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/business-programs" class="cta " title aria-label="Go to Business Programs">
+Business Programs
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/financial-solutions" class="cta " title aria-label="Go to Financial Solutions">
+Financial Solutions
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/leasing-opportunities" class="cta " title aria-label="Go to Leasing Opportunities">
+Leasing Opportunities
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/rfps" class="cta " title aria-label="Go to RFPs">
+RFPs
+</a>&nbsp;
+</li>
+</ul>
+</li>
+<li data-index="2" class="menu__item has-sub navbar__menu__list__item navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub " role="menuitem" aria-haspopup="true" aria-expanded="false">
+<a href="/explore-our-work" class="cta " title aria-label="Go to Explore Our Work">
+Explore Our Work
+</a>&nbsp;
+<div class="icon-container">
+<svg class="icon icon-collapse-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#collapse-outline"></use>
+</svg>
+<svg class="icon icon-expanded-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#expanded-outline"></use>
+</svg>
+</div>
+<ul id="subnav-explore-our-work" class="menu__item--sub navbar__menu__item--sub__list js-navbar-sublink-list">
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/delivering-sustainable-infrastructure" class="cta " title aria-label="Go to Infrastructure">
+Infrastructure
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/strengthening-economic-confidence-nyc" class="cta " title aria-label="Go to Economic Confidence">
+Economic Confidence
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/growing-innovation-sectors-focusing-equity" class="cta " title aria-label="Go to Innovation Sectors">
+Innovation Sectors
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/building-neighborhoods-where-people-live-learn-work-and-play" class="cta " title aria-label="Go to Neighborhoods">
+Neighborhoods
+</a>&nbsp;
+</li>
+</ul>
+</li>
+<li data-index="3" class="menu__item has-sub navbar__menu__list__item navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub navbar__menu__list__item navbar__menu__item--sub js-navbar-item-with-sub " role="menuitem" aria-haspopup="true" aria-expanded="false">
+<a href="/meet-nycedc" class="cta " title aria-label="Go to Meet NYCEDC">
+Meet NYCEDC
+</a>&nbsp;
+<div class="icon-container">
+<svg class="icon icon-collapse-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#collapse-outline"></use>
+</svg>
+<svg class="icon icon-expanded-outline">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#expanded-outline"></use>
+</svg>
+</div>
+<ul id="subnav-meet-nycedc" class="menu__item--sub navbar__menu__item--sub__list js-navbar-sublink-list">
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/new-york-city-economic-development-corporation-accessibility-statement" class="cta " title aria-label="Go to Accessibility">
+Accessibility
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/board-disclosures" class="cta " title aria-label="Go to Board &amp; Disclosures">
+Board & Disclosures
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/people" class="cta " title aria-label="Go to People">
+People
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/careers" class="cta " title aria-label="Go to Careers">
+Careers
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/insights" class="cta " title aria-label="Go to Insights">
+Insights
+</a>&nbsp;
+</li>
+<li class="menu__item--sub__item navbar__menu__item--sub__item" role="menuitem">
+<a href="/press" class="cta " title aria-label="Go to Press">
+Press
+</a>&nbsp;
+</li>
+</ul>
+</li>
+</ul>
+<div class="navbar__submenus">
+<div class="navbar__submenus__wrapper">
+<ul data-index="1" class="navbar__submenus__list" aria-hidden="true">
+<li class="navbar__submenus__list__item ">
+<a href="/business-programs" aria-label="Go to Business Programs Page" tabindex="-1">
+Business Programs
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/financial-solutions" aria-label="Go to Financial Solutions Page" tabindex="-1">
+Financial Solutions
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/leasing-opportunities" aria-label="Go to Leasing Opportunities Page" tabindex="-1">
+Leasing Opportunities
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/rfps" aria-label="Go to RFPs Page" tabindex="-1">
+RFPs
+</a>
+</li>
+</ul>
+<ul data-index="2" class="navbar__submenus__list" aria-hidden="true">
+<li class="navbar__submenus__list__item ">
+<a href="/delivering-sustainable-infrastructure" aria-label="Go to Infrastructure Page" tabindex="-1">
+Infrastructure
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/strengthening-economic-confidence-nyc" aria-label="Go to Economic Confidence Page" tabindex="-1">
+Economic Confidence
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/growing-innovation-sectors-focusing-equity" aria-label="Go to Innovation Sectors Page" tabindex="-1">
+Innovation Sectors
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/building-neighborhoods-where-people-live-learn-work-and-play" aria-label="Go to Neighborhoods Page" tabindex="-1">
+Neighborhoods
+</a>
+</li>
+</ul>
+<ul data-index="3" class="navbar__submenus__list" aria-hidden="true">
+<li class="navbar__submenus__list__item ">
+<a href="/new-york-city-economic-development-corporation-accessibility-statement" aria-label="Go to Accessibility Page" tabindex="-1">
+Accessibility
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/board-disclosures" aria-label="Go to Board &amp; Disclosures Page" tabindex="-1">
+Board &amp; Disclosures
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/people" aria-label="Go to People Page" tabindex="-1">
+People
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/careers" aria-label="Go to Careers Page" tabindex="-1">
+Careers
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/insights" aria-label="Go to Insights Page" tabindex="-1">
+Insights
+</a>
+</li>
+<li class="navbar__submenus__list__item ">
+<a href="/press" aria-label="Go to Press Page" tabindex="-1">
+Press
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar__main__btns">
+<button class="btn btn--icon btn--search navbar__main__btns--search" aria-label="Click to toggle search form">
+<span>
+<svg class="icon icon-magnify">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#magnify"></use>
+</svg>
+</span>
+</button>
+<button class="btn btn--icon btn--menu navbar__main__btns--menu" aria-label="Click to open menu">
+<span>
+<svg class="icon icon-menu">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#menu"></use>
+</svg>
+</span>
+</button>
+</div>
+</div>
+</div>
+<div class="navbar__search">
+<div class="navbar__search__wrapper">
+<form action="/search" data-drupal-form-fields="navbar-search" class="navbar__search__form">
+<div class="navbar__search__form--section">
+<div class="search-bar navbar__menu__search js-navbar-menu-search">
+<input type="text" class="navbar__search__input" placeholder="Start Your Search" id="navbar-search" name="query" required="required" autocomplete="off" />
+<button class="btn navbar__menu__search js-navbar-menu-search btn--icon btn--magnify btn--search " disabled aria-label="Click to start searching" type="submit">
+<span>
+<svg class="icon icon-magnify">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#magnify"></use>
+</svg>
+</span>
+</button>
+</div>
+</div>
+<div class="navbar__search__form--section">
+<button type="button" class="btn btn--icon btn--close" aria-label="Close button">
+<span>
+<svg class="icon icon-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15">
+<g fill="none" fill-rule="nonzero" stroke-linecap="round">
+<path d="M1.009.01l14.142 14.143M15.153.01L1.01 14.153"></path>
+</g>
+</svg>
+</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</nav>
+</header>
+<section role="main">
+<div class="main-content">
+<div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-nycedc-theme-content">
+<header class="page-header js-project-detail-header page-header--project-detail  has-bg-image ">
+<div class="page-header__wrapper">
+<div class="page-header__content">
+<div class="page-header__main">
+<div class="page-header__project-detail">
+<div class="
+        page-header__project-detail__background
+        asset-filter" data-filter-percentage>
+<picture class="js-object-fit">
+<source srcset="/sites/default/files/styles/project_header_large/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=G8c6LWEl 1x" media="all and (min-width: 1366px)" type="image/jpeg" width="1206" height="400" />
+<source srcset="/sites/default/files/styles/project_header_medium/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=84qQMlUT 1x" media="all and (min-width: 768px)" type="image/jpeg" width="1154" height="407" />
+<source srcset="/sites/default/files/styles/project_header_medium/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=84qQMlUT 1x" media="all and (min-width: 0)" type="image/jpeg" width="1154" height="407" />
+<img class="js-object-fit" src="/sites/default/files/styles/project_header_large/public/2019-08/Program-Cyber-NYC-Header-Cybersecurity-Colleagues-Photo-Getty-Images-672157141.jpg?h=f79df368&amp;itok=G8c6LWEl" width="1206" height="400" loading="lazy" title="Tech Colleagues working together. Photo by Getty Images" alt="Tech Colleagues working together. Photo by Getty Images" />
+</picture>
+</div>
+<div class="page-header__project-detail__wrapper">
+<div class="page-header__project-detail__content program-detail
+            
+                          program-detail--complete
+            ">
+<div class="page-header__project-detail__section">
+<div class="page-header__project-detail__tags">
+<span>Business Programs</span>
+</div>
+<h1 class="heading font-bold page-header__title page-header__project-detail__title font-bold" id="main-content">
+Cyber NYC
+</h1>
+</div>
+<div class="page-header__project-detail__section">
+<div class="page-header__project-detail__section--sub">
+</div>
+<div class="page-header__project-detail__section--sub">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<article class="page--program-detail__content main">
+<div class="components">
+<div id="free_text--3308"></div>
+<div class="free-text v-space fixed-width">
+<div class="free-text__wrapper">
+<p>NYC is a global cyber hub, with a 60K-person cybersecurity workforce, more than 300 dedicated cyber companies, and the most robust fundraising ecosystem in the world ranging from pre-seed to the public markets. The sector’s growth is projected to continue, in large part because of the increasing complexity, frequency and cost of cyberattacks.</p><p>That’s why NYCEDC launched Cyber NYC, an initiative to champion and catalyze the cyber ecosystem in New York and build the cyber workforce of the future through programs like the <a href="https://edc.nyc/cyber-nyc-internship-program" target="_blank">Cyber NYC Internship Program</a>, the <a href="https://www.fullstackacademy.com/programs/cybersecurity-bootcamp" target="_blank">Fullstack Academy Cybersecurity Bootcamp</a>, and the <a href="https://cybersecurity.ccny.cuny.edu/page/overview.php" target="_blank">City College of New York Cybersecurity Master’s Program</a>.</p>
+</div>
+</div>
+<div id="quote--23276"></div>
+<div class="pullquote  has-no-image v-space fixed-width">
+<div class="pullquote__wrapper">
+<div class="pullquote__content">
+<div class="pullquote__body  fullwidth ">
+<div class="pullquote__text">
+<p>New York City is a global center for the cybersecurity industry.</p>
+</div>
+<div class="pullquote__attribute">
+<div class="pullquote__name"><strong>Mayor Eric Adams</strong></div>
+</div>
+</div>
+<div class="pullquote__icon">
+<div class="pullquote__icon-container">
+<svg class="icon icon-pullquote">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#pullquote"></use>
+</svg>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="milestone_board--23283"></div>
+<div class="milestone-board v-space fixed-width">
+<div class="milestone-board__heading">
+<h2><p><strong>NYC: A Cyber Powerhouse</strong></p></h2>
+<div class="milestone-board__controls">
+<section class="counter">01</section>
+<section class="progress-bar">
+<span class="line"></span>
+</section>
+<section class="population">9</section>
+<section class="btn-group">
+<button class="prev-btn" disabled>
+<svg class="icon icon-arrow-left">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#arrow-left"></use>
+</svg>
+</button>
+<button class="next-btn">
+<svg class="icon icon-arrow-right">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#arrow-right"></use>
+</svg>
+</button>
+</section>
+</div>
+</div>
+<div class="milestone-board__body js-display-all">
+<div class="milestone-board__body-carousel">
+<div class="carousel-track">
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--stat " data-index="0">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="0">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="0">
+300
+</h2>
+<p class="milestone-tile--stat__description" data-index="0">
+Deals since 2017
+</p>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--image " data-index="1">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=bxEOu8GM 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=aOFn8b7L 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=aOFn8b7L" width="375" height="375" loading="lazy" title="IT Coworkers. Photo by Agnieszka Olek/Getty Images." alt="IT Coworkers. Photo by Agnieszka Olek/Getty Images." />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Leading Academic Institutions</span>
+</div>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--stat " data-index="2">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="2">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="2">
+39B
+</h2>
+<p class="milestone-tile--stat__description" data-index="2">
+Investment since 2017
+</p>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--image " data-index="3">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=6F3oJsJM 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=vYqG8lwP 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=vYqG8lwP" width="375" height="375" loading="lazy" title="Photo, Thomas Barwick/Getty Images." alt="Photo, Thomas Barwick/Getty Images." />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Strong Commercial Demand</span>
+</div>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--stat " data-index="4">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="4">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="4">
+60K
+</h2>
+<p class="milestone-tile--stat__description" data-index="4">
+Cyber workforce
+</p>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--image " data-index="5">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=4yS_mrdA 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=vSaEfTrS 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=vSaEfTrS" width="375" height="375" loading="lazy" title="Cyber Security Colleagues. Photo by Erik Isakson/Getty images" alt="Cyber Security Colleagues. Photo by Erik Isakson/Getty images" />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Large &amp; Diverse Workforce</span>
+</div>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--stat " data-index="6">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="6">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="6">
+300+
+</h2>
+<p class="milestone-tile--stat__description" data-index="6">
+Cyber companies
+</p>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--image " data-index="7">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=exe9lr8z 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=omGJ86pS 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=omGJ86pS" width="375" height="375" loading="lazy" title="CyberNYC Fullstack Academy Graduation" alt="CyberNYC Fullstack Academy Graduation" />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Fullstack Academy Cybersecurity Bootcamp</span>
+</div>
+</div>
+</article>
+</div>
+<div class="carousel-item">
+<article class="milestone-tile milestone-tile--stat " data-index="8">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="8">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="8">
+53%
+</h2>
+<p class="milestone-tile--stat__description" data-index="8">
+Compound annual growth rate, since 2017, faster than the nation
+</p>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="milestone-board__body-grid">
+<div class="grid-wrapper">
+<section class="col-1">
+<article class="milestone-tile milestone-tile--stat " data-index="0">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="0">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="0">
+300
+</h2>
+<p class="milestone-tile--stat__description" data-index="0">
+Deals since 2017
+</p>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--image " data-index="3">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=6F3oJsJM 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=vYqG8lwP 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-start-up-photo-getty-images-935647680.jpg?h=76f44019&amp;itok=vYqG8lwP" width="375" height="375" loading="lazy" title="Photo, Thomas Barwick/Getty Images." alt="Photo, Thomas Barwick/Getty Images." />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Strong Commercial Demand</span>
+</div>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--stat " data-index="6">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="6">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="6">
+300+
+</h2>
+<p class="milestone-tile--stat__description" data-index="6">
+Cyber companies
+</p>
+</div>
+</article>
+</section>
+<section class="col-2">
+<article class="milestone-tile milestone-tile--image " data-index="1">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=bxEOu8GM 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=aOFn8b7L 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-08/industry-cybersecurity-image-tile-it-coworkers-photo-agnieszka-olek-getty-images-906499112.jpg?h=56d0ca2e&amp;itok=aOFn8b7L" width="375" height="375" loading="lazy" title="IT Coworkers. Photo by Agnieszka Olek/Getty Images." alt="IT Coworkers. Photo by Agnieszka Olek/Getty Images." />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Leading Academic Institutions</span>
+</div>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--stat " data-index="4">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="4">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="4">
+60K
+</h2>
+<p class="milestone-tile--stat__description" data-index="4">
+Cyber workforce
+</p>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--image " data-index="7">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=exe9lr8z 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=omGJ86pS 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2023-01/NYCEDC-Events-CyberNYC-Fullstack-Academy-Graduation-Image.jpg?h=10d202d3&amp;itok=omGJ86pS" width="375" height="375" loading="lazy" title="CyberNYC Fullstack Academy Graduation" alt="CyberNYC Fullstack Academy Graduation" />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Fullstack Academy Cybersecurity Bootcamp</span>
+</div>
+</div>
+</article>
+</section>
+<section class="col-3">
+<article class="milestone-tile milestone-tile--stat " data-index="2">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="2">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="2">
+39B
+</h2>
+<p class="milestone-tile--stat__description" data-index="2">
+Investment since 2017
+</p>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--image " data-index="5">
+<div class="milestone-tile--image__wrapper">
+<picture class="milestone-tile--image__media js-object-fit">
+<source srcset="/sites/default/files/styles/1x1_md/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=4yS_mrdA 1x" media="all and (min-width: 768px)" type="image/jpeg" width="768" height="768" />
+<source srcset="/sites/default/files/styles/1x1_sm/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=vSaEfTrS 1x" media="all and (min-width: 0)" type="image/jpeg" width="375" height="375" />
+<img class="milestone-tile--image__media" src="/sites/default/files/styles/1x1_sm/public/2019-05/Industry-Cyber-Security-Photo-Erik-Isakson-Getty-Images-NYCEDC-02.jpg?h=276a17e5&amp;itok=vSaEfTrS" width="375" height="375" loading="lazy" title="Cyber Security Colleagues. Photo by Erik Isakson/Getty images" alt="Cyber Security Colleagues. Photo by Erik Isakson/Getty images" />
+</picture>
+<div class="milestone-tile--image__content">
+<span class="milestone-tile--image__eyebrow white">Large &amp; Diverse Workforce</span>
+</div>
+</div>
+</article>
+<article class="milestone-tile milestone-tile--stat " data-index="8">
+<div class="milestone-tile--stat__wrapper">
+<h6 class="heading font-bold milestone-tile--stat__eyebrow" data-index="8">
+By The Numbers
+</h6>
+<h2 class="heading font-bold milestone-tile--stat__stat" data-index="8">
+53%
+</h2>
+<p class="milestone-tile--stat__description" data-index="8">
+Compound annual growth rate, since 2017, faster than the nation
+</p>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div id="free_text--22734"></div>
+<div class="free-text v-space fixed-width">
+<div class="free-text__wrapper">
+<h3>Building NYC’s Inclusive Cyber Future</h3>
+<p>NYCEDC is focused on building a talent base that is representative of the diversity of New York. While 51 percent of the US population is female, <a href="https://www.aspeninstitute.org/wp-content/uploads/2021/09/Diversity-Equity-and-Inclusion-in-Cybersecurity_9.921.pdf" rel="noopener" target="_blank">only 24 percent of the cybersecurity workforce is.</a> Similarly, the overall US population is 13 percent Black, compared to 9 percent of the cyber workforce. There is significant room and an urgent need for a more inclusive cyber workforce in NYC, one that truly reflects the city’s diversity.</p>
+</div>
+</div>
+<div id="featured_link_1up--23393"></div>
+<div class="featured-link-1up v-space fixed-width ">
+<div class="featured-link-1up__wrapper">
+<div class="featured-link-1up__content">
+<a class="link link--default " href="/cyber-nyc-internship-program" title="Go to Cyber NYC Internship Program" aria-label="Go to Cyber NYC Internship Program">
+<div class="featured-link-1up__media">
+<div class="featured-link-1up__image">
+<picture loading="lazy" class="js-object-fit">
+<source srcset="/sites/default/files/styles/16x9_xl/public/2023-02/NYCEDC-Program-CyberNYC-Internship-Header.jpg?h=3a689c57&amp;itok=yO8sz8CK 1x" media="all and (min-width: 1366px)" type="image/jpeg" width="1920" height="1080" />
+<source srcset="/sites/default/files/styles/16x9_lg/public/2023-02/NYCEDC-Program-CyberNYC-Internship-Header.jpg?h=3a689c57&amp;itok=pqACkPxi 1x" media="all and (min-width: 768px)" type="image/jpeg" width="1366" height="768" />
+<source srcset="/sites/default/files/styles/16x9_md/public/2023-02/NYCEDC-Program-CyberNYC-Internship-Header.jpg?h=3a689c57&amp;itok=Wi20B70H 1x" media="all and (min-width: 0)" type="image/jpeg" width="768" height="432" />
+<img loading="lazy" src="/sites/default/files/styles/16x9_md/public/2023-02/NYCEDC-Program-CyberNYC-Internship-Header.jpg?h=3a689c57&amp;itok=Wi20B70H" width="768" height="432" title="People working on computers in IT office" alt="People working on computers in IT office" />
+</picture>
+</div>
+<div class="featured-link-1up__heading">
+<h3 class="heading font-bold featured-link-1up__heading-title">
+Cyber NYC Internship Program
+</h3>
+<p class="featured-link-1up__heading-description">
+Recruiting and placing New Yorkers in paid internships at cybersecurity partner organiza
+</p>
+</div>
+</div>
+</a>
+<div class="featured-link-1up__body">
+<h5 class="heading font-bold featured-link-1up__title">
+Program Objectives:
+</h5>
+<ul class="featured-link-1up__list">
+<li class="list__item">
+<p>Identify, recruit and place a diverse cohort of interns in paid cybersecurity interns</p>
+</li>
+<li class="list__item">
+<p>Provide hands-on work and technical training to cybersecurity students</p>
+</li>
+<li class="list__item">
+<p>Build career success and increase upward mobility</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="free_text--10529"></div>
+<div class="free-text v-space fixed-width">
+<div class="free-text__wrapper">
+<h4><a href="https://www.fullstackacademy.com/programs/cybersecurity-bootcamp" rel="noopener" target="_blank">Fullstack Academy Cybersecurity Bootcamp</a></h4>
+<p>This bootcamp is designed for beginners with the goal of getting jobs in cyber.<br>
+<br>
+Program Features:</p>
+<ul>
+<li>Industry-informed curriculum that teaches in-demand skills</li>
+<li>Cohort-based learning</li>
+<li>Live instruction paired with independent study</li>
+<li>Part-time and full-time courses available</li>
+</ul>
+</div>
+</div>
+<div class="inline-video js-inline-video  fixed-width">
+<div class="inline-video__wrapper">
+<div class="inline-video__media">
+<div id="f7m7PAHFswE" platform="youtube" class="inline-video__media--video js-inline-video-player"></div>
+<picture class="inline-video__media--image js-object-fit">
+<source srcset="/sites/default/files/styles/16x9_xl/public/2019-10/nycedc-article-cybernyc-fullstack-graduation-image_0.png?h=2e976bc2&amp;itok=2QgGDOp1 1x" media="all and (min-width: 1366px)" type="image/png" width="1920" height="1080" />
+<source srcset="/sites/default/files/styles/16x9_lg/public/2019-10/nycedc-article-cybernyc-fullstack-graduation-image_0.png?h=2e976bc2&amp;itok=AA8ZICSo 1x" media="all and (min-width: 768px)" type="image/png" width="1366" height="768" />
+<source srcset="/sites/default/files/styles/16x9_md/public/2019-10/nycedc-article-cybernyc-fullstack-graduation-image_0.png?h=2e976bc2&amp;itok=LMmOcMCe 1x" media="all and (min-width: 0)" type="image/png" width="768" height="432" />
+<img class="inline-video__media--image js-object-fit" src="/sites/default/files/styles/16x9_md/public/2019-10/nycedc-article-cybernyc-fullstack-graduation-image_0.png?h=2e976bc2&amp;itok=LMmOcMCe" width="768" height="432" loading="lazy" title="Cyber NYC Fullstack Graduation" alt="Cyber NYC Fullstack Graduation" />
+</picture>
+<button class="btn btn--play js-inline-video-play-btn" aria-label="Play Video Content">
+<span>
+<span class="btn--play__triangle"></span>
+</span>
+</button>
+</div>
+<div class="inline-video__caption">
+<p>Cyber NYC &amp; Fullstack Academy: Building New York City’s Cybersecurity Workforce</p>
+</div>
+</div>
+</div>
+<div class="free-text v-space fixed-width">
+<div class="free-text__wrapper">
+<h4><a href="https://cybersecurity.ccny.cuny.edu/page/overview.php" rel="noopener" target="_blank">City College of New York Cybersecurity Master’s Program</a></h4>
+<p>This degree program offers an industry-informed curriculum that provides students with the practical skills required for professional success.<br>
+<br>
+Program Features:</p>
+<ul>
+<li>Full-time students can complete the program in 3 semesters.</li>
+<li>New York State residents pay less than $20,000 for the degree.</li>
+<li>Individuals can complete the program as full-time or part-time students.</li>
+<li>Program can start in either the fall or spring semester.</li>
+</ul>
+</div>
+</div>
+<div id="smart_contact_form--10538"></div>
+<div id class="smart-contact smart-contact--two-up v-space fixed-width js-collision">
+<div class="smart-contact__wrapper">
+<h2 class="heading font-bold heading--free heading--module-title">
+<p><strong>Get in touch</strong></p>
+</h2>
+<div class="smart-contact__content">
+<div class="smart-contact__item">
+<div class="contact smart-contact--two-up contact--two-up">
+<div class="contact__content">
+<p>Program Inquiries</p>
+</div>
+<div class="contact__info">
+<span class="contact__action font-bold">Contact:</span>
+<span class="contact__detail">
+<a href="/cdn-cgi/l/email-protection#bddec4dfd8cfd3c4defdd8d9de93d3c4de" class="is-email" title="Contact email at  cybernyc@edc.nyc" aria-label="Contact email at  cybernyc@edc.nyc" aria-describedby="new-window-1">
+<span class="__cf_email__" data-cfemail="7d1e041f180f13041e3d18191e5313041e">[email&#160;protected]</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="smart-contact__item">
+<div class="contact smart-contact--two-up contact--two-up">
+<div class="contact__content">
+<p>Press Inquiries</p>
+</div>
+<div class="contact__info">
+<span class="contact__action font-bold">Contact:</span>
+<span class="contact__detail">
+<a href="/cdn-cgi/l/email-protection#c2b2b0a7b1b182a7a6a1ecacbba1" class="is-email" title="Contact email at  press@edc.nyc" aria-label="Contact email at  press@edc.nyc" aria-describedby="new-window-1">
+<span class="__cf_email__" data-cfemail="bdcdcfd8cecefdd8d9de93d3c4de">[email&#160;protected]</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="partner_logos--14277"></div>
+<div class="partner-logos  v-space full-width js-partner-logos">
+<div class="partner-logos__wrapper">
+<h2 class="heading font-bold heading--module-title">
+<p><strong>Program Operators</strong></p>
+</h2>
+<div class="partner-logos__content">
+<div class="partner-logos__logo">
+<a href="https://cybersecurity.ccny.cuny.edu/page/overview.php" target="_blank">
+<img src="https://edc.nyc/sites/default/files/2019-09/logo-cuny_0.png" alt="Logo-CUNY" />
+</a>
+</div>
+<div class="partner-logos__logo">
+<a href="https://www.fullstackacademy.com/" target="_blank">
+<img src="https://edc.nyc/sites/default/files/2023-01/fullstack-academy-logo-bw.png" alt="fullstack-academy-logo-bw.png" />
+</a>
+</div>
+<div class="partner-logos__logo">
+<a href="https://www.upperweststrategies.com/" target="_blank">
+<img src="https://edc.nyc/sites/default/files/2023-01/Upper%2BWest%2BStrategies%2BLogo%2BStacked.png" alt="Upper+West+Strategies+Logo+Stacked.png" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="content_feed--14062"></div>
+<div class="content-feed v-space fixed-width js-content-feed  has-items-loaded" data-api-url="/api/v1/content-feed/program/531?bundles[]=article&amp;bundles[]=press_release&amp;bundles[]=external_news&amp;page=2">
+<div class="content-feed__wrapper">
+<h2 class="heading font-bold heading--module-title">
+<p><strong>Related News</strong></p>
+</h2>
+<div class="filter">
+<button class="filter__btn font-bold">
+<span>Refine by</span>
+<svg class="icon icon-dropdown-down">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#dropdown-down"></use>
+</svg>
+</button>
+<ul class="filter__list">
+<li><button data-year>All</button></li>
+<li><button data-year="2023">2023</button></li>
+<li><button data-year="2022">2022</button></li>
+<li><button data-year="2021">2021</button></li>
+<li><button data-year="2020">2020</button></li>
+<li><button data-year="2019">2019</button></li>
+<li><button data-year="2018">2018</button></li>
+<li><button data-year="2017">2017</button></li>
+</ul>
+</div>
+<div class="content-feed__content">
+<div class="__item is-feed-visible  first ">
+<div class="card card--list has-image has-eyebrow">
+<div class="card__image js-object-fit">
+<a href="https://www.ft.com/partnercontent/nycedc/nyc-americas-tech-powerhouse.html" class="card__link" target="_blank" tabindex="-1">
+<img loading="lazy" src="/sites/default/files/styles/grid_card/public/2023-03/External-News-Financial-Times-Tech.jpg?h=8779381a&amp;itok=0Bpr5U4g" width="760" height="380" title="Aerial shot of Midtown Manhattan buildings" alt="Aerial shot of Midtown Manhattan buildings" />
+</a>
+</div>
+<div class="card__content">
+<div class="card__eyebrow">
+<div class="card__eyebrow-title">
+Financial Times
+<span class="card__external">
+<svg class="icon icon-offsite">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#offsite"></use>
+</svg>
+</span>
+</div>
+</div>
+<div class="card__title font-bold">
+<a href="https://www.ft.com/partnercontent/nycedc/nyc-americas-tech-powerhouse.html" target="_blank" title aria-label="Go to external page NYC: America’s Tech Powerhouse" aria-describedby="new-window-1">
+NYC: America’s Tech Powerhouse
+</a>
+</div>
+<div class="card__meta">
+<span class="meta meta--publish">Feb 23 2023</span>
+</div>
+</div>
+</div>
+</div>
+<div class="__item is-feed-visible ">
+<div class="card js-card-system-card card--list has-image has-eyebrow">
+<div class="card__image js-object-fit">
+<a href="/press-release/scholarship-program-offers-low-income-new-yorkers-full-tuition-cybersecurity-bootcamp" class="card__link" tabindex="-1">
+<img loading="lazy" src="/sites/default/files/styles/grid_card/public/2022-07/Fullstack%20Academy%20Cybersecurity%20Bootcamp%20Students.jpg?h=790be497&amp;itok=V4A5yoCd" width="760" height="380" title="Press Release - Fullstack Academy Second Annual Scholarship - Image" alt="Press Release - Fullstack Academy Second Annual Scholarship - Image" />
+</a>
+</div>
+<div class="card__content">
+<div class="card__eyebrow">
+<div class="card__meta">
+<span class="meta meta--eyebrow">
+Press Release
+</span>
+</div>
+</div>
+<div class="card__title font-bold">
+<a href="/press-release/scholarship-program-offers-low-income-new-yorkers-full-tuition-cybersecurity-bootcamp" title aria-label="Go to  Scholarship Program Offers Low-Income New Yorkers Full Tuition to Cybersecurity Bootcamp " aria-describedby="new-window-1">
+Scholarship Program Offers Low-Income New Yorkers Full Tuition to Cybersecurity Bootcamp
+</a>
+</div>
+<div class="card__meta">
+<span class="meta meta--publish">Jul 05 2022</span>
+</div>
+</div>
+</div>
+</div>
+<div class="__item is-feed-visible ">
+<div class="card js-card-system-card card--list has-image has-eyebrow">
+<div class="card__image js-object-fit">
+<a href="/press-release/nycedc-and-fullstack-academy-offer-full-tuition-scholarships-low-income-new-yorkers" class="card__link" tabindex="-1">
+<img loading="lazy" src="/sites/default/files/styles/grid_card/public/2021-03/NYCEDC-Press-Release-Fullstack-Academy-Full-Tuition-Scholarships-Header-Image.jpg?h=56d0ca2e&amp;itok=U9GC2ZgR" width="760" height="380" title="NYCEDC and Fullstack Academy Offer Full-Tuition Scholarships for Low-Income New Yorkers " alt="NYCEDC and Fullstack Academy Offer Full-Tuition Scholarships for Low-Income New Yorkers " />
+</a>
+</div>
+<div class="card__content">
+<div class="card__eyebrow">
+<div class="card__meta">
+<span class="meta meta--eyebrow">
+Press Release
+</span>
+</div>
+</div>
+<div class="card__title font-bold">
+<a href="/press-release/nycedc-and-fullstack-academy-offer-full-tuition-scholarships-low-income-new-yorkers" title aria-label="Go to  NYCEDC and Fullstack Academy Offer Full-Tuition Scholarships for Low-Income New Yorkers " aria-describedby="new-window-1">
+NYCEDC and Fullstack Academy Offer Full-Tuition Scholarships for Low-Income New Yorkers
+</a>
+</div>
+<div class="card__meta">
+<span class="meta meta--publish">Mar 31 2021</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-feed__pagination content-pagination">
+<button class="btn btn--block btn--light" aria-hidden="false" aria-label="Click to see more">
+<span>See More</span>
+</button>
+<div class="content-loader"></div>
+</div>
+</div>
+</div>
+<div id="content_grid--13885"></div>
+<div class="content-grid v-space fixed-width content-grid--filter js-content-grid">
+<div class="content-grid__wrapper">
+<h2 class="heading font-bold heading--module-title">
+<p><strong>Explore Other Programs</strong></p>
+</h2>
+<div class="content-grid__content">
+<div class="content-grid__filter">
+<ul class="list list--unstyled list--flex filter--list multirow">
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3231">
+<span>Debt and Investments</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3229">
+<span>Development and Training</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=2447">
+<span>Energy Programs</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=2442">
+<span>Financing</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3227">
+<span>Incubators and Workspaces</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3203">
+<span>Initiatives and Programs</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3228">
+<span>MWDBE Opportunities</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3226">
+<span>Nonprofit Resources</span>
+</button>
+</li>
+<li>
+<button class="btn btn--block btn--light " data-url="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3230">
+<span>Other Programs</span>
+</button>
+</li>
+</ul>
+<div class="filter--dropdown">
+<div class="form__item form-item__dropdown">
+<select class="form__select" aria-label="Select one">
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3231&amp;tags[]=3229&amp;tags[]=2447&amp;tags[]=2442&amp;tags[]=3227&amp;tags[]=3203&amp;tags[]=3228&amp;tags[]=3226&amp;tags[]=3230&amp;tags[]=3232">Filter by</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3231">Debt and Investments</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3229">Development and Training</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=2447">Energy Programs</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=2442">Financing</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3227">Incubators and Workspaces</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3203">Initiatives and Programs</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3228">MWDBE Opportunities</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3226">Nonprofit Resources</option>
+<option value="/api/v1/content-grid?bundle[]=program&amp;fields[]=field_program_type_tier_1&amp;fields[]=field_program_type_tier_2&amp;tags[]=3230">Other Programs</option>
+</select>
+<div class="caret">
+<svg class="icon icon-dropdown-down">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#dropdown-down"></use>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="content-grid__items">
+</div>
+</div>
+<div class="content-grid__pagination content-pagination ">
+<button aria-hidden="true" class="btn btn--block btn--light" aria-label="Click to see more">
+<span>See More</span>
+</button>
+<div class="content-loader"></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<footer class="footer  js-collision">
+<div class="footer__top full-width">
+<div class="footer__top__wrapper">
+<div class="footer__branding">
+<a class="logo" href="/" title="Go to NYCEDC" aria-label="Go to NYCEDC">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 648 231.5">
+<g>
+<polygon class="st0" points="134.8,181.5 64.7,203.3 134.8,203.3 134.8,228.4 2.2,228.4 2.2,201.9 70.5,179.8 2.2,179.8 2.2,154.8 134.8,154.8
+                      " />
+<polygon class="st0" points="88.4,96.1 134.8,96.1 134.8,122.1 89.4,122.1 2.2,147.5 2.2,120.3 54.2,108 2.2,96.1 2.2,70.6 	" />
+<path class="st0" d="M136.6,34.9c0,21.2-14.4,31.5-36,32.2c-9.4,0.3-20.1,0.3-32.3,0.3H36.8C17.4,67.6,0,58.8,0,34.2C0,13.2,15.6,3.9,36.8,3.7
+            h17.4v25.2c-5.1,0-13.4,0-17.4,0.2c-7.3,0.2-10.9,1-10.9,5.8c0,4.3,4.2,5.5,11.1,5.6c5.5,0.2,22.9,0.5,31.7,0.5
+            c5.6,0,25.5-0.2,31-0.3c5.5-0.2,10.9-0.3,10.9-5.8c0-5.8-6-5.6-11.1-5.6H79.4V3.4h20.4C121.5,3.4,136.6,13.7,136.6,34.9" />
+<polygon class="st0" points="334.5,45.5 334.5,93.8 387.4,93.8 387.4,136.2 334.5,136.2 334.5,186.5 393.3,186.5 393.3,228.4 289,228.4
+            289,3.7 393.8,3.7 393.8,45.5 	" />
+<path class="st0" d="M482,228.4h-71.1V3.7h65.5c29.8,0,46.6,18.3,46.6,43.8v134.8C522.7,212.1,505.9,228.4,482,228.4 M478.9,58.7
+            c-1.1-7.3-5.6-13.2-14.9-13.2h-9v141h11c7.6,0,12.1-4.2,12.9-14.3c0.8-9.5,0.6-47.8,0.6-56.2C479.5,107.6,479.8,64,478.9,58.7" />
+<path class="st0" d="M594.6,231.5c-36,0-53.4-24.4-54.5-61c-0.6-16-0.6-34-0.6-54.8V62.4C539.3,29.5,554.2,0,595.8,0
+            c35.7,0,51.4,26.4,51.7,62.4v29.5h-42.7c0-8.7,0-22.8-0.3-29.5c-0.3-12.4-1.7-18.5-9.8-18.5c-7.3,0-9.3,7-9.5,18.8
+            c-0.3,9.3-0.8,38.8-0.8,53.6c0,9.5,0.3,43.3,0.6,52.5c0.3,9.3,0.6,18.5,9.8,18.5c9.8,0,9.5-10.1,9.5-18.8v-34H648v34.5
+            C648,205.9,630.6,231.5,594.6,231.5" />
+<polygon class="st1" points="162.7,228.4 214.8,3.7 261.1,3.7 208.8,228.4 	" />
+</g>
+</svg>
+</a>
+</div>
+<nav class="footer__primary-links" role="navigation">
+<ul class="list__menu list--unstyled">
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/press" title="Press">Press</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/careers" title="Careers">Careers</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/contact-us" title="Contact Us">Contact Us</a>
+</li>
+</ul>
+<ul class="list__menu list--unstyled">
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/nycncc" title="NYCNCC">NYCNCC</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/nycida" title="NYCIDA">NYCIDA</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default font-bold" href="/build-nyc" title="Build NYC">Build NYC</a>
+</li>
+</ul>
+</nav>
+<nav class="footer__secondary-links" role="navigation">
+<ul class="list__menu list--unstyled list--flex">
+<li class="list__item">
+<a class="list__link list__link--default " href="/new-york-city-economic-development-corporation-accessibility-statement" title="Go to Accessibility" aria-label="Go to Accessibility">
+Accessibility
+</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default " href="/privacy-policy" title="Go to Privacy Policy" aria-label="Go to Privacy Policy">
+Privacy Policy
+</a>
+</li>
+<li class="list__item">
+<a class="list__link list__link--default " href="/terms-use" title="Go to Terms of Use" aria-label="Go to Terms of Use">
+Terms of Use
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="footer__middle">
+<div class="footer__newsletter">
+<div id="newsletter--footer" class="newsletter  newsletter--footer ">
+<div class="newsletter__wrapper">
+<div class="newsletter__header">
+<h2 class="newsletter__title font-bold">Stay Up to Date</h2>
+</div>
+<div class="newsletter__content">
+<div class="newsletter__form">
+<span id="webform-submission-footer-newsletter-node-531-form-ajax-content"></span><div id="webform-submission-footer-newsletter-node-531-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-footer-newsletter-form webform-submission-footer-newsletter-add-form webform-submission-footer-newsletter-node-531-form webform-submission-footer-newsletter-node-531-add-form js-webform-unsaved js-webform-submit-once js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" autocomplete="off" data-drupal-selector="webform-submission-footer-newsletter-node-531-add-form" data-action="/program/cyber-nyc" action="/antibot" method="post" id="webform-submission-footer-newsletter-node-531-add-form" accept-charset="UTF-8">
+<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<div class="js-form-item form-item js-form-type-email form-item-email-address js-form-item-email-address">
+<input autocomplete="off" data-webform-required-error="Please enter a valid email address" pattern="^((?!abuse|info|admin|billing).)*$" data-webform-pattern-error="Role-based email addresses also cannot be used." data-drupal-selector="edit-email-address" type="email" id="edit-email-address" name="email_address" value size="60" maxlength="254" placeholder=" " class="form-email required" required="required" aria-required="true" />
+<label for="edit-email-address" class="option js-form-required form-required">Enter email address</label>
+</div>
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper" id="edit-actions">
+<input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="⟶" />
+<svg class="icon icon-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 11" width="20" height="20">
+<path fill-rule="nonzero" d="M18.234 6.125H.375v-1.25h17.859l-3.618-3.618.884-.884L20.627 5.5l-.884.884-4.363 4.362-.884-.884 3.738-3.737z"></path>
+</svg>
+</div>
+<input autocomplete="off" data-drupal-selector="form-c3ffkii29e0i82iweg64lr9awypiql6agirjshc87f0" type="hidden" name="form_build_id" value="form-C3FfKii29E0I82IWEg64Lr9AWYpiql6agiRjsHc87F0" />
+<input data-drupal-selector="edit-webform-submission-footer-newsletter-node-531-add-form" type="hidden" name="form_id" value="webform_submission_footer_newsletter_node_531_add_form" />
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer__bottom">
+<div class="footer__bottom-wrapper">
+<div class="footer__social">
+<nav class="c-social">
+<ul class="c-social__list  ">
+<li class="c-social__item">
+<a class="c-social__link c-social__link--default " href="https://www.facebook.com/NYCEDC" title="Go to Facebook" aria-label="Go to Facebook">
+<svg class="icon icon-social-fb">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#social-fb"></use>
+</svg>
+</a>
+</li>
+<li class="c-social__item">
+<a class="c-social__link c-social__link--default " href="https://x.com/nycedc" title="Go to X" aria-label="Go to X">
+<svg class="icon icon-social-x">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#social-x"></use>
+</svg>
+</a>
+</li>
+<li class="c-social__item">
+<a class="c-social__link c-social__link--default " href="https://www.instagram.com/NYCEDC/" title="Go to Instagram" aria-label="Go to Instagram">
+<svg class="icon icon-social-ig">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#social-ig"></use>
+</svg>
+</a>
+</li>
+<li class="c-social__item">
+<a class="c-social__link c-social__link--default " href="https://www.linkedin.com/company/nycedc/" title="Go to LinkedIn" aria-label="Go to LinkedIn">
+<svg class="icon icon-social-linkedin">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#social-linkedin"></use>
+</svg>
+</a>
+</li>
+<li class="c-social__item">
+<a class="c-social__link c-social__link--default " href="https://www.youtube.com/user/NYCEDC" title="Go to Youtube" aria-label="Go to Youtube">
+<svg class="icon icon-social-youtube">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#social-youtube"></use>
+</svg>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="footer__language">
+<div class="language">
+<form class="js-language">
+<div class="form__item form-item__dropdown">
+<select class="form__select" aria-label="Select one">
+<option value="en">English</option>
+</select>
+<div class="caret">
+<svg class="icon icon-dropdown-down">
+<use xlink:href="/themes/custom/nycedc_theme/dist/icons.svg#dropdown-down"></use>
+</svg>
+</div>
+</div>
+</form>
+<div id="google_translate_element"></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/531","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-MKLB36Z"]},"gtag":{"tagId":"","consentMode":true,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyFU1tywyAMvJAfl-m_R5gNxgXhgOwkPX1xHtOxmk5_YNhFWmkRxOJNkp4ee3dKOTZjyug9CzJT6Obzinx7MLhK8PzZ27wulXoeG5eSCxiEXO_qos8dzXQ9grEJ9HXr96Xh2wg7DjIhoh9T1WVpT4B9z7jsNVNKu1EuRxTnlUI7wbtJjowLyVBQ2L26j0xcAgkUWSVnlX5CWKA1fS1SIVwdQrt5i3RkArH17NqFHGqZZJGPF6IPKJJqtEmUVc9MmyEVwLiUABGdaFfQSBb-Vf2S04xRWgshr_wpsYa0-xvQqOwUMkHl33zU7d7SKqtBU6XJZVqm8pqiH6RbeVlN8GWqj3-3bEA0sMPJI9g-oyyJi99efl5g9rHsn_tjzjSIUOVZukdXpSu04d9Lklwdhz-vRZSym6r5-yd5B3ZlNdHLkHh8H1Vb3wuz35S-YnE","theme":"nycedc_theme","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/program\/cyber-nyc?ajax_form=1":true},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.80000000000000004,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"","preferNative":false,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"(\\.pdf$)","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"before","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"antibot":{"forms":{"webform-submission-footer-newsletter-node-531-add-form":{"id":"webform-submission-footer-newsletter-node-531-add-form","key":"MYF6S2jdNZL65fk7eIIl7Ta56PaKSybyM9g5C73SOOI"}}},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/program\/cyber-nyc?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"\u27f6"}}},"gmap":{"api_key":"AIzaSyATtB3fjQ95bchh5syNJk78e6A2NwsKdoA"},"user":{"uid":0,"permissionsHash":"726a6a174bf4d8fd23a1860c4055d8a9bee446fb126d8853c3bcd21146ab3896"}}</script>
+<script src="/sites/default/files/js/js_2aOJLTEkaFD1PEE14pxRHtTg-erHj5aV9_mlU3BVd_8.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx"></script>
+<script src="//player.vimeo.com/api/player.js"></script>
+<script src="/sites/default/files/js/js_EWAIkpwLFbMqJ48qhhz0l6Z9mAfLB_Cnf4rSN7z_fpI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?sa91i4"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?sa91i4"></script>
+<script src="/sites/default/files/js/js_mQbZ9JjjtFM1aelV_p0ExaW543xfmOQWTZyDgXFgPKM.js?scope=footer&amp;delta=5&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
+<script src="/sites/default/files/js/js_O5QzTC3-sQnjPOBDCeY4NBlSSbHJkP8wRUvLSEVyRJI.js?scope=footer&amp;delta=7&amp;language=en&amp;theme=nycedc_theme&amp;include=eJyFUltywzAIvJAfl-m_B1lEloskR2An7umLk3Q6UtzpjzTAssACwdfekz5N3Ee04yATBuwdJQPU4F3Ix8_e5nUB6l5m41JyhIOA652E0gRX2x3McC_p_ZhiVfCR85EhMoFgc0NzSTn0r787nlNnt0aGDe15kFcTvAwpju-USFo4SmdRwBN3B82_IElO-3yDPUb8KzcgMzhsIIo3SfrX_5xpTFn1iII5qsLzdcW8PyOFPhFvTCgKaxbI4DIsE__s5dejaiyrIc-TKlIQqOKizbQu-yoyIS2Y-Rx-wZpIi0l8w3NQd3tkwShlCK8rUDuhd1MVOXqZKyIBo_qW1xL16rDdvMVURjYfateeVlkNNg_0gMGgHS4eyfYZeUmR_XZKFTwhS9I6JkGuZiaI1kfXLrpGnQSsrqEUJacZR2mfZ1KtDjYDNf64h1Jw5naDzN_hFGJx"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'863e44d19cbef8e9',t:'MTcxMDM1NjQ0Ny4xNzAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"863e44d19cbef8e9","b":1,"version":"2024.3.0","token":"bbd2ea6d074b42ddb09c13f95635bcf3"}' crossorigin="anonymous"></script>
+</body>
+</html>

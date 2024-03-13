@@ -1,0 +1,15 @@
+<html>
+    <style>
+        body {
+            background-color: #282828;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+<body>
+<img src="pf_logo_page.png"/>
+</body>
+</html>

@@ -1,0 +1,955 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Cultivate Foundation</title>
+    
+    
+    <meta name="template" content="cultivate-landing-page"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+    
+<link rel="canonical" href="/cultivate-foundation"/>
+
+
+    
+
+
+    
+    <meta property="og:url" name="og:url" content="/content/chipotle/us/en/cultivate-foundation"/>
+    <meta property="og:site_name" name="og:site_name" content="Chipotle"/>
+    
+    
+    <meta property="og:type" name="og:type" content="website"/>
+    
+    <meta property="twitter:card" name="twitter:card" content="summary"/>
+    <meta property="twitter:site" name="twitter:site" content="Chipotle"/>
+    
+    
+    
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base.lc-04ed59e668197cf9b9fcce47d39330c9-lc.min.css" type="text/css">
+
+
+
+
+
+    
+        
+            <script src="https://www.chipotle.com/csp.vice.js"></script>
+        
+
+        <script src="//vice-prod.sdiapi.com/vice_loader/chipotle/chipotle">
+        </script>
+    
+
+
+<script src="/csp.chipotleaemvars.js"></script>
+
+
+    
+    
+        
+            
+        
+        
+            <script src="https://www.chipotle.com/csp.ketch.js"></script>
+        
+
+        
+    
+
+
+
+  
+    
+      
+          <script src="https://www.chipotle.com/csp.liveperson.js"></script>
+      
+      <script type="text/javascript" src="https://chpwv.fs.liveperson.com/public.bot-iframe.js"></script>
+    
+  
+
+
+
+    
+         
+             
+                <script src="https://www.chipotle.com/csp.analyticsgtm.js"></script>
+             
+         
+    
+
+
+
+    
+        <script src="https://a40.usablenet.com/pt/c/chipotle/cookiestorestart" async></script>
+    
+
+
+
+    
+        <script src="https://www.chipotle.com/csp.branchio.js"></script>
+    
+
+
+
+    
+        <!-- Region: NA-->
+        
+        <!-- NA -->
+            
+            
+                
+                    <script src="https://www.chipotle.com/csp.datadog.js"></script>
+                
+            
+        
+    
+        
+    
+    <!-- region = Other -->
+
+
+
+    
+        <script src="https://www.chipotle.com/csp.chipotleutils.js"></script>
+    
+    <script src="/csp.chipotleutils.js"></script>
+
+
+
+
+  
+      <script src="https://www.chipotle.com/csp.chipotleservices.js"></script>
+      <script src="https://www.chipotle.com/csp.menumetadata.js"></script>
+  
+
+
+
+  
+      <script src="https://www.chipotle.com/csp.restaurant.js"></script>
+  
+
+
+    
+    
+    
+
+    
+
+    
+
+
+        <script type="text/javascript" src="//assets.adobedtm.com/cfe1a3428264/a70a8339ebf1/launch-e2c5b1e61468.min.js" async></script>
+
+
+    
+    
+    <link rel="stylesheet" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-site-en.lc-0f384465fd013e48e34fdec4c209507f-lc.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.lc-904d3c2f1e821ab45124d66de422b409-lc.min.js"></script>
+
+
+
+    
+    <link rel="icon" sizes="192x192" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-192x192.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/apple-touch-icon-180x180.png"/>
+    <link rel="apple-touch-icon" sizes="167x167" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/apple-touch-icon-167x167.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/apple-touch-icon-120x120.png"/>
+    <meta name="msapplication-square310x310logo" content="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-310x310.png"/>
+    <meta name="msapplication-wide310x150logo" content="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-310x150.png"/>
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-150x150.png"/>
+    <meta name="msapplication-square70x70logo" content="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-70x70.png"/>
+
+    
+</head>
+<body class="page basicpage" id="page-6f6371de74" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-adobe-json="{&#34;page-6f6371de74&#34;:{&#34;@type&#34;:&#34;core/wcm/components/page/v3/page&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-30T22:04:52Z&#34;,&#34;dc:title&#34;:&#34;Cultivate Foundation&#34;,&#34;embeddableProperties&#34;:{&#34;siteSection&#34;:&#34;campaign&#34;,&#34;pageType&#34;:&#34;page&#34;,&#34;subSection1&#34;:&#34;cultivate-foundation&#34;,&#34;subSection2&#34;:&#34;&#34;,&#34;pageName&#34;:&#34;cultivate foundation&#34;,&#34;url&#34;:&#34;https://www.chipotle.com/cultivate-foundation&#34;}}}">
+
+    
+        <script src="https://www.chipotle.com/csp.adobedatalayer.js?id=page-6f6371de74"></script>
+    
+
+
+
+    
+
+
+
+
+    
+<div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-980f8d985c" class="cmp-container">
+        
+        <div class="usablenetbanner">
+<div data-cmp-data-layer="{&#34;usablenetbanner-4d38b4d165&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/usablenetbanner&#34;}}" id="usablenetbanner-4d38b4d165" class="UsableNetAssistive-wrapper">
+  <a href="#" class="UsableNetAssistive" onclick="return enableUsableNetAssistive()">ENABLE ACCESSIBILITY</a>
+</div></div>
+<div class="cultivateheader">
+
+  <div class="aem-cultivate-header" aem-header-center-image="/content/dam/chipotle/pages/cultivate/cultivate_logo.png"></div>
+
+</div>
+<main class="container responsivegrid">
+
+    
+    
+    
+    <div id="cultivate-landing-page" class="cmp-container">
+        
+        <div class="hero">
+<div data-cmp-data-layer="{&#34;hero-1&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/hero&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T16:10:45Z&#34;}}" id="hero-1" class="aem-hero hero-text-center align-center minh-450px maxh-650px  d-flex relative box-border overflow-hidden">
+<div class="aem-hero__background bg-image w-100 h-100 font-size-0 absolute top-0 left-0 bg-grey-light">
+    <!-- Hero Video - desktop -->
+    <!-- Hero Video - mobile -->
+    <!-- Hero Youtube video -->
+    <!-- Hero Background Image -->
+      <img src="/content/dam/chipotle/pages/cultivate/Hero%20Image.png" class="d-none md:d-inline w-100 h-100" loading="lazy"/>
+      <img src="/content/dam/chipotle/pages/cultivate/Hero%20Image.png" class="d-inline md:d-none w-100 h-100" loading="lazy"/>
+    
+    <!-- Hero Background Color -->
+  </div>
+  <div class="aem-hero__foreground d-flex relative flex-col sm:flex-row justify-center w-100">
+    
+    <div class="aem-hero__copy d-flex flex-col box-border text-align-center align-center contained w-100 justify-center">
+      
+      
+        
+        <div class="aem-hero__foreground-box bg-transparent w-100" style="width: ; height: ;"></div>
+      
+      
+      <div class="aem-hero__paragraph font-gotham-black font-size-32  " style="background-color: ; color: #ffffff; width: ">
+        <h1><b>CULTIVATING A BETTER WORLD</b></h1>
+<p> </p>
+<p>through people, food &amp; animals, and the environment </p>
+<p style="	text-align: center;
+"> </p>
+
+      </div>
+      
+      
+      
+      
+      
+    </div>
+    
+  </div>
+</div>
+
+</div>
+<div class="text font-festivo">
+<div data-cmp-data-layer="{&#34;below-hero-1-text&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-15T16:57:22Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>Chipotle Mexican Grill established the Chipotle Cultivate Foundation in 2011 to extend its commitment to make real food accessible to all. &lt;/p>\r\n&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>Today, it has expanded upon that mission and is dedicated to &lt;/p>\r\n&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>Cultivating a Better World in the communities it serves.&lt;/p>\r\n&#34;}}" id="below-hero-1-text" class="cmp-text">
+    <p style="	text-align: center;
+">Chipotle Mexican Grill established the Chipotle Cultivate Foundation in 2011 to extend its commitment to make real food accessible to all. </p>
+<p style="	text-align: center;
+">Today, it has expanded upon that mission and is dedicated to </p>
+<p style="	text-align: center;
+">Cultivating a Better World in the communities it serves.</p>
+
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="cultivate-callout-cards-container" class="cmp-container">
+        
+        <div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-6b87880a6c&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-15T20:28:57Z&#34;}}" id="card-6b87880a6c" class="aem-card card-image-top flex-col  ma-0   " style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between ">
+        <div class="aem-card__paragraph font-gotham-bold font-size-16  " style="background-color: ; color: #451400">    
+            <h2>$5 MILLION</h2>
+<p>CONTRIBUTED TO NON-PROFITS</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-742ee3d623&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-15T20:45:07Z&#34;}}" id="card-742ee3d623" class="aem-card card-image-top flex-col  ma-0   " style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between ">
+        <div class="aem-card__paragraph font-gotham-bold font-size-16  " style="background-color: ; color: #451400">    
+            <h2>YEARS</h2>
+<p>OF SUPPORT FOR THOSE IN NEED</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-71a38ca862&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-15T20:30:49Z&#34;}}" id="card-71a38ca862" class="aem-card card-image-top flex-col  ma-0   " style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between ">
+        <div class="aem-card__paragraph font-gotham-bold font-size-16  " style="background-color: ; color: #451400">    
+            <h2>LONG LASTING</h2>
+<p>COMMUNITY FOCUSED IMPACT<br />
+</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-74833d0011" class="cmp-container">
+        
+        <div class="text font-trade-gothic-bold font-size-32">
+<div data-cmp-data-layer="{&#34;cultivate-grants-title&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T23:15:05Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;text-align: center;\&#34;>&lt;b>GRANTS&lt;/b>&lt;/p>\r\n&#34;}}" id="cultivate-grants-title" class="cmp-text">
+    <p style="	text-align: center;
+"><b>GRANTS</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="text font-gotham-medium font-size-20">
+<div data-cmp-data-layer="{&#34;cultivate-grants-subheader&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-21T19:18:25Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>The Cultivate Foundation supports 501(c)3 non-profits who align with its mission and are paving the way to a better future.&lt;/p>\r\n&#34;}}" id="cultivate-grants-subheader" class="cmp-text">
+    <p style="	text-align: center;
+">The Cultivate Foundation supports 501(c)3 non-profits who align with its mission and are paving the way to a better future.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text font-gotham">
+<div data-cmp-data-layer="{&#34;cultivate-grants-text&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-21T19:21:59Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>Grant applications are extended by invitation only. Certified 501(C)3 non-profits who align with our giving strategy can contact &lt;a href=\&#34;mailto:grants&amp;#64;chipotle.com\&#34;>grants&amp;#64;chipotle.com&lt;/a> with their organization name, a brief description of current needs and their financial ask.&lt;/p>\r\n&#34;}}" id="cultivate-grants-text" class="cmp-text">
+    <p style="	text-align: center;
+">Grant applications are extended by invitation only. Certified 501(C)3 non-profits who align with our giving strategy can contact <a href="mailto:grants&#64;chipotle.com">grants&#64;chipotle.com</a> with their organization name, a brief description of current needs and their financial ask.</p>
+
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid contained">
+
+    
+    
+    
+    <div id="cultivate-grants-image-container" class="cmp-container">
+        
+        <div class="image d-flex justify-center mx-auto">
+<div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-src="/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width={width}&amp;preferwebp=true&amp;quality=85" data-cmp-filereference="/content/dam/chipotle/pages/cultivate/Logo - Culinary Institute.png" id="image-897f5a5fb7" data-cmp-data-layer="{&#34;image-897f5a5fb7&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/image&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T18:32:01Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;6ce93677-ed59-49da-a521-ccff4679f0c3&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:28:54Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/chipotle/pages/cultivate/Logo - Culinary Institute.png&#34;}}}" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?preferwebp=true&quality=85" srcset="/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=320&amp;preferwebp=true&amp;quality=85 320w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=480&amp;preferwebp=true&amp;quality=85 480w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=600&amp;preferwebp=true&amp;quality=85 600w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=800&amp;preferwebp=true&amp;quality=85 800w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=1024&amp;preferwebp=true&amp;quality=85 1024w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=1200&amp;preferwebp=true&amp;quality=85 1200w,/adobe/dynamicmedia/deliver/dm-aid--6ce93677-ed59-49da-a521-ccff4679f0c3/logo---culinary-institute.png?width=1600&amp;preferwebp=true&amp;quality=85 1600w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="190" height="128" alt="Culinary Institute of America"/>
+    
+    
+    
+</div>
+
+    
+
+</div>
+<div class="image d-flex justify-center mx-auto">
+<div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-src="/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width={width}&amp;preferwebp=true&amp;quality=85" data-cmp-filereference="/content/dam/chipotle/pages/cultivate/image 3.png" id="image-3a35be38e2" data-cmp-data-layer="{&#34;image-3a35be38e2&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/image&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T18:31:54Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;faeb2f23-ca16-47b8-ba97-28b3888a976a&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:28:53Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/chipotle/pages/cultivate/image 3.png&#34;}}}" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?preferwebp=true&quality=85" srcset="/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=320&amp;preferwebp=true&amp;quality=85 320w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=480&amp;preferwebp=true&amp;quality=85 480w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=600&amp;preferwebp=true&amp;quality=85 600w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=800&amp;preferwebp=true&amp;quality=85 800w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=1024&amp;preferwebp=true&amp;quality=85 1024w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=1200&amp;preferwebp=true&amp;quality=85 1200w,/adobe/dynamicmedia/deliver/dm-aid--faeb2f23-ca16-47b8-ba97-28b3888a976a/image-3.png?width=1600&amp;preferwebp=true&amp;quality=85 1600w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="144" height="88" alt="City Harvest"/>
+    
+    
+    
+</div>
+
+    
+
+</div>
+<div class="image d-flex justify-center mx-auto">
+<div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-src="/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width={width}&amp;preferwebp=true&amp;quality=85" data-cmp-filereference="/content/dam/chipotle/pages/cultivate/image 4.png" id="image-1f2d57c61d" data-cmp-data-layer="{&#34;image-1f2d57c61d&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/image&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T18:32:08Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;c27071e1-2a5b-4163-ade9-e6602dade110&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:28:53Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/chipotle/pages/cultivate/image 4.png&#34;}}}" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?preferwebp=true&quality=85" srcset="/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=320&amp;preferwebp=true&amp;quality=85 320w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=480&amp;preferwebp=true&amp;quality=85 480w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=600&amp;preferwebp=true&amp;quality=85 600w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=800&amp;preferwebp=true&amp;quality=85 800w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=1024&amp;preferwebp=true&amp;quality=85 1024w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=1200&amp;preferwebp=true&amp;quality=85 1200w,/adobe/dynamicmedia/deliver/dm-aid--c27071e1-2a5b-4163-ade9-e6602dade110/image-4.png?width=1600&amp;preferwebp=true&amp;quality=85 1600w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="101" height="92" alt="Niman Ranch"/>
+    
+    
+    
+</div>
+
+    
+
+</div>
+<div class="image d-flex justify-center mx-auto">
+<div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-src="/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width={width}&amp;preferwebp=true&amp;quality=85" data-cmp-filereference="/content/dam/chipotle/pages/cultivate/image 5.png" id="image-74ab7d36d6" data-cmp-data-layer="{&#34;image-74ab7d36d6&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/image&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T18:31:22Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;8949e17b-6b74-4142-a78b-fc22f05d3cfe&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:28:50Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/chipotle/pages/cultivate/image 5.png&#34;}}}" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        <img src="/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?preferwebp=true&quality=85" srcset="/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=320&amp;preferwebp=true&amp;quality=85 320w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=480&amp;preferwebp=true&amp;quality=85 480w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=600&amp;preferwebp=true&amp;quality=85 600w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=800&amp;preferwebp=true&amp;quality=85 800w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=1024&amp;preferwebp=true&amp;quality=85 1024w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=1200&amp;preferwebp=true&amp;quality=85 1200w,/adobe/dynamicmedia/deliver/dm-aid--8949e17b-6b74-4142-a78b-fc22f05d3cfe/image-5.png?width=1600&amp;preferwebp=true&amp;quality=85 1600w" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="174" height="65" alt="The Nature Conservancy"/>
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="grants-in-action-container" class="cmp-container">
+        
+        <div class="text color-avocado font-trade-gothic-bold font-size-48">
+<div data-cmp-data-layer="{&#34;cultivate-grants-in-action&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:57:49Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>&lt;b>GRANTS IN ACTION&lt;/b>&lt;/p>\r\n&#34;}}" id="cultivate-grants-in-action" class="cmp-text">
+    <p style="	text-align: center;
+"><b>GRANTS IN ACTION</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="text color-brown-light font-gotham font-size-20">
+<div data-cmp-data-layer="{&#34;cultivate-grants-in-action-text&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-19T20:53:18Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>We are proud to work with partners like &lt;/p>\r\n&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;>Niman Ranch,&lt;/p>\r\n&lt;p style=\&#34;\ttext-align: center;\r\n\&#34;> whose farmers raise animals traditionally, humanely and sustainably.&lt;/p>\r\n&#34;}}" id="cultivate-grants-in-action-text" class="cmp-text">
+    <p style="	text-align: center;
+">We are proud to work with partners like </p>
+<p style="	text-align: center;
+">Niman Ranch,</p>
+<p style="	text-align: center;
+"> whose farmers raise animals traditionally, humanely and sustainably.</p>
+
+</div>
+
+    
+
+</div>
+<div class="embed">
+<div data-cmp-data-layer="{&#34;cultivate-grants-video&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/embed&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T22:59:25Z&#34;}}" id="cultivate-grants-video" class="cmp-embed">
+    
+    
+    
+    <iframe width="200" height="113" src="https://www.youtube.com/embed/JiqjQBJflGE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Cultivating the Next Generation of Farmers | Young Farmers"></iframe>
+
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="hero">
+<div data-cmp-data-layer="{&#34;hero-2&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/hero&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-19T20:58:28Z&#34;}}" id="hero-2" class="aem-hero hero-text-left align-center   d-flex relative box-border overflow-hidden">
+<div class="aem-hero__background bg-image w-100 h-100 font-size-0 absolute top-0 left-0 bg-grey-light">
+    <!-- Hero Video - desktop -->
+    <!-- Hero Video - mobile -->
+    <!-- Hero Youtube video -->
+    <!-- Hero Background Image -->
+      <img src="/content/dam/chipotle/pages/cultivate/Group%2027.jpg" class="d-none md:d-inline w-100 h-100" loading="lazy"/>
+      <img src="/content/dam/chipotle/pages/cultivate/Group%2027.jpg" class="d-inline md:d-none w-100 h-100" loading="lazy"/>
+    
+    <!-- Hero Background Color -->
+  </div>
+  <div class="aem-hero__foreground d-flex relative flex-col-reverse ">
+    
+    <div class="aem-hero__copy d-flex flex-col box-border  w-100 justify-center">
+      
+      
+      
+      <div class="aem-hero__paragraph font-gotham font-size-14  " style="background-color: ; color: ; width: ">
+        <h1>CHIP IN</h1>
+<h1>&amp; DISH OUT</h1>
+<p>The Chipotle Cultivate Foundation matches the generosity and support that eligible Chipotle employees give to charitable organizations.</p>
+<p>Chip In</p>
+<p>is a volunteer-based employee match program that provides a meaningful opportunity for engagement. The Foundation will match eligible employees volunteer hours with a monetary donation.</p>
+<p>Dish Out</p>
+<p>is a financial match program for the Foundation to increase an eligible employees overall gift by matching their contribution to a nonprofit.</p>
+
+      </div>
+      
+      
+      
+      
+      
+    </div>
+    
+      <div class="aem-hero__image-1 ">
+        <img src="/content/dam/chipotle/pages/cultivate/Group.png" class="d-inline " loading="lazy"/>
+        
+      </div>
+      
+    
+  </div>
+</div>
+
+</div>
+<div class="title text-align-center">
+<div data-cmp-data-layer="{&#34;cultivate-meet-the-board-title&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T23:09:45Z&#34;,&#34;dc:title&#34;:&#34;Meet The Board&#34;}}" id="cultivate-meet-the-board-title" class="cmp-title">
+    <h1 class="cmp-title__text">Meet The Board</h1>
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid w-90">
+
+    
+    
+    
+    <div id="meet-the-board-cards-container" class="cmp-container">
+        
+        <div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-c46e7a730f&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:54:26Z&#34;}}" id="card-c46e7a730f" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/headshot.png" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Brian Niccol</h2>
+<p>Chairman &amp; CEO, Chipotle Mexican Grill</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-669470039b&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:54:13Z&#34;}}" id="card-669470039b" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Laurie%20Schalow.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Laurie Schalow</h2>
+<p>Chief Corporate Affairs Officer,</p>
+<p>Chipotle Mexican Grill</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-70d07d84df&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:55:15Z&#34;}}" id="card-70d07d84df" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Michael%20Mcgawn.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Michael McGawn</h2>
+<p>VP Deputy General Counsel,</p>
+<p>Chipotle Mexican Grill</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-b88e809419&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:55:43Z&#34;}}" id="card-b88e809419" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Nicole%20West.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Nicole West</h2>
+<p>VP Digital Strategy,</p>
+<p>Chipotle Mexican Grill</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-6b28634ee7&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-30T22:00:38Z&#34;}}" id="card-6b28634ee7" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Kevin%20McCulloch.png" class="d-none md:d-block w-100 h-100" loading="lazy"/>
+            <img data-src="/content/dam/chipotle/pages/cultivate/Kevin%20McCulloch.png" class="d-block md:d-none w-100 h-100" loading="lazy"/>
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Kevin McCulloch</h2>
+<p>Senior Manager, Brand Activation</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="title text-align-center">
+<div data-cmp-data-layer="{&#34;cultivate-foundation-officers-title&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-14T23:09:53Z&#34;,&#34;dc:title&#34;:&#34;Foundation Officers&#34;}}" id="cultivate-foundation-officers-title" class="cmp-title">
+    <h1 class="cmp-title__text">Foundation Officers</h1>
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="foundation-officers-cards-container" class="cmp-container">
+        
+        <div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-40e639a4f2&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:57:01Z&#34;}}" id="card-40e639a4f2" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Laurie%20Schalow.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Laurie Schalow</h2>
+<p>President</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-c6ed0d0491&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:57:39Z&#34;}}" id="card-c6ed0d0491" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Erin%20Wolford.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Erin Wolford</h2>
+<p>Executive Director</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-523f9e8541&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:58:06Z&#34;}}" id="card-523f9e8541" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Michael%20Mcgawn.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Michael McGawn</h2>
+<p>Secretary</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div class="card card__cta-primary btn-color-brown btn-avg">
+<div data-cmp-data-layer="{&#34;card-fef147b487&#34;:{&#34;@type&#34;:&#34;cmgaemacs/components/card&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-03T17:58:49Z&#34;}}" id="card-fef147b487" class="aem-card card-image-top flex-col  ma-4   d-flex box-border overflow-hidden" style="--size-width: ; --size-height: ; --size-height-tablet: ; border-color: ">
+    <!-- Card Title when Layout = "Image Middle" -->
+    
+    <div class="aem-card__background bg-image relative w-100 overflow-hidden  ">
+        <!-- Card Video - desktop -->
+        <!-- Card Video - mobile -->
+        <!-- Card Background Image -->
+            <img data-src="/content/dam/chipotle/pages/cultivate/Adam%20Rymer.jpg" class="d-block w-100 h-100" loading="lazy"/>
+            
+        
+        <!-- Card Background Color -->
+        <!-- Card Title when Layout = "Image Top" -->
+    </div>
+    
+
+    <div class="aem-card__copy d-flex flex-col w-100 box-border justify-space-between pa-5">
+        <div class="aem-card__paragraph font-nunito font-size-16  " style="background-color: ; color: ">    
+            <h2>Adam Rymer</h2>
+<p>Treasurer</p>
+
+        </div>
+        
+        <div class="aem-card__copy-bottom">
+            
+            
+            
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="cultivatefooter">
+
+  <div class="aem-cultivate-footer" aem-footer-copyright-text="2023 The Chipotle Cultivate Foundation. All Rights reserved." aem-footer-image="/content/dam/chipotle/pages/cultivate/Logo.png" aem-footer-links="&lt;p>&lt;a href=&#34;/accessibility&#34;>Accessibility Statement&lt;/a>&lt;/p>
+&lt;p>&lt;a href=&#34;/terms-of-use&#34;>Terms of Use&lt;/a>&lt;/p>
+&lt;p>&lt;a href=&#34;/privacy-center&#34;>Privacy Center&lt;/a>&lt;/p>
+&lt;p>&lt;a href=&#34;/privacy-policy&#34;>Privacy Policy, including California Privacy Rights&lt;/a>&lt;/p>
+&lt;p>&lt;a class=&#34;open-cookie-preferences&#34;>Your Privacy Choices&lt;img src=&#34;/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png&#34; alt=&#34;&#34;>&lt;/a>&lt;/p>
+"></div>
+
+</div>
+
+        
+    </div>
+
+</main>
+
+        
+    </div>
+
+</div>
+
+
+    
+    
+    <script async src="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-site-en.lc-23fccdc243b393d57bd21ccee8fc20d2-lc.min.js"></script>
+
+
+    
+
+    
+    <script async src="/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base.lc-f53595c3ef66bbc479bfda297131322c-lc.min.js"></script>
+
+
+
+
+    
+
+    
+
+    
+
+
+
+    
+    
+
+
+</body>
+</html>

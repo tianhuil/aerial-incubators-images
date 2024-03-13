@@ -1,0 +1,1836 @@
+
+    <!DOCTYPE html>
+    <html lang="en-US">
+      <head>
+        <title data-rh="">Frontier Angels | Montana Angel Investment Group</title><meta data-rh="" name="description" content="A unique Montana-based investment network. Generating returns for our investors, our communities, and all Montanans by accelerating the growth of the tech ecosystem"/><meta data-rh="" property="og:url" content="https://www.frontierangels.com/"/><meta data-rh="" property="og:type" content="article"/><meta data-rh="" property="og:title" content="Frontier Angels | Montana Angel Investment Group"/><meta data-rh="" property="og:description" content="A unique Montana-based investment network. Generating returns for our investors, our communities, and all Montanans by accelerating the growth of the tech ecosystem"/><meta data-rh="" property="og:image" content="https://www.frontierangels.com/images/img_KDA3d9hcyX886LxLkjV7E8/fa_logo_fa_only_rgb-copy.jpg?preset=facebook"/>
+        <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+        <style type="text/css" >html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}</style>
+        <!-- 
+  Fonts 
+  =====
+  https://fonts.google.com/specimen/Roboto?sidebar.open&selection.family=Assistant:wght@300;600|Roboto:ital,wght@0,400;0,700;1,400&query=roboto
+-->
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;600&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://kit.fontawesome.com/4678887713.js" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.js" integrity="sha512-UU0D/t+4/SgJpOeBYkY+lG16MaNF8aqmermRIz8dlmQhOlBnw6iQrnt4Ijty513WB3w+q4JO75IX03lDj6qQNA==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.css" integrity="sha512-UiVP2uTd2EwFRqPM4IzVXuSFAzw+Vo84jxICHVbOA1VZFUyr4a6giD9O3uvGPFIuB2p3iTnfDVLnkdY7D/SJJQ==" crossorigin="anonymous" />
+
+<style> 
+  .composer a {
+    color: #000000 !important;
+  }
+
+  main {
+    min-height: calc(100vh - 480px);
+  }
+
+  .btn.cta {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    background: black;
+    color: white !important;
+    text-decoration: none;
+    line-height: 3rem;
+    font-size: 1.25rem;
+    padding: 0 1.5rem;
+    font-weight: bold;
+    border-radius: 3px;
+    outline: 2px solid rgba(0, 0, 0, 0);
+    position: relative;
+    transition: color 300ms ease-out;
+  }
+
+  .btn.cta::after {
+    content: '';
+    border-radius: 3px;
+    position: absolute;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    left: -4px;
+    top: -4px;
+    border: 2px solid rgba(0,0,0,0);
+    transition: border-color 300ms ease-out;
+    pointer-events: none;
+  }
+
+  .btn.cta:hover {
+    color: rgb(251,201,21) !important;
+  }
+
+  .btn.cta:hover::after {
+    border: 2px solid rgb(230, 182, 8);
+  }
+
+  .cs-card p {
+    margin-top: 0.5rem !important;
+  }
+
+  .cs-card > div:last-child {
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1) !important;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+    background: rgba(232, 243, 246, 0.15);
+  }
+
+  .cs-card h1,
+  .cs-card h2 {
+    line-height: 1.25 !important;
+  }
+
+  .cs-card h1 {
+    font-size: 1.5rem !important;
+  }
+
+  .cs-rich-text h1,
+  .cs-rich-text h2,
+  .cs-rich-text h3,
+  .cs-rich-text h4,
+  .cs-rich-text h5,
+  .cs-rich-text h6,
+  .cs-card h1,
+  .cs-card h2,
+  .cs-card h3,
+  .cs-card h4,
+  .cs-card h5,
+  .cs-card h6 {
+    font-family: 'Assistant', sans-serif !important;
+  }
+
+  .cs-rich-text h1,
+  .cs-rich-text h2,
+  .cs-rich-text h3,
+  .cs-card h1,
+  .cs-card h2 {
+    font-weight: 300 !important;
+  }
+
+  .cs-rich-text h1 {
+    font-size: 2.25rem !important;
+  }
+
+  .cs-rich-text h2 {
+    font-size: 2.25rem !important;
+  }
+
+  .cs-rich-text h3 {
+    font-size: 1.75rem !important;
+  }
+
+  .cs-rich-text p,
+  .cs-rich-text li {
+    font-size: 1.25rem !important;
+    font-family: 'Roboto', sans-serif !important;
+  }
+
+  .cs-card.cs-card--event h1 {
+    margin-bottom: 0 !important;
+    margin-top: 0.25rem !important;
+  }
+
+  .cs-card.cs-card--event p {
+    margin-bottom: 0.25rem !important;
+    margin-top: 0 !important;
+  }
+
+  @media screen and (min-width: 768px) {
+    .cs-rich-text h1 {
+      font-size: 3.25rem !important;
+    }
+
+    .cs-rich-text h2 {
+      font-size: 3rem !important;
+    }
+
+    .cs-rich-text h3 {
+      font-size: 2.25rem !important;
+    }
+  }
+
+  /* Hero Style */
+
+  .hero {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    margin-top: -83px;
+    overflow: hidden;
+    border-bottom: 2px solid #ddd;
+  }
+
+  .hero__image {
+    background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 100%;
+    will-change: transform;
+    z-index: 0;
+  }
+
+  .hero__images {
+    display: none;
+    flex: 1;
+    padding: 2rem;
+    margin-left: -6rem;
+  }
+
+  .hero__images fa-image-rotator {
+    position: relative;
+  }
+
+  .hero::after,
+  .hero::before {
+    content: '';
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+  }
+
+  .hero::before {
+    background: 
+      linear-gradient(-140deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 40%, rgba(255,255,255,0) 100%);
+    z-index: 1;
+  }
+
+  .hero__content {
+    text-align: left;
+    z-index: 1;
+    position: relative;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding: 0 2rem;
+    max-width: 750px;
+  }
+
+  .hero__content h1 {
+    color: black !important;
+    font-size: 32px !important;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+    line-height: 1.1;
+    text-shadow: 
+      0 0 2px rgba(255,255,255, 0.2),
+      0 0 8px rgba(255,255,255, 0.2),
+      0 0 12px rgba(255,255,255, 0.2),
+      0 0 22px rgba(255,255,255, 0.2);
+    margin-bottom: 0.25em !important;
+  }
+
+  .hero__content p {
+    margin-top: 0 !important;
+    margin-bottom: 1.25rem !important;    
+    max-width: 660px;
+    font-size: 1rem;
+  }
+
+  .hero-ctas .btn.cta {
+    font-size: 16px;
+    padding: 0 9px;
+    line-height: 2;
+    margin-right: 4px;
+    font-weight: 400;
+    margin-bottom: 6px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .hero__content {
+      margin-top: 4rem;
+      margin-bottom: 4rem;
+    }
+
+    .hero__content h1 {
+      font-size: 40px !important;
+    }
+
+    .hero__content p {
+      font-size: 1.5rem;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .hero {
+      max-height: none;
+      min-height: 770px;
+    }
+
+    .hero__image {
+      background-position: 70% 25%;
+    }
+
+    .hero__images {
+      display: block;
+    }
+
+    .hero__content h1 {
+      font-size: 45px !important;
+    }
+
+    .hero {
+      margin-top: -181px;
+    }
+
+    .hero::after {
+      background-size: 120% auto;
+      background-repeat: no-repeat;
+      background-position: 85% 60%;
+    }
+  }
+
+  /* End Hero Style */
+</style>
+
+<script>
+$(document).ready(function() {
+    if (window.parent !== window) {
+      function fixLinks() {
+        $('header a, footer a').each(function(_, el) {
+          var $el = $(el);
+          if (!/viewport=/.test($el.attr('href')) && !/^tel/.test(($el.attr('href')))) {
+            var url = new URL($el.attr('href'), window.location.origin);
+            url.searchParams.append('viewport', 'true');
+            $el.attr('href', url.toString());
+          }
+        });
+      }
+      fixLinks();
+      setInterval(fixLinks, 1000);
+    }
+});
+</script>
+
+
+<!-- Image Rotator Component -->
+
+<script type="module">
+  import {
+    LitElement,
+    css,
+    html,
+  } from "https://unpkg.com/lit-element@2.3.1/lit-element.js?module";
+  import { repeat } from "https://unpkg.com/lit-html@1.2.1/directives/repeat.js";
+  
+  class ImageRotator extends LitElement {
+    static get properties() {
+      return {
+        interval: { type: Number },
+        src: { type: String }
+      };
+    }
+  
+    static get styles() {
+      return css`
+        img {
+          background: white;
+          max-width: 100%;
+          box-shadow: 0 0 8px rgba(0,0,0,0.2);
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translateX(-50%) translateY(-50%);
+          transition: opacity 1s;
+          opacity: 0;
+        }
+
+        img.visible {
+          opacity: 1;
+        }
+      `;
+    }
+  
+    constructor() {
+      super();
+      this.src = '';
+      this.timer = null;
+      this.rotate = this.rotate.bind(this);
+      this.index = 0;
+      this.interval = 5000;
+    }
+  
+    connectedCallback() {
+      super.connectedCallback();
+      this.timer = setInterval(this.rotate, this.interval);
+      setTimeout(() => {
+        this.rotate();
+      }, 16);
+    }
+
+    disconnectedCallback() {
+      if (this.timer) {
+        clearInterval(this.timer);
+      }
+    }
+
+    render() {
+      const images = this.src
+        .split(',')
+        .map(src => src.trim())
+        .map((src, i) => html`<img src="${src}" alt="" />`);
+  
+      return html`
+        ${images}
+      `;
+    }
+
+    rotate() {
+      const images = this.shadowRoot.querySelectorAll('img');
+      
+      if (images.length <= 0) {
+        return;
+      }
+
+      for (let i = 0; i < images.length; i++) {
+        images[i].classList.remove('visible');
+      }
+      
+      images[this.index].classList.add('visible');
+
+      this.index += 1;
+      if (this.index >= images.length) {
+        this.index = 0;
+      }
+    }
+  }
+  
+  customElements.define("fa-image-rotator", ImageRotator);
+</script>
+  
+<style>
+  fa-image-rotator {
+    display: block;
+  }
+
+  @media screen and (min-width: 1200px) {
+    fa-image-rotator {}
+  }
+</style>
+
+<!-- End Image Rotator -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173975921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173975921-1');
+</script>
+
+
+        <style type="text/css" data-ssr="true">
+          .c0114 {
+  height: auto;
+  max-width: 100%;
+}
+.c016 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.c017 {
+  padding: 1rem;
+  max-width: 40rem;
+}
+.c018 {
+  padding: 1rem;
+  max-width: 65rem;
+}
+.c019 {
+  padding: 1rem;
+  max-width: 85rem;
+}
+.c0110 {
+  padding: 0;
+  max-width: 100%;
+}
+.c0117 {
+  display: none;
+}
+.c0122 {
+  display: inline-flex;
+  position: relative;
+}
+.c014 {
+  color: rgba(0, 0, 0, 0.87);
+}
+.c014 .text-align--left {
+  text-align: left;
+}
+.c014 .text-align--right {
+  text-align: right;
+}
+.c014 .text-align--center {
+  text-align: center;
+}
+.c014 .text-align--justify {
+  text-align: justify;
+}
+.c014 h1, .c014 h2, .c014 h3, .c014 h4, .c014 h5, .c014 h6, .c014 .h1, .c014 .h2, .c014 .h3, .c014 .h4, .c014 .h5, .c014 .h6 {
+  color: rgba(0, 0, 0, 0.87);
+}
+.c014 strong, .c014 b {
+  font-weight: 700;
+}
+.c014 em, .c014 i {
+  font-style: italic;
+}
+.c014 a {
+  color: rgb(0, 0, 255);
+}
+.c014 ol, .c014 ul {
+  font-family: system-ui;
+  font-weight: normal;
+}
+.c014 hr {
+  border: none;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.38);
+}
+.c014 ol {
+  margin-left: 1.5rem;
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+.c014 ol li {
+  padding-left: 0.5rem;
+}
+.c014 ul {
+  margin-left: 1.5rem;
+  list-style-type: disc;
+  list-style-position: outside;
+}
+.c014 ul li {
+  padding-left: 0.5rem;
+}
+.c014 li ul, .c014 li ol {
+  margin-top: 0;
+  margin-left: 1rem;
+}
+.c014 h1, .c014 .h1 {
+  font-family: system-ui;
+  font-weight: bold;
+}
+.c014 h2, .c014 .h2 {
+  font-family: system-ui;
+  font-weight: bold;
+}
+.c014 h3, .c014 .h3 {
+  font-family: system-ui;
+  font-weight: bold;
+}
+.c014 h4, .c014 .h4 {
+  font-family: system-ui;
+  font-weight: bold;
+}
+.c014 h5, .c014 .h5 {
+  font-family: system-ui;
+  font-weight: bold;
+}
+.c014 h6, .c014 .h6 {
+  font-family: system-ui;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.c014 p, .c014 .p {
+  font-family: system-ui;
+  font-weight: normal;
+}
+.c014 blockquote, .c014 .blockquote {
+  font-style: italic;
+  font-family: system-ui;
+  font-weight: normal;
+}
+@media (min-width: 0px) {
+  .c014 blockquote, .c014 .blockquote {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 blockquote, .c014 .blockquote {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 blockquote, .c014 .blockquote {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 blockquote, .c014 .blockquote {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 blockquote, .c014 .blockquote {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 p, .c014 .p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 p, .c014 .p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 p, .c014 .p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 p, .c014 .p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 p, .c014 .p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h6, .c014 .h6 {
+    font-size: 0.875rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h6, .c014 .h6 {
+    font-size: 0.875rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h6, .c014 .h6 {
+    font-size: 0.875rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h6, .c014 .h6 {
+    font-size: 0.875rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h6, .c014 .h6 {
+    font-size: 0.875rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h5, .c014 .h5 {
+    font-size: 1rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h5, .c014 .h5 {
+    font-size: 1rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h5, .c014 .h5 {
+    font-size: 1rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h5, .c014 .h5 {
+    font-size: 1rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h5, .c014 .h5 {
+    font-size: 1rem;
+    margin-top: 1.875rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h4, .c014 .h4 {
+    font-size: 1.25rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h4, .c014 .h4 {
+    font-size: 1.25rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h4, .c014 .h4 {
+    font-size: 1.25rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h4, .c014 .h4 {
+    font-size: 1.25rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h4, .c014 .h4 {
+    font-size: 1.25rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h3, .c014 .h3 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h3, .c014 .h3 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h3, .c014 .h3 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h3, .c014 .h3 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h3, .c014 .h3 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h2, .c014 .h2 {
+    font-size: 1.75rem;
+    margin-top: 2.625rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h2, .c014 .h2 {
+    font-size: 1.75rem;
+    margin-top: 2.625rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h2, .c014 .h2 {
+    font-size: 1.75rem;
+    margin-top: 2.625rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h2, .c014 .h2 {
+    font-size: 1.75rem;
+    margin-top: 2.625rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h2, .c014 .h2 {
+    font-size: 1.75rem;
+    margin-top: 2.625rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 h1, .c014 .h1 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 h1, .c014 .h1 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 h1, .c014 .h1 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 h1, .c014 .h1 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 h1, .c014 .h1 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 hr {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 hr {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 hr {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 hr {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 hr {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 0px) {
+  .c014 ol, .c014 ul {
+    font-size: 1rem;
+    margin-top: 1.125rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 600px) {
+  .c014 ol, .c014 ul {
+    font-size: 1rem;
+    margin-top: 1.125rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 960px) {
+  .c014 ol, .c014 ul {
+    font-size: 1rem;
+    margin-top: 1.125rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1280px) {
+  .c014 ol, .c014 ul {
+    font-size: 1rem;
+    margin-top: 1.125rem;
+    line-height: 1.5;
+  }
+}
+@media (min-width: 1920px) {
+  .c014 ol, .c014 ul {
+    font-size: 1rem;
+    margin-top: 1.125rem;
+    line-height: 1.5;
+  }
+}
+.c0111 {
+  margin: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+.c0111 .ql-clipboard {
+  top: 50%;
+  left: -100000px;
+  height: 1px;
+  position: absolute;
+  overflow-y: hidden;
+}
+.c0111 .ql-clipboard p {
+  margin: 0;
+  padding: 0;
+}
+.c0111 .ql-editor {
+  outline: none;
+}
+.c0123 {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 0;
+  z-index: 1000;
+  position: fixed;
+  transform: translate3d(0, 0, 0);
+  background: rgba(0, 0, 0, 0);
+  transition: background 300ms, height 0ms 300ms;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.c0123.c0124 {
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.3);
+  transition: background 300ms;
+}
+.c011 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  transition: padding-top 200ms;
+  padding-top: 60px;
+  flex-direction: column;
+}
+.c012 {
+  padding-top: 50px;
+}
+.c013 {
+  padding-top: 0;
+}
+.c0115 {
+  padding: 6px;
+  position: relative;
+  background: rgb(255, 255, 255);
+}
+.c0120 {
+  box-sizing: border-box;
+  transition: box-shadow 300ms;
+}
+.c0121 {
+  flex: 1;
+  display: flex;
+  position: relative;
+}
+.c0112 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.c0113 {
+  max-width: 100%;
+}
+.c015 {
+  position: relative;
+  box-sizing: border-box;
+}
+        </style>
+        <style data-styled="true" data-styled-version="5.0.1">html{line-height:1.15;-webkit-text-size-adjust:100%;}
+body{margin:0;}
+main{display:block;}
+h1{font-size:2em;margin:0.67em 0;}
+hr{box-sizing:content-box;height:0;overflow:visible;}
+pre{font-family:monospace,monospace;font-size:1em;}
+a{background-color:transparent;}
+abbr[title]{border-bottom:none;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;}
+b,strong{font-weight:bolder;}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em;}
+small{font-size:80%;}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sub{bottom:-0.25em;}
+sup{top:-0.5em;}
+img{border-style:none;}
+button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
+button,input{overflow:visible;}
+button,select{text-transform:none;}
+button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}
+button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}
+button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}
+fieldset{padding:0.35em 0.75em 0.625em;}
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}
+progress{vertical-align:baseline;}
+textarea{overflow:auto;}
+[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}
+[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}
+[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}
+details{display:block;}
+summary{display:list-item;}
+template{display:none;}
+[hidden]{display:none;}
+data-styled.g152[id="sc-global-iFPQQu1"]{content:"sc-global-iFPQQu1,"}
+body{--mint-breakpoints-lg:1280;--mint-breakpoints-md:960;--mint-breakpoints-sm:600;--mint-breakpoints-xl:1920;--mint-breakpoints-xs:0;--mint-comp-divider-size:1px;--mint-modular-scale:1.61803398875;--mint-palette-action-active:rgba(0,0,0,0.54);--mint-palette-action-disabled-background:rgba(0,0,0,0.12);--mint-palette-action-disabled:rgba(0,0,0,0.26);--mint-palette-action-hover-opacity:0.08;--mint-palette-action-hover:rgba(0,0,0,0.08);--mint-palette-action-selected:rgba(0,0,0,0.14);--mint-palette-background-default:#fafafa;--mint-palette-background-surface:#fff;--mint-palette-divider:rgba(0,0,0,0.12);--mint-palette-error-contrast-text:#fff;--mint-palette-error-dark:#d32f2f;--mint-palette-error-light:#e57373;--mint-palette-error-main:#f44336;--mint-palette-neutral-100:#f5f5f5;--mint-palette-neutral-200:#eeeeee;--mint-palette-neutral-300:#e0e0e0;--mint-palette-neutral-400:#bdbdbd;--mint-palette-neutral-500:#9e9e9e;--mint-palette-neutral-50:#fafafa;--mint-palette-neutral-600:#757575;--mint-palette-neutral-700:#616161;--mint-palette-neutral-800:#424242;--mint-palette-neutral-900:#212121;--mint-palette-neutral-a-100:#d5d5d5;--mint-palette-neutral-a-200:#aaaaaa;--mint-palette-neutral-a-400:#303030;--mint-palette-neutral-a-700:#616161;--mint-palette-primary-contrast-text:#fff;--mint-palette-primary-dark:#1976d2;--mint-palette-primary-light:#64b5f6;--mint-palette-primary-main:#2196f3;--mint-palette-secondary-contrast-text:#fff;--mint-palette-secondary-dark:#303f9f;--mint-palette-secondary-light:#7986cb;--mint-palette-secondary-main:#3f51b5;--mint-palette-text-disabled:rgba(0,0,0,0.38);--mint-palette-text-hint:rgba(0,0,0,0.38);--mint-palette-text-primary:rgba(0,0,0,0.87);--mint-palette-text-secondary:rgba(0,0,0,0.54);--mint-palette-tonal-offset:0.2;--mint-palette-warning-contrast-text:#fff;--mint-palette-warning-dark:#e64a19;--mint-palette-warning-light:#ff8a65;--mint-palette-warning-main:#ff5722;--mint-shadows-0:none;--mint-shadows-10:0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);--mint-shadows-11:0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);--mint-shadows-12:0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);--mint-shadows-13:0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);--mint-shadows-14:0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);--mint-shadows-15:0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);--mint-shadows-16:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);--mint-shadows-17:0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);--mint-shadows-18:0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);--mint-shadows-19:0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);--mint-shadows-1:0px 1px 3px 0px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 2px 1px -1px rgba(0,0,0,0.12);--mint-shadows-20:0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);--mint-shadows-21:0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);--mint-shadows-22:0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);--mint-shadows-23:0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);--mint-shadows-24:0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);--mint-shadows-2:0px 1px 5px 0px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 3px 1px -2px rgba(0,0,0,0.12);--mint-shadows-3:0px 1px 8px 0px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 3px 3px -2px rgba(0,0,0,0.12);--mint-shadows-4:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);--mint-shadows-5:0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);--mint-shadows-6:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);--mint-shadows-7:0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);--mint-shadows-8:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);--mint-shadows-9:0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);--mint-spacing:4;--mint-typography-baseline:1;--mint-typography-body-font-family:'Open Sans',sans-serif;--mint-typography-body-font-size-lg:1.15rem;--mint-typography-body-font-size-md:1rem;--mint-typography-body-font-size-sm:1rem;--mint-typography-body-font-size-xl:1.35rem;--mint-typography-body-font-size-xs:1rem;--mint-typography-body-font-stretch:none;--mint-typography-body-font-style:normal;--mint-typography-body-font-variant:normal;--mint-typography-body-font-weight:400;--mint-typography-body-letter-spacing:normal;--mint-typography-body-line-height:1.35;--mint-typography-body-rvr-lg:1;--mint-typography-body-rvr-md:0.75;--mint-typography-body-rvr-sm:0.75;--mint-typography-body-rvr-xl:1.25;--mint-typography-body-rvr-xs:0.75;--mint-typography-body-text-transform:none;--mint-typography-body-vr:0.75;--mint-typography-button-font-family:'Rubik',sans-serif;--mint-typography-button-font-size-lg:0.850rem;--mint-typography-button-font-size-md:0.825rem;--mint-typography-button-font-size-sm:0.8rem;--mint-typography-button-font-size-xl:0.900rem;--mint-typography-button-font-size-xs:0.8rem;--mint-typography-button-font-stretch:none;--mint-typography-button-font-style:normal;--mint-typography-button-font-variant:normal;--mint-typography-button-font-weight:400;--mint-typography-button-letter-spacing:normal;--mint-typography-button-line-height:1.75;--mint-typography-button-rvr-lg:0.75;--mint-typography-button-rvr-md:0.5;--mint-typography-button-rvr-sm:0.5;--mint-typography-button-rvr-xl:1;--mint-typography-button-rvr-xs:0.5;--mint-typography-button-text-transform:none;--mint-typography-button-vr:0.75;--mint-typography-caption-font-family:'Rubik',sans-serif;--mint-typography-caption-font-size-lg:1rem;--mint-typography-caption-font-size-md:1rem;--mint-typography-caption-font-size-sm:1rem;--mint-typography-caption-font-size-xl:1rem;--mint-typography-caption-font-size-xs:1rem;--mint-typography-caption-font-stretch:none;--mint-typography-caption-font-style:normal;--mint-typography-caption-font-variant:normal;--mint-typography-caption-font-weight:400;--mint-typography-caption-letter-spacing:normal;--mint-typography-caption-line-height:1.35;--mint-typography-caption-rvr-lg:0.75;--mint-typography-caption-rvr-md:0.75;--mint-typography-caption-rvr-sm:0.75;--mint-typography-caption-rvr-xl:0.75;--mint-typography-caption-rvr-xs:0.75;--mint-typography-caption-text-transform:none;--mint-typography-caption-vr:0.75;--mint-typography-control-font-family:'Rubik',sans-serif;--mint-typography-control-font-size-lg:0.950rem;--mint-typography-control-font-size-md:0.925rem;--mint-typography-control-font-size-sm:0.900rem;--mint-typography-control-font-size-xl:0.975rem;--mint-typography-control-font-size-xs:0.900rem;--mint-typography-control-font-stretch:none;--mint-typography-control-font-style:normal;--mint-typography-control-font-variant:normal;--mint-typography-control-font-weight:400;--mint-typography-control-letter-spacing:normal;--mint-typography-control-line-height:1.75;--mint-typography-control-rvr-lg:0.75;--mint-typography-control-rvr-md:0.5;--mint-typography-control-rvr-sm:0.5;--mint-typography-control-rvr-xl:1;--mint-typography-control-rvr-xs:0.5;--mint-typography-control-text-transform:none;--mint-typography-control-vr:0.75;--mint-typography-dense-font-family:'Rubik',sans-serif;--mint-typography-dense-font-size-lg:0.9rem;--mint-typography-dense-font-size-md:0.8rem;--mint-typography-dense-font-size-sm:0.8rem;--mint-typography-dense-font-size-xl:1rem;--mint-typography-dense-font-size-xs:0.8rem;--mint-typography-dense-font-stretch:none;--mint-typography-dense-font-style:normal;--mint-typography-dense-font-variant:normal;--mint-typography-dense-font-weight:400;--mint-typography-dense-letter-spacing:normal;--mint-typography-dense-line-height:1.6;--mint-typography-dense-rvr-lg:0.75;--mint-typography-dense-rvr-md:0.75;--mint-typography-dense-rvr-sm:0.75;--mint-typography-dense-rvr-xl:0.75;--mint-typography-dense-rvr-xs:0.75;--mint-typography-dense-text-transform:none;--mint-typography-dense-vr:0.75;--mint-typography-h1-font-family:'Rubik',sans-serif;--mint-typography-h1-font-size-lg:2rem;--mint-typography-h1-font-size-md:2rem;--mint-typography-h1-font-size-sm:2rem;--mint-typography-h1-font-size-xl:2rem;--mint-typography-h1-font-size-xs:2rem;--mint-typography-h1-font-stretch:none;--mint-typography-h1-font-style:normal;--mint-typography-h1-font-variant:normal;--mint-typography-h1-font-weight:700;--mint-typography-h1-letter-spacing:-0.04em;--mint-typography-h1-line-height:1.05;--mint-typography-h1-rvr-lg:1.5;--mint-typography-h1-rvr-md:1.5;--mint-typography-h1-rvr-sm:1.5;--mint-typography-h1-rvr-xl:1.5;--mint-typography-h1-rvr-xs:1.5;--mint-typography-h1-text-transform:none;--mint-typography-h1-vr:0.75;--mint-typography-h2-font-family:'Rubik',sans-serif;--mint-typography-h2-font-size-lg:1.4rem;--mint-typography-h2-font-size-md:1.4rem;--mint-typography-h2-font-size-sm:1.4rem;--mint-typography-h2-font-size-xl:1.4rem;--mint-typography-h2-font-size-xs:1.4rem;--mint-typography-h2-font-stretch:none;--mint-typography-h2-font-style:normal;--mint-typography-h2-font-variant:normal;--mint-typography-h2-font-weight:500;--mint-typography-h2-letter-spacing:-0.02em;--mint-typography-h2-line-height:1;--mint-typography-h2-rvr-lg:1.5;--mint-typography-h2-rvr-md:1.5;--mint-typography-h2-rvr-sm:1.5;--mint-typography-h2-rvr-xl:1.5;--mint-typography-h2-rvr-xs:1.5;--mint-typography-h2-text-transform:none;--mint-typography-h2-vr:0.75;--mint-typography-h3-font-family:'Rubik',sans-serif;--mint-typography-h3-font-size-lg:2.5rem;--mint-typography-h3-font-size-md:2rem;--mint-typography-h3-font-size-sm:2rem;--mint-typography-h3-font-size-xl:3rem;--mint-typography-h3-font-size-xs:2rem;--mint-typography-h3-font-stretch:none;--mint-typography-h3-font-style:normal;--mint-typography-h3-font-variant:normal;--mint-typography-h3-font-weight:700;--mint-typography-h3-letter-spacing:-0.02em;--mint-typography-h3-line-height:1;--mint-typography-h3-rvr-lg:2.5;--mint-typography-h3-rvr-md:2;--mint-typography-h3-rvr-sm:1.5;--mint-typography-h3-rvr-xl:3;--mint-typography-h3-rvr-xs:1.5;--mint-typography-h3-text-transform:none;--mint-typography-h3-vr:0.75;--mint-typography-h4-font-family:'Rubik',sans-serif;--mint-typography-h4-font-size-lg:2rem;--mint-typography-h4-font-size-md:1.5rem;--mint-typography-h4-font-size-sm:1.5rem;--mint-typography-h4-font-size-xl:2.5rem;--mint-typography-h4-font-size-xs:1.5rem;--mint-typography-h4-font-stretch:none;--mint-typography-h4-font-style:normal;--mint-typography-h4-font-variant:normal;--mint-typography-h4-font-weight:700;--mint-typography-h4-letter-spacing:-0.01em;--mint-typography-h4-line-height:1;--mint-typography-h4-rvr-lg:2.5;--mint-typography-h4-rvr-md:2;--mint-typography-h4-rvr-sm:1.5;--mint-typography-h4-rvr-xl:3;--mint-typography-h4-rvr-xs:1.5;--mint-typography-h4-text-transform:none;--mint-typography-h4-vr:0.75;--mint-typography-h5-font-family:'Rubik',sans-serif;--mint-typography-h5-font-size-lg:1.5rem;--mint-typography-h5-font-size-md:1.25rem;--mint-typography-h5-font-size-sm:1.25rem;--mint-typography-h5-font-size-xl:2rem;--mint-typography-h5-font-size-xs:1.25rem;--mint-typography-h5-font-stretch:none;--mint-typography-h5-font-style:normal;--mint-typography-h5-font-variant:normal;--mint-typography-h5-font-weight:700;--mint-typography-h5-letter-spacing:0.04em;--mint-typography-h5-line-height:1;--mint-typography-h5-rvr-lg:2.5;--mint-typography-h5-rvr-md:2;--mint-typography-h5-rvr-sm:1.5;--mint-typography-h5-rvr-xl:3;--mint-typography-h5-rvr-xs:1.5;--mint-typography-h5-text-transform:uppercase;--mint-typography-h5-vr:0.75;--mint-typography-h6-font-family:'Rubik',sans-serif;--mint-typography-h6-font-size-lg:1rem;--mint-typography-h6-font-size-md:1rem;--mint-typography-h6-font-size-sm:1rem;--mint-typography-h6-font-size-xl:1.5rem;--mint-typography-h6-font-size-xs:1rem;--mint-typography-h6-font-stretch:none;--mint-typography-h6-font-style:normal;--mint-typography-h6-font-variant:normal;--mint-typography-h6-font-weight:700;--mint-typography-h6-letter-spacing:0.05em;--mint-typography-h6-line-height:1;--mint-typography-h6-rvr-lg:2.5;--mint-typography-h6-rvr-md:2;--mint-typography-h6-rvr-sm:1.5;--mint-typography-h6-rvr-xl:3;--mint-typography-h6-rvr-xs:1.5;--mint-typography-h6-text-transform:uppercase;--mint-typography-h6-vr:0.75;--mint-typography-helper-font-family:'Rubik',sans-serif;--mint-typography-helper-font-size-lg:0.725rem;--mint-typography-helper-font-size-md:0.700rem;--mint-typography-helper-font-size-sm:0.675rem;--mint-typography-helper-font-size-xl:0.750rem;--mint-typography-helper-font-size-xs:0.675rem;--mint-typography-helper-font-stretch:none;--mint-typography-helper-font-style:normal;--mint-typography-helper-font-variant:normal;--mint-typography-helper-font-weight:500;--mint-typography-helper-letter-spacing:normal;--mint-typography-helper-line-height:1.5;--mint-typography-helper-rvr-lg:0.75;--mint-typography-helper-rvr-md:0.75;--mint-typography-helper-rvr-sm:0.75;--mint-typography-helper-rvr-xl:0.75;--mint-typography-helper-rvr-xs:0.75;--mint-typography-helper-text-transform:none;--mint-typography-helper-vr:0.75;--mint-typography-overline-font-family:'Rubik',sans-serif;--mint-typography-overline-font-size-lg:1rem;--mint-typography-overline-font-size-md:0.75rem;--mint-typography-overline-font-size-sm:0.75rem;--mint-typography-overline-font-size-xl:1rem;--mint-typography-overline-font-size-xs:0.75rem;--mint-typography-overline-font-stretch:none;--mint-typography-overline-font-style:normal;--mint-typography-overline-font-variant:normal;--mint-typography-overline-font-weight:400;--mint-typography-overline-letter-spacing:0.05em;--mint-typography-overline-line-height:1.35;--mint-typography-overline-rvr-lg:1;--mint-typography-overline-rvr-md:1;--mint-typography-overline-rvr-sm:1;--mint-typography-overline-rvr-xl:1;--mint-typography-overline-rvr-xs:1;--mint-typography-overline-text-transform:uppercase;--mint-typography-overline-vr:0.75;--mint-typography-subtitle-font-family:'Rubik',sans-serif;--mint-typography-subtitle-font-size-lg:1.35rem;--mint-typography-subtitle-font-size-md:1rem;--mint-typography-subtitle-font-size-sm:1rem;--mint-typography-subtitle-font-size-xl:1.5rem;--mint-typography-subtitle-font-size-xs:1rem;--mint-typography-subtitle-font-stretch:none;--mint-typography-subtitle-font-style:normal;--mint-typography-subtitle-font-variant:normal;--mint-typography-subtitle-font-weight:600;--mint-typography-subtitle-letter-spacing:0.03em;--mint-typography-subtitle-line-height:1.35;--mint-typography-subtitle-rvr-lg:1;--mint-typography-subtitle-rvr-md:1;--mint-typography-subtitle-rvr-sm:1;--mint-typography-subtitle-rvr-xl:1;--mint-typography-subtitle-rvr-xs:1;--mint-typography-subtitle-text-transform:uppercase;--mint-typography-subtitle-vr:0.75;}
+data-styled.g153[id="sc-global-fCDinb1"]{content:"sc-global-fCDinb1,"}
+html{line-height:1.15;-webkit-text-size-adjust:100%;}
+body{margin:0;}
+main{display:block;}
+h1{font-size:2em;margin:0.67em 0;}
+hr{box-sizing:content-box;height:0;overflow:visible;}
+pre{font-family:monospace,monospace;font-size:1em;}
+a{background-color:transparent;}
+abbr[title]{border-bottom:none;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;}
+b,strong{font-weight:bolder;}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em;}
+small{font-size:80%;}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sub{bottom:-0.25em;}
+sup{top:-0.5em;}
+img{border-style:none;}
+button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
+button,input{overflow:visible;}
+button,select{text-transform:none;}
+button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}
+button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}
+button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}
+fieldset{padding:0.35em 0.75em 0.625em;}
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}
+progress{vertical-align:baseline;}
+textarea{overflow:auto;}
+[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}
+[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}
+[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}
+details{display:block;}
+summary{display:list-item;}
+template{display:none;}
+[hidden]{display:none;}
+data-styled.g154[id="sc-global-iFPQQu2"]{content:"sc-global-iFPQQu2,"}
+body{--mint-breakpoints-lg:1280;--mint-breakpoints-md:960;--mint-breakpoints-sm:600;--mint-breakpoints-xl:1920;--mint-breakpoints-xs:0;--mint-comp-divider-size:1px;--mint-modular-scale:1.61803398875;--mint-palette-action-active:rgba(0,0,0,0.54);--mint-palette-action-disabled-background:rgba(0,0,0,0.12);--mint-palette-action-disabled:rgba(0,0,0,0.26);--mint-palette-action-hover-opacity:0.08;--mint-palette-action-hover:rgba(0,0,0,0.08);--mint-palette-action-selected:rgba(0,0,0,0.14);--mint-palette-background-default:#fafafa;--mint-palette-background-surface:#fff;--mint-palette-divider:rgba(0,0,0,0.12);--mint-palette-error-contrast-text:#fff;--mint-palette-error-dark:#d32f2f;--mint-palette-error-light:#e57373;--mint-palette-error-main:#f44336;--mint-palette-neutral-100:#f5f5f5;--mint-palette-neutral-200:#eeeeee;--mint-palette-neutral-300:#e0e0e0;--mint-palette-neutral-400:#bdbdbd;--mint-palette-neutral-500:#9e9e9e;--mint-palette-neutral-50:#fafafa;--mint-palette-neutral-600:#757575;--mint-palette-neutral-700:#616161;--mint-palette-neutral-800:#424242;--mint-palette-neutral-900:#212121;--mint-palette-neutral-a-100:#d5d5d5;--mint-palette-neutral-a-200:#aaaaaa;--mint-palette-neutral-a-400:#303030;--mint-palette-neutral-a-700:#616161;--mint-palette-primary-contrast-text:#fff;--mint-palette-primary-dark:#1976d2;--mint-palette-primary-light:#64b5f6;--mint-palette-primary-main:#2196f3;--mint-palette-secondary-contrast-text:#fff;--mint-palette-secondary-dark:#303f9f;--mint-palette-secondary-light:#7986cb;--mint-palette-secondary-main:#3f51b5;--mint-palette-text-disabled:rgba(0,0,0,0.38);--mint-palette-text-hint:rgba(0,0,0,0.38);--mint-palette-text-primary:rgba(0,0,0,0.87);--mint-palette-text-secondary:rgba(0,0,0,0.54);--mint-palette-tonal-offset:0.2;--mint-palette-warning-contrast-text:#fff;--mint-palette-warning-dark:#e64a19;--mint-palette-warning-light:#ff8a65;--mint-palette-warning-main:#ff5722;--mint-shadows-0:none;--mint-shadows-10:0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);--mint-shadows-11:0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);--mint-shadows-12:0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);--mint-shadows-13:0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);--mint-shadows-14:0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);--mint-shadows-15:0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);--mint-shadows-16:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);--mint-shadows-17:0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);--mint-shadows-18:0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);--mint-shadows-19:0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);--mint-shadows-1:0px 1px 3px 0px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 2px 1px -1px rgba(0,0,0,0.12);--mint-shadows-20:0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);--mint-shadows-21:0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);--mint-shadows-22:0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);--mint-shadows-23:0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);--mint-shadows-24:0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);--mint-shadows-2:0px 1px 5px 0px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 3px 1px -2px rgba(0,0,0,0.12);--mint-shadows-3:0px 1px 8px 0px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 3px 3px -2px rgba(0,0,0,0.12);--mint-shadows-4:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);--mint-shadows-5:0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);--mint-shadows-6:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);--mint-shadows-7:0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);--mint-shadows-8:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);--mint-shadows-9:0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);--mint-spacing:4;--mint-typography-baseline:1;--mint-typography-body-font-family:'Open Sans',sans-serif;--mint-typography-body-font-size-lg:1.15rem;--mint-typography-body-font-size-md:1rem;--mint-typography-body-font-size-sm:1rem;--mint-typography-body-font-size-xl:1.35rem;--mint-typography-body-font-size-xs:1rem;--mint-typography-body-font-stretch:none;--mint-typography-body-font-style:normal;--mint-typography-body-font-variant:normal;--mint-typography-body-font-weight:400;--mint-typography-body-letter-spacing:normal;--mint-typography-body-line-height:1.35;--mint-typography-body-rvr-lg:1;--mint-typography-body-rvr-md:0.75;--mint-typography-body-rvr-sm:0.75;--mint-typography-body-rvr-xl:1.25;--mint-typography-body-rvr-xs:0.75;--mint-typography-body-text-transform:none;--mint-typography-body-vr:0.75;--mint-typography-button-font-family:'Rubik',sans-serif;--mint-typography-button-font-size-lg:0.850rem;--mint-typography-button-font-size-md:0.825rem;--mint-typography-button-font-size-sm:0.8rem;--mint-typography-button-font-size-xl:0.900rem;--mint-typography-button-font-size-xs:0.8rem;--mint-typography-button-font-stretch:none;--mint-typography-button-font-style:normal;--mint-typography-button-font-variant:normal;--mint-typography-button-font-weight:400;--mint-typography-button-letter-spacing:normal;--mint-typography-button-line-height:1.75;--mint-typography-button-rvr-lg:0.75;--mint-typography-button-rvr-md:0.5;--mint-typography-button-rvr-sm:0.5;--mint-typography-button-rvr-xl:1;--mint-typography-button-rvr-xs:0.5;--mint-typography-button-text-transform:none;--mint-typography-button-vr:0.75;--mint-typography-caption-font-family:'Rubik',sans-serif;--mint-typography-caption-font-size-lg:1rem;--mint-typography-caption-font-size-md:1rem;--mint-typography-caption-font-size-sm:1rem;--mint-typography-caption-font-size-xl:1rem;--mint-typography-caption-font-size-xs:1rem;--mint-typography-caption-font-stretch:none;--mint-typography-caption-font-style:normal;--mint-typography-caption-font-variant:normal;--mint-typography-caption-font-weight:400;--mint-typography-caption-letter-spacing:normal;--mint-typography-caption-line-height:1.35;--mint-typography-caption-rvr-lg:0.75;--mint-typography-caption-rvr-md:0.75;--mint-typography-caption-rvr-sm:0.75;--mint-typography-caption-rvr-xl:0.75;--mint-typography-caption-rvr-xs:0.75;--mint-typography-caption-text-transform:none;--mint-typography-caption-vr:0.75;--mint-typography-control-font-family:'Rubik',sans-serif;--mint-typography-control-font-size-lg:0.950rem;--mint-typography-control-font-size-md:0.925rem;--mint-typography-control-font-size-sm:0.900rem;--mint-typography-control-font-size-xl:0.975rem;--mint-typography-control-font-size-xs:0.900rem;--mint-typography-control-font-stretch:none;--mint-typography-control-font-style:normal;--mint-typography-control-font-variant:normal;--mint-typography-control-font-weight:400;--mint-typography-control-letter-spacing:normal;--mint-typography-control-line-height:1.75;--mint-typography-control-rvr-lg:0.75;--mint-typography-control-rvr-md:0.5;--mint-typography-control-rvr-sm:0.5;--mint-typography-control-rvr-xl:1;--mint-typography-control-rvr-xs:0.5;--mint-typography-control-text-transform:none;--mint-typography-control-vr:0.75;--mint-typography-dense-font-family:'Rubik',sans-serif;--mint-typography-dense-font-size-lg:0.9rem;--mint-typography-dense-font-size-md:0.8rem;--mint-typography-dense-font-size-sm:0.8rem;--mint-typography-dense-font-size-xl:1rem;--mint-typography-dense-font-size-xs:0.8rem;--mint-typography-dense-font-stretch:none;--mint-typography-dense-font-style:normal;--mint-typography-dense-font-variant:normal;--mint-typography-dense-font-weight:400;--mint-typography-dense-letter-spacing:normal;--mint-typography-dense-line-height:1.6;--mint-typography-dense-rvr-lg:0.75;--mint-typography-dense-rvr-md:0.75;--mint-typography-dense-rvr-sm:0.75;--mint-typography-dense-rvr-xl:0.75;--mint-typography-dense-rvr-xs:0.75;--mint-typography-dense-text-transform:none;--mint-typography-dense-vr:0.75;--mint-typography-h1-font-family:'Rubik',sans-serif;--mint-typography-h1-font-size-lg:2rem;--mint-typography-h1-font-size-md:2rem;--mint-typography-h1-font-size-sm:2rem;--mint-typography-h1-font-size-xl:2rem;--mint-typography-h1-font-size-xs:2rem;--mint-typography-h1-font-stretch:none;--mint-typography-h1-font-style:normal;--mint-typography-h1-font-variant:normal;--mint-typography-h1-font-weight:700;--mint-typography-h1-letter-spacing:-0.04em;--mint-typography-h1-line-height:1.05;--mint-typography-h1-rvr-lg:1.5;--mint-typography-h1-rvr-md:1.5;--mint-typography-h1-rvr-sm:1.5;--mint-typography-h1-rvr-xl:1.5;--mint-typography-h1-rvr-xs:1.5;--mint-typography-h1-text-transform:none;--mint-typography-h1-vr:0.75;--mint-typography-h2-font-family:'Rubik',sans-serif;--mint-typography-h2-font-size-lg:1.4rem;--mint-typography-h2-font-size-md:1.4rem;--mint-typography-h2-font-size-sm:1.4rem;--mint-typography-h2-font-size-xl:1.4rem;--mint-typography-h2-font-size-xs:1.4rem;--mint-typography-h2-font-stretch:none;--mint-typography-h2-font-style:normal;--mint-typography-h2-font-variant:normal;--mint-typography-h2-font-weight:500;--mint-typography-h2-letter-spacing:-0.02em;--mint-typography-h2-line-height:1;--mint-typography-h2-rvr-lg:1.5;--mint-typography-h2-rvr-md:1.5;--mint-typography-h2-rvr-sm:1.5;--mint-typography-h2-rvr-xl:1.5;--mint-typography-h2-rvr-xs:1.5;--mint-typography-h2-text-transform:none;--mint-typography-h2-vr:0.75;--mint-typography-h3-font-family:'Rubik',sans-serif;--mint-typography-h3-font-size-lg:2.5rem;--mint-typography-h3-font-size-md:2rem;--mint-typography-h3-font-size-sm:2rem;--mint-typography-h3-font-size-xl:3rem;--mint-typography-h3-font-size-xs:2rem;--mint-typography-h3-font-stretch:none;--mint-typography-h3-font-style:normal;--mint-typography-h3-font-variant:normal;--mint-typography-h3-font-weight:700;--mint-typography-h3-letter-spacing:-0.02em;--mint-typography-h3-line-height:1;--mint-typography-h3-rvr-lg:2.5;--mint-typography-h3-rvr-md:2;--mint-typography-h3-rvr-sm:1.5;--mint-typography-h3-rvr-xl:3;--mint-typography-h3-rvr-xs:1.5;--mint-typography-h3-text-transform:none;--mint-typography-h3-vr:0.75;--mint-typography-h4-font-family:'Rubik',sans-serif;--mint-typography-h4-font-size-lg:2rem;--mint-typography-h4-font-size-md:1.5rem;--mint-typography-h4-font-size-sm:1.5rem;--mint-typography-h4-font-size-xl:2.5rem;--mint-typography-h4-font-size-xs:1.5rem;--mint-typography-h4-font-stretch:none;--mint-typography-h4-font-style:normal;--mint-typography-h4-font-variant:normal;--mint-typography-h4-font-weight:700;--mint-typography-h4-letter-spacing:-0.01em;--mint-typography-h4-line-height:1;--mint-typography-h4-rvr-lg:2.5;--mint-typography-h4-rvr-md:2;--mint-typography-h4-rvr-sm:1.5;--mint-typography-h4-rvr-xl:3;--mint-typography-h4-rvr-xs:1.5;--mint-typography-h4-text-transform:none;--mint-typography-h4-vr:0.75;--mint-typography-h5-font-family:'Rubik',sans-serif;--mint-typography-h5-font-size-lg:1.5rem;--mint-typography-h5-font-size-md:1.25rem;--mint-typography-h5-font-size-sm:1.25rem;--mint-typography-h5-font-size-xl:2rem;--mint-typography-h5-font-size-xs:1.25rem;--mint-typography-h5-font-stretch:none;--mint-typography-h5-font-style:normal;--mint-typography-h5-font-variant:normal;--mint-typography-h5-font-weight:700;--mint-typography-h5-letter-spacing:0.04em;--mint-typography-h5-line-height:1;--mint-typography-h5-rvr-lg:2.5;--mint-typography-h5-rvr-md:2;--mint-typography-h5-rvr-sm:1.5;--mint-typography-h5-rvr-xl:3;--mint-typography-h5-rvr-xs:1.5;--mint-typography-h5-text-transform:uppercase;--mint-typography-h5-vr:0.75;--mint-typography-h6-font-family:'Rubik',sans-serif;--mint-typography-h6-font-size-lg:1rem;--mint-typography-h6-font-size-md:1rem;--mint-typography-h6-font-size-sm:1rem;--mint-typography-h6-font-size-xl:1.5rem;--mint-typography-h6-font-size-xs:1rem;--mint-typography-h6-font-stretch:none;--mint-typography-h6-font-style:normal;--mint-typography-h6-font-variant:normal;--mint-typography-h6-font-weight:700;--mint-typography-h6-letter-spacing:0.05em;--mint-typography-h6-line-height:1;--mint-typography-h6-rvr-lg:2.5;--mint-typography-h6-rvr-md:2;--mint-typography-h6-rvr-sm:1.5;--mint-typography-h6-rvr-xl:3;--mint-typography-h6-rvr-xs:1.5;--mint-typography-h6-text-transform:uppercase;--mint-typography-h6-vr:0.75;--mint-typography-helper-font-family:'Rubik',sans-serif;--mint-typography-helper-font-size-lg:0.725rem;--mint-typography-helper-font-size-md:0.700rem;--mint-typography-helper-font-size-sm:0.675rem;--mint-typography-helper-font-size-xl:0.750rem;--mint-typography-helper-font-size-xs:0.675rem;--mint-typography-helper-font-stretch:none;--mint-typography-helper-font-style:normal;--mint-typography-helper-font-variant:normal;--mint-typography-helper-font-weight:500;--mint-typography-helper-letter-spacing:normal;--mint-typography-helper-line-height:1.5;--mint-typography-helper-rvr-lg:0.75;--mint-typography-helper-rvr-md:0.75;--mint-typography-helper-rvr-sm:0.75;--mint-typography-helper-rvr-xl:0.75;--mint-typography-helper-rvr-xs:0.75;--mint-typography-helper-text-transform:none;--mint-typography-helper-vr:0.75;--mint-typography-overline-font-family:'Rubik',sans-serif;--mint-typography-overline-font-size-lg:1rem;--mint-typography-overline-font-size-md:0.75rem;--mint-typography-overline-font-size-sm:0.75rem;--mint-typography-overline-font-size-xl:1rem;--mint-typography-overline-font-size-xs:0.75rem;--mint-typography-overline-font-stretch:none;--mint-typography-overline-font-style:normal;--mint-typography-overline-font-variant:normal;--mint-typography-overline-font-weight:400;--mint-typography-overline-letter-spacing:0.05em;--mint-typography-overline-line-height:1.35;--mint-typography-overline-rvr-lg:1;--mint-typography-overline-rvr-md:1;--mint-typography-overline-rvr-sm:1;--mint-typography-overline-rvr-xl:1;--mint-typography-overline-rvr-xs:1;--mint-typography-overline-text-transform:uppercase;--mint-typography-overline-vr:0.75;--mint-typography-subtitle-font-family:'Rubik',sans-serif;--mint-typography-subtitle-font-size-lg:1.35rem;--mint-typography-subtitle-font-size-md:1rem;--mint-typography-subtitle-font-size-sm:1rem;--mint-typography-subtitle-font-size-xl:1.5rem;--mint-typography-subtitle-font-size-xs:1rem;--mint-typography-subtitle-font-stretch:none;--mint-typography-subtitle-font-style:normal;--mint-typography-subtitle-font-variant:normal;--mint-typography-subtitle-font-weight:600;--mint-typography-subtitle-letter-spacing:0.03em;--mint-typography-subtitle-line-height:1.35;--mint-typography-subtitle-rvr-lg:1;--mint-typography-subtitle-rvr-md:1;--mint-typography-subtitle-rvr-sm:1;--mint-typography-subtitle-rvr-xl:1;--mint-typography-subtitle-rvr-xs:1;--mint-typography-subtitle-text-transform:uppercase;--mint-typography-subtitle-vr:0.75;}
+data-styled.g155[id="sc-global-fCDinb2"]{content:"sc-global-fCDinb2,"}
+html{line-height:1.15;-webkit-text-size-adjust:100%;}
+body{margin:0;}
+main{display:block;}
+h1{font-size:2em;margin:0.67em 0;}
+hr{box-sizing:content-box;height:0;overflow:visible;}
+pre{font-family:monospace,monospace;font-size:1em;}
+a{background-color:transparent;}
+abbr[title]{border-bottom:none;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;}
+b,strong{font-weight:bolder;}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em;}
+small{font-size:80%;}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sub{bottom:-0.25em;}
+sup{top:-0.5em;}
+img{border-style:none;}
+button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
+button,input{overflow:visible;}
+button,select{text-transform:none;}
+button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}
+button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}
+button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}
+fieldset{padding:0.35em 0.75em 0.625em;}
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}
+progress{vertical-align:baseline;}
+textarea{overflow:auto;}
+[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}
+[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}
+[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}
+details{display:block;}
+summary{display:list-item;}
+template{display:none;}
+[hidden]{display:none;}
+data-styled.g156[id="sc-global-iFPQQu3"]{content:"sc-global-iFPQQu3,"}
+body{--mint-breakpoints-lg:1280;--mint-breakpoints-md:960;--mint-breakpoints-sm:600;--mint-breakpoints-xl:1920;--mint-breakpoints-xs:0;--mint-comp-divider-size:1px;--mint-modular-scale:1.61803398875;--mint-palette-action-active:rgba(0,0,0,0.54);--mint-palette-action-disabled-background:rgba(0,0,0,0.12);--mint-palette-action-disabled:rgba(0,0,0,0.26);--mint-palette-action-hover-opacity:0.08;--mint-palette-action-hover:rgba(0,0,0,0.08);--mint-palette-action-selected:rgba(0,0,0,0.14);--mint-palette-background-default:#fafafa;--mint-palette-background-surface:#fff;--mint-palette-divider:rgba(0,0,0,0.12);--mint-palette-error-contrast-text:#fff;--mint-palette-error-dark:#d32f2f;--mint-palette-error-light:#e57373;--mint-palette-error-main:#f44336;--mint-palette-neutral-100:#f5f5f5;--mint-palette-neutral-200:#eeeeee;--mint-palette-neutral-300:#e0e0e0;--mint-palette-neutral-400:#bdbdbd;--mint-palette-neutral-500:#9e9e9e;--mint-palette-neutral-50:#fafafa;--mint-palette-neutral-600:#757575;--mint-palette-neutral-700:#616161;--mint-palette-neutral-800:#424242;--mint-palette-neutral-900:#212121;--mint-palette-neutral-a-100:#d5d5d5;--mint-palette-neutral-a-200:#aaaaaa;--mint-palette-neutral-a-400:#303030;--mint-palette-neutral-a-700:#616161;--mint-palette-primary-contrast-text:#fff;--mint-palette-primary-dark:#1976d2;--mint-palette-primary-light:#64b5f6;--mint-palette-primary-main:#2196f3;--mint-palette-secondary-contrast-text:#fff;--mint-palette-secondary-dark:#303f9f;--mint-palette-secondary-light:#7986cb;--mint-palette-secondary-main:#3f51b5;--mint-palette-text-disabled:rgba(0,0,0,0.38);--mint-palette-text-hint:rgba(0,0,0,0.38);--mint-palette-text-primary:rgba(0,0,0,0.87);--mint-palette-text-secondary:rgba(0,0,0,0.54);--mint-palette-tonal-offset:0.2;--mint-palette-warning-contrast-text:#fff;--mint-palette-warning-dark:#e64a19;--mint-palette-warning-light:#ff8a65;--mint-palette-warning-main:#ff5722;--mint-shadows-0:none;--mint-shadows-10:0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);--mint-shadows-11:0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);--mint-shadows-12:0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);--mint-shadows-13:0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);--mint-shadows-14:0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);--mint-shadows-15:0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);--mint-shadows-16:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);--mint-shadows-17:0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);--mint-shadows-18:0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);--mint-shadows-19:0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);--mint-shadows-1:0px 1px 3px 0px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 2px 1px -1px rgba(0,0,0,0.12);--mint-shadows-20:0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);--mint-shadows-21:0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);--mint-shadows-22:0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);--mint-shadows-23:0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);--mint-shadows-24:0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);--mint-shadows-2:0px 1px 5px 0px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 3px 1px -2px rgba(0,0,0,0.12);--mint-shadows-3:0px 1px 8px 0px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 3px 3px -2px rgba(0,0,0,0.12);--mint-shadows-4:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);--mint-shadows-5:0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);--mint-shadows-6:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);--mint-shadows-7:0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);--mint-shadows-8:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);--mint-shadows-9:0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);--mint-spacing:4;--mint-typography-baseline:1;--mint-typography-body-font-family:'Open Sans',sans-serif;--mint-typography-body-font-size-lg:1.15rem;--mint-typography-body-font-size-md:1rem;--mint-typography-body-font-size-sm:1rem;--mint-typography-body-font-size-xl:1.35rem;--mint-typography-body-font-size-xs:1rem;--mint-typography-body-font-stretch:none;--mint-typography-body-font-style:normal;--mint-typography-body-font-variant:normal;--mint-typography-body-font-weight:400;--mint-typography-body-letter-spacing:normal;--mint-typography-body-line-height:1.35;--mint-typography-body-rvr-lg:1;--mint-typography-body-rvr-md:0.75;--mint-typography-body-rvr-sm:0.75;--mint-typography-body-rvr-xl:1.25;--mint-typography-body-rvr-xs:0.75;--mint-typography-body-text-transform:none;--mint-typography-body-vr:0.75;--mint-typography-button-font-family:'Rubik',sans-serif;--mint-typography-button-font-size-lg:0.850rem;--mint-typography-button-font-size-md:0.825rem;--mint-typography-button-font-size-sm:0.8rem;--mint-typography-button-font-size-xl:0.900rem;--mint-typography-button-font-size-xs:0.8rem;--mint-typography-button-font-stretch:none;--mint-typography-button-font-style:normal;--mint-typography-button-font-variant:normal;--mint-typography-button-font-weight:400;--mint-typography-button-letter-spacing:normal;--mint-typography-button-line-height:1.75;--mint-typography-button-rvr-lg:0.75;--mint-typography-button-rvr-md:0.5;--mint-typography-button-rvr-sm:0.5;--mint-typography-button-rvr-xl:1;--mint-typography-button-rvr-xs:0.5;--mint-typography-button-text-transform:none;--mint-typography-button-vr:0.75;--mint-typography-caption-font-family:'Rubik',sans-serif;--mint-typography-caption-font-size-lg:1rem;--mint-typography-caption-font-size-md:1rem;--mint-typography-caption-font-size-sm:1rem;--mint-typography-caption-font-size-xl:1rem;--mint-typography-caption-font-size-xs:1rem;--mint-typography-caption-font-stretch:none;--mint-typography-caption-font-style:normal;--mint-typography-caption-font-variant:normal;--mint-typography-caption-font-weight:400;--mint-typography-caption-letter-spacing:normal;--mint-typography-caption-line-height:1.35;--mint-typography-caption-rvr-lg:0.75;--mint-typography-caption-rvr-md:0.75;--mint-typography-caption-rvr-sm:0.75;--mint-typography-caption-rvr-xl:0.75;--mint-typography-caption-rvr-xs:0.75;--mint-typography-caption-text-transform:none;--mint-typography-caption-vr:0.75;--mint-typography-control-font-family:'Rubik',sans-serif;--mint-typography-control-font-size-lg:0.950rem;--mint-typography-control-font-size-md:0.925rem;--mint-typography-control-font-size-sm:0.900rem;--mint-typography-control-font-size-xl:0.975rem;--mint-typography-control-font-size-xs:0.900rem;--mint-typography-control-font-stretch:none;--mint-typography-control-font-style:normal;--mint-typography-control-font-variant:normal;--mint-typography-control-font-weight:400;--mint-typography-control-letter-spacing:normal;--mint-typography-control-line-height:1.75;--mint-typography-control-rvr-lg:0.75;--mint-typography-control-rvr-md:0.5;--mint-typography-control-rvr-sm:0.5;--mint-typography-control-rvr-xl:1;--mint-typography-control-rvr-xs:0.5;--mint-typography-control-text-transform:none;--mint-typography-control-vr:0.75;--mint-typography-dense-font-family:'Rubik',sans-serif;--mint-typography-dense-font-size-lg:0.9rem;--mint-typography-dense-font-size-md:0.8rem;--mint-typography-dense-font-size-sm:0.8rem;--mint-typography-dense-font-size-xl:1rem;--mint-typography-dense-font-size-xs:0.8rem;--mint-typography-dense-font-stretch:none;--mint-typography-dense-font-style:normal;--mint-typography-dense-font-variant:normal;--mint-typography-dense-font-weight:400;--mint-typography-dense-letter-spacing:normal;--mint-typography-dense-line-height:1.6;--mint-typography-dense-rvr-lg:0.75;--mint-typography-dense-rvr-md:0.75;--mint-typography-dense-rvr-sm:0.75;--mint-typography-dense-rvr-xl:0.75;--mint-typography-dense-rvr-xs:0.75;--mint-typography-dense-text-transform:none;--mint-typography-dense-vr:0.75;--mint-typography-h1-font-family:'Rubik',sans-serif;--mint-typography-h1-font-size-lg:2rem;--mint-typography-h1-font-size-md:2rem;--mint-typography-h1-font-size-sm:2rem;--mint-typography-h1-font-size-xl:2rem;--mint-typography-h1-font-size-xs:2rem;--mint-typography-h1-font-stretch:none;--mint-typography-h1-font-style:normal;--mint-typography-h1-font-variant:normal;--mint-typography-h1-font-weight:700;--mint-typography-h1-letter-spacing:-0.04em;--mint-typography-h1-line-height:1.05;--mint-typography-h1-rvr-lg:1.5;--mint-typography-h1-rvr-md:1.5;--mint-typography-h1-rvr-sm:1.5;--mint-typography-h1-rvr-xl:1.5;--mint-typography-h1-rvr-xs:1.5;--mint-typography-h1-text-transform:none;--mint-typography-h1-vr:0.75;--mint-typography-h2-font-family:'Rubik',sans-serif;--mint-typography-h2-font-size-lg:1.4rem;--mint-typography-h2-font-size-md:1.4rem;--mint-typography-h2-font-size-sm:1.4rem;--mint-typography-h2-font-size-xl:1.4rem;--mint-typography-h2-font-size-xs:1.4rem;--mint-typography-h2-font-stretch:none;--mint-typography-h2-font-style:normal;--mint-typography-h2-font-variant:normal;--mint-typography-h2-font-weight:500;--mint-typography-h2-letter-spacing:-0.02em;--mint-typography-h2-line-height:1;--mint-typography-h2-rvr-lg:1.5;--mint-typography-h2-rvr-md:1.5;--mint-typography-h2-rvr-sm:1.5;--mint-typography-h2-rvr-xl:1.5;--mint-typography-h2-rvr-xs:1.5;--mint-typography-h2-text-transform:none;--mint-typography-h2-vr:0.75;--mint-typography-h3-font-family:'Rubik',sans-serif;--mint-typography-h3-font-size-lg:2.5rem;--mint-typography-h3-font-size-md:2rem;--mint-typography-h3-font-size-sm:2rem;--mint-typography-h3-font-size-xl:3rem;--mint-typography-h3-font-size-xs:2rem;--mint-typography-h3-font-stretch:none;--mint-typography-h3-font-style:normal;--mint-typography-h3-font-variant:normal;--mint-typography-h3-font-weight:700;--mint-typography-h3-letter-spacing:-0.02em;--mint-typography-h3-line-height:1;--mint-typography-h3-rvr-lg:2.5;--mint-typography-h3-rvr-md:2;--mint-typography-h3-rvr-sm:1.5;--mint-typography-h3-rvr-xl:3;--mint-typography-h3-rvr-xs:1.5;--mint-typography-h3-text-transform:none;--mint-typography-h3-vr:0.75;--mint-typography-h4-font-family:'Rubik',sans-serif;--mint-typography-h4-font-size-lg:2rem;--mint-typography-h4-font-size-md:1.5rem;--mint-typography-h4-font-size-sm:1.5rem;--mint-typography-h4-font-size-xl:2.5rem;--mint-typography-h4-font-size-xs:1.5rem;--mint-typography-h4-font-stretch:none;--mint-typography-h4-font-style:normal;--mint-typography-h4-font-variant:normal;--mint-typography-h4-font-weight:700;--mint-typography-h4-letter-spacing:-0.01em;--mint-typography-h4-line-height:1;--mint-typography-h4-rvr-lg:2.5;--mint-typography-h4-rvr-md:2;--mint-typography-h4-rvr-sm:1.5;--mint-typography-h4-rvr-xl:3;--mint-typography-h4-rvr-xs:1.5;--mint-typography-h4-text-transform:none;--mint-typography-h4-vr:0.75;--mint-typography-h5-font-family:'Rubik',sans-serif;--mint-typography-h5-font-size-lg:1.5rem;--mint-typography-h5-font-size-md:1.25rem;--mint-typography-h5-font-size-sm:1.25rem;--mint-typography-h5-font-size-xl:2rem;--mint-typography-h5-font-size-xs:1.25rem;--mint-typography-h5-font-stretch:none;--mint-typography-h5-font-style:normal;--mint-typography-h5-font-variant:normal;--mint-typography-h5-font-weight:700;--mint-typography-h5-letter-spacing:0.04em;--mint-typography-h5-line-height:1;--mint-typography-h5-rvr-lg:2.5;--mint-typography-h5-rvr-md:2;--mint-typography-h5-rvr-sm:1.5;--mint-typography-h5-rvr-xl:3;--mint-typography-h5-rvr-xs:1.5;--mint-typography-h5-text-transform:uppercase;--mint-typography-h5-vr:0.75;--mint-typography-h6-font-family:'Rubik',sans-serif;--mint-typography-h6-font-size-lg:1rem;--mint-typography-h6-font-size-md:1rem;--mint-typography-h6-font-size-sm:1rem;--mint-typography-h6-font-size-xl:1.5rem;--mint-typography-h6-font-size-xs:1rem;--mint-typography-h6-font-stretch:none;--mint-typography-h6-font-style:normal;--mint-typography-h6-font-variant:normal;--mint-typography-h6-font-weight:700;--mint-typography-h6-letter-spacing:0.05em;--mint-typography-h6-line-height:1;--mint-typography-h6-rvr-lg:2.5;--mint-typography-h6-rvr-md:2;--mint-typography-h6-rvr-sm:1.5;--mint-typography-h6-rvr-xl:3;--mint-typography-h6-rvr-xs:1.5;--mint-typography-h6-text-transform:uppercase;--mint-typography-h6-vr:0.75;--mint-typography-helper-font-family:'Rubik',sans-serif;--mint-typography-helper-font-size-lg:0.725rem;--mint-typography-helper-font-size-md:0.700rem;--mint-typography-helper-font-size-sm:0.675rem;--mint-typography-helper-font-size-xl:0.750rem;--mint-typography-helper-font-size-xs:0.675rem;--mint-typography-helper-font-stretch:none;--mint-typography-helper-font-style:normal;--mint-typography-helper-font-variant:normal;--mint-typography-helper-font-weight:500;--mint-typography-helper-letter-spacing:normal;--mint-typography-helper-line-height:1.5;--mint-typography-helper-rvr-lg:0.75;--mint-typography-helper-rvr-md:0.75;--mint-typography-helper-rvr-sm:0.75;--mint-typography-helper-rvr-xl:0.75;--mint-typography-helper-rvr-xs:0.75;--mint-typography-helper-text-transform:none;--mint-typography-helper-vr:0.75;--mint-typography-overline-font-family:'Rubik',sans-serif;--mint-typography-overline-font-size-lg:1rem;--mint-typography-overline-font-size-md:0.75rem;--mint-typography-overline-font-size-sm:0.75rem;--mint-typography-overline-font-size-xl:1rem;--mint-typography-overline-font-size-xs:0.75rem;--mint-typography-overline-font-stretch:none;--mint-typography-overline-font-style:normal;--mint-typography-overline-font-variant:normal;--mint-typography-overline-font-weight:400;--mint-typography-overline-letter-spacing:0.05em;--mint-typography-overline-line-height:1.35;--mint-typography-overline-rvr-lg:1;--mint-typography-overline-rvr-md:1;--mint-typography-overline-rvr-sm:1;--mint-typography-overline-rvr-xl:1;--mint-typography-overline-rvr-xs:1;--mint-typography-overline-text-transform:uppercase;--mint-typography-overline-vr:0.75;--mint-typography-subtitle-font-family:'Rubik',sans-serif;--mint-typography-subtitle-font-size-lg:1.35rem;--mint-typography-subtitle-font-size-md:1rem;--mint-typography-subtitle-font-size-sm:1rem;--mint-typography-subtitle-font-size-xl:1.5rem;--mint-typography-subtitle-font-size-xs:1rem;--mint-typography-subtitle-font-stretch:none;--mint-typography-subtitle-font-style:normal;--mint-typography-subtitle-font-variant:normal;--mint-typography-subtitle-font-weight:600;--mint-typography-subtitle-letter-spacing:0.03em;--mint-typography-subtitle-line-height:1.35;--mint-typography-subtitle-rvr-lg:1;--mint-typography-subtitle-rvr-md:1;--mint-typography-subtitle-rvr-sm:1;--mint-typography-subtitle-rvr-xl:1;--mint-typography-subtitle-rvr-xs:1;--mint-typography-subtitle-text-transform:uppercase;--mint-typography-subtitle-vr:0.75;}
+data-styled.g157[id="sc-global-fCDinb3"]{content:"sc-global-fCDinb3,"}
+</style>
+      </head>
+      <body>
+        <div id="root"><div><!-- Drawer Slider Out -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
+
+<style>
+body:not(.drawer) .drawer-nav {
+  display: none !important;;
+}
+
+header:not(.site-header) {
+  display: none !important;
+}
+
+.site-header {
+  font-family: 'Assistant', sans-serif !important;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  z-index: 100;
+  position: relative;
+  background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);
+  border-bottom: 2px solid #ddd;
+}
+
+main {
+  padding-top: 0 !important;
+}
+
+#site-logo {
+  height: 60px;
+  width: auto;
+}
+
+.site-header__desktop-nav {
+  flex: 1;
+  display: none;
+  height: 112px;
+  margin-top: 5px;
+}
+
+.site-header__desktop-nav ul {
+  flex: 1;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-header__desktop-nav li,
+.top-nav a {
+  transition: background 100ms, color 100ms;
+  border-radius: 4px;
+}
+
+.top-nav a {
+  display: inline-block;
+}
+
+.site-header__desktop-nav li:hover,
+.member-login > a {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.member-login:hover > a {
+  color: rgba(255,255,255,0.9) !important;
+  background: rgba(0, 0, 0, 1);
+}
+
+.member-login > a {
+  font-size: 11px;
+}
+
+.site-header__desktop-nav li a,
+.top-nav > a,
+.member-login > a {
+  padding: 0.5rem 1rem 0.4rem !important;
+  font-weight: 700 !important;
+  display: inline-block;
+  color: rgba(0, 0, 0, 0.88);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.drawer-menu {
+  padding: 1.5rem;
+}
+
+button.drawer-toggle {
+  margin-top: 14px;
+}
+
+.drawer-nav ul {
+  list-style: none !important;
+  margin: 0 !important;
+}
+
+.drawer-nav ul li {
+  padding: 0 !important;
+  line-height: 2.5rem;
+}
+
+.drawer-nav ul li a {
+  color: rgba(0, 0, 0, 0.88);
+  text-decoration: none;
+}
+
+.top-nav {
+  position: absolute;
+  top: 20px;
+  right: 42px;
+  display: none;
+}
+
+.top-nav a.top-nav__social-link {
+  color: black;
+  display: inline-block;
+  margin-left: 0.5rem;
+  transition: opacity 200ms;
+  font-size: 26px;
+  opacity: 0.5;
+  position: relative;
+  top: 5px;
+  padding: 0.5rem 0.25rem 0.4rem !important;
+}
+
+.top-nav > a:hover {
+  opacity: 1;
+}
+
+.member-login {
+  position: relative;
+  margin-left: 0.5rem;
+  display: inline-block;
+}
+
+.member-login ul {
+  opacity: 0;
+  transition: opacity 120ms, left 0s 300ms;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 24px;
+  left: -9990px;
+  background: rgba(0,0,0,0.9);
+  border-radius: 4px;
+  border-top-left-radius: 0;
+}
+
+.member-login ul li {
+  white-space: nowrap;
+  font-weight: bold;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.member-login ul li a {
+  display: block;
+  margin: 0;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: white;
+  transition: background-color 70ms;
+}
+
+.member-login ul li a:hover {
+  background: black;
+}
+
+.member-login:hover ul {
+  transition: opacity 200ms;
+  opacity: 1;
+  left: 0;
+}
+
+@media screen and (min-width: 1200px) {
+  .site-header .drawer-toggle {
+    display: none;
+  }
+
+  .top-nav {
+    display: block;
+  }
+
+  .site-header {
+    flex-direction: row;
+  }  
+
+  .drawer-nav {
+    display: none;
+  }
+
+  #site-logo {
+    height: 86px;
+  }
+
+  .site-header__desktop-nav {
+    display: flex;
+  }
+
+  .site-header__desktop-nav ul {
+    justify-content: flex-end;
+  }
+
+  .site-header {
+    padding: 2rem 30px;
+  }  
+}
+
+</style>
+
+<header class="site-header">
+  <div class="site-header__logo-container">
+    <a href="/">
+      <img id="site-logo" src="/images/img_UgvQUpT25uRGAk4hGCRLkg/logo.png" alt="Frontier Angels Logo" />
+    </a>
+  </div>
+  <button type="button" class="drawer-toggle drawer-hamburger">
+    <span class="sr-only">toggle navigation</span>
+    <span class="drawer-hamburger-icon"></span>
+  </button>
+  <nav class="site-header__desktop-nav">
+    <ul>
+      <li>
+        <a href="/">Home</a>
+      </li>
+      <li>
+        <a href="/angel-investing">Angel Investing</a>
+      </li>
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+      <li>
+        <a href="/investments">Investments</a>
+      </li>
+      <li>
+        <a href="/content">Great Content</a>
+      </li>
+      <li>
+        <a href="/community">Community</a>
+      </li>
+    </ul>
+  </nav>
+  <nav class="drawer-nav" role="navigation">
+    <ul class="drawer-menu">
+      <li>
+        <a href="/">Home</a>
+      </li>
+      <li>
+        <a href="/angel-investing">Angel Investing</a>
+      </li>
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+      <li>
+        <a href="/investments">Investments</a>
+      </li>
+      <li>
+        <a href="/content">Great Content</a>
+      </li>
+      <li>
+        <a href="/community">Community</a>
+      </li>
+      <li>
+        <a href="https://frontierangels.softr.app" target="_blank">
+          Member Portal Login
+        </a>
+      </li>
+      <!-- <li>
+        <a href="https://frontierangels.silkstart.com/cpages/home" target="_blank">
+          Member Login
+        </a>
+        <ul style="padding-left: 1rem; border-left: 2px solid black;">
+          <li><a href="https://frontierangels.silkstart.com/event_list" target="_blank">Event List</a></li>
+          <li><a href="https://frontierangels.silkstart.com/directory" target="_blank">Directory</a></li>
+          <li><a href="https://frontierangels.silkstart.com/groups" target="_blank">Companies</a></li>
+          <li><a href="https://frontierangels.silkstart.com/articles" target="_blank">Angel Resources</a></li>
+          <li><a href="https://frontierangels.silkstart.com/groups" target="_blank">My Private Page</a></li>
+        </ul>
+      </li> -->
+      <li>
+        <a style="padding-right: 0.5rem; display: inline-block" target="_blank" href="https://www.linkedin.com/company/frontier-angels"><i class="fab fa-linkedin"></i></a>
+      </li>
+    </ul>
+  </nav>
+  <div class="top-nav">
+    <div class="member-login">
+      <a href="https://frontierangels.softr.app" target="_blank">
+        Member Portal
+      </a>
+    </div>
+    <!-- <div class="member-login">
+      <a href="https://frontierangels.silkstart.com/cpages/home" target="_blank">
+        Member Login
+      </a>
+      <ul>
+        <li><a href="https://frontierangels.silkstart.com/event_list" target="_blank">Event List</a></li>
+        <li><a href="https://frontierangels.silkstart.com/directory" target="_blank">Directory</a></li>
+        <li><a href="https://frontierangels.silkstart.com/groups" target="_blank">Companies</a></li>
+        <li><a href="https://frontierangels.silkstart.com/articles" target="_blank">Angel Resources</a></li>
+        <li><a href="https://frontierangels.silkstart.com/groups" target="_blank">My Private Page</a></li>
+      </ul>
+    </div> -->
+    <a class="top-nav__social-link" target="_blank" href="https://www.linkedin.com/company/frontier-angels"><i class="fab fa-linkedin"></i></a>
+  </div>
+</header>
+
+<script>
+$(document).ready(function() {
+    $('body').addClass('drawer drawer--right')
+    $('.drawer').drawer();
+});
+</script>
+</div><main class="c011 c013"><div><div class="composer"><div><div id="blk_8d14908a546d43d89a82e45b71424758" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  .site-header {
+    background-image: none;
+    border-bottom: 0;
+  }
+  
+  .hero {
+    height: 80vh;
+  }
+
+  .scroll-down {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 70px;
+    z-index: 2;
+  }
+
+  .scroll-down a {
+    padding-top: 70px;
+  }
+
+  .scroll-down a span {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 4px solid #000;
+    border-bottom: 4px solid #000;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-animation: sdb05 1.5s infinite;
+    animation: sdb05 1.5s infinite;
+    box-sizing: border-box;
+  }
+
+  @-webkit-keyframes sdb05 {
+    0% {
+      -webkit-transform: rotate(-45deg) translate(0, 0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+      opacity: 0;
+    }
+  }
+
+  @keyframes sdb05 {
+    0% {
+      transform: rotate(-45deg) translate(0, 0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      transform: rotate(-45deg) translate(-20px, 20px);
+      opacity: 0;
+    }
+  }
+
+</style>
+
+<div class="hero">
+  <div class="hero__image"></div>
+  <div class="hero__content">
+    <h1>A unique Montana-based investment network.</h1>
+    <p>
+      Generating returns for our investors, our communities, 
+      and all Montanans by accelerating the growth of the 
+      tech ecosystem
+    </p>
+    <div class="hero-ctas" style="max-width: 600px;">
+      <a class="btn cta" href="/angel-investing?viewport=true">
+        Learn About Angel Investing ❯
+      </a>
+      <a class="btn cta" href="/membership?viewport=true">
+        Interested in Membership? ❯
+      </a>
+      <a class="btn cta" href="/investments?viewport=true#applying-for-investment">
+        Looking for Investment Capital? ❯
+      </a>
+      <a class="btn cta" href="/general-inquiry?viewport=true" target="_blank">
+        Other Questions? ❯
+      </a>
+    </div>
+  </div>
+  <div class="hero__images" style="margin-top: 8rem;">
+    <fa-image-rotator src="/images/img_ENe9La3KtJ4HYe7oNSPzpw/1.jpg?fit=inside&w=1600,/images/img_5pZsMpSwMcP8K1uexiCXYT/2.jpg?fit=inside&w=1600,/images/img_1eJHtGYVcbbvRA1tycKKHN/3.jpg?fit=inside&w=1600,/images/img_FsnCzvUq17iYihKiY5hsAJ/4.jpg?fit=inside&w=1600,/images/img_UMwXLVrRZbob4gvnNxPmwH/5.jpg?fit=inside&w=1600"></fa-image-rotator>
+  </div>
+  <div class="scroll-down">
+    <a href="#about"><span></span></a>
+  </div>
+</div>
+</div></div><div id="blk_286e78ccb25446c1a5fdff0cf2974c58" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><div style="font-size: 0" id="about">&nbsp;</div></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_736cf983c6d2492293bf30ba481ccf54" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h2><strong>About Frontier Angels</strong></h2><p>Frontier Angels is a group of ~100 people from across the state of Montana who gather every few weeks for breakfast or dinner in Billings, Bozeman, Missoula, or Kalispell to review investment opportunities in the emerging technology ecosystem.&nbsp;Most of our members are current or former entrepreneurs or C-level executives in multinational companies. Their depth and breadth of expertise helps emerging companies develop the right strategies and make the connections they need to grow and thrive.</p><p>We’re a friendly group, working together with talented entrepreneurs and our ecosystem partners to create the companies that will be the foundation of the next economy.&nbsp;</p></div></div></div></div><div id="blk_bd4636211d934543ae5e386ab7f6e81a" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  .live-photos {
+    max-width: 1400px;
+    margin: 4rem auto 1rem;
+  }
+
+  .live-photos div {
+    margin: 1rem;
+    padding: 0.5rem;
+    background: white;
+    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);
+    font-size: 0;
+  }
+
+  .live-photos img {
+    max-width: 100%;
+  }
+
+  @media screen and (min-width: 768px) {
+    .live-photos {
+      display: flex;
+    }
+  }
+</style>
+<div class="live-photos">
+  <div>
+    <img src="/images/img_SZTnra5yapyW8DTKZmFd9B/room-shot-live.jpg?fit=inside&w=1600" alt="">
+  </div>
+  <div>
+    <img src="/images/img_39tkZbFvTFLwvvCZTCaQsZ/billings-regional-judges-ask-questions.jpg?fit=inside&w=1600" alt="">
+  </div>
+  <div>
+    <img src="/images/img_7DE2URCcwbd1uSUmhfd4mr/group-smiles-live.jpg?fit=inside&w=1600" alt="">
+  </div>
+</div></div></div><div id="blk_f153e54dd8044935a77312942b1d13e4" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><div style="font-size: 0" id="our-mission">&nbsp;</div></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_899757b9fca5467cadf9d4b15515b8ec" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h2><strong>Our Goals</strong></h2><ol><li>Generate attractive returns for our investors;</li><li>Build and organize the pool of available early stage capital to make it easier for entrepreneurs to get funded; and</li><li>Invest in companies who will grow to become the new foundations of the next economy and create high-skilled, high-paying and sustainable jobs in our communities.</li></ol><p><br></p><p><br></p></div></div></div></div><div class="c0112 cs-image"><img draggable="false" class="c0114" src="/images/img_VQTFyQqK9N1yA5Rq13dmhM/room-wide.jpg?fit=outside&amp;w=1600" srcSet="/images/img_VQTFyQqK9N1yA5Rq13dmhM/room-wide.jpg?fit=outside&amp;w=1600&amp;dpr=1, /images/img_VQTFyQqK9N1yA5Rq13dmhM/room-wide.jpg?fit=outside&amp;w=1600&amp;dpr=2 2x" width="1600" data-pin-description="" style="width:100%" loading="lazy"/></div><div id="blk_224ff24cdb9f4deb9b958f45eded0784" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a,
+  #blk_00f74a147b3d488eab7659a2a24eb30c {
+    /* border: 4px solid rgb(251,201,18); */
+    border: 2px solid rgb(251,201,18);
+    background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);
+    background-size: 180px 181px;
+    border-radius: 8px;
+    margin-top: 4rem;
+    padding: 2rem;
+    /* box-shadow: 0 0 8px rgba(251,201,18,0.5), 2px 4px 16px rgba(251,201,18,0.2); */
+    box-shadow: 0 0 16px rgba(0,0,0,0.1), 2px 4px 8px rgba(0,0,0,0.05);
+  }
+
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h1,
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h2,
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h3,
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h4,
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h5,
+  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h6,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h1,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h2,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h3,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h4,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h5,
+  #blk_00f74a147b3d488eab7659a2a24eb30c h6 {
+    margin-top: 0;
+  }
+</style></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_00f74a147b3d488eab7659a2a24eb30c" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h2 class="text-align--center">Upcoming Meeting and Event Schedule</h2><p class="text-align--center"><strong>March&nbsp;13 2024</strong>&nbsp;- Group Dinner - Bozeman, simulcast in Billings + Start Up Happy Hour (Billings)</p><p class="text-align--center"><strong>May 31 2024</strong> - Founders &amp; Investors Happy Hour - Bozeman</p><p class="text-align--center"><strong>June 5 2024</strong>&nbsp;- Member Meeting @ AC Hotel - Bozeman</p><p class="text-align--center"><strong>July 24 2024</strong> - Founders &amp; Investors Happy Hour - Whitefish/Flathead</p><p class="text-align--center"><strong>Sept 25 2024</strong>&nbsp;- Member Dinner &amp; Start-up Happy Hour - Peak Ski, Bozeman</p><p class="text-align--center"><strong>December 5 2024</strong>&nbsp;- Holiday Party &amp; Member Dinner - AC Hotel, Bozeman</p></div></div></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_2b93b38f3c434c65ac0090ec5533bcc4" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><p><br/></p></div></div></div></div><div id="blk_545e61a3fd0d40e19977bef330f68ff4" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  #blk_601dc24b202a4f4c88e8e855267f42c6 {
+    padding-top: 0 !important;
+  }
+
+  #blk_601dc24b202a4f4c88e8e855267f42c6 h2 {
+    margin-top: 0 !important;
+  }
+</style></div></div><div class="c0115 cs-base-grid cs-grid c0116" id="blk_c9333aedb870473598a7865220e98499"><style>@media screen and (min-width: 1100px) {#blk_c9333aedb870473598a7865220e98499 {display: -ms-grid;display: grid;-ms-grid-columns: 0 (4.166666667%)[21];grid-template-columns: 0 repeat(21, 4.166666667%);-ms-grid-rows: 0 (minmax(70px, max-content))[8];grid-template-rows: 0 repeat(8, minmax(50px, max-content));}blk_c9d0d8f9fc234d0dac11657396ca2e77,#blk_c9d0d8f9fc234d0dac11657396ca2e77 {-ms-grid-row: 2;-ms-grid-column: 5;-ms-grid-row-span: 8;-ms-grid-column-span: 11;grid-area: 2/5/10/16;}blk_1df748f3b0c54befbfc5eb4d0c77bc39,#blk_1df748f3b0c54befbfc5eb4d0c77bc39 {-ms-grid-row: 2;-ms-grid-column: 17;-ms-grid-row-span: 8;-ms-grid-column-span: 6;grid-area: 2/17/10/23;}#blk_c9333aedb870473598a7865220e98499 .c0118-0 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-1 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-2 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-3 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-4 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-5 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-6 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-7 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-8 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-9 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-10 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-11 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-12 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-13 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-14 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-15 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-16 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-17 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-18 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-19 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-20 {display: block;}}
+@media screen and (min-width: 768px) and (max-width: 1099px) {#blk_c9333aedb870473598a7865220e98499 {display: -ms-grid;display: grid;-ms-grid-columns: 0 (8.333333333%)[11];grid-template-columns: 0 repeat(11, 8.333333333%);-ms-grid-rows: 0 (minmax(70px, max-content))[15];grid-template-rows: 0 repeat(15, minmax(50px, max-content));}blk_c9d0d8f9fc234d0dac11657396ca2e77,#blk_c9d0d8f9fc234d0dac11657396ca2e77 {-ms-grid-row: 11;-ms-grid-column: 3;-ms-grid-row-span: 6;-ms-grid-column-span: 10;grid-area: 11/3/17/13;}blk_1df748f3b0c54befbfc5eb4d0c77bc39,#blk_1df748f3b0c54befbfc5eb4d0c77bc39 {-ms-grid-row: 2;-ms-grid-column: 5;-ms-grid-row-span: 9;-ms-grid-column-span: 6;grid-area: 2/5/11/11;}#blk_c9333aedb870473598a7865220e98499 .c0118-0 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-1 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-2 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-3 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-4 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-5 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-6 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-7 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-8 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-9 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-10 {display: block;}}
+@media screen and (max-width: 767px) {#blk_c9333aedb870473598a7865220e98499 {display: -ms-grid;display: grid;-ms-grid-columns: 0 (8.333333333%)[12];grid-template-columns: 0 repeat(12, 8.333333333%);-ms-grid-rows: 0 (minmax(70px, max-content))[12];grid-template-rows: 0 repeat(12, minmax(50px, max-content));}blk_c9d0d8f9fc234d0dac11657396ca2e77,#blk_c9d0d8f9fc234d0dac11657396ca2e77 {-ms-grid-row: 8;-ms-grid-column: 2;-ms-grid-row-span: 6;-ms-grid-column-span: 12;grid-area: 8/2/14/14;}blk_1df748f3b0c54befbfc5eb4d0c77bc39,#blk_1df748f3b0c54befbfc5eb4d0c77bc39 {-ms-grid-row: 2;-ms-grid-column: 3;-ms-grid-row-span: 6;-ms-grid-column-span: 10;grid-area: 2/3/8/13;}#blk_c9333aedb870473598a7865220e98499 .c0118-0 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-1 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-2 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-3 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-4 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-5 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-6 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-7 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-8 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-9 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-10 {display: block;}#blk_c9333aedb870473598a7865220e98499 .c0118-11 {display: block;}}</style><div class="c0120 c0122" id="blk_c9d0d8f9fc234d0dac11657396ca2e77" theme="[object Object]"><div class="c0121"><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_601dc24b202a4f4c88e8e855267f42c6" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h2><strong>The Managing Director</strong></h2><p>Pat LaPointe is an entrepreneur who built and sold three companies in the marketing and data analytics field.&nbsp;These days he brings a very entrepreneur-friendly approach to angel and venture investing, and served on the Board of the <a href="/network" rel="noopener noreferrer" target="_blank">Angel Capital Association</a>. With a portfolio of over 60 investments and afflicted by endless curiosity, Pat enjoys learning about new business models and innovative technologies and <strong>loves</strong> helping entrepreneurs find their path to growth and success. See more at <a href="undefined" rel="noopener noreferrer" target="_blank">his LinkedIn page</a>.</p></div></div></div></div></div></div><div class="c0120 c0122" id="blk_1df748f3b0c54befbfc5eb4d0c77bc39" theme="[object Object]"><div class="c0121"><div id="blk_a3afb2494e464f95989f1bd2827ae956" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  .managing-director {
+    margin: 1rem;
+    padding: 0.5rem;
+    background: white;
+    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);
+    font-size: 0;
+  }
+</style>
+<div class="managing-director">
+  <img src="/images/img_5aYptuM1Rcgp433dmjNKfQ/pat-lapointe-cropped.jpg?fit=inside&w=1600" alt="Pat LaPointe – Managing Director of Frontier Angels" style="max-width: 100%">
+</div></div></div></div></div></div><div id="blk_2ba2ae6f49814f09b8a48c810eb25993" style="position:relative;flex:1;display:flex"><div class="c014" style="flex:1;min-height:10px"><style>
+  .hero.mid-page {
+    border-top: 2px solid #ddd;
+    height: auto;
+    min-height: 0;
+    padding: 0 0 1rem;
+    margin-top: 3rem;
+  }
+
+  @media screen and (min-width: 1200px) {
+    .hero.mid-page {
+      min-height: 600px;
+    }
+  }
+
+  @media screen and (min-width: 1500px) {
+    .hero.mid-page {
+      min-height: 800px;
+    }
+  }
+</style>
+<div class="hero mid-page">
+  <div class="hero__image"></div>
+  <div class="hero__content" style="flex: 1;">
+    <h1>Our National Network</h1>
+    <p>
+      If your business needs $1M to $5M in growth capital, we'll bring our national network of investors in to help close the gap
+    </p>
+  </div>
+  <div class="hero__images" style="margin-left: 0; margin-top: 0rem;">
+    <fa-image-rotator src="/images/img_MB2DgqCuxy842Jq14yi76S/aca-logo-rotator.jpg?fit=inside&w=1600,/images/img_A7e4J1n8NXrYEZ7hAJuuTS/asn-logo-rotator.jpg?fit=inside&w=1600"></fa-image-rotator>
+  </div>
+</div>
+</div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_066dedd5eefd40adaa6b3eda5a57dc3a" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h3><strong>Angel Capital Association</strong></h3><p>The ACA is the national organization representing over 200 angel groups and over 14,000 angel investors investing over $1B annually.&nbsp;They provide training for entrepreneurs and investors, early stage investment analysis and insights, and strong lobbying support for federal and state public policy initiatives to encourage angel investing. Learn more at the&nbsp;<a href="https://angelcapitalassociation.org/" rel="noopener noreferrer" target="_blank">AngelCapitalAssociation.org</a>.</p><p><br></p></div></div></div></div><div class="c0112 cs-image"><div class="c016 c018 cs-container cs-container--prose" style="padding:0" theme="[object Object]"><img draggable="false" class="c0114" src="/images/img_7pVLkTJG4Nx7gw1LnG6kfv/arash-sani-asnlogo.webp?fit=outside&amp;w=1600" srcSet="/images/img_7pVLkTJG4Nx7gw1LnG6kfv/arash-sani-asnlogo.webp?fit=outside&amp;w=1600&amp;dpr=1, /images/img_7pVLkTJG4Nx7gw1LnG6kfv/arash-sani-asnlogo.webp?fit=outside&amp;w=1600&amp;dpr=2 2x" width="1600" data-pin-description="" style="width:100%" loading="lazy"/></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_d493d0d450f54441b2458145b55118c4" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><h3><strong>Angel Syndication Network</strong></h3><p>ASN is a network of over 40 angel groups across the country who gather online each month to see presentations from several companies nominated by members.&nbsp;Together, we invest well over $100M annually in the best companies we can find.</p></div></div></div></div><div class="c015 cs-rich-text c016 c018 cs-container cs-container--prose" id="blk_cefbac23eb9545d196a393e8e838b546" theme="[object Object]"><div class="c0111 c014"><div class=" ql-container"><div class="ql-editor"><p><br/></p></div></div></div></div></div></div></div></main><div><style>
+  .site-footer {
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.85;
+    position: relative;
+    padding-bottom: 4rem;
+  }
+
+  .site-footer,
+  .site-footer a {
+    color: rgba(255,255,255,0.7);
+  }
+
+  .site-footer a {
+    text-decoration: none;
+    transition: color 300ms;
+  }
+
+  .site-footer a:hover {
+    color: white;
+  }
+
+  .footer-nav,
+  .footer-bottom {
+    padding: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .footer-nav {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .footer-nav > div {
+    margin-bottom: 2rem;
+  }
+
+  .footer-nav h5 {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+  }
+
+  .footer-nav ul {
+    margin: 0 !important;
+    list-style: none;
+  }
+
+  .footer-nav li {
+    padding: 0 !important;
+    font-size: 13px;
+  }
+
+  .footer-bottom__legal {
+    font-size: 13px;
+    flex: 1;
+  }
+
+  .footer-bottom__social {
+    font-size: 1rem;
+    margin-top: -7px;
+  }
+
+  .footer-bottom__social a {
+    display: inline-block;
+    padding-left: 0.5rem;
+  }
+
+  .site-footer p {
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 1199px) {
+    .site-footer {
+      text-align: center;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .site-footer {
+      padding-bottom: 0;
+    }
+
+    .footer-nav,
+    .footer-bottom {
+      display: flex;
+    }
+
+    .footer-nav > div {
+      margin-bottom: 0;
+      margin-right: 6rem;
+    }
+  }
+</style>
+
+<style>
+  #cardsetter-flag {
+    display: block;
+    position: absolute; 
+    right: 0; 
+    bottom: 7px; 
+    background: white; 
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3); 
+    width: 140px;
+    padding: 8px 0px 8px 0px;
+    z-index: 1000000;
+    text-decoration: none;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    line-height: 1;
+  }
+  #cardsetter-flag img {
+    max-width: 100%;
+    height: auto;
+  }
+  #cardsetter-label {
+    font-size: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+    letter-spacing: 0.2px;
+  }
+</style>
+
+<footer class="site-footer">
+  <div class="footer-nav">
+    <div>
+      <h5>About Frontier Angels</h5>
+      <ul>
+        <li><a href="/#about">About Us</a></li>
+        <li><a href="/angel-investing">Angel Investing</a></li>
+        <li><a href="/#our-mission">Our Mission</a></li>
+        <li><a href="/investments#what-we-invest-in">Investment Focus</a></li>
+        <li><a href="/investments#ceo-partners">Our Partners</a></li>
+        <li><a href="/community">Community Connections</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>For Entrepreneurs</h5>
+      <ul>
+        <li><a href="/investments#what-we-invest-in">What We Invest In</a></li>
+        <li><a href="/investments#applying-for-investment">Applying for Investment</a></li>
+        <li><a href="/angel-funding-self-assessment" target="_blank">Self Assessment</a></li>
+        <li><a href="/inquiry-for-investment" target="_blank">Inquiry for Investment</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Membership</h5>
+      <ul>
+        <li><a href="/membership#criteria">Membership Criteria</a></li>
+        <li><a href="/membership#inquire">Inquire About Membership</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Connect</h5>
+      <ul>
+        <li style="font-size: 23px; line-height: 1;">
+          <a target="_blank" href="https://www.linkedin.com/company/frontier-angels"><i class="fab fa-linkedin"></i></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p class="footer-bottom__legal">
+      <b>&copy; 2020 Frontier Angels.</b> All rights reserved.
+    </p>
+  </div>
+  <a href="https://cardsetter.com" id="cardsetter-flag" target="_blank">
+    <img src="https://cardsetter.com/images/img_ER9LaDJ3Gv9pq8yW5AvhKT/logo?fit=inside&amp;h=60&amp;w=300" alt="logo">
+    <div id="cardsetter-label">Powered By Cardsetter</div>
+  </a>
+  <script type="text/javascript">
+_linkedin_partner_id = "2824276";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2824276&fmt=gif" />
+</noscript>
+</footer>
+</div><div class="c0123" theme="[object Object]"></div></div>
+        
+        <script>
+          if (window.parent !== window) {
+            window.__REACT_DEVTOOLS_GLOBAL_HOOK__ = window.parent.__REACT_DEVTOOLS_GLOBAL_HOOK__;
+          }
+        </script>
+        <script>
+          window.__webpack_public_path__="/assets/";
+          window.__CARDSETTER_PUBLIC_REDUX_STATE__={"auth":{"accessToken":null,"errors":null,"expiresAt":null,"refreshToken":null,"scope":[],"status":null,"tokenType":null},"router":{"location":{"pathname":"/","search":"","hash":"","key":"hl5wc2"},"action":"POP"}};
+          window.__CARDSETTER_PUBLIC_APOLLO_STATE__={"Site:st_Vb3VoojNGXRHzi6e5q6L6v":{"id":"st_Vb3VoojNGXRHzi6e5q6L6v","legacyTheme":null,"legacyLogoImage":null,"headerOverrideHtml":"\u003c!-- Drawer Slider Out -->\n\u003clink rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css\">\n\u003cscript src=\"https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js\">\u003c/script>\n\u003cscript src=\"https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js\">\u003c/script>\n\n\u003cstyle>\nbody:not(.drawer) .drawer-nav {\n  display: none !important;;\n}\n\nheader:not(.site-header) {\n  display: none !important;\n}\n\n.site-header {\n  font-family: 'Assistant', sans-serif !important;\n  padding: 10px 10px;\n  display: flex;\n  flex-direction: column;\n  z-index: 100;\n  position: relative;\n  background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);\n  border-bottom: 2px solid #ddd;\n}\n\nmain {\n  padding-top: 0 !important;\n}\n\n#site-logo {\n  height: 60px;\n  width: auto;\n}\n\n.site-header__desktop-nav {\n  flex: 1;\n  display: none;\n  height: 112px;\n  margin-top: 5px;\n}\n\n.site-header__desktop-nav ul {\n  flex: 1;\n  display: flex;\n  list-style: none;\n  margin: 0;\n  align-items: center;\n  justify-content: center;\n}\n\n.site-header__desktop-nav li,\n.top-nav a {\n  transition: background 100ms, color 100ms;\n  border-radius: 4px;\n}\n\n.top-nav a {\n  display: inline-block;\n}\n\n.site-header__desktop-nav li:hover,\n.member-login > a {\n  background: rgba(0, 0, 0, 0.1);\n}\n\n.member-login:hover > a {\n  color: rgba(255,255,255,0.9) !important;\n  background: rgba(0, 0, 0, 1);\n}\n\n.member-login > a {\n  font-size: 11px;\n}\n\n.site-header__desktop-nav li a,\n.top-nav > a,\n.member-login > a {\n  padding: 0.5rem 1rem 0.4rem !important;\n  font-weight: 700 !important;\n  display: inline-block;\n  color: rgba(0, 0, 0, 0.88);\n  text-decoration: none;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n.drawer-menu {\n  padding: 1.5rem;\n}\n\nbutton.drawer-toggle {\n  margin-top: 14px;\n}\n\n.drawer-nav ul {\n  list-style: none !important;\n  margin: 0 !important;\n}\n\n.drawer-nav ul li {\n  padding: 0 !important;\n  line-height: 2.5rem;\n}\n\n.drawer-nav ul li a {\n  color: rgba(0, 0, 0, 0.88);\n  text-decoration: none;\n}\n\n.top-nav {\n  position: absolute;\n  top: 20px;\n  right: 42px;\n  display: none;\n}\n\n.top-nav a.top-nav__social-link {\n  color: black;\n  display: inline-block;\n  margin-left: 0.5rem;\n  transition: opacity 200ms;\n  font-size: 26px;\n  opacity: 0.5;\n  position: relative;\n  top: 5px;\n  padding: 0.5rem 0.25rem 0.4rem !important;\n}\n\n.top-nav > a:hover {\n  opacity: 1;\n}\n\n.member-login {\n  position: relative;\n  margin-left: 0.5rem;\n  display: inline-block;\n}\n\n.member-login ul {\n  opacity: 0;\n  transition: opacity 120ms, left 0s 300ms;\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  position: absolute;\n  top: 24px;\n  left: -9990px;\n  background: rgba(0,0,0,0.9);\n  border-radius: 4px;\n  border-top-left-radius: 0;\n}\n\n.member-login ul li {\n  white-space: nowrap;\n  font-weight: bold;\n  font-size: 12px;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n.member-login ul li a {\n  display: block;\n  margin: 0;\n  padding: 0.5rem 1rem;\n  text-decoration: none;\n  color: white;\n  transition: background-color 70ms;\n}\n\n.member-login ul li a:hover {\n  background: black;\n}\n\n.member-login:hover ul {\n  transition: opacity 200ms;\n  opacity: 1;\n  left: 0;\n}\n\n@media screen and (min-width: 1200px) {\n  .site-header .drawer-toggle {\n    display: none;\n  }\n\n  .top-nav {\n    display: block;\n  }\n\n  .site-header {\n    flex-direction: row;\n  }  \n\n  .drawer-nav {\n    display: none;\n  }\n\n  #site-logo {\n    height: 86px;\n  }\n\n  .site-header__desktop-nav {\n    display: flex;\n  }\n\n  .site-header__desktop-nav ul {\n    justify-content: flex-end;\n  }\n\n  .site-header {\n    padding: 2rem 30px;\n  }  \n}\n\n\u003c/style>\n\n\u003cheader class=\"site-header\">\n  \u003cdiv class=\"site-header__logo-container\">\n    \u003ca href=\"/\">\n      \u003cimg id=\"site-logo\" src=\"/images/img_UgvQUpT25uRGAk4hGCRLkg/logo.png\" alt=\"Frontier Angels Logo\" />\n    \u003c/a>\n  \u003c/div>\n  \u003cbutton type=\"button\" class=\"drawer-toggle drawer-hamburger\">\n    \u003cspan class=\"sr-only\">toggle navigation\u003c/span>\n    \u003cspan class=\"drawer-hamburger-icon\">\u003c/span>\n  \u003c/button>\n  \u003cnav class=\"site-header__desktop-nav\">\n    \u003cul>\n      \u003cli>\n        \u003ca href=\"/\">Home\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/angel-investing\">Angel Investing\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/membership\">Membership\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/investments\">Investments\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/content\">Great Content\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/community\">Community\u003c/a>\n      \u003c/li>\n    \u003c/ul>\n  \u003c/nav>\n  \u003cnav class=\"drawer-nav\" role=\"navigation\">\n    \u003cul class=\"drawer-menu\">\n      \u003cli>\n        \u003ca href=\"/\">Home\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/angel-investing\">Angel Investing\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/membership\">Membership\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/investments\">Investments\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/content\">Great Content\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"/community\">Community\u003c/a>\n      \u003c/li>\n      \u003cli>\n        \u003ca href=\"https://frontierangels.softr.app\" target=\"_blank\">\n          Member Portal Login\n        \u003c/a>\n      \u003c/li>\n      \u003c!-- \u003cli>\n        \u003ca href=\"https://frontierangels.silkstart.com/cpages/home\" target=\"_blank\">\n          Member Login\n        \u003c/a>\n        \u003cul style=\"padding-left: 1rem; border-left: 2px solid black;\">\n          \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/event_list\" target=\"_blank\">Event List\u003c/a>\u003c/li>\n          \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/directory\" target=\"_blank\">Directory\u003c/a>\u003c/li>\n          \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/groups\" target=\"_blank\">Companies\u003c/a>\u003c/li>\n          \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/articles\" target=\"_blank\">Angel Resources\u003c/a>\u003c/li>\n          \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/groups\" target=\"_blank\">My Private Page\u003c/a>\u003c/li>\n        \u003c/ul>\n      \u003c/li> -->\n      \u003cli>\n        \u003ca style=\"padding-right: 0.5rem; display: inline-block\" target=\"_blank\" href=\"https://www.linkedin.com/company/frontier-angels\">\u003ci class=\"fab fa-linkedin\">\u003c/i>\u003c/a>\n      \u003c/li>\n    \u003c/ul>\n  \u003c/nav>\n  \u003cdiv class=\"top-nav\">\n    \u003cdiv class=\"member-login\">\n      \u003ca href=\"https://frontierangels.softr.app\" target=\"_blank\">\n        Member Portal\n      \u003c/a>\n    \u003c/div>\n    \u003c!-- \u003cdiv class=\"member-login\">\n      \u003ca href=\"https://frontierangels.silkstart.com/cpages/home\" target=\"_blank\">\n        Member Login\n      \u003c/a>\n      \u003cul>\n        \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/event_list\" target=\"_blank\">Event List\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/directory\" target=\"_blank\">Directory\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/groups\" target=\"_blank\">Companies\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/articles\" target=\"_blank\">Angel Resources\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"https://frontierangels.silkstart.com/groups\" target=\"_blank\">My Private Page\u003c/a>\u003c/li>\n      \u003c/ul>\n    \u003c/div> -->\n    \u003ca class=\"top-nav__social-link\" target=\"_blank\" href=\"https://www.linkedin.com/company/frontier-angels\">\u003ci class=\"fab fa-linkedin\">\u003c/i>\u003c/a>\n  \u003c/div>\n\u003c/header>\n\n\u003cscript>\n$(document).ready(function() {\n    $('body').addClass('drawer drawer--right')\n    $('.drawer').drawer();\n});\n\u003c/script>\n","footerOverrideHtml":"\u003cstyle>\n  .site-footer {\n    background: black;\n    font-family: 'Roboto', sans-serif;\n    line-height: 1.85;\n    position: relative;\n    padding-bottom: 4rem;\n  }\n\n  .site-footer,\n  .site-footer a {\n    color: rgba(255,255,255,0.7);\n  }\n\n  .site-footer a {\n    text-decoration: none;\n    transition: color 300ms;\n  }\n\n  .site-footer a:hover {\n    color: white;\n  }\n\n  .footer-nav,\n  .footer-bottom {\n    padding: 1rem;\n    max-width: 1400px;\n    margin: 0 auto;\n  }\n\n  .footer-nav {\n    padding-top: 2rem;\n    padding-bottom: 2rem;\n    position: relative;\n    z-index: 1;\n  }\n\n  .footer-nav > div {\n    margin-bottom: 2rem;\n  }\n\n  .footer-nav h5 {\n    text-transform: uppercase;\n    font-weight: bold;\n    margin-bottom: 0.25rem;\n  }\n\n  .footer-nav ul {\n    margin: 0 !important;\n    list-style: none;\n  }\n\n  .footer-nav li {\n    padding: 0 !important;\n    font-size: 13px;\n  }\n\n  .footer-bottom__legal {\n    font-size: 13px;\n    flex: 1;\n  }\n\n  .footer-bottom__social {\n    font-size: 1rem;\n    margin-top: -7px;\n  }\n\n  .footer-bottom__social a {\n    display: inline-block;\n    padding-left: 0.5rem;\n  }\n\n  .site-footer p {\n    font-family: sans-serif;\n    margin: 0;\n  }\n\n  @media screen and (max-width: 1199px) {\n    .site-footer {\n      text-align: center;\n    }\n  }\n\n  @media screen and (min-width: 1200px) {\n    .site-footer {\n      padding-bottom: 0;\n    }\n\n    .footer-nav,\n    .footer-bottom {\n      display: flex;\n    }\n\n    .footer-nav > div {\n      margin-bottom: 0;\n      margin-right: 6rem;\n    }\n  }\n\u003c/style>\n\n\u003cstyle>\n  #cardsetter-flag {\n    display: block;\n    position: absolute; \n    right: 0; \n    bottom: 7px; \n    background: white; \n    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3); \n    width: 140px;\n    padding: 8px 0px 8px 0px;\n    z-index: 1000000;\n    text-decoration: none;\n    border-bottom-left-radius: 2px;\n    border-top-left-radius: 2px;\n    line-height: 1;\n  }\n  #cardsetter-flag img {\n    max-width: 100%;\n    height: auto;\n  }\n  #cardsetter-label {\n    font-size: 10px;\n    font-family: sans-serif;\n    text-align: center;\n    color: rgba(0, 0, 0, 0.6);\n    letter-spacing: 0.2px;\n  }\n\u003c/style>\n\n\u003cfooter class=\"site-footer\">\n  \u003cdiv class=\"footer-nav\">\n    \u003cdiv>\n      \u003ch5>About Frontier Angels\u003c/h5>\n      \u003cul>\n        \u003cli>\u003ca href=\"/#about\">About Us\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/angel-investing\">Angel Investing\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/#our-mission\">Our Mission\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/investments#what-we-invest-in\">Investment Focus\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/investments#ceo-partners\">Our Partners\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/community\">Community Connections\u003c/a>\u003c/li>\n      \u003c/ul>\n    \u003c/div>\n    \u003cdiv>\n      \u003ch5>For Entrepreneurs\u003c/h5>\n      \u003cul>\n        \u003cli>\u003ca href=\"/investments#what-we-invest-in\">What We Invest In\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/investments#applying-for-investment\">Applying for Investment\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/angel-funding-self-assessment\" target=\"_blank\">Self Assessment\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/inquiry-for-investment\" target=\"_blank\">Inquiry for Investment\u003c/a>\u003c/li>\n      \u003c/ul>\n    \u003c/div>\n    \u003cdiv>\n      \u003ch5>Membership\u003c/h5>\n      \u003cul>\n        \u003cli>\u003ca href=\"/membership#criteria\">Membership Criteria\u003c/a>\u003c/li>\n        \u003cli>\u003ca href=\"/membership#inquire\">Inquire About Membership\u003c/a>\u003c/li>\n      \u003c/ul>\n    \u003c/div>\n    \u003cdiv>\n      \u003ch5>Connect\u003c/h5>\n      \u003cul>\n        \u003cli style=\"font-size: 23px; line-height: 1;\">\n          \u003ca target=\"_blank\" href=\"https://www.linkedin.com/company/frontier-angels\">\u003ci class=\"fab fa-linkedin\">\u003c/i>\u003c/a>\n        \u003c/li>\n      \u003c/ul>\n    \u003c/div>\n  \u003c/div>\n  \u003cdiv class=\"footer-bottom\">\n    \u003cp class=\"footer-bottom__legal\">\n      \u003cb>&copy; 2020 Frontier Angels.\u003c/b> All rights reserved.\n    \u003c/p>\n  \u003c/div>\n  \u003ca href=\"https://cardsetter.com\" id=\"cardsetter-flag\" target=\"_blank\">\n    \u003cimg src=\"https://cardsetter.com/images/img_ER9LaDJ3Gv9pq8yW5AvhKT/logo?fit=inside&amp;h=60&amp;w=300\" alt=\"logo\">\n    \u003cdiv id=\"cardsetter-label\">Powered By Cardsetter\u003c/div>\n  \u003c/a>\n  \u003cscript type=\"text/javascript\">\n_linkedin_partner_id = \"2824276\";\nwindow._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];\nwindow._linkedin_data_partner_ids.push(_linkedin_partner_id);\n\u003c/script>\u003cscript type=\"text/javascript\">\n(function(){var s = document.getElementsByTagName(\"script\")[0];\nvar b = document.createElement(\"script\");\nb.type = \"text/javascript\";b.async = true;\nb.src = \"https://snap.licdn.com/li.lms-analytics/insight.min.js\";\ns.parentNode.insertBefore(b, s);})();\n\u003c/script>\n\u003cnoscript>\n\u003cimg height=\"1\" width=\"1\" style=\"display:none;\" alt=\"\" src=\"https://px.ads.linkedin.com/collect/?pid=2824276&fmt=gif\" />\n\u003c/noscript>\n\u003c/footer>\n","__typename":"Site"},"ROOT_QUERY":{"site":{"type":"id","generated":false,"id":"Site:st_Vb3VoojNGXRHzi6e5q6L6v","typename":"Site"},"page({\"path\":\"/\"})":{"type":"id","generated":false,"id":"Page:pg_Aa3XGEMCYCjtbK8AFKb6wj","typename":"Page"}},"Page:pg_Aa3XGEMCYCjtbK8AFKb6wj":{"id":"pg_Aa3XGEMCYCjtbK8AFKb6wj","title":"Frontier Angels | Montana Angel Investment Group","description":"A unique Montana-based investment network. Generating returns for our investors, our communities, and all Montanans by accelerating the growth of the tech ecosystem","discourageIndexing":false,"content":{"type":"json","json":{"ops":[{"attributes":{},"insert":".0","key":"blk_0789fa2c7f7b4e9b8751419d3addc713","type":"STACK"},{"attributes":{"html":"\u003cstyle>\n  .site-header {\n    background-image: none;\n    border-bottom: 0;\n  }\n  \n  .hero {\n    height: 80vh;\n  }\n\n  .scroll-down {\n    position: absolute;\n    left: 50%;\n    transform: translateX(-50%);\n    bottom: 70px;\n    z-index: 2;\n  }\n\n  .scroll-down a {\n    padding-top: 70px;\n  }\n\n  .scroll-down a span {\n    position: absolute;\n    top: 0;\n    left: 50%;\n    width: 24px;\n    height: 24px;\n    margin-left: -12px;\n    border-left: 4px solid #000;\n    border-bottom: 4px solid #000;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    -webkit-animation: sdb05 1.5s infinite;\n    animation: sdb05 1.5s infinite;\n    box-sizing: border-box;\n  }\n\n  @-webkit-keyframes sdb05 {\n    0% {\n      -webkit-transform: rotate(-45deg) translate(0, 0);\n      opacity: 0;\n    }\n    50% {\n      opacity: 1;\n    }\n    100% {\n      -webkit-transform: rotate(-45deg) translate(-20px, 20px);\n      opacity: 0;\n    }\n  }\n\n  @keyframes sdb05 {\n    0% {\n      transform: rotate(-45deg) translate(0, 0);\n      opacity: 0;\n    }\n    50% {\n      opacity: 1;\n    }\n    100% {\n      transform: rotate(-45deg) translate(-20px, 20px);\n      opacity: 0;\n    }\n  }\n\n\u003c/style>\n\n\u003cdiv class=\"hero\">\n  \u003cdiv class=\"hero__image\">\u003c/div>\n  \u003cdiv class=\"hero__content\">\n    \u003ch1>A unique Montana-based investment network.\u003c/h1>\n    \u003cp>\n      Generating returns for our investors, our communities, \n      and all Montanans by accelerating the growth of the \n      tech ecosystem\n    \u003c/p>\n    \u003cdiv class=\"hero-ctas\" style=\"max-width: 600px;\">\n      \u003ca class=\"btn cta\" href=\"/angel-investing?viewport=true\">\n        Learn About Angel Investing ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/membership?viewport=true\">\n        Interested in Membership? ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/investments?viewport=true#applying-for-investment\">\n        Looking for Investment Capital? ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/general-inquiry?viewport=true\" target=\"_blank\">\n        Other Questions? ❯\n      \u003c/a>\n    \u003c/div>\n  \u003c/div>\n  \u003cdiv class=\"hero__images\" style=\"margin-top: 8rem;\">\n    \u003cfa-image-rotator src=\"/images/img_ENe9La3KtJ4HYe7oNSPzpw/1.jpg?fit=inside&w=1600,/images/img_5pZsMpSwMcP8K1uexiCXYT/2.jpg?fit=inside&w=1600,/images/img_1eJHtGYVcbbvRA1tycKKHN/3.jpg?fit=inside&w=1600,/images/img_FsnCzvUq17iYihKiY5hsAJ/4.jpg?fit=inside&w=1600,/images/img_UMwXLVrRZbob4gvnNxPmwH/5.jpg?fit=inside&w=1600\">\u003c/fa-image-rotator>\n  \u003c/div>\n  \u003cdiv class=\"scroll-down\">\n    \u003ca href=\"#about\">\u003cspan>\u003c/span>\u003c/a>\n  \u003c/div>\n\u003c/div>\n","source":"\u003cstyle>\n  .site-header {\n    background-image: none;\n    border-bottom: 0;\n  }\n  \n  .hero {\n    height: 80vh;\n  }\n\n  .scroll-down {\n    position: absolute;\n    left: 50%;\n    transform: translateX(-50%);\n    bottom: 70px;\n    z-index: 2;\n  }\n\n  .scroll-down a {\n    padding-top: 70px;\n  }\n\n  .scroll-down a span {\n    position: absolute;\n    top: 0;\n    left: 50%;\n    width: 24px;\n    height: 24px;\n    margin-left: -12px;\n    border-left: 4px solid #000;\n    border-bottom: 4px solid #000;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n    -webkit-animation: sdb05 1.5s infinite;\n    animation: sdb05 1.5s infinite;\n    box-sizing: border-box;\n  }\n\n  @-webkit-keyframes sdb05 {\n    0% {\n      -webkit-transform: rotate(-45deg) translate(0, 0);\n      opacity: 0;\n    }\n    50% {\n      opacity: 1;\n    }\n    100% {\n      -webkit-transform: rotate(-45deg) translate(-20px, 20px);\n      opacity: 0;\n    }\n  }\n\n  @keyframes sdb05 {\n    0% {\n      transform: rotate(-45deg) translate(0, 0);\n      opacity: 0;\n    }\n    50% {\n      opacity: 1;\n    }\n    100% {\n      transform: rotate(-45deg) translate(-20px, 20px);\n      opacity: 0;\n    }\n  }\n\n\u003c/style>\n\n\u003cdiv class=\"hero\">\n  \u003cdiv class=\"hero__image\">\u003c/div>\n  \u003cdiv class=\"hero__content\">\n    \u003ch1>A unique Montana-based investment network.\u003c/h1>\n    \u003cp>\n      Generating returns for our investors, our communities, \n      and all Montanans by accelerating the growth of the \n      tech ecosystem\n    \u003c/p>\n    \u003cdiv class=\"hero-ctas\" style=\"max-width: 600px;\">\n      \u003ca class=\"btn cta\" href=\"/angel-investing?viewport=true\">\n        Learn About Angel Investing ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/membership?viewport=true\">\n        Interested in Membership? ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/investments?viewport=true#applying-for-investment\">\n        Looking for Investment Capital? ❯\n      \u003c/a>\n      \u003ca class=\"btn cta\" href=\"/general-inquiry?viewport=true\" target=\"_blank\">\n        Other Questions? ❯\n      \u003c/a>\n    \u003c/div>\n  \u003c/div>\n  \u003cdiv class=\"hero__images\" style=\"margin-top: 8rem;\">\n    \u003cfa-image-rotator \n      src=\"/images/img_ENe9La3KtJ4HYe7oNSPzpw/1.jpg?fit=inside&w=1600,/images/img_5pZsMpSwMcP8K1uexiCXYT/2.jpg?fit=inside&w=1600,/images/img_1eJHtGYVcbbvRA1tycKKHN/3.jpg?fit=inside&w=1600,/images/img_FsnCzvUq17iYihKiY5hsAJ/4.jpg?fit=inside&w=1600,/images/img_UMwXLVrRZbob4gvnNxPmwH/5.jpg?fit=inside&w=1600\">\u003c/fa-image-rotator>\n  \u003c/div>\n  \u003cdiv class=\"scroll-down\">\n    \u003ca href=\"#about\">\u003cspan>\u003c/span>\u003c/a>\n  \u003c/div>\n\u003c/div>\n"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.0","key":"blk_8d14908a546d43d89a82e45b71424758","type":"CODE"},{"attributes":{"html":"\u003cdiv style=\"font-size: 0\" id=\"about\">&nbsp;\u003c/div>","source":"\u003cdiv style=\"font-size: 0\" id=\"about\">&nbsp;\u003c/div>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.1","key":"blk_286e78ccb25446c1a5fdff0cf2974c58","type":"CODE"},{"attributes":{"html":"\u003ch2>\u003cstrong>About Frontier Angels\u003c/strong>\u003c/h2>\u003cp>Frontier Angels is a group of ~100 people from across the state of Montana who gather every few weeks for breakfast or dinner in Billings, Bozeman, Missoula, or Kalispell to review investment opportunities in the emerging technology ecosystem.&nbsp;Most of our members are current or former entrepreneurs or C-level executives in multinational companies. Their depth and breadth of expertise helps emerging companies develop the right strategies and make the connections they need to grow and thrive.\u003c/p>\u003cp>We’re a friendly group, working together with talented entrepreneurs and our ecosystem partners to create the companies that will be the foundation of the next economy.&nbsp;\u003c/p>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.2","key":"blk_736cf983c6d2492293bf30ba481ccf54","type":"RICHTEXT"},{"attributes":{"html":"\u003cstyle>\n  .live-photos {\n    max-width: 1400px;\n    margin: 4rem auto 1rem;\n  }\n\n  .live-photos div {\n    margin: 1rem;\n    padding: 0.5rem;\n    background: white;\n    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);\n    font-size: 0;\n  }\n\n  .live-photos img {\n    max-width: 100%;\n  }\n\n  @media screen and (min-width: 768px) {\n    .live-photos {\n      display: flex;\n    }\n  }\n\u003c/style>\n\u003cdiv class=\"live-photos\">\n  \u003cdiv>\n    \u003cimg src=\"/images/img_SZTnra5yapyW8DTKZmFd9B/room-shot-live.jpg?fit=inside&w=1600\" alt=\"\">\n  \u003c/div>\n  \u003cdiv>\n    \u003cimg src=\"/images/img_39tkZbFvTFLwvvCZTCaQsZ/billings-regional-judges-ask-questions.jpg?fit=inside&w=1600\" alt=\"\">\n  \u003c/div>\n  \u003cdiv>\n    \u003cimg src=\"/images/img_7DE2URCcwbd1uSUmhfd4mr/group-smiles-live.jpg?fit=inside&w=1600\" alt=\"\">\n  \u003c/div>\n\u003c/div>","source":"\u003cstyle>\n  .live-photos {\n    max-width: 1400px;\n    margin: 4rem auto 1rem;\n  }\n\n  .live-photos div {\n    margin: 1rem;\n    padding: 0.5rem;\n    background: white;\n    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);\n    font-size: 0;\n  }\n\n  .live-photos img {\n    max-width: 100%;\n  }\n\n  @media screen and (min-width: 768px) {\n    .live-photos {\n      display: flex;\n    }\n  }\n\u003c/style>\n\u003cdiv class=\"live-photos\">\n  \u003cdiv>\n    \u003cimg \n      src=\"/images/img_SZTnra5yapyW8DTKZmFd9B/room-shot-live.jpg?fit=inside&w=1600\"\n      alt=\"\" />\n  \u003c/div>\n  \u003cdiv>\n    \u003cimg \n      src=\"/images/img_39tkZbFvTFLwvvCZTCaQsZ/billings-regional-judges-ask-questions.jpg?fit=inside&w=1600\"\n      alt=\"\" />\n  \u003c/div>\n  \u003cdiv>\n    \u003cimg \n      src=\"/images/img_7DE2URCcwbd1uSUmhfd4mr/group-smiles-live.jpg?fit=inside&w=1600\"\n      alt=\"\" />\n  \u003c/div>\n\u003c/div>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.3","key":"blk_bd4636211d934543ae5e386ab7f6e81a","type":"CODE"},{"attributes":{"html":"\u003cdiv style=\"font-size: 0\" id=\"our-mission\">&nbsp;\u003c/div>","source":"\u003cdiv style=\"font-size: 0\" id=\"our-mission\">&nbsp;\u003c/div>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.4","key":"blk_f153e54dd8044935a77312942b1d13e4","type":"CODE"},{"attributes":{"html":"\u003ch2>\u003cstrong>Our Goals\u003c/strong>\u003c/h2>\u003col>\u003cli>Generate attractive returns for our investors;\u003c/li>\u003cli>Build and organize the pool of available early stage capital to make it easier for entrepreneurs to get funded; and\u003c/li>\u003cli>Invest in companies who will grow to become the new foundations of the next economy and create high-skilled, high-paying and sustainable jobs in our communities.\u003c/li>\u003c/ol>\u003cp>\u003cbr>\u003c/p>\u003cp>\u003cbr>\u003c/p>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.5","key":"blk_899757b9fca5467cadf9d4b15515b8ec","type":"RICHTEXT"},{"attributes":{"filename":"room-wide.jpg","id":"img_VQTFyQqK9N1yA5Rq13dmhM"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.6","key":"blk_1f6ffe9439d947348a3c40c725a592f1","type":"IMAGE"},{"attributes":{"html":"\u003cstyle>\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a,\n  #blk_00f74a147b3d488eab7659a2a24eb30c {\n    /* border: 4px solid rgb(251,201,18); */\n    border: 2px solid rgb(251,201,18);\n    background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);\n    background-size: 180px 181px;\n    border-radius: 8px;\n    margin-top: 4rem;\n    padding: 2rem;\n    /* box-shadow: 0 0 8px rgba(251,201,18,0.5), 2px 4px 16px rgba(251,201,18,0.2); */\n    box-shadow: 0 0 16px rgba(0,0,0,0.1), 2px 4px 8px rgba(0,0,0,0.05);\n  }\n\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h1,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h2,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h3,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h4,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h5,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h6,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h1,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h2,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h3,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h4,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h5,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h6 {\n    margin-top: 0;\n  }\n\u003c/style>","source":"\u003cstyle>\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a,\n  #blk_00f74a147b3d488eab7659a2a24eb30c {\n    /* border: 4px solid rgb(251,201,18); */\n    border: 2px solid rgb(251,201,18);\n    background-image: url(/images/img_2guy87UBVYiehKmbq54DgL/light_wool_%402x.png?fit=inside&w=1600);\n    background-size: 180px 181px;\n    border-radius: 8px;\n    margin-top: 4rem;\n    padding: 2rem;\n    /* box-shadow: 0 0 8px rgba(251,201,18,0.5), 2px 4px 16px rgba(251,201,18,0.2); */\n    box-shadow: 0 0 16px rgba(0,0,0,0.1), 2px 4px 8px rgba(0,0,0,0.05);\n  }\n\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h1,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h2,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h3,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h4,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h5,\n  #blk_2ce92c1d8b314a77a8e89204ffcbda1a h6,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h1,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h2,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h3,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h4,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h5,\n  #blk_00f74a147b3d488eab7659a2a24eb30c h6 {\n    margin-top: 0;\n  }\n\u003c/style>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.7","key":"blk_224ff24cdb9f4deb9b958f45eded0784","type":"CODE"},{"attributes":{"html":"\u003ch2 class=\"text-align--center\">Upcoming Meeting and Event Schedule\u003c/h2>\u003cp class=\"text-align--center\">\u003cstrong>March&nbsp;13 2024\u003c/strong>&nbsp;- Group Dinner - Bozeman, simulcast in Billings + Start Up Happy Hour (Billings)\u003c/p>\u003cp class=\"text-align--center\">\u003cstrong>May 31 2024\u003c/strong> - Founders &amp; Investors Happy Hour - Bozeman\u003c/p>\u003cp class=\"text-align--center\">\u003cstrong>June 5 2024\u003c/strong>&nbsp;- Member Meeting @ AC Hotel - Bozeman\u003c/p>\u003cp class=\"text-align--center\">\u003cstrong>July 24 2024\u003c/strong> - Founders &amp; Investors Happy Hour - Whitefish/Flathead\u003c/p>\u003cp class=\"text-align--center\">\u003cstrong>Sept 25 2024\u003c/strong>&nbsp;- Member Dinner &amp; Start-up Happy Hour - Peak Ski, Bozeman\u003c/p>\u003cp class=\"text-align--center\">\u003cstrong>December 5 2024\u003c/strong>&nbsp;- Holiday Party &amp; Member Dinner - AC Hotel, Bozeman\u003c/p>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.8","key":"blk_00f74a147b3d488eab7659a2a24eb30c","type":"RICHTEXT"},{"attributes":{},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.9","key":"blk_2b93b38f3c434c65ac0090ec5533bcc4","type":"RICHTEXT"},{"attributes":{"html":"\u003cstyle>\n  #blk_601dc24b202a4f4c88e8e855267f42c6 {\n    padding-top: 0 !important;\n  }\n\n  #blk_601dc24b202a4f4c88e8e855267f42c6 h2 {\n    margin-top: 0 !important;\n  }\n\u003c/style>","source":"\u003cstyle>\n  #blk_601dc24b202a4f4c88e8e855267f42c6 {\n    padding-top: 0 !important;\n  }\n\n  #blk_601dc24b202a4f4c88e8e855267f42c6 h2 {\n    margin-top: 0 !important;\n  }\n\u003c/style>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.10","key":"blk_545e61a3fd0d40e19977bef330f68ff4","type":"CODE"},{"attributes":{"breakpoints":{"large":{"columns":24,"columnWidth":"4.166666667%","rowHeight":"minmax(50px, max-content)","flow":"down","items":[{"column":3,"height":8,"id":"blk_c9d0d8f9fc234d0dac11657396ca2e77","row":0,"width":11},{"column":15,"height":8,"id":"blk_1df748f3b0c54befbfc5eb4d0c77bc39","row":0,"width":6}]},"medium":{"columns":12,"columnWidth":"8.333333333%","rowHeight":"minmax(50px, max-content)","flow":"down","items":[{"column":1,"height":6,"id":"blk_c9d0d8f9fc234d0dac11657396ca2e77","row":9,"width":10},{"column":3,"height":9,"id":"blk_1df748f3b0c54befbfc5eb4d0c77bc39","row":0,"width":6}]},"small":{"columns":12,"columnWidth":"8.333333333%","rowHeight":"minmax(50px, max-content)","flow":"down","items":[{"column":0,"height":6,"id":"blk_c9d0d8f9fc234d0dac11657396ca2e77","row":6,"width":12},{"column":1,"height":6,"id":"blk_1df748f3b0c54befbfc5eb4d0c77bc39","row":0,"width":10}]}}},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.11","key":"blk_c9333aedb870473598a7865220e98499","type":"GRID"},{"attributes":{"html":"\u003cstyle>\n  .hero.mid-page {\n    border-top: 2px solid #ddd;\n    height: auto;\n    min-height: 0;\n    padding: 0 0 1rem;\n    margin-top: 3rem;\n  }\n\n  @media screen and (min-width: 1200px) {\n    .hero.mid-page {\n      min-height: 600px;\n    }\n  }\n\n  @media screen and (min-width: 1500px) {\n    .hero.mid-page {\n      min-height: 800px;\n    }\n  }\n\u003c/style>\n\u003cdiv class=\"hero mid-page\">\n  \u003cdiv class=\"hero__image\">\u003c/div>\n  \u003cdiv class=\"hero__content\" style=\"flex: 1;\">\n    \u003ch1>Our National Network\u003c/h1>\n    \u003cp>\n      If your business needs $1M to $5M in growth capital, we'll bring our national network of investors in to help close the gap\n    \u003c/p>\n  \u003c/div>\n  \u003cdiv class=\"hero__images\" style=\"margin-left: 0; margin-top: 0rem;\">\n    \u003cfa-image-rotator src=\"/images/img_MB2DgqCuxy842Jq14yi76S/aca-logo-rotator.jpg?fit=inside&w=1600,/images/img_A7e4J1n8NXrYEZ7hAJuuTS/asn-logo-rotator.jpg?fit=inside&w=1600\">\u003c/fa-image-rotator>\n  \u003c/div>\n\u003c/div>\n","source":"\u003cstyle>\n  .hero.mid-page {\n    border-top: 2px solid #ddd;\n    height: auto;\n    min-height: 0;\n    padding: 0 0 1rem;\n    margin-top: 3rem;\n  }\n\n  @media screen and (min-width: 1200px) {\n    .hero.mid-page {\n      min-height: 600px;\n    }\n  }\n\n  @media screen and (min-width: 1500px) {\n    .hero.mid-page {\n      min-height: 800px;\n    }\n  }\n\u003c/style>\n\u003cdiv class=\"hero mid-page\">\n  \u003cdiv class=\"hero__image\">\u003c/div>\n  \u003cdiv class=\"hero__content\" style=\"flex: 1;\">\n    \u003ch1>Our National Network\u003c/h1>\n    \u003cp>\n      If your business needs $1M to $5M in growth capital, we'll bring our national network of investors in to help close the gap\n    \u003c/p>\n  \u003c/div>\n  \u003cdiv class=\"hero__images\" style=\"margin-left: 0; margin-top: 0rem;\">\n    \u003cfa-image-rotator \n      src=\"/images/img_MB2DgqCuxy842Jq14yi76S/aca-logo-rotator.jpg?fit=inside&w=1600,/images/img_A7e4J1n8NXrYEZ7hAJuuTS/asn-logo-rotator.jpg?fit=inside&w=1600\">\u003c/fa-image-rotator>\n  \u003c/div>\n\u003c/div>\n"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.12","key":"blk_2ba2ae6f49814f09b8a48c810eb25993","type":"CODE"},{"attributes":{"html":"\u003ch3>\u003cstrong>Angel Capital Association\u003c/strong>\u003c/h3>\u003cp>The ACA is the national organization representing over 200 angel groups and over 14,000 angel investors investing over $1B annually.&nbsp;They provide training for entrepreneurs and investors, early stage investment analysis and insights, and strong lobbying support for federal and state public policy initiatives to encourage angel investing. Learn more at the&nbsp;\u003ca href=\"https://angelcapitalassociation.org/\" rel=\"noopener noreferrer\" target=\"_blank\">AngelCapitalAssociation.org\u003c/a>.\u003c/p>\u003cp>\u003cbr>\u003c/p>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.13","key":"blk_066dedd5eefd40adaa6b3eda5a57dc3a","type":"RICHTEXT"},{"attributes":{"_format":"content_width","filename":"arash-sani-asnlogo.webp","id":"img_7pVLkTJG4Nx7gw1LnG6kfv"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.14","key":"blk_df182597367f4152bf3cba76a2bf3af2","type":"IMAGE"},{"attributes":{"html":"\u003ch3>\u003cstrong>Angel Syndication Network\u003c/strong>\u003c/h3>\u003cp>ASN is a network of over 40 angel groups across the country who gather online each month to see presentations from several companies nominated by members.&nbsp;Together, we invest well over $100M annually in the best companies we can find.\u003c/p>"},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.15","key":"blk_d493d0d450f54441b2458145b55118c4","type":"RICHTEXT"},{"attributes":{},"insert":"blk_0789fa2c7f7b4e9b8751419d3addc713.16","key":"blk_cefbac23eb9545d196a393e8e838b546","type":"RICHTEXT"},{"attributes":{},"insert":"blk_c9333aedb870473598a7865220e98499.0","key":"blk_c9d0d8f9fc234d0dac11657396ca2e77","type":"GRID_ITEM"},{"attributes":{},"insert":"blk_c9333aedb870473598a7865220e98499.1","key":"blk_1df748f3b0c54befbfc5eb4d0c77bc39","type":"GRID_ITEM"},{"attributes":{"html":"\u003ch2>\u003cstrong>The Managing Director\u003c/strong>\u003c/h2>\u003cp>Pat LaPointe is an entrepreneur who built and sold three companies in the marketing and data analytics field.&nbsp;These days he brings a very entrepreneur-friendly approach to angel and venture investing, and served on the Board of the \u003ca href=\"/network\" rel=\"noopener noreferrer\" target=\"_blank\">Angel Capital Association\u003c/a>. With a portfolio of over 60 investments and afflicted by endless curiosity, Pat enjoys learning about new business models and innovative technologies and \u003cstrong>loves\u003c/strong> helping entrepreneurs find their path to growth and success. See more at \u003ca href=\"undefined\" rel=\"noopener noreferrer\" target=\"_blank\">his LinkedIn page\u003c/a>.\u003c/p>"},"insert":"blk_c9d0d8f9fc234d0dac11657396ca2e77.0","key":"blk_601dc24b202a4f4c88e8e855267f42c6","type":"RICHTEXT"},{"attributes":{"html":"\u003cstyle>\n  .managing-director {\n    margin: 1rem;\n    padding: 0.5rem;\n    background: white;\n    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);\n    font-size: 0;\n  }\n\u003c/style>\n\u003cdiv class=\"managing-director\">\n  \u003cimg src=\"/images/img_5aYptuM1Rcgp433dmjNKfQ/pat-lapointe-cropped.jpg?fit=inside&w=1600\" alt=\"Pat LaPointe – Managing Director of Frontier Angels\" style=\"max-width: 100%\">\n\u003c/div>","source":"\u003cstyle>\n  .managing-director {\n    margin: 1rem;\n    padding: 0.5rem;\n    background: white;\n    box-shadow: 0 0 4px rgba(0,0,0,0.07), 2px 4px 11px rgba(0,0,0,0.12);\n    font-size: 0;\n  }\n\u003c/style>\n\u003cdiv class=\"managing-director\">\n  \u003cimg \n    src=\"/images/img_5aYptuM1Rcgp433dmjNKfQ/pat-lapointe-cropped.jpg?fit=inside&w=1600\"\n    alt=\"Pat LaPointe – Managing Director of Frontier Angels\"\n    style=\"max-width: 100%\" />\n\u003c/div>"},"insert":"blk_1df748f3b0c54befbfc5eb4d0c77bc39.0","key":"blk_a3afb2494e464f95989f1bd2827ae956","type":"CODE"}]}},"path":"/","pinterestDescription":"","publishAt":"2020-04-08T20:39:11.280Z","images":[{"type":"id","generated":true,"id":"Page:pg_Aa3XGEMCYCjtbK8AFKb6wj.images.0","typename":"PosterImage"}],"tags":[],"url":"https://www.frontierangels.com/","__typename":"Page"},"Image:img_KDA3d9hcyX886LxLkjV7E8":{"id":"img_KDA3d9hcyX886LxLkjV7E8","url":"http://www.frontierangels.com/images/img_KDA3d9hcyX886LxLkjV7E8/fa_logo_fa_only_rgb-copy.jpg","__typename":"Image"},"Page:pg_Aa3XGEMCYCjtbK8AFKb6wj.images.0":{"image":{"type":"id","generated":false,"id":"Image:img_KDA3d9hcyX886LxLkjV7E8","typename":"Image"},"type":"generic","__typename":"PosterImage"}};
+        </script>
+        <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">[]</script>
+<script async data-chunk="public" src="/assets/04744c12844cd00a9337.js"></script>
+<script async data-chunk="public" src="/assets/62cc9d22535e90beca84.js"></script>
+<script async data-chunk="public" src="/assets/339caa491dc90a74b2b0.js"></script>
+<script async data-chunk="public" src="/assets/180cec1772a8dd8a8c92.js"></script>
+<script async data-chunk="public" src="/assets/94ce9e96e75cba26f0f5.js"></script>
+<script async data-chunk="public" src="/assets/2234b1c205e1caa542d0.js"></script>
+<script async data-chunk="public" src="/assets/46f110be6a2ad0085cbb.js"></script>
+<script async data-chunk="public" src="/assets/88e54110b2faeb16b49f.js"></script>
+<script async data-chunk="public" src="/assets/6226c1d6ccf5967e03a4.js"></script>
+      </body>
+    </html>
+  

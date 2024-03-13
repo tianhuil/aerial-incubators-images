@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Liquid 2 Ventures</title>
+<meta name="description" content>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/font-awesome.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/templatemo_misc.css">
+<link rel="stylesheet" href="css/templatemo_style.css">
+<script src="js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+</head>
+<body>
+<!--[if lt IE 7]>
+            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+        <![endif]-->
+<div class="site-main" id="sTop">
+<div class="site-header">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center">
+<ul class="social-icons">
+<li><a href="https://twitter.com/Liquid2V" class="fa fa-twitter"></a></li>
+<li><a href="https://www.linkedin.com/company/liquid-2-ventures/about/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="main-header">
+<div class="container">
+<div id="menu-wrapper">
+<div class="row">
+<div class="logo-wrapper col-md-2 col-sm-2">
+<h1>
+<a href="#">Liquid2</a>
+</h1>
+</div> 
+<div class="col-md-10 col-sm-10 main-menu text-right">
+<div class="toggle-menu visible-sm visible-xs"><i class="fa fa-bars"></i></div>
+<ul class="menu-first">
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#our-team">Team</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="site-slider">
+<div class="slider">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<div class="overlay"></div>
+<img src="images/LiquidTeam.jpg" alt>
+<div class="slider-caption visible-md visible-lg">
+<h2>(Pre)Seed Venture Capital</h2>
+<p>An ecosystem of the world's best founders</p>
+</div>
+</li>
+</ul>
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="content-section" id="portfolio">
+<div class="container">
+<div class="row">
+<div class="heading-section col-md-12 text-center">
+<h2>Our Portfolio</h2>
+<p>Highlights</p>
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/gitlab.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://about.gitlab.com">Gitlab</a></h3>
+<p>Gitlab is a complete DevOps platform – a complete CI/CD toolchain in a single application. One interface. One conversation. One permission model. Thousands of features. You’ll be amazed at everything GitLab can do today. And we’re just getting started.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/anduril.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.anduril.com">Anduril</a></h3>
+<p>Anduril builds cutting-edge hardware and software products that solve complex national security challenges for America and its allies.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/rappi.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://about.rappi.com">Rappi</a></h3>
+<p>Rappi is an information technology company that specializes in providing an online marketplace for consumer goods headquartered in Colombia and operating in nine countries from Central to South America.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Rippling.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.rippling.com">Rippling</a></h3>
+<p>Rippling is an employee management platform that lets you effortlessly manage your employees’ payroll, benefits, devices, apps, and more – all in one place.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Newfront.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.newfront.com">NewFront</a></h3>
+<p>An insurance brokerage built for the 21st Century. Newfront empowers risk management experts with advanced technology, to deliver innovative and effective solutions to their clients’ needs.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Applied.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.appliedintuition.com">Applied Intuition</a></h3>
+<p>Applied provides software infrastructure for engineering and product development teams bringing autonomy to market.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Amperity.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://amperity.com">Amperity</a></h3>
+<p>Amperity customer data platform bringing trust, flexibility and power to your data with patented technology that intelligently stitches all your customers data at scale, delivering a complete Customer 360, predictive insights, and the ability to personalize every interaction.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/StandardAI.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://standard.ai">StandardAI</a></h3>
+<p>Retail with autonomous checkout. Customers walk in, grab what they need, and leave without waiting in line or stopping to scan and pay. Standard’s computer vision and AI-powered solution is the only one that can be quickly and easily installed in retailers’ existing stores.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Cloud9.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://cloud9.gg/home/">Cloud9</a></h3>
+<p>Since 2013, Cloud9 has become one of the most recognizable esports organizations in the world. With championships industry-wide, unmatched viewership hours, and extensive benefits packages for players and staff, Cloud9 prides itself on being the best in all categories.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Payfazz.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.payfazz.com/">Payfazz</a></h3>
+<p>PAYFAZZ is an agency-based financial application for Indonesia that can simplify transactions and payments digitally. Through the PAYFAZZ application, everyone can make financial transactions and digital payments easily, comfortably, anywhere and anytime.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Solugen.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://solugen.com">Solugen</a></h3>
+<p>Solugen’s mission is to decarbonize the chemicals industry. Solugen is reimagining the power of chemical energy with the power of biology, not petroleum.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Astranis.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.astranis.com">Astranis</a></h3>
+<p>Four billion people still have no internet access. Astranis is here to change that by building the next generation of internet satellites.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Albert.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://albert.com">Albert</a></h3>
+<p>Albert conducts your financial life so you can make good money decisions with confidence.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Athelas.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.athelas.com">Athelas</a></h3>
+<p>Athelas is the next generation for immune monitoring. </p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Strivr.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.strivr.com">StriVR</a></h3>
+<p>StriVR provides companies with the tools to train employees through immersive learning. Through Virtual Reality, employees learn by doing, and develop new skills faster with data-driven insights. People are your most valuable investment. It’s time to start training like it.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Retool.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://retool.com">Retool</a></h3>
+<p>Retool provides a complete set of powerful building blocks out of the box. Spend your time getting UI in front of stakeholders, not hunting down the best React table library. Assemble your app in 30 seconds by dragging and dropping from our pre-built components.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Mercury.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://mercury.com">Mercury</a></h3>
+<p>Banking built for startups to help them scale.Full-stack bank accounts, make efficient decisions with cashflow analytics, programmatic payments, instant runway estimates, and more.Tap into Silicon Valley’s core with access to their network and expertise.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Tecton.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.tecton.ai">Tecton</a></h3>
+<p>Tecton is the platform for machine learning. Build a library of great features from batch, streaming and real-time data. Serve them in productions. Do it at scale.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/C16.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.c16bio.com">C16 Biosciences</a></h3>
+<p>C16 uses innovative processes found in nature to brew natural alternatives to palm oil, a $61 billion industry that has drastic environmental and societal costs.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/HumanInterest.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://humaninterest.com">Human Interest</a></h3>
+<p>Human Interest is the 401(k) provider for small and medium-sized businesses, taking the hassle out of managing your company’s retirement plans.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Brat.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.youtube.com/channel/UCdnJJrDUl-y_ryelLMslxkQ">Brat</a></h3>
+<p>Brat is a digital media network available on YouTube featuring scripted shows originally popularized by social media celebrities and created for a teenage audience.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Armory.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.armory.io">Armory</a></h3>
+<p>Armory unlocks collaboration between your Dev, Sec, and Ops teams and tools, from Code to Cloud. Built on Spinnaker, our policy-driven deployments enable you to innovate with speed and safety.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Lambda.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.bloomtech.com">Lambda School</a></h3>
+<p>The school that invests in you. Train remotely to become a web developer or a data scientist and pay no tuition until you’re hired.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Craft.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://craft.co">Craft</a></h3>
+<p>Craft is an enterprise intelligence company helping organizations make data-informed business decisions with a platform that provides comprehensive, validated and always up-to-date commercial data, analytics, and actionable insights.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Walnut.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="http://walnut.io">Walnut</a></h3>
+<p>Walnut offers a failure-free, codeless, and 100% customizable sales demo platform.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/OpenListings.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.opendoor.com">Open Listings</a></h3>
+<p>Acquired in September 2018 by Opendoor</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/EscherReality.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://nianticlabs.com">Escher Reality</a></h3>
+<p>Acquired February 2018 by Niantic</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Reflect.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.puppet.com">Reflect</a></h3>
+<p>Acquired June 2018 by Puppet</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Makara.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://makara.com">Makara</a></h3>
+<p>Makara is the first SEC-registered cryptocurrency robo-advisor. Get a personalized crypto portfolio based on your goals and interests.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/StrixLeviathan.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.betterment.com">Strix Leviathan</a></h3>
+<p>Acquired by Betterment in 2022.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Blockdaemon.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://blockdaemon.com">Block Daemon</a></h3>
+<p>Supporting 40+ cutting edge blockchain networks with world-class enterprise infrastructure. Blockdaemon power the blockchain economy with an easy-to-use, secure and scalable node management platform.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Truepill.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.truepill.com">Truepill</a></h3>
+<p>Leading companies trust Truepill’s platform and ecosystem to deliver healthcare to millions.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Whatnot.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.whatnot.com">Whatnot</a></h3>
+<p>Whatnot aims to enable anyone to turn their passion into a business & bring people together through commerce.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Pipe.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://pipe.com">Pipe</a></h3>
+<p>Pipe transforms recurring revenue into upfront capital for growth without debt or dilution.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Remote.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://remote.com">Remote</a></h3>
+<p>International payroll, benefits, taxes, and compliance for businesses, big and small.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/OmniaFishing.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.omniafishing.com">Omnia Fishing</a></h3>
+<p>Shop for tackle and gear online based on the waters Angler's fish. Omnia utilizes data science, ML and domain specific knowledge to make contextualized and personalized gear recommendations.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Vetcove.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.vetcove.com">Vetcove</a></h3>
+<p>Vetcove is the largest B2B veterinary marketplace in the world, enabling veterinary hospitals and clinics to compare and buy supplies from all of their vendors in one place.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Genies.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://genies.com">Genies</a></h3>
+<p>Genies is an avatar technology company that builds avatars for people and communities, and provides people with the tools to create their own avatar ecosystems.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Clipboard.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://clipboardhealth.com">Clipboard Health</a></h3>
+<p>Clipboard Health is an online marketplace where nurses and CNAs can search for per diem shifts, and where healthcare facilities can find and fill their talent needs.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/ModernTreasury.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.moderntreasury.com">Modern Treasury</a></h3>
+<p>A payment operations platform that enables fast-growing companies to add money movement and tracking to their products. APIs automate money movement at scale, including bank integration, payments, and reconciliation -- moving money faster while the web app provides complete control over cash flows.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Airbyte.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://airbyte.com">Airbyte</a></h3>
+<p>Airbyte is an open-source data integration platform that unifies and connects different types of data.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Jasper.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://www.jasper.ai">Jasper</a></h3>
+<p>Jasper uses AI to write high-quality, emotionally-driven original content for blogs.</p>
+</div> 
+</div> 
+</div> 
+<div class="portfolio-item col-md-3 col-sm-6">
+<div class="portfolio-thumb">
+<img src="images/portfolio/Nowports.png" alt>
+<div class="portfolio-overlay">
+<h3><a href="https://nowports.com">Nowports</a></h3>
+<p>A digital freight forwarder that automates the supply chain process of companies and facilitates the acquisition and protection of merchandise in its transfer.</p>
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="content-section" id="our-team">
+<div class="container">
+<div class="row">
+<div class="heading-section col-md-12 text-center">
+<h2>Our Team</h2>
+<p>We are founders, builders, operators (and humans) ourselves</p>
+</div> 
+</div> 
+<div class="row">
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Joe.png" alt>
+<div class="team-overlay">
+<h3>Joe Montana</h3>
+<span>Managing Director</span>
+<ul class="social">
+<li><a href="https://twitter.com/JoeMontana" class="fa fa-twitter"></a></li>
+<li><a href="https://www.linkedin.com/company/liquid-2-ventures/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Ma.png" alt>
+<div class="team-overlay">
+<h3>Michael Ma</h3>
+<span>Partner</span>
+<ul class="social">
+<li><a href="https://twitter.com/MichaelandMa" class="fa fa-twitter"></a></li>
+<li><a href="https://www.linkedin.com/in/michaelma8/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Miller.png" alt>
+<div class="team-overlay">
+<h3>Michael Miller</h3>
+<span>Partner</span>
+<ul class="social">
+<li><a href="https://www.linkedin.com/in/mlmilleratmit/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Nate.png" alt>
+<div class="team-overlay">
+<h3>Nate Montana</h3>
+<span>Partner</span>
+<ul class="social">
+<li><a href="https://twitter.com/scootermontana" class="fa fa-twitter"></a></li>
+<li><a href="https://www.linkedin.com/in/nathaniel-montana-86742988/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Mulvey-Medium.png" alt>
+<div class="team-overlay">
+<h3>Matt Mulvey</h3>
+<span>Partner</span>
+<ul class="social">
+<li><a href="https://twitter.com/MattMulvey17" class="fa fa-twitter"></a></li>
+<li><a href="https://www.linkedin.com/in/mattmulvey/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Elizabeth.png" alt>
+<div class="team-overlay">
+<h3>Elizabeth Luciano</h3>
+<span>Director of Operations</span>
+<ul class="social">
+<li><a href="https://www.linkedin.com/in/elizabeth-montana-luciano-08675923/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Ron.png" alt>
+<div class="team-overlay">
+<h3>Ron Conway</h3>
+<span>Advisor</span>
+<ul class="social">
+<li><a href="https://twitter.com/ronconway" class="fa fa-twitter"></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ron_Conway"> W </a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Jessica.png" alt>
+<div class="team-overlay">
+<h3>Jessica Livingston</h3>
+<span>Advisor</span>
+<ul class="social">
+<li><a href="https://twitter.com/jesslivingston?lang=en" class="fa fa-twitter"></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jessica_Livingston"> W </a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/Qasar.png" alt>
+<div class="team-overlay">
+<h3>Qasar Younis</h3>
+<span>Advisor</span>
+<ul class="social">
+<li><a href="https://www.linkedin.com/in/qasar/" class="fa fa-linkedin"></a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="team-member col-md-3 col-sm-6">
+<div class="member-thumb">
+<img src="images/team/PG.png" alt>
+<div class="team-overlay">
+<h3>Paul Graham</h3>
+<span>Advisor</span>
+<ul class="social">
+<li><a href="https://twitter.com/paulg" class="fa fa-twitter"></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Paul_Graham_(programmer)"> W </a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="content-section" id="contact">
+<div class="container">
+<div class="row">
+<div class="heading-section col-md-12 text-center">
+<h2>Contact</h2>
+<p>909 Montgomery, San Francisco, CA 94133</p>
+<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="650c0b030a25090c14100c01574b1306">[email&#160;protected]</a></p>
+</div> 
+</div> 
+</div> 
+</div> 
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-xs-12 text-left">
+<span>Copyright &copy; 2023 Liquid2 Ventures.</span>
+</div> 
+<div class="col-md-4 hidden-xs text-right">
+<a href="#top" id="go-top">Back to top</a>
+</div> 
+</div> 
+</div> 
+</div> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/vendor/jquery-1.11.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="js/bootstrap.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
