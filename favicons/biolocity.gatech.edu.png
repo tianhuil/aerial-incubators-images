@@ -284,7 +284,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/biolocity\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://biolocity.gatech.edu/wp-includes/js/wp-util.min.js?ver=6.4.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"a977bc3909"};
+var userProfileL10n = {"user_id":"0","nonce":"c06a6068a9"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://biolocity.gatech.edu/wp-admin/js/user-profile.min.js?ver=6.4.3" id="user-profile-js"></script>

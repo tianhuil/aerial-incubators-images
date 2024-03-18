@@ -16,12 +16,12 @@
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
 <meta name="description" content="Connecting tomorrow. At Swissnex we connect Switzerland, North America, and the world in science, education, innovation, and the arts." />
-<link rel="canonical" href="https://swissnex.org/boston/" />
+<link rel="canonical" href="https://swissnex.org/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Connecting Tomorrow - Swissnex in Boston and New York" />
 <meta property="og:description" content="Connecting tomorrow. At Swissnex we connect Switzerland, North America, and the world in science, education, innovation, and the arts." />
-<meta property="og:url" content="https://swissnex.org/boston/" />
+<meta property="og:url" content="https://swissnex.org/" />
 <meta property="og:site_name" content="Swissnex in Boston and New York" />
 <meta property="article:modified_time" content="2024-02-27T23:16:37+00:00" />
 <meta property="og:image" content="https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg" />
@@ -29,7 +29,7 @@
 <meta property="og:image:height" content="891" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://swissnex.org/boston/","url":"https://swissnex.org/boston/","name":"Connecting Tomorrow - Swissnex in Boston and New York","isPartOf":{"@id":"https://swissnex.org/boston/#website"},"primaryImageOfPage":{"@id":"https://swissnex.org/boston/#primaryimage"},"image":{"@id":"https://swissnex.org/boston/#primaryimage"},"thumbnailUrl":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","datePublished":"2020-11-13T18:05:08+00:00","dateModified":"2024-02-27T23:16:37+00:00","description":"Connecting tomorrow. At Swissnex we connect Switzerland, North America, and the world in science, education, innovation, and the arts.","breadcrumb":{"@id":"https://swissnex.org/boston/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://swissnex.org/boston/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://swissnex.org/boston/#primaryimage","url":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","contentUrl":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","width":2160,"height":891,"caption":"Downtown Boston city street with people connecting tomorrow"},{"@type":"BreadcrumbList","@id":"https://swissnex.org/boston/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://swissnex.org/boston/#website","url":"https://swissnex.org/boston/","name":"Swissnex in Boston and New York","description":"Connecting Switzerland, North America and the world in science, education, innovation and art.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://swissnex.org/boston/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://swissnex.org/","url":"https://swissnex.org/","name":"Connecting Tomorrow - Swissnex in Boston and New York","isPartOf":{"@id":"https://swissnex.org/#website"},"primaryImageOfPage":{"@id":"https://swissnex.org/#primaryimage"},"image":{"@id":"https://swissnex.org/#primaryimage"},"thumbnailUrl":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","datePublished":"2020-11-13T18:05:08+00:00","dateModified":"2024-02-27T23:16:37+00:00","description":"Connecting tomorrow. At Swissnex we connect Switzerland, North America, and the world in science, education, innovation, and the arts.","breadcrumb":{"@id":"https://swissnex.org/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://swissnex.org/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://swissnex.org/#primaryimage","url":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","contentUrl":"https://swissnex.org/app/uploads/sites/8/2021/03/sydney-angove_logo.jpg","width":2160,"height":891,"caption":"Downtown Boston city street with people connecting tomorrow"},{"@type":"BreadcrumbList","@id":"https://swissnex.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://swissnex.org/#website","url":"https://swissnex.org/","name":"Swissnex in Boston and New York","description":"Connecting Switzerland, North America and the world in science, education, innovation and art.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://swissnex.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 
 <style id="classic-theme-styles-inline-css" type="text/css">
 /*! This file is auto-generated */
@@ -44,8 +44,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </style>
 <link rel="stylesheet" id="stylesheet-css" href="https://swissnex.org/app/themes/swissnext/library/css/main.81ac9617.css" type="text/css" media="all" />
 <link rel="https://api.w.org/" href="https://swissnex.org/boston/wp-json/" /><link rel="alternate" type="application/json" href="https://swissnex.org/boston/wp-json/wp/v2/pages/2" /><link rel="shortlink" href="https://swissnex.org/boston/" />
-<link rel="alternate" type="application/json+oembed" href="https://swissnex.org/boston/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fswissnex.org%2Fboston%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://swissnex.org/boston/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fswissnex.org%2Fboston%2F&#038;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="https://swissnex.org/boston/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fswissnex.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://swissnex.org/boston/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fswissnex.org%2F&#038;format=xml" />
 <script>
 window.globals = {
 	themePath: "/app/themes/swissnext"
@@ -58,7 +58,7 @@ window.globals = {
 <script>
 			function setW(){document.documentElement.style.setProperty('--sbw',window.innerWidth-document.body.offsetWidth+'px')}
 			document.readyState!=='loading'?setW():document.addEventListener('DOMContentLoaded',setW);
-			window.gtag={hub_name:'boston',content_language:'en',generic_url_path:'https://swissnex.org/boston/'};
+			window.gtag={hub_name:'boston',content_language:'en',generic_url_path:'https://swissnex.org/'};
 		</script>
 
 <script>(function (w, d, s, l, i) {
@@ -76,7 +76,7 @@ window.globals = {
 <div id="container" role="main">
 <div class="c-nav--main">
 <div class="container">
-<a href="https://swissnex.org/boston/" class="c-nav--main__logo" aria-label="Back to home">
+<a href="https://swissnex.org/" class="c-nav--main__logo" aria-label="Back to home">
 <svg class="logo logo-dims"><use xlink:href="#logo"></use></svg>
 </a>
 <button aria-label="Open menu" class="c-btn c-btn--burger mobile-only ">

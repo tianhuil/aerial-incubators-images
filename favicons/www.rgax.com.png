@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div id="searchContainer" class="site-search search-bar-container">
         
-        <div id="searchbox-8f3c329e-aa94-4f37-b0b6-cf10f0499238">
+        <div id="searchbox-7adb3eda-2751-4583-9f69-c857efc92813">
             <div id="searchio-searchbox" data-results-page="/search" data-account="1669868074240554073" data-collection="rgare-cust" role="search"></div>
               <div id="suggestions"></div>
               <div>
@@ -131,13 +131,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-1'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="06d4a213-f2fa-4e52-9a89-5a16cb9e1996">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="32dc1679-2737-468e-b2b5-4f7a244c7f28">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="06d4a213-f2fa-4e52-9a89-5a16cb9e1996" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
+            <ul id="32dc1679-2737-468e-b2b5-4f7a244c7f28" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -145,10 +145,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="83f1f72f-88e1-44b3-a43e-b03e536b87cc">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="7d250741-244d-4ee2-b6b0-d21d1eb26b7b">
                     Gateway
                 </button>
-                <ul id="83f1f72f-88e1-44b3-a43e-b03e536b87cc" class="utility-menu__sub-list">
+                <ul id="7d250741-244d-4ee2-b6b0-d21d1eb26b7b" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -208,8 +208,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="main__list" id='navbar-2'>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a08b981f-23aa-4379-9031-0f67dfcfd7e7">Solutions</button>
-            <ul id="a08b981f-23aa-4379-9031-0f67dfcfd7e7" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="905a27bc-5d56-416b-8d30-4f22120445aa">Solutions</button>
+            <ul id="905a27bc-5d56-416b-8d30-4f22120445aa" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/solutions/solutions-landing" target="_self">Solutions</a>
             </li>
@@ -244,8 +244,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="c641a1b7-5742-495c-b3ec-98cc28ccbf5c">Global Presence</button>
-            <ul id="c641a1b7-5742-495c-b3ec-98cc28ccbf5c" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="58c3dfda-8c02-40a2-9f7b-a13ca38b5c05">Global Presence</button>
+            <ul id="58c3dfda-8c02-40a2-9f7b-a13ca38b5c05" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/global-presence/global-presence-landing" target="_self">Global Presence</a>
             </li>
@@ -265,8 +265,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="9552b0f3-8700-4f19-8ddf-16a42ee126eb">Knowledge Center</button>
-            <ul id="9552b0f3-8700-4f19-8ddf-16a42ee126eb" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="88beae39-c426-4ae7-a4bb-30abd62c35b3">Knowledge Center</button>
+            <ul id="88beae39-c426-4ae7-a4bb-30abd62c35b3" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/knowledge-center/knowledge-center-landing" target="_self">Knowledge Center</a>
             </li>
@@ -277,8 +277,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="6f5f16f1-bc1e-4f9e-8a97-b6c1e6550279">Company</button>
-            <ul id="6f5f16f1-bc1e-4f9e-8a97-b6c1e6550279" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="56a480e8-60f5-4212-b864-f041a372aeb4">Company</button>
+            <ul id="56a480e8-60f5-4212-b864-f041a372aeb4" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/our-company/our-company-landing" target="_self">Company</a>
             </li>
@@ -301,8 +301,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a5c4ef64-f672-4449-8aec-9ee5479fc9dd">Investors</button>
-            <ul id="a5c4ef64-f672-4449-8aec-9ee5479fc9dd" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="7af218b4-0444-4564-841b-fb79db34613d">Investors</button>
+            <ul id="7af218b4-0444-4564-841b-fb79db34613d" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/investors/investors" target="_blank">Investors&#160;</a>
             </li>
@@ -310,8 +310,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="0b66920c-5f31-4b51-9d8c-c1f4185f2ad3">Careers</button>
-            <ul id="0b66920c-5f31-4b51-9d8c-c1f4185f2ad3" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="847a6ac6-0246-4dcc-9d71-ee41612fbae8">Careers</button>
+            <ul id="847a6ac6-0246-4dcc-9d71-ee41612fbae8" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/careers/careers-overview" target="_self">Careers</a>
             </li>
@@ -349,13 +349,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-3'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="0b38350a-a905-4279-be2b-b834503d871e">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="82987786-3458-40b7-be16-8c02e2a3ec66">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="0b38350a-a905-4279-be2b-b834503d871e" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
+            <ul id="82987786-3458-40b7-be16-8c02e2a3ec66" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -363,10 +363,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="6019c873-bf1d-4c33-bdaa-aa3a6045700e">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="1dbd4008-a50b-4353-883d-82e48bfa5e9c">
                     Gateway
                 </button>
-                <ul id="6019c873-bf1d-4c33-bdaa-aa3a6045700e" class="utility-menu__sub-list">
+                <ul id="1dbd4008-a50b-4353-883d-82e48bfa5e9c" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -800,7 +800,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<div id="carousel-dadf2a37-e266-4c73-abfc-d26899407550" class="callout-carousel callout-slider swiper">
+<div id="carousel-398d5e7d-001c-4cf0-a2f9-2f17eb2b4bcb" class="callout-carousel callout-slider swiper">
 
   <div class="callout-carousel__pagination"></div>
 
@@ -1351,6 +1351,20 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
             <li class="news-card__item">
                 <div class="news-card__meta">
 				    <span class="text-muted">
+					    Mar 14, 2024
+				    </span>
+                    
+                </div>
+
+				<h3 class="news-card__title">
+					Legal &amp; General Retirement America and RGA Partner to Complete $700 Million Pension Risk Transfer Transaction with FirstEnergy
+				</h3>
+
+				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/14/legal---general-retirement-america-and-rga-partner-to-complete--700-million-pension-risk-transfer-transaction-with-firstenergy" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Legal &amp; General Retirement America and RGA Partner to Complete $700 Million Pension Risk Transfer Transaction with FirstEnergy</span></a>
+			</li>
+            <li class="news-card__item">
+                <div class="news-card__meta">
+				    <span class="text-muted">
 					    Mar 6, 2024
 				    </span>
                     
@@ -1361,20 +1375,6 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
 				</h3>
 
 				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/06/prudential-and-rga-entrusted-to-fulfill--5.9-billion-in-pension-promises-for-verizon" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Prudential and RGA entrusted to fulfill $5.9 billion in pension promises for Verizon</span></a>
-			</li>
-            <li class="news-card__item">
-                <div class="news-card__meta">
-				    <span class="text-muted">
-					    Feb 1, 2024
-				    </span>
-                    
-                </div>
-
-				<h3 class="news-card__title">
-					Reinsurance Group of America Reports Fourth Quarter and Full Year Results
-				</h3>
-
-				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/02/01/reinsurance-group-of-america-reports-fourth-quarter-and-full-year-results" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Reinsurance Group of America Reports Fourth Quarter and Full Year Results</span></a>
 			</li>
     </ul>
 

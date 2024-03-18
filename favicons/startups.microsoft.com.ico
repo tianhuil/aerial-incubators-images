@@ -22,7 +22,7 @@
     
 <!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
 
-    CVToken: CASMicrosoftCV160069ae.0
+    CVToken: CASMicrosoftCV34860bd7.0
   End of ADDITIONAL DEBUG INFO -->
 
 
@@ -63,15 +63,15 @@
             
 
  <title>Microsoft para Startups | Microsoft</title>
-<link rel="canonical" href="https://www.microsoft.com/pt-br/startups"/>  
+<link rel="canonical" href="https://www.microsoft.com/content/microsoft/bade/pt-br/startups"/>  
 
 <meta name="description" content="O Hub de Fundadores da Microsoft para Startups fornece aos fundadores recursos gratuitos para superar os desafios que as startups enfrentam, incluindo créditos do Azure, ferramentas de desenvolvimento e produtividade, recursos de orientação e muito mais. Aberto a todos, sem necessidade de financiamento."/>
 
-<meta name="twitter:url" content="https://www.microsoft.com/pt-br/startups"/>
+<meta name="twitter:url" content="https://www.microsoft.com/content/microsoft/bade/pt-br/startups"/>
 <meta name="twitter:title" content="Microsoft para Startups | Microsoft"/>
 <meta name="twitter:description" content="O Hub de Fundadores da Microsoft para Startups fornece aos fundadores recursos gratuitos para superar os desafios que as startups enfrentam, incluindo créditos do Azure, ferramentas de desenvolvimento e produtividade, recursos de orientação e muito mais. Aberto a todos, sem necessidade de financiamento."/>
 <meta name="twitter:card" content="summary"/>
-<meta property="og:url" content="https://www.microsoft.com/pt-br/startups"/>
+<meta property="og:url" content="https://www.microsoft.com/content/microsoft/bade/pt-br/startups"/>
 <meta property="og:title" content="Microsoft para Startups | Microsoft"/>
 <meta property="og:description" content="O Hub de Fundadores da Microsoft para Startups fornece aos fundadores recursos gratuitos para superar os desafios que as startups enfrentam, incluindo créditos do Azure, ferramentas de desenvolvimento e produtividade, recursos de orientação e muito mais. Aberto a todos, sem necessidade de financiamento."/>
 <meta property="og:type" content="website"/>
@@ -93,7 +93,7 @@
 
     
     
-<link rel="stylesheet" href="/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-ext/main-light.min.ACSHASH21c4675169ba4b06d4bc95ed534b46e9.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-ext/main-light.min.ACSHASH26a0054bc385e2d8cb9a5819e61cb3b4.css" type="text/css">
 
 
 
@@ -231,7 +231,7 @@
 
 <!-- Start of ADDITIONAL DEBUG INFO ** experimentation.html **
 
-    CVToken-Experimentation: CASMicrosoftCV160069ae.0
+    CVToken-Experimentation: CASMicrosoftCV34860bd7.0
     
     
             Exp header value: not found
@@ -262,7 +262,7 @@
 		
 		
   			<script>
-  	  			window.mscv = 'CASMicrosoftCV160069ae.0'
+  	  			window.mscv = 'CASMicrosoftCV34860bd7.0'
   			</script>
 			
 		
@@ -274,7 +274,7 @@
 
 		
   			<script>
-  	  			window.msservercv = 'CASMicrosoftCV160069ae.0'
+  	  			window.msservercv = 'CASMicrosoftCV34860bd7.0'
   			</script>
 			
 
@@ -361,12 +361,12 @@
     
 <!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
 
-    CVToken: CASMicrosoftCV160069ae.1
+    CVToken: CASMicrosoftCV34860bd7.1
   End of ADDITIONAL DEBUG INFO -->
 
                 <!-- Start of ADDITIONAL DEBUG INFO ** uhftemplate.html **
 
-    CVToken: CASMicrosoftCV160069ae.1
+    CVToken: CASMicrosoftCV34860bd7.1
   End of ADDITIONAL DEBUG INFO -->
                 <link rel="stylesheet" href="https://www.microsoft.com/onerfstatics/marketingsites-eus-prod/west-european/shell/_scrf/css/themes=default.device=uplevel_web_pc/29-591900/68-c3a397/f4-0855a6/a8-3dc4a6/f1-3221a1/dc-d4cb46/1f-806835/44-c33a61?ver=2.0&amp;_cf=20210618" type="text/css" media="all" />    <div id="headerArea" class="uhf"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
                 <div id="headerRegion"      data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
@@ -9282,8 +9282,8 @@
 
                             </div>
                             <div class="col-12">
-                                <div id="status-container-x555219c68ce049cd9ab5eed7b63e04e5" class="float-left mr-3">
-                                    <span id="status-msg-sr-x555219c68ce049cd9ab5eed7b63e04e5" class="sr-only" aria-live="polite">Mostrando %{start}%{separator}%{end} de %{total} itens</span>
+                                <div id="status-container-x453f7fd8147f4b409f9127ceebef9ca9" class="float-left mr-3">
+                                    <span id="status-msg-sr-x453f7fd8147f4b409f9127ceebef9ca9" class="sr-only" aria-live="polite">Mostrando %{start}%{separator}%{end} de %{total} itens</span>
                                     
                                 </div>
                                 <div>
@@ -9293,9 +9293,9 @@
                             </div>
                         </div>
                     </div>
-                <div class="carousel slide carousel-product-card pb-5 pb-sm-0" data-mount="m365-carousel" data-loop="true" data-status="status-container-x555219c68ce049cd9ab5eed7b63e04e5">
+                <div class="carousel slide carousel-product-card pb-5 pb-sm-0" data-mount="m365-carousel" data-loop="true" data-status="status-container-x453f7fd8147f4b409f9127ceebef9ca9">
                         
-                            <a href="#x555219c68ce049cd9ab5eed7b63e04e5" class="btn btn-link sr-only-focusable w-100 position-absolute">Ignorar Rótulo aria null</a>
+                            <a href="#x453f7fd8147f4b409f9127ceebef9ca9" class="btn btn-link sr-only-focusable w-100 position-absolute">Ignorar Rótulo aria null</a>
                         
                         <div>
                             <div class="carousel-controls">
@@ -10693,7 +10693,7 @@
                     </div>
                 </section>
                 
-                    <a id="x555219c68ce049cd9ab5eed7b63e04e5" class="sr-only" tabindex="-1">Fim da Rótulo aria seção</a>            
+                    <a id="x453f7fd8147f4b409f9127ceebef9ca9" class="sr-only" tabindex="-1">Fim da Rótulo aria seção</a>            
                 
                 
     
@@ -11278,7 +11278,7 @@
 
 
 
-<link rel="canonical" href="https://www.microsoft.com/pt-br/startups"/>
+<link rel="canonical" href="https://www.microsoft.com/content/microsoft/bade/pt-br/startups"/>
 
     <section class="col-12" id="socialfollow-uidd8d4" data-componentName="socialfollow-uidd8d4">
         <h2 class="base font-weight-normal d-inline align-middle mr-g">
@@ -11386,7 +11386,7 @@
 
 
 
-<link rel="canonical" href="https://www.microsoft.com/pt-br/startups"/>
+<link rel="canonical" href="https://www.microsoft.com/content/microsoft/bade/pt-br/startups"/>
 
 
 
@@ -11427,12 +11427,12 @@
     
 <!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
 
-    CVToken: CASMicrosoftCV160069ae.1
+    CVToken: CASMicrosoftCV34860bd7.1
   End of ADDITIONAL DEBUG INFO -->
 
                 <!-- Start of ADDITIONAL DEBUG INFO ** uhftemplate.html **
 
-    CVToken: CASMicrosoftCV160069ae.1
+    CVToken: CASMicrosoftCV34860bd7.1
   End of ADDITIONAL DEBUG INFO -->
                     <div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
                 <div id="footerRegion"      data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
@@ -11758,7 +11758,7 @@
 
     
     
-<script src="/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-ext/main-light.min.ACSHASH3df57c5a6812a738a8a948253621c2a9.js"></script>
+<script src="/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-ext/main-light.min.ACSHASH3b4c77441985f7ea470766ed4e323903.js"></script>
 
 
 
@@ -11927,9 +11927,9 @@
 
 
 	<!-- Start of ADDITIONAL DEBUG INFO
-	MS_COMMIT_ID: 0dc0404
-	MS-CV: CASMicrosoftCV160069ae.0
-	MS-CV-ESI: CASMicrosoftCV160069ae.0
+	MS_COMMIT_ID: 9db4137
+	MS-CV: CASMicrosoftCV34860bd7.0
+	MS-CV-ESI: CASMicrosoftCV34860bd7.0
 	End of ADDITIONAL DEBUG INFO -->
 </body>
 </html>
