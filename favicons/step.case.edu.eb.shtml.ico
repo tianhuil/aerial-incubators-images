@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <!-- datalayer begin -->
+    
+    <!-- datalayer end -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M6NQD8');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+<meta name="keywords" content="science, technology, entrepreneurship, physics, chemistry, biotechnology" />
+<link rel="shortlink" href="https://case.edu/step/" />
+<link rel="canonical" href="https://case.edu/step/" />
+<link rel="image_src" href="https://case.edu/images/cwru-social-logo.jpg" />
+<meta name="rights" content="Copyright © 2024 Case Western Reserve University. All rights reserved." />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="Science &amp; Technology Entrepreneurship Programs" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://case.edu/step/" />
+<meta property="og:title" content="Science &amp; Technology Entrepreneurship Programs | Case Western Reserve University" />
+<meta property="og:image" content="https://case.eduScience &amp; Technology Entrepreneurship Programs | Case Western Reserve University" />
+<meta property="og:image:width" content="265" />
+<meta property="og:image:height" content="265" />
+<meta property="place:location:latitude" content="41.5044536" />
+<meta property="place:location:longitude" content="-81.6115312" />
+<meta property="og:street_address" content="10900 Euclid Ave." />
+<meta property="og:locality" content="Cleveland" />
+<meta property="og:region" content="Ohio" />
+<meta property="og:postal_code" content="44106" />
+<meta property="og:country_name" content="United States" />
+<meta property="og:email" content="step@case.edu" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://case.eduScience &amp; Technology Entrepreneurship Programs | Case Western Reserve University" />
+<meta name="twitter:image:alt" content="Case Western Reserve Logo" />
+<meta name="twitter:image:height" content="265" />
+<meta name="twitter:image:width" content="265" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Science &amp; Technology Entrepreneurship Programs | Case Western Reserve University</title>
+    <link rel="stylesheet" media="all" href="/step/core/modules/node/css/node.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/modules/contrib/cms_content_sync/css/entity-form.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/core.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/resizable.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/button.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/dialog.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/align.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/fieldgroup.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/container-inline.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/clearfix.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/details.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/hidden.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/item-list.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/js.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/nowrap.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/position-container.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/progress.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/reset-appearance.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/resize.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/sticky-header.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/system-status-counter.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/system-status-report-counters.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/system-status-report-general-info.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/tablesort.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/system/css/components/tree-child.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/modules/views/css/views.module.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/core/assets/vendor/jquery.ui/themes/base/theme.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/modules/custom/custom_gin_override/css/gin-custom.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/modules/contrib/paragraphs/css/paragraphs.unpublished.css?s9imde" />
+<link rel="stylesheet" media="all" href="/step/themes/custom/crew/css/style.css?s9imde" />
+
+    
+    <script type="text/javascript">
+      if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {document.write('<script src="https://dudbm6bcnmy8e.cloudfront.net/cwru-drupal-assets/scripts/ieshim.js"><\/script>')};
+    </script>
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6NQD8"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <a href="#main-content" class="visually-hidden focusable" role="navigation" aria-label="Jump to content">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  
+    <!-- hard code RAVE alert -->
+    <div id="cwruravealert"></div>
+    <script type="text/javascript">
+      function raveCallback(data) {
+        if (data !== undefined) {
+          if (window['console']) { console.log(data); }
+          var div = document.getElementById('cwruravealert');
+          div.style.backgroundColor = data.bgcolor;
+          div.style.color = data.fgcolor;
+          div.style.width = '100%';
+          div.style.fontWeight = '500';
+          div.style.fontFamily = 'Arizona';
+          div.style.padding = '5px 1% 5px 1%';
+          var alert_div = document.createElement('div');
+          alert_div.style.margin = 'auto';
+          alert_div.style.maxWidth = '1000px';
+          alert_div.style.width = '100%';
+          alert_div.style.fontWeight = '500';
+          alert_div.style.fontFamily = 'Arizona';
+          alert_div.style.textAlign = 'center';
+          var field;
+          for (field of ['header', 'status', 'event', 'headline', 'description', 'instruction', 'note', 'web', 'contact']) {
+            if (data[field]) {
+              var field_div = document.createElement('div');
+              field_div.innerHTML = data[field];
+              alert_div.appendChild(field_div);
+            }
+          }
+          div.appendChild(alert_div);
+        }
+      }
+    </script>
+    <script type="text/javascript" src="//webapps.case.edu/t4/rave/jsonp.pl?callback=raveCallback"></script>
+    <!-- END RAVE ALERT -->
+
+    
+  
+<!-- BEGIN PRINT HEADER -->
+  <header class="visible-print-block" aria-hidden="true" aria-label="Print Header" role="presentation">
+    <img src="https://dudbm6bcnmy8e.cloudfront.net/cwru/img/cwru_logo_primary_black_print.jpeg" alt="Case Western Reserve University" class="logo-default" aria-hidden="true">
+  </header>
+<!-- END PRINT HEADER -->
+
+<!-- BEGIN SITE HEADER -->
+
+
+<!-- BEGIN HEADER TOP -->
+<div class="page-header-top" role="banner" aria-label="Case Western Reserve University Logo Banner">
+  <div class="container">
+    <!-- BEGIN LOGO -->
+    <div class="page-logo">
+      <a href="//case.edu/">
+        <img src="https://dudbm6bcnmy8e.cloudfront.net/cwru/img/cwru_logo_primary_white.svg" onerror="javascript:this.src='https://dudbm6bcnmy8e.cloudfront.net/cwru/img/cwru_logo_primary_white.png';this.style.margin='-12px 0px';this.style.minHeight='55px'" alt="Case Western Reserve University" class="logo-default" title="Case Western Reserve University">
+        <span class="sr-only">Go to case.edu</span>
+      </a>
+    </div>
+    <!-- END LOGO -->
+    <!-- BEGIN TOP NAVIGATION MENU -->
+    <div class="top-menu hidden-sm hidden-xs">
+          </div>
+    <!-- END TOP NAVIGATION MENU -->
+  </div>
+</div>
+<!-- END HEADER TOP -->
+
+
+  <div class="page-head" role="banner" aria-label="School Name Banner">
+              
+<div class="container">
+  <div class="col-md-6">
+            <a href="https://case.edu/step/">
+                <div class="page-title ">
+                <h1>Science &amp; Technology Entrepreneurship Programs</h1>
+  
+        </div>
+      </a>
+        </div>
+
+  <div class="col-md-6">
+        
+    <div class="inputs pull-right hidden-xs hidden-sm ">
+      <form action="//www.case.edu/search-results/" class="navbar__search-form desktop" name="searchForm" role="search" aria-label="desktop search">
+        <div class="input-group">
+          <span class="search-icon hidden-md hidden-lg"></span>
+          <input placeholder="Search..." title="searchbox" type="search" class="navbar__search form-control form-search form-control" name="q" maxlength="128" size="15" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+          <span class="mobile-search-btn input-group-btn">
+            <button type="submit" class="button js-form-submit form-submit btn icon-only" aria-label="Submit Search">
+              <span class="sr-only">Search</span>
+              <span class="fa fa-search" aria-hidden="true"></span>
+            </button>
+          </span>
+          <input type="hidden" name="cx" value="004305171799132815236:ciq4c8b3yv4">
+          <input type="hidden" name="ie" value="UTF-8">
+          <input class="hidden" role="button" name="sa" type="submit" title="search" alt="search" value="search">
+        </div>
+      </form>
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  </div>
+
+      </div>
+
+
+                      
+    <div >
+      <header class="navbar navbar-default container" id="navbar" role="navigation" aria-labelledby="block-crew-main-menu">
+                <div class="col-xs-12 no-padding">
+        <div class="navbar-header">
+            <div class="hidden-xs hidden-sm region region-navigation">
+    <nav aria-label="mainmenumenu navigation menu"  id="block-crew-main-menu">
+          
+      
+
+              <ul block="block-crew-main-menu" class="menu nav navbar-nav" role="menubar">
+        <li class="hidden-md hidden-lg mobile-search-box" role="menuitem" tabindex="-1">
+          <form action="//www.case.edu/search-results/" class="navbar__search-form" name="searchForm" role="search" aria-label="main search">
+            <span class="search-icon hidden-md hidden-lg"></span>
+            <input placeholder="Search CWRU" title="searchbox" type="search" class="navbar__search" name="q" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+            <span class="mobile-search-btn">
+              <button type="submit" class="btn submit" aria-label="Submit Search">
+                <i class="fa fa-search" aria-hidden="true"></i><span class="sr-only">Submit Search</span>
+              </button>
+            </span>
+            <input type="hidden" name="cx" value="004305171799132815236:ciq4c8b3yv4">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input class="hidden" role="button" name="sa" type="submit" title="search" alt="search">
+          </form>
+        </li>
+                            <li class="expanded dropdown" role="menuitem" tabindex="-1">
+        <a href="/step/entrepreneurial-biotechnology">Entrepreneurial Biotechnology <span class="arrow" aria-haspopup="true"></span></a>
+                                  <ul block="block-crew-main-menu" class="menu dropdown-menu" role="menu" aria-hidden="true" tabindex="-1">
+                            <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/apply-biotechnology-entrepreneurship-program" data-drupal-link-system-path="node/21">Apply to the Biotechnology Entrepreneurship Program</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/entrepreneurial-biotechnology-curriculum" data-drupal-link-system-path="node/26">Entrepreneurial Biotechnology Curriculum</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/what-eb-alumni-say" data-drupal-link-system-path="node/36">What EB Alumni Say</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown" role="menuitem" tabindex="-1">
+        <a href="/step/ms-physics-entrepreneurship-track">M.S. Physics, Entrepreneurship Track <span class="arrow" aria-haspopup="true"></span></a>
+                                  <ul block="block-crew-main-menu" class="menu dropdown-menu" role="menu" aria-hidden="true" tabindex="-1">
+                            <li role="menuitem">
+        <a href="https://case.edu/step/ms-physics-entrepreneurship-track">About PEP</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/physics-entrepreneurship-program-curriculum" data-drupal-link-system-path="node/31">Physics Entrepreneurship Program Curriculum</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/physics-entrepreneurship-program-faculty" data-drupal-link-system-path="node/66">Physics Entrepreneurship Program Faculty</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/what-pep-alumni-say" data-drupal-link-system-path="node/106">What PEP Alumni Say</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/cwru-innovation-entrepreneurship-resources" data-drupal-link-system-path="node/111">CWRU Innovation &amp; Entrepreneurship Resources</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li role="menuitem">
+        <a href="/step/faculty" data-drupal-link-system-path="node/6">Faculty</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/faqs" data-drupal-link-system-path="node/101">FAQs</a>
+                  </li>
+        </ul>
+  
+
+
+
+  </nav>
+
+  </div>
+
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <i class="fa fa-bars" aria-hidden="true"></i>
+              Navigation + Search
+            </button>
+                  </div>
+      </div>
+                          <div id="navbar-collapse" class="navbar-collapse collapse">
+              	<div class="hidden-md hidden-lg row region region-navigation-collapsible">
+    	<nav aria-label="mobilemenu navigation menu"  id="block-crew-mobile-nav">
+          
+      
+
+              <ul block="block-crew-mobile-nav" class="menu nav navbar-nav" role="menubar">
+        <li class="hidden-md hidden-lg mobile-search-box" role="menuitem" tabindex="-1">
+          <form action="//www.case.edu/search-results/" class="navbar__search-form" name="searchForm" role="search" aria-label="mobile search">
+            <span class="search-icon hidden-md hidden-lg"></span>
+            <input placeholder="Search CWRU" title="searchbox" type="search" class="navbar__search" name="q" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+            <span class="mobile-search-btn">
+              <button type="submit" class="btn submit" aria-label="Submit Search">
+                <i class="fa fa-search" aria-hidden="true"></i><span class="sr-only">Submit Search</span>
+              </button>
+            </span>
+            <input type="hidden" name="cx" value="004305171799132815236:ciq4c8b3yv4">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input class="hidden" role="button" name="sa" type="submit" title="search" alt="search">
+          </form>
+        </li>
+                            <li class="expanded dropdown" role="menuitem" tabindex="-1">
+        <a href="/step/entrepreneurial-biotechnology">Entrepreneurial Biotechnology <span class="arrow" aria-haspopup="true"></span></a>
+                                  <ul block="block-crew-mobile-nav" class="menu dropdown-menu" role="menu" aria-hidden="true" tabindex="-1">
+                            <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/apply-biotechnology-entrepreneurship-program" data-drupal-link-system-path="node/21">Apply to the Biotechnology Entrepreneurship Program</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/entrepreneurial-biotechnology-curriculum" data-drupal-link-system-path="node/26">Entrepreneurial Biotechnology Curriculum</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/entrepreneurial-biotechnology/what-eb-alumni-say" data-drupal-link-system-path="node/36">What EB Alumni Say</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown" role="menuitem" tabindex="-1">
+        <a href="/step/ms-physics-entrepreneurship-track">M.S. Physics, Entrepreneurship Track <span class="arrow" aria-haspopup="true"></span></a>
+                                  <ul block="block-crew-mobile-nav" class="menu dropdown-menu" role="menu" aria-hidden="true" tabindex="-1">
+                            <li role="menuitem">
+        <a href="https://case.edu/step/ms-physics-entrepreneurship-track">About PEP</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/physics-entrepreneurship-program-curriculum" data-drupal-link-system-path="node/31">Physics Entrepreneurship Program Curriculum</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/physics-entrepreneurship-program-faculty" data-drupal-link-system-path="node/66">Physics Entrepreneurship Program Faculty</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/what-pep-alumni-say" data-drupal-link-system-path="node/106">What PEP Alumni Say</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/ms-physics-entrepreneurship-track/cwru-innovation-entrepreneurship-resources" data-drupal-link-system-path="node/111">CWRU Innovation &amp; Entrepreneurship Resources</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li role="menuitem">
+        <a href="/step/faculty" data-drupal-link-system-path="node/6">Faculty</a>
+                  </li>
+                        <li role="menuitem">
+        <a href="/step/faqs" data-drupal-link-system-path="node/101">FAQs</a>
+                  </li>
+        </ul>
+  
+
+
+
+  </nav>
+
+  	</div>
+
+          </div>
+                      </header>
+    </div>
+  
+
+  <div role="main" class="main-container container  js-quickedit-main-content">
+
+                
+                                      <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                  
+                
+                
+      <div class="row pre-sidebar">
+                                
+      
+            <section role="region" aria-label="main-content"  class="col-xs-12">
+                          <a id="main-content"></a>
+            <div class="region region-content">
+      
+<article class="homepage-text-heavy full clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    
+            <div class="field field--name-field-hero-txthvy-ref field--type-entity-reference-revisions field--label-hidden field--item">  <div class="paragraph paragraph--type--hero-text-heavy paragraph--view-mode--default">
+          
+            <div class="field field--name-field-txt-hvy-image-ref field--type-entity-reference field--label-hidden field--item"><div class="media-image-container">
+  
+  
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item">  <img loading="lazy" src="/step/sites/default/files/2020-02/step-homepage_0.jpg" width="2896" height="1533" alt="Students and Faculty in the CWRU STEP program" class="img-responsive" />
+
+</div>
+      
+</div>
+</div>
+      
+      </div>
+</div>
+      
+            <div class="field field--name-field-intro-text-ref field--type-entity-reference-revisions field--label-hidden field--item">  <div class="paragraph paragraph--type--centered-intro-text paragraph--view-mode--default row">
+    <section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 intro-text text-center">
+              
+            <div class="field field--name-field-intro-text field--type-text field--label-hidden field--item"><h1>Earn your MS in Biology or Physics while starting your own company or working for a small company or startup!</h1></div>
+      
+          </section>
+  </div>
+
+
+
+<!-- <div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 body-column body-column-alt margin-bottom-25">
+      <section aria-label="banner sub text" class="user-content sub-text text-center">
+          <h2 class="intro-text">Student Resources</h2>
+          <p class="intro-text-small ">Whether you’re looking for information about education abroad opportunities, have questions about visas, or are interested in international opportunities on campus, these quicklinks will help you quickly navigate some of the key resources our website offers for students.</p>
+      </section>
+  </div>
+</div> -->
+</div>
+      
+      <div class="field field--name-field-icon-subfeature-ref field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--icon-subfeature paragraph--view-mode--default">
+          
+            <div class="field field--name-field-icon-sub-icon-pick-ref field--type-entity-reference-revisions field--label-hidden field--item">  <div class="paragraph paragraph--type--icon-picker paragraph--view-mode--default">
+          
+      </div>
+</div>
+      
+            <div class="field field--name-field-icon-subfeature-content field--type-text-long field--label-hidden field--item"><div class="field field--name-field-icon-subfeature-title field--type-string field--label-hidden field--item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a20e5a71-5fbc-42b1-ace3-5cf28fcb9516" href="/step/entrepreneurial-biotechnology" title="Entrepreneurial Biotechnology">Entrepreneurial Biotechnology</a></div>
+
+<p>From practical business matters to technology, innovation and more, our MS program in Entrepreneurial Biotechnology allows you to strengthen and showcase your talents within the field. Learn a mixture of theory and practical knowledge from internationally experienced instructors dedicated to preparing you for real-world success. </p>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">  <div class="paragraph paragraph--type--icon-subfeature paragraph--view-mode--default">
+          
+            <div class="field field--name-field-icon-sub-icon-pick-ref field--type-entity-reference-revisions field--label-hidden field--item">  <div class="paragraph paragraph--type--icon-picker paragraph--view-mode--default">
+          
+      </div>
+</div>
+      
+            <div class="field field--name-field-icon-subfeature-content field--type-text-long field--label-hidden field--item"><div class="field field--name-field-icon-subfeature-title field--type-string field--label-hidden field--item"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e9bc8efa-a466-44f2-b8d8-28b8add39bf2" href="/step/ms-physics-entrepreneurship-track" title="M.S. Physics, Entrepreneurship Track">Physics/Engineering</a></div>
+
+<p>Our MS program in Physics/Engineering allows you to customize your degree experience. Through personalized and experiential learning, our program can be tailored to your needs while providing you with opportunities to build your network and further hone your skills.  </p>
+</div>
+      
+      </div>
+</div>
+          </div>
+  <form class="node-homepage-text-heavy-form node-form" data-drupal-selector="node-homepage-text-heavy-form" action="/step/" method="post" id="node-homepage-text-heavy-form" accept-charset="UTF-8">
+  <input data-drupal-selector="edit-node-homepage-text-heavy-form" type="hidden" name="form_id" value="node_homepage_text_heavy_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit" class="button button--primary js-form-submit form-submit btn-success btn icon-before" type="submit" id="edit-submit" name="op" value="Save"><span class="icon glyphicon glyphicon-ok" aria-hidden="true"></span>
+Save</button></div>
+<div class="field--type-string field--name-moderation-state field--widget-workflow-buttons form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-moderation-state-wrapper" id="edit-moderation-state-wrapper">      
+  </div>
+
+</form>
+
+  </div>
+
+</article>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+      <footer aria-label="footer" class="footer container" role="contentinfo">
+        <div class="region region-footer">
+      <section role="region" aria-label="footer sections"  class="views-element-container block block-views block-views-blockfooter-block-footer clearfix" id="block-views-block-footer-block-footer">
+  
+    
+
+      <div block="block-views-block-footer-block-footer" class="form-group"><div class="footer view view-footer view-id-footer view-display-id-block_footer js-view-dom-id-3986d67c19d6146bb6be6f4298a6aecfcd5794d92929794a677e7b0866d479b9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+
+
+<div class="footer__block footer__block--university">
+  <img src="https://dudbm6bcnmy8e.cloudfront.net/cwru/img/cwru_acronym_blue.svg" onerror="javascript:this.src='https://dudbm6bcnmy8e.cloudfront.net/cwru/img/cwru_acronym_blue.svg'" alt="Case Western Reserve University Logo with Tagline" class="footer__logo" title="Case Western Reserve University">
+  <p>&copy; 2024 <a href="//case.edu/">Case Western Reserve University</a></p>
+  <address>10900 Euclid Ave. Cleveland, Ohio 44106</address>
+  <p>
+    <a href="tel:12163682000">216.368.2000</a>
+    <br />
+    <a href="https://case.edu/utech/departments/information-security/policies/legal-privacy-notice">Legal Notice</a> | <a href="https://case.edu/privacy-statement/index.html">Privacy Policy</a>
+    <br />
+        <a href="https://case.edu/equity/sexual-harassment-title-ix/title-ix-notice-nondiscrimination" className="mt1">Title IX Notice of Non-Discrimination</a>
+  </p>
+</div>
+
+<div class="footer__block footer__block--department">
+  <img src="https://dudbm6bcnmy8e.cloudfront.net/cwru-drupal-assets/images/pin-icon.svg" alt="map marker" class="footer__map-icon hidden-sm hidden-xs">
+  <div class="footer__department-info">
+          <div class="footer__header h3">Science &amp; Technology Entrepreneurship Programs</div>
+              <strong>Campus Location:</strong>
+      <p>
+        10900 Euclid Avenue
+                <br>
+        Cleveland,
+        OH
+        44106
+      </p>
+    
+          <strong>Mailing Address:</strong>
+      <p>
+        10900 Euclid Ave.
+                <br>
+        Cleveland,
+        OH
+        44106-
+      </p>
+              <p>
+        <strong>Phone:</strong> <a href="tel:216.368.3710">216.368.3710</a>
+      </p>
+                                                                                                                                                                                                                                                            <p>
+          <strong>Email:</strong> <a href="mailto:emc15@case.edu">emc15@case.edu</a>
+        </p>
+                                                        <p>
+        <a href="mailto:emc15@case.edu">Site Feedback</a>
+      </p>
+      </div>
+</div>
+
+<div class="footer__block footer__block--social">
+                                                                                                      <div class="footer__header h3">Social Media</div>
+      <div class="footer__social-icons">
+                  <a href="https://www.linkedin.com/groups/133215" target="_blank"
+          title="CWRU Linkedin"
+          class="footer__social-icon fa fa-linkedin">
+            <span class="sr-only">Linkedin</span>
+          </a>
+              </div>
+                  </div>
+
+<div class="footer__block footer__block--links">
+  <div class="footer__header h3" tabindex="0">CWRU Links</div>
+  <ul role="menu" class="footer-links">
+    <li role="menuitem">
+      <a href="https://case.edu/admissions/">Apply to CWRU</a>
+    </li>
+    <li role="menuitem">
+      <a href="https://case.edu/give/">Give Now</a>
+    </li>
+    <li role="menuitem">
+      <a href="https://case.edu/visit/">Visit Campus</a>
+    </li>
+    <li role="menuitem">
+      <a href="https://webapps.case.edu/directory/">University Directory</a>
+    </li>
+  </ul>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+<div class="scroll-to-top">
+  <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x fa-inverse" aria-hidden="true"></i>
+      <i class="fa fa-arrow-up fa-stack-1x" aria-hidden="true"></i>
+  </span>
+</div>
+
+    </footer>
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/step\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/71","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bootstrap\/popover,bootstrap\/tooltip,cms_content_sync\/entity-form,core\/drupal.dialog.ajax,core\/drupal.vertical-tabs,crew\/bootstrap-scripts,crew\/datalayer,crew\/global-styling,custom_gin_override\/custom-gin,node\/form,paragraphs\/drupal.paragraphs.unpublished,system\/base,views\/views.module","theme":"crew","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"crew":{"datalayer":{"site_name":"Homepage | Science \u0026 Technology Entrepreneurship Programs"},"new_datalayer":{"event":"ga4_site_name","ga4_site_name":"Homepage | Science \u0026 Technology Entrepreneurship Programs"}},"field_group":{"tabs":{"mode":"default","context":"form","settings":{"classes":"","id":"","direction":"vertical"}}},"widthBreakpoint":640,"user":{"uid":0,"permissionsHash":"e2f460a7e80e6082efd8570936cc63323f78a8c355d229daeee521d6a97e3d54"}}</script>
+<script src="/step/core/assets/vendor/jquery/jquery.min.js?v=3.7.0"></script>
+<script src="/step/core/assets/vendor/underscore/underscore-min.js?v=1.13.6"></script>
+<script src="/step/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/step/core/misc/drupalSettingsLoader.js?v=10.1.6"></script>
+<script src="/step/core/misc/drupal.js?v=10.1.6"></script>
+<script src="/step/core/misc/drupal.init.js?v=10.1.6"></script>
+<script src="/step/core/misc/debounce.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/form-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/ie-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=10.1.6"></script>
+<script src="/step/core/assets/vendor/tabbable/index.umd.min.js?v=6.1.2"></script>
+<script src="/step/modules/custom/custom_gin_override/js/overrides.js?s9imde"></script>
+<script src="/step/themes/custom/crew/js/app.js?v=1.12"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/affix.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/alert.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/button.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/carousel.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/collapse.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/dropdown.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/modal.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/tooltip.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/popover.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/scrollspy.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/tab.js?s9imde"></script>
+<script src="/step/themes/custom/crew/bootstrap/assets/javascripts/bootstrap/transition.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/drupal.bootstrap.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/attributes.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/theme.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/popover.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/tooltip.js?s9imde"></script>
+<script src="/step/modules/contrib/cms_content_sync/js/entity-form.js?v=1.x"></script>
+<script src="/step/core/misc/form.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/form.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/vertical-tabs.js?s9imde"></script>
+<script src="/step/core/misc/progress.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/progress.js?s9imde"></script>
+<script src="/step/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/step/core/misc/announce.js?v=10.1.6"></script>
+<script src="/step/core/misc/message.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/message.js?s9imde"></script>
+<script src="/step/core/misc/ajax.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/ajax.js?s9imde"></script>
+<script src="/step/core/misc/displace.js?v=10.1.6"></script>
+<script src="/step/core/misc/jquery.tabbable.shim.js?v=10.1.6"></script>
+<script src="/step/core/misc/position.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/modal.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/dialog.js?s9imde"></script>
+<script src="/step/themes/contrib/bootstrap/js/modal.jquery.ui.bridge.js?s9imde"></script>
+<script src="/step/core/misc/dialog/dialog.js?v=10.1.6"></script>
+<script src="/step/core/misc/dialog/dialog.position.js?v=10.1.6"></script>
+<script src="/step/core/misc/dialog/dialog.ajax.js?v=10.1.6"></script>
+<script src="/step/themes/contrib/bootstrap/js/misc/dialog.ajax.js?s9imde"></script>
+<script src="/step/themes/custom/crew/js/datalayer.js?s9imde"></script>
+
+  </body>
+</html>

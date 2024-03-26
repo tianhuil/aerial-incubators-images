@@ -78,7 +78,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://flex.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://flex.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://flex.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.7.3' type='text/css' media='all' />
 <link rel='stylesheet' id='fonts-css' href='https://flex.com/wp-content/themes/flex/styles/build/fonts.css?ver=97' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css' href='https://flex.com/wp-content/themes/flex/styles/build/main.css?ver=97' type='text/css' media='all' />
 <link rel='stylesheet' id='admin-css' href='https://flex.com/wp-content/themes/flex/styles/build/admin.css?ver=97' type='text/css' media='all' />
@@ -158,6 +158,7 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 				<div class="l-menu-wrapper">
 					<!-- Begin - Flex Language Switcher -->
 					<div class="OneLinkHide"><ul id="menu-languages" class="menu"><li id="menu-item-17601" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17601"><a href="https://flex.com/resources"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+<li id="menu-item-18184" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-18184"><a href="https://flex.com/es/resources/"><span data-no-translation><span class="trp-ls-language-name">ES</span></span></a></li>
 </ul></div>
 					<!-- TODO: REMOVE THESE TWO DIVS ONCE CHINESE LANGUAGE IS HOSTED ON FLEX.COM -->
 					<div class="language">
@@ -170,15 +171,15 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 					<!-- Begin - OneLink Language Switcher -->
 					<div class="OneLinkShow language">
 						<ul id="menu-languages" class="menu OneLinkShow">
-							<li id="OneLinkKeepLinks menu-item-17420" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17420">
+							<li id="OneLinkKeepLinks menu-item-17420" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17420">
 								<a class="en-btn" id="en-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">EN</span></span></a>
 							</li>
 <!--							<li id="OneLinkKeepLinks menu-item-17422" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17422">-->
 <!--								<a class="de-btn" id="de-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">DE</span></span></a>-->
 <!--							</li>-->
-<!--							<li id="OneLinkKeepLinks menu-item-17421" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17421">-->
-<!--								<a class="es-btn" id="es-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">ES</span></span></a>-->
-<!--							</li>-->
+							<li id="OneLinkKeepLinks menu-item-17421" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17421">
+								<a class="es-btn" id="es-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">ES</span></span></a>
+							</li>
 							<li id="OneLinkKeepLinks menu-item-17423" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17423">
 								<a class="zh-btn" id="zh-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">中文</span></span></a>
 							</li>
@@ -301,6 +302,7 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 				<div class="l-menu-wrapper">
 					<!-- Begin - Flex Language Switcher -->
 					<div class="OneLinkHide"><ul id="menu-languages-1" class="menu"><li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17601"><a href="https://flex.com/resources"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+<li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-18184"><a href="https://flex.com/es/resources/"><span data-no-translation><span class="trp-ls-language-name">ES</span></span></a></li>
 </ul></div>
 					<!-- TODO: REMOVE THESE TWO DIVS ONCE CHINESE LANGUAGE IS HOSTED ON FLEX.COM -->
 					<div class="language">
@@ -313,16 +315,16 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 					<!-- Begin - OneLink Language Switcher -->
 					<div class="OneLinkShow language">
 						<ul id="menu-languages-1" class="menu OneLinkShow">
-							<li class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17420">
+							<li id="OneLinkKeepLinks menu-item-17420" class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17420">
 								<a class="en-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">EN</span></span></a>
 							</li>
-<!--							<li class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17427">-->
+<!--							<li id="OneLinkKeepLinks menu-item-17422" class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17427">-->
 <!--								<a class="de-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">DE</span></span></a>-->
 <!--							</li>-->
-<!--							<li class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17428">-->
-<!--								<a class="es-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">ES</span></span></a>-->
-<!--							</li>-->
-							<li class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17428">
+							<li id="OneLinkKeepLinks menu-item-17421" class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-17428">
+								<a class="es-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">ES</span></span></a>
+							</li>
+							<li id="OneLinkKeepLinks menu-item-17423" class="OneLinkKeepLinks trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-17428">
 								<a class="zh-btn" href=""><span data-no-translation=""><span class="trp-ls-language-name">中文</span></span></a>
 							</li>
 						</ul>
@@ -451,9 +453,9 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 <div class="spacer block" style="height: 48px;">
 	</div>
 
-<div id="id-65f47df0db39c" class="box block content-width light-content en " style="background-color: transparent; background-image: none;">
+<div id="id-6602caad5aae3" class="box block content-width light-content en " style="background-color: transparent; background-image: none;">
 	<style>
-		#id-65f47df0db39c > .container > .content {
+		#id-6602caad5aae3 > .container > .content {
 			background-color: #005486ff;
 			position: relative;
 			padding-top: 60px;
@@ -464,14 +466,14 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 			margin-right: 84px;
 		}
 		@media (max-width: 1272px) {
-			#id-65f47df0db39c.box.block.full-width > .container > .content {
+			#id-6602caad5aae3.box.block.full-width > .container > .content {
 				padding-left: 0 !important;
 				padding-right: 0 !important;
 				margin: 0 !important;
 			}
 		}
 		@media (max-width: 960px) {
-			#id-65f47df0db39c > .container > .content {
+			#id-6602caad5aae3 > .container > .content {
 				//padding-top: 30px;
 				padding-right: 0px;
 				//padding-bottom: 30px;
@@ -551,6 +553,17 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 	<div class="container show-images">
 		<div class="posts">
 							<div class="post">
+											<a title="Driving innovation, efficiency, and quality through advanced manufacturing solutions" class="image" href="https://flex.com/resources/driving-innovation-efficiency-and-quality-through-advanced-manufacturing-solutions">
+														<img decoding="async" alt="autonomous factory robotic arm on PCBA line" src="https://flex.com/wp-content/uploads/2024/03/Advanced-Manufacturing-Whitepaper-Flex.com-Page_SMT-Production-Line-Inline-760x428.jpg">
+																						<div class="label">
+									White Paper								</div>
+													</a>
+																<div class="date">
+							March 19, 2024						</div>
+										<a title="Driving innovation, efficiency, and quality through advanced manufacturing solutions" class="title" href="https://flex.com/resources/driving-innovation-efficiency-and-quality-through-advanced-manufacturing-solutions">
+						Driving innovation, efficiency, and quality through advanced manufacturing solutions					</a>
+				</div>
+							<div class="post">
 											<a title="Revathi Advaithi named one of CNBC Changemakers 2024" class="image" href="https://flex.com/resources/revathi-advaithi-named-one-of-cnbc-changemakers-2024">
 														<img decoding="async" alt="purple background with CNBC Changemakers Revathi Advathi and cartoon image of her" src="https://flex.com/wp-content/uploads/2024/03/CNBC-Changemakers-Revathi-979x550-1-760x428.jpg">
 																						<div class="label">
@@ -572,17 +585,6 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 										<a title="How AI could help us prevent the next global supply chain crisis" class="title" href="https://flex.com/resources/how-ai-could-help-us-prevent-the-next-global-supply-chain-crisis">
 						How AI could help us prevent the next global supply chain crisis					</a>
 				</div>
-							<div class="post">
-											<a title="Human Machine Interfaces and the future of medical device innovation" class="image" href="https://flex.com/resources/human-machine-interfaces-and-the-future-of-medical-device-innovation">
-														<img decoding="async" alt="pink image with white lines, an image of Jennifer Samproni and the words medical design briefs" src="https://flex.com/wp-content/uploads/2024/02/Third-party_Featured-Image-760x428.jpg">
-																						<div class="label">
-									Blog								</div>
-													</a>
-																<div class="date">
-							February 8, 2024						</div>
-										<a title="Human Machine Interfaces and the future of medical device innovation" class="title" href="https://flex.com/resources/human-machine-interfaces-and-the-future-of-medical-device-innovation">
-						Human Machine Interfaces and the future of medical device innovation					</a>
-				</div>
 					</div>
 	</div>
 	<script>
@@ -600,9 +602,9 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 <div class="spacer block" style="height: 96px;">
 	</div>
 
-<div id="id-65f47df0e51cc" class="box block full-width dark-content en " style="background-color: #eaeef4ff; background-image: none;">
+<div id="id-6602caad66efb" class="box block full-width dark-content en " style="background-color: #eaeef4ff; background-image: none;">
 	<style>
-		#id-65f47df0e51cc > .container > .content {
+		#id-6602caad66efb > .container > .content {
 			background-color: #eaeef4ff;
 			position: relative;
 			padding-top: 96px;
@@ -613,14 +615,14 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 			margin-right: 0px;
 		}
 		@media (max-width: 1272px) {
-			#id-65f47df0e51cc.box.block.full-width > .container > .content {
+			#id-6602caad66efb.box.block.full-width > .container > .content {
 				padding-left: 0 !important;
 				padding-right: 0 !important;
 				margin: 0 !important;
 			}
 		}
 		@media (max-width: 960px) {
-			#id-65f47df0e51cc > .container > .content {
+			#id-6602caad66efb > .container > .content {
 				//padding-top: 48px;
 				padding-right: 0px;
 				//padding-bottom: 48px;
@@ -1039,6 +1041,109 @@ gtag("config", "UA-19699866-1", {"anonymize_ip":true});
 			link.setAttribute('href', newHref); // Set the new href attribute
 		});
 	});
+
+	/**
+	 * TODO: REMOVE THIS ONCE CHINESE LANGUAGE IS HOSTED ON FLEX.COM
+	 */
+	// Check if the current domain is 'cn.flex.com'
+	if (window.location.host === 'cn.flex.com' || window.location.host === 'https://zhcn-dev-flex-redesign.onelink-translations.com') {
+		// Check if the path starts with '/es'
+		if (window.location.pathname.startsWith('/es')) {
+			// Construct the new URL
+			const newPath = 'https://flex.com' + window.location.pathname + window.location.search + window.location.hash;
+			// Redirect to the new URL
+			window.location.href = newPath;
+		}
+	}
+
+	/**
+	 * TODO: REMOVE THIS ONCE CHINESE LANGUAGE IS HOSTED ON FLEX.COM
+	 */
+	// Check if the current domain and path match 'flex.com/es' or the development site
+// Check if the current domain and path match 'flex.com/es' or the development site
+	document.addEventListener('DOMContentLoaded', function() {
+		function updateLinks() {
+			const links = document.querySelectorAll('.OneLinkHide .zh-btn, #OneLinkKeepLinks .zh-btn');
+
+			links.forEach(link => {
+				let dataRootUrl = link.getAttribute('data-root');
+				let hrefUrl = link.href;
+
+				// Correctly escaped pattern to match both domains and ensure trailing slash is managed
+				const pattern = /(zhcn-dev-flex-redesign\.onelink-translations\.com|cn\.flex\.com)\/es\/?/;
+
+				// Check and update 'data-root' attribute if necessary
+				if (dataRootUrl && pattern.test(dataRootUrl)) {
+					const updatedDataRoot = dataRootUrl.replace(pattern, (match, p1) => `${p1}/`);
+					link.setAttribute('data-root', updatedDataRoot);
+				}
+
+				// Check and update 'href' attribute if necessary
+				if (hrefUrl && pattern.test(hrefUrl)) {
+					const updatedHref = hrefUrl.replace(pattern, (match, p1) => `${p1}/`);
+					link.href = updatedHref;
+				}
+			});
+		}
+
+		// Initial update for static content
+		updateLinks();
+
+		// Mutation observer for dynamic content
+		const observer = new MutationObserver(function(mutations) {
+			mutations.forEach(function(mutation) {
+				if (mutation.type === "childList") {
+					updateLinks();
+				}
+			});
+		});
+
+		const config = { childList: true, subtree: true };
+		observer.observe(document.body, config);
+	});
+
+
+	// document.addEventListener('DOMContentLoaded', function() {
+	// 	function stripTrackingCodes() {
+	// 		// Select all links within elements with the specified classes
+	// 		const links = document.querySelectorAll('.OneLinkHide a, .OneLinkKeepLinks a');
+	//
+	// 		links.forEach(link => {
+	// 			// Get the current href of the link
+	// 			let hrefUrl = link.href;
+	//
+	// 			// Create a URL object from the href (for easier manipulation of parts)
+	// 			const urlObj = new URL(hrefUrl);
+	//
+	// 			// Check if there are URL search parameters
+	// 			if (urlObj.searchParams && urlObj.searchParams.toString()) {
+	// 				// If there are, delete the tracking parameters
+	// 				urlObj.searchParams.delete('_gl');
+	// 				urlObj.searchParams.delete('_ga');
+	// 				urlObj.searchParams.delete('_ga_LE3NL4XEBD'); // Add more parameters here if needed
+	//
+	// 				// Update the href attribute of the link to the stripped URL
+	// 				link.href = urlObj.toString();
+	// 			}
+	// 		});
+	// 	}
+	//
+	// 	// Initial update for static content
+	// 	stripTrackingCodes();
+	//
+	// 	// Mutation observer for dynamic content
+	// 	const observer = new MutationObserver(function(mutations) {
+	// 		mutations.forEach(function(mutation) {
+	// 			if (mutation.type === "childList") {
+	// 				stripTrackingCodes();
+	// 			}
+	// 		});
+	// 	});
+	//
+	// 	const config = { childList: true, subtree: true };
+	// 	observer.observe(document.body, config);
+	// });
+
 </script>
 <template id="tp-language" data-tp-language="en_US"></template>        <style>
             .searchwp-live-search-results {
@@ -1093,6 +1198,6 @@ searchwp_live_search_params = {"ajaxurl":"https:\/\/flex.com\/wp-admin\/admin-aj
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://flex.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js?ver=1.7.6' id='swp-live-search-client-js'></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-5949ba063f2fbd30005","applicationID":"565236815","transactionName":"ZVdabBdUXEAEVEZdClwdeVsRXF1dSkRbWgJHXllK","queueTime":0,"applicationTime":817,"atts":"SRBZGl9OT04=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-5949ba063f2fbd30005","applicationID":"565236815","transactionName":"ZVdabBdUXEAEVEZdClwdeVsRXF1dSkRbWgJHXllK","queueTime":0,"applicationTime":1045,"atts":"SRBZGl9OT04=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
-<!-- plugin=object-cache-pro client=phpredis metric#hits=11174 metric#misses=43 metric#hit-ratio=99.6 metric#bytes=3037491 metric#prefetches=398 metric#store-reads=47 metric#store-writes=34 metric#store-hits=424 metric#store-misses=20 metric#sql-queries=26 metric#ms-total=817.97 metric#ms-cache=40.59 metric#ms-cache-avg=0.5074 metric#ms-cache-ratio=5.0 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=11319 metric#misses=55 metric#hit-ratio=99.5 metric#bytes=3168067 metric#prefetches=351 metric#store-reads=44 metric#store-writes=42 metric#store-hits=458 metric#store-misses=30 metric#sql-queries=24 metric#ms-total=1045.42 metric#ms-cache=49.78 metric#ms-cache-avg=0.5856 metric#ms-cache-ratio=4.8 sample#redis-hits=224493787 sample#redis-misses=15092518 sample#redis-hit-ratio=93.7 sample#redis-ops-per-sec=88 sample#redis-evicted-keys=0 sample#redis-used-memory=20135616 sample#redis-used-memory-rss=443105280 sample#redis-memory-fragmentation-ratio=22.0 sample#redis-connected-clients=2 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=26949 -->

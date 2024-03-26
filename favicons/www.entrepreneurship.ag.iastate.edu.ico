@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://trends.ent.iastate.edu/" : "http://trends.ent.iastate.edu/");_paq.push(["setSiteId", "149"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="canonical" href="https://startsomething.cals.iastate.edu" />
+<link rel="image_src" href="https://startsomething.cals.iastate.edu/profiles/iastate8/images/Iowa-State-University-default-image-600x315.png" />
+<meta property="og:site_name" content="Start Something CALS" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://startsomething.cals.iastate.edu/home" />
+<meta property="og:title" content="Start Something CALS" />
+<meta property="og:image" content="https://startsomething.cals.iastate.edu/profiles/iastate8/images/Iowa-State-University-default-image-600x315.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:image:alt" content="Iowa State University" />
+<meta property="og:updated_time" content="2024-02-16T11:14:13-06:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Start Something CALS" />
+<meta name="twitter:dnt" content="on" />
+<meta name="twitter:url" content="https://startsomething.cals.iastate.edu/home" />
+<meta name="twitter:image" content="https://startsomething.cals.iastate.edu/profiles/iastate8/images/Iowa-State-University-default-image-600x315.png" />
+<meta name="twitter:image:alt" content="Iowa State University" />
+<meta name="twitter:image:height" content="315" />
+<meta name="twitter:image:width" content="600" />
+<meta name="google-site-verification" content="hIwGa2sYcnVBav6D8_Jm_jdG1ctrBlOHl2bLD3FxEU0" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/isubit/iastate8_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Start Something CALS</title>
+    <link rel="stylesheet" media="all" href="/files/css/css_KnUfzSY2M3Hug6ET_pFoalV9_6ZRBVeTuI9cOxgEx6g.css?delta=0&amp;language=en&amp;theme=iastate8_theme&amp;include=eJx1j8EOgzAIhl9IVw877G0a2jLFlLIU1Pj2M3pZdF6A8AXy_aCK5qmMGE2qi6qu63yfJUBuGExY3NEaXdWQXQDFhkANDF_eBmR0QcTUKnyeZ3J8atXWTKW_oaOewVuK_V22sKAKXwwgQkKmKOVyRjrtwwEHSuhDRUixThz0bLjzIlsxsnwfAGfcFH8SzISLur0-WNKUL44VShL-AkDAjvI" />
+<link rel="stylesheet" media="all" href="/files/css/css_riKcRYq4cewBRki_M4pzd5L4YPeTqftTNsvfuJjg-c0.css?delta=1&amp;language=en&amp;theme=iastate8_theme&amp;include=eJx1j8EOgzAIhl9IVw877G0a2jLFlLIU1Pj2M3pZdF6A8AXy_aCK5qmMGE2qi6qu63yfJUBuGExY3NEaXdWQXQDFhkANDF_eBmR0QcTUKnyeZ3J8atXWTKW_oaOewVuK_V22sKAKXwwgQkKmKOVyRjrtwwEHSuhDRUixThz0bLjzIlsxsnwfAGfcFH8SzISLur0-WNKUL44VShL-AkDAjvI" />
+<link rel="stylesheet" media="print" href="/files/css/css_B_tiZlgcvkV8mom0QHTQVQG-JoRLICB0auZYWxax4ZM.css?delta=2&amp;language=en&amp;theme=iastate8_theme&amp;include=eJx1j8EOgzAIhl9IVw877G0a2jLFlLIU1Pj2M3pZdF6A8AXy_aCK5qmMGE2qi6qu63yfJUBuGExY3NEaXdWQXQDFhkANDF_eBmR0QcTUKnyeZ3J8atXWTKW_oaOewVuK_V22sKAKXwwgQkKmKOVyRjrtwwEHSuhDRUixThz0bLjzIlsxsnwfAGfcFH8SzISLur0-WNKUL44VShL-AkDAjvI" />
+<link rel="stylesheet" media="all" href="/files/css/css_L4P0c4TtvpWpOLmus_dspe8LN6UQDwnYiqvLl-c8l-s.css?delta=3&amp;language=en&amp;theme=iastate8_theme&amp;include=eJx1j8EOgzAIhl9IVw877G0a2jLFlLIU1Pj2M3pZdF6A8AXy_aCK5qmMGE2qi6qu63yfJUBuGExY3NEaXdWQXQDFhkANDF_eBmR0QcTUKnyeZ3J8atXWTKW_oaOewVuK_V22sKAKXwwgQkKmKOVyRjrtwwEHSuhDRUixThz0bLjzIlsxsnwfAGfcFH8SzISLur0-WNKUL44VShL-AkDAjvI" />
+<link rel="stylesheet" media="all" href="//cdn.theme.iastate.edu/nimbus-sans/css/nimbus-sans.css" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" />
+<link rel="stylesheet" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/files/css/css_XtJzbPq7Lsu9Xe6cGVbEv1XwzBpA5KAdf9GzbvTq9_s.css?delta=7&amp;language=en&amp;theme=iastate8_theme&amp;include=eJx1j8EOgzAIhl9IVw877G0a2jLFlLIU1Pj2M3pZdF6A8AXy_aCK5qmMGE2qi6qu63yfJUBuGExY3NEaXdWQXQDFhkANDF_eBmR0QcTUKnyeZ3J8atXWTKW_oaOewVuK_V22sKAKXwwgQkKmKOVyRjrtwwEHSuhDRUixThz0bLjzIlsxsnwfAGfcFH8SzISLur0-WNKUL44VShL-AkDAjvI" />
+<link rel="stylesheet" media="all" href="/files/asset_injector/css/00_global-27ade53754e2391def63707dca56f061.css?s9gyp4" />
+
+    
+  </head>
+
+    <body class="node-id_306 node-type_landing_page is_front">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="isu-page-wrap">
+
+
+
+  
+<nav class="isu-navbar" aria-label="Iowa State University quicklinks">
+  <ul class="isu-navbar_container" id="isu-navbar">
+    <li><a href="https://www.iastate.edu" title="Iowa State University Home Page">iastate.edu</a></li>
+    <li class="isu-navbar_dropdown_alpha isu-navbar_dropdown" data-isu-navbar-expanded="false">
+      <a href="https://www.iastate.edu/index/A" class="isu-navbar_dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Index</a>
+      <ul class="isu-navbar_dropdown-menu isu-navbar_alpha">
+        <li><a href="https://www.iastate.edu/index/A/">A</a></li>
+        <li><a href="https://www.iastate.edu/index/B/">B</a></li>
+        <li><a href="https://www.iastate.edu/index/C/">C</a></li>
+        <li><a href="https://www.iastate.edu/index/D/">D</a></li>
+        <li><a href="https://www.iastate.edu/index/E/">E</a></li>
+        <li><a href="https://www.iastate.edu/index/F/">F</a></li>
+        <li><a href="https://www.iastate.edu/index/G/">G</a></li>
+        <li><a href="https://www.iastate.edu/index/H/">H</a></li>
+        <li><a href="https://www.iastate.edu/index/I/">I</a></li>
+        <li><a href="https://www.iastate.edu/index/J/">J</a></li>
+        <li><a href="https://www.iastate.edu/index/K/">K</a></li>
+        <li><a href="https://www.iastate.edu/index/L/">L</a></li>
+        <li><a href="https://www.iastate.edu/index/M/">M</a></li>
+        <li><a href="https://www.iastate.edu/index/N/">N</a></li>
+        <li><a href="https://www.iastate.edu/index/O/">O</a></li>
+        <li><a href="https://www.iastate.edu/index/P/">P</a></li>
+        <li><a href="https://www.iastate.edu/index/Q/">Q</a></li>
+        <li><a href="https://www.iastate.edu/index/R/">R</a></li>
+        <li><a href="https://www.iastate.edu/index/S/">S</a></li>
+        <li><a href="https://www.iastate.edu/index/T/">T</a></li>
+        <li><a href="https://www.iastate.edu/index/U/">U</a></li>
+        <li><a href="https://www.iastate.edu/index/V/">V</a></li>
+        <li><a href="https://www.iastate.edu/index/W/">W</a></li>
+        <li><a href="https://www.iastate.edu/index/X/">X</a></li>
+        <li><a href="https://www.iastate.edu/index/Y/">Y</a></li>
+        <li><a href="https://www.iastate.edu/index/Z/">Z</a></li>
+      </ul>
+    </li>
+    <li class="isu-navbar_break" aria-hidden="true"></li>
+    <li><a href="https://info.iastate.edu/">Directory</a></li>
+    <li><a href="https://www.fpm.iastate.edu/maps/">Maps</a></li>
+    <li><a href="https://web.iastate.edu/safety/">Safety</a></li>
+    <li><a href="https://iastate.okta.com/">Sign Ons</a></li>
+  </ul>
+</nav>
+
+
+
+<header class="isu-site-navbar isu-gold-border_hidden" aria-label="Site header">
+  <div class="container">
+    
+    <div class="row isu-row-site-navbar">
+
+            
+        <button class="navbar-toggler isu-menu-navbar_toggler" type="button" data-toggle="collapse" id="isu-menu-navbar_toggler" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon isu-menu-navbar_toggler-icon"></span>
+          <span class="isu-menu-navbar_toggler-label">Menu</span>
+        </button>
+          
+      <div class="col-lg isu-col-header-first">
+          
+  
+  <div class="isu-region isu-region_header-first">
+    
+
+<div id="block-iastate8-theme-branding" class="isu-block-front isu-block">
+  
+    
+  
+  <div class="isu-wordmark">
+          <a href="/">
+    
+                  <img class="isu-wordmark-logo isu-wordmark-logo_custom"   src="/files/logo-isu.png"  alt="Iowa State University - Start Something logo" >
+              
+          </a>
+    
+    
+      <h1 class="isu-wordmark-sitename">
+                  <a rel="home" href="/"> Start Something CALS</a>
+              </h1>
+      
+    
+      </div>
+
+</div>
+
+
+
+<div id="block-startsomethinglogo" class="block-type_link-card isu-block-front isu-block isu-link-card_wrapper isu-link-card_red isu-link-card_text-md isu-link-card_auto-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <a href="/" class="isu-link-card_link isu-link-card_has-image isu-link-card_no-button">
+                    
+        
+        <div class="card isu-link-card">
+                      <div class="isu-link-card_image">
+              
+
+
+            <div>  <img src="/files/2022-06/logo-startsomething.png" width="313" height="53" alt="Start Something" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+            </div>
+          
+                  </div>
+
+                  </a>
+        
+      
+    </div>
+  </div>
+  </div>
+
+      </div>
+
+                    <button class="isu-search_toggler" id="isu-search_toggler">
+          <span class="fa fa-search isu-search_toggler-icon" aria-hidden="true"></span>
+          <span class="isu-search_toggler-label">
+            <span class="sr-only">Open</span> Search <span class="sr-only">Bar</span>
+          </span>
+        </button> 
+      
+      <div class="col-lg isu-col-header-second isu-col-header-second_has-search">
+          
+  
+  <div class="isu-region isu-region_header-second">
+    
+
+
+<article class="isu-search_collapse" id="isu-search_collapse" aria-label="Search this website">
+  <div class="iastate8-google-cse-search-form isu-search" data-drupal-selector="iastate8-google-cse-search-form" id="block-iastate8-google-cse-block">
+    
+        
+          <form action="/" method="post" id="iastate8-google-cse-search-form" accept-charset="UTF-8">
+  
+<input autocomplete="off" data-drupal-selector="form-7b5ikaznfhg3gxvejc8c-nne-qsi-etr4z2kwulirts" type="hidden" name="form_build_id" value="form-7b5ikaznFhG3GxVEjc8C_nNe_QsI_etr4z2kWuliRTs" />
+
+
+<input data-drupal-selector="edit-iastate8-google-cse-search-form" type="hidden" name="form_id" value="iastate8_google_cse_search_form" />
+
+
+<div class="isu-google-search">
+  
+
+<div class="form-group isu-form-group isu-form-type_textfield js-form-item form-item js-form-type-textfield form-item-q js-form-item-q">
+            <label class="visually-hidden" for="edit-q">Search</label>
+                
+
+<input placeholder="Search" class="isu-form-control_search isu-search__search-field form-text form-control isu-form-control isu-form-control_textfield" data-drupal-selector="edit-q" type="text" id="edit-q" name="q" value="" size="60" maxlength="128" />
+
+                </div>
+
+  <div class="isu-google-search_options">
+    
+    
+  </div>
+  
+  
+  <button class="isu-search__search-btn button js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="search_edit-submit" name="op" value="Search">
+    <span class="fa fa-search" aria-hidden="true"></span>
+    <span class="isu-search__search-btn-text">Submit search</span>
+  </button>
+
+
+</div>
+</form>
+
+      </div>
+</article>
+  </div>
+
+      </div>
+
+    </div>
+  </div>
+</header>
+
+<div> <!-- This class-less div is required so the layout won't collapse. -->
+  <div class="navbar navbar-expand-lg isu-menu-navbar">
+    <div class="container isu-menu-navbar_container">
+       <div class="isu-menu-navbar_collapse isu-menu-navbar_wrap" id="isu-menu-navbar_collapse">
+          
+  
+  <div class="d-lg-flex align-items-center justify-content-between isu-region isu-region_menu-navbar">
+    
+
+
+<nav aria-labelledby="block-iastate8-theme-main-menu-menu" id="block-iastate8-theme-main-menu">
+  
+          
+  
+  
+  <h1 class="visually-hidden isu-block-title h4" id="block-iastate8-theme-main-menu-menu">Main navigation</h1>
+  
+
+        
+
+        
+           <ul class="nav navbar-nav">
+    
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/" class="nav-link isu-nav-link is-active" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                
+      </li>
+                
+               <li class="nav-item menu-item--expanded isu-dropdown " aria-expanded="false">
+            
+                                
+                   <div class="isu-dropdown-toggle_wrapper">
+            <a href="/about-us" class="nav-link isu-nav-link isu-dropdown-toggle" data-drupal-link-system-path="node/1">About</a>
+            <button class="isu-dropdown-toggle_mobile"><span class="fa fa-angle-down"></span><span class="sr-only">Open dropdown menu</span></button>
+          </div>
+                  
+           <ul class="isu-dropdown-menu">
+    
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/our-mission-and-ethics" data-drupal-link-system-path="node/60">Mission</a>
+                
+      </li>
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/startups-magazine" data-drupal-link-system-path="node/268">STARTUPS Magazine</a>
+                
+      </li>
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/stories" data-drupal-link-system-path="stories">Student Stories</a>
+                
+      </li>
+        </ul>
+  
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/people/team" class="nav-link isu-nav-link" data-drupal-link-system-path="people-directory/team">People</a>
+                
+      </li>
+                
+               <li class="nav-item menu-item--expanded isu-dropdown " aria-expanded="false">
+            
+                                
+                   <div class="isu-dropdown-toggle_wrapper">
+            <a href="/how-do-i-get-involved" class="nav-link isu-nav-link isu-dropdown-toggle" data-drupal-link-system-path="node/270">For Students</a>
+            <button class="isu-dropdown-toggle_mobile"><span class="fa fa-angle-down"></span><span class="sr-only">Open dropdown menu</span></button>
+          </div>
+                  
+           <ul class="isu-dropdown-menu">
+    
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/how-do-i-get-involved" data-drupal-link-system-path="node/270">How to Get Involved</a>
+                
+      </li>
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/stories" data-drupal-link-system-path="stories">Student Stories</a>
+                
+      </li>
+                
+               <li class="dropdown-item isu-dropdown-item">
+            
+                                
+                   <a href="/student-resources" data-drupal-link-system-path="node/269">Student Resources</a>
+                
+      </li>
+        </ul>
+  
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="https://startsomething.cals.iastate.edu/cals-innovation-entrepreneurship-faculty-fellows-new" class="nav-link isu-nav-link">For Faculty</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/business-engagement-start-something-cals" class="nav-link isu-nav-link" data-drupal-link-system-path="node/283">For Businesses</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/events" class="nav-link isu-nav-link" data-drupal-link-system-path="upcoming-events-teaser-list">Events</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/wall-of-fame" class="nav-link isu-nav-link" data-drupal-link-system-path="wall-of-fame">Wall of Fame</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/blog" class="nav-link isu-nav-link" data-drupal-link-system-path="blog-teaser-list">STARTUPS Blog</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/news" class="nav-link isu-nav-link" data-drupal-link-system-path="news-teaser-list">News</a>
+                
+      </li>
+                
+               <li class="nav-item">
+            
+                                
+                   <a href="/contact-us" class="nav-link isu-nav-link" data-drupal-link-system-path="node/16">Contact Us</a>
+                
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<main class="isu-main">
+
+  <a id="main-content" tabindex="-1"></a>
+
+        
+  
+  <div class="isu-region isu-region_post-nav">
+    
+
+
+<div id="block-innovationtag" class="block-type_link-card isu-block-front isu-block isu-link-card_wrapper isu-link-card_red isu-link-card_text-md isu-link-card_auto-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <a href="http://innovate.iastate.edu" class="isu-link-card_link isu-link-card_has-image isu-link-card_no-button">
+                    
+        
+        <div class="card isu-link-card">
+                      <div class="isu-link-card_image">
+              
+
+
+            <div>  <img src="/files/2022-06/innovatetag.jpeg" width="150" height="386" alt="Powered by Innovate at Iowa State" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+            </div>
+          
+                  </div>
+
+                  </a>
+        
+      
+    </div>
+  </div>
+  </div>
+
+  
+  <div class="container">
+    
+  </div>
+
+  
+    <div class="container-fluid isu-landingpage-container">
+
+    <div class="row">
+
+                    
+      
+              <div class="isu-page-column isu-content-column col-lg-12">
+            
+  
+  <div class="isu-region isu-region_content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<div id="block-iastate8-theme-page-title" class="isu-block-front isu-block">
+  
+    
+      <div class="isu-block-content">
+      
+  <h1 class="visually-hide-node-title isu-page-title"><span>Home</span>
+</h1>
+
+
+    </div>
+  </div>
+
+
+<div id="block-iastate8-theme-content" class="isu-block-front isu-block">
+  
+    
+      <div class="isu-block-content">
+      
+<article about="/home" class="node node--type-landing-page node--promoted node--view-mode-full">
+
+  
+    
+
+  
+  <div>
+    
+
+
+  
+  <div class="isu-landingpage_cloud py-4 mt--3">
+    <div class="container isu-row isu-columns_one">
+      <div class="row">
+
+                  <div class="col-12 isu-column isu-column-1">
+            <div>
+              
+
+
+<div class="isu-block-front isu-block isu-link-card_wrapper isu-link-card_red isu-link-card_text-sm isu-link-card_full-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <div class="isu-link-card_link isu-link-card_has-image isu-link-card_no-button">
+                  
+        <div class="card isu-link-card">
+                      <div class="isu-link-card_image">
+              
+
+
+            <div>  <img src="/files/2024-02/Innovation%20Starts%20Here_Hero%20Banner_2-16-2024_0.png" width="2350" height="833" alt="Innovation starts here. Innovate at Iowa State." loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+            </div>
+          
+                  </div>
+
+                  </div>
+        
+      
+    </div>
+  </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  
+  <div>
+    <div class="container isu-row isu-columns_two">
+      <div class="row">
+
+                  <div class="col-md isu-column isu-column-1">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+          <h2 class="isu-block-title h4">How do I get involved?</h2> 
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><img src="/files/inline-images/How%20do%20I%20get%20involved_Updated_6-23-2023_Compressed_0.png" data-entity-uuid="763aa7e4-70d9-4288-965e-e3650760d7f2" data-entity-type="file" alt="students collaborating" width="215" height="833" class="align-left" loading="lazy"><p>Start Something CALS develops the entrepreneurial capacity of College of Agriculture and Life Sciences students. There are many ways to engage, whether you want to develop your creativity, explore a business idea, launch a startup, learn new skills or connect with successful intrapreneurs and entrepreneurs.</p><p><a class="btn btn-isu-dark-blue" href="/how-do-i-get-involved">Sounds fun. Show me more!</a></p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+                  <div class="col-md isu-column isu-column-2">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+          <h2 class="isu-block-title h4">How can businesses engage?</h2> 
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><p><img data-entity-uuid="a6b9ffb3-2c74-4cf7-9621-c0be23c413af" data-entity-type="file" src="/files/inline-images/How%20can%20businesses%20engage_Updated_6-23-2023_Compressed.png" alt="business owner showing students new technology" width="215" height="1667" class="align-left" loading="lazy">Are you a new startup or an entrepreneurial business looking to grow? We encourage you to engage with Start Something CALS to strengthen&nbsp;your business while supporting entrepreneurial and innovative students.</p><p><a class="btn btn-isu-green" href="/business-engagement-start-something-agriculture">Check out the many ways to engage.</a></p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+
+  
+  <div>
+    <div class="container isu-row isu-columns_two">
+      <div class="row">
+
+                  <div class="col-md isu-column isu-column-1">
+            <div>
+              
+
+
+<div class="isu-block-front isu-block isu-link-card_wrapper isu-link-card_red isu-link-card_text-md isu-link-card_full-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <a href="/wall-of-fame" class="isu-link-card_link isu-link-card_has-image isu-link-card_no-button">
+                    
+        
+        <div class="card isu-link-card">
+                      <div class="isu-link-card_image">
+              
+
+
+            <div>  <img src="/files/2022-06/wof-logo.jpg" width="500" height="266" alt="wall of fame" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+            </div>
+          
+                  </div>
+
+                  </a>
+        
+      
+    </div>
+  </div>
+            </div>
+          </div>
+        
+                  <div class="col-md isu-column isu-column-2">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+          <h2 class="isu-block-title h4">Wall of Fame</h2> 
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><p>Many Iowa State University students and alumni have created businesses after engaging with Start Something CALS during their time on campus. We celebrate these founders, their businesses, and successes.</p>
+
+<p><a class="btn btn-isu" href="/wall-of-fame">Take me to the Wall of Fame!</a></p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+
+  
+  <div class="isu-landingpage_grey py-4 mb-4" data-ss="home-row-6">
+    <div class="container isu-row isu-columns_two">
+      <div class="row">
+
+                  <div class="col-md isu-column isu-column-1">
+            <div>
+              
+
+
+<div class="isu-block-front isu-block isu-link-card_wrapper isu-link-card_red isu-link-card_text-md isu-link-card_full-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <div class="isu-link-card_link isu-link-card_has-image isu-link-card_no-button">
+                  
+        <div class="card isu-link-card">
+                      <div class="isu-link-card_image">
+              
+
+
+            <div>  <img src="/files/2023-06/Contact%20Us_Updated_6-23-2023_Compressed.png" width="1250" height="729" alt="students departing for Start Something CALS international travel course" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+            </div>
+          
+                  </div>
+
+                  </div>
+        
+      
+    </div>
+  </div>
+            </div>
+          </div>
+        
+                  <div class="col-md isu-column isu-column-2">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+          <h2 class="isu-block-title h4">Contact Us</h2> 
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><p>Please&nbsp;reach out to our staff&nbsp;or stop by 0030 Curtiss Hall if you have questions or are interested in learning more about Start Something CALS programs and opportunities.</p><p><a class="btn btn-isu" href="/contact-us">I'm interested. Take me to your contacts!</a></p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+
+  
+  <div>
+    <div class="container isu-row isu-columns_three">
+      <div class="row">
+
+                  <div class="col-md isu-column isu-column-1">
+            <div>
+              
+
+<div class="views-element-container isu-block-front isu-block">
+  
+          <h2 class="isu-block-title h4">Recent Blog Posts</h2> 
+    
+      <div class="isu-block-content">
+      <div class="container_view container_view_blog_block_1"><div class="js-view-dom-id-db38953babf90b46738e8cdae3e74c73157876c09b287755e394154dd1867858">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="list-unstyled">
+
+          <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/frontier-agricultural-opportunity-brian-mike-mato-grosso-brazil" hreflang="en">Frontier of Agricultural Opportunity for Brian Mike – Mato Grosso, Brazil</a></span></div></li>
+          <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/entrepreneuring-eyesight-alex-hage" hreflang="en">Entrepreneuring for Eyesight – Alex Hage</a></span></div></li>
+          <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/transitioning-working-business-business-entrepreneurial-leadership-mitchell-hora" hreflang="en">Transitioning From Working In The Business to On The Business - Entrepreneurial Leadership with Mitchell Hora</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        
+                  <div class="col-md isu-column isu-column-2">
+            <div>
+              
+
+<div class="views-element-container isu-block-front isu-block">
+  
+          <h2 class="isu-block-title h4">Upcoming Events</h2> 
+    
+      <div class="isu-block-content">
+      <div class="container_view container_view_events_block_1"><div class="isu-event-view-block-list js-view-dom-id-811b79db70be963675b1deb9c207bd3093e8fc41000b7214f3ef82a974c58e49">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="list-unstyled">
+
+          <li class="pb-2 mb-2">
+
+<div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">
+
+  
+
+  <div class="media isu-horizontal-card_wrap">
+          <div class="isu-horizontal-card_left">      <div  class="isu-event-date_stacked_simple">
+        
+                  <time class="isu-event-date_stacked" datetime="2024-03-27T16:30:00-0500"><div class="isu-event-date_stacked_month">Mar</div> <div class="isu-event-date_stacked_day">27</div></time>
+
+      
+  
+    </div>
+
+</div>
+              <div class="media-body isu-horizontal-card_body">
+
+            <div><h3 class="h6 isu-event_simple-teaser_title">
+  <a href="/event/2024/agricultural-innovation-value-creation-competition" hreflang="en">Agricultural Innovation &amp; Value Creation Competition</a>
+</h3>
+</div>
+    </div>
+        </div>
+
+</div>
+</li>
+          <li class="pb-2 mb-2">
+
+<div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">
+
+  
+
+  <div class="media isu-horizontal-card_wrap">
+          <div class="isu-horizontal-card_left">      <div  class="isu-event-date_stacked_simple">
+        
+                  <time class="isu-event-date_stacked" datetime="2024-04-01T23:59:59-0500"><div class="isu-event-date_stacked_month">Apr</div> <div class="isu-event-date_stacked_day">01</div></time>
+
+      
+  
+    </div>
+
+</div>
+              <div class="media-body isu-horizontal-card_body">
+
+            <h3  class="h6 isu-event_simple-teaser_title" >
+        <a href="https://financialaid.iastate.edu/scholarships/">
+            Start Something College of Agriculture and Life Sciences Scholarship Deadline
+        </a>
+        </h3>
+    </div>
+        </div>
+
+</div>
+</li>
+          <li class="pb-2 mb-2">
+
+<div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">
+
+  
+
+  <div class="media isu-horizontal-card_wrap">
+          <div class="isu-horizontal-card_left">      <div  class="isu-event-date_stacked_simple">
+        
+                  <time class="isu-event-date_stacked" datetime="2024-05-01T17:00:00-0500"><div class="isu-event-date_stacked_month">May</div> <div class="isu-event-date_stacked_day">01</div></time>
+
+      
+  
+    </div>
+
+</div>
+              <div class="media-body isu-horizontal-card_body">
+
+            <div><h3 class="h6 isu-event_simple-teaser_title">
+  <a href="/event/2024/start-something-cals-awards-night" hreflang="en">Start Something CALS Awards Night</a>
+</h3>
+</div>
+    </div>
+        </div>
+
+</div>
+</li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        
+                  <div class="col-md isu-column isu-column-3">
+            <div>
+              
+
+
+<div class="isu-block-front isu-block isu-link-card_wrapper isu-link-card_dark-red isu-link-card_text-md isu-link-card_full-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <a href="/about-us" class="isu-link-card_link isu-link-card_no-image isu-link-card_has-button">
+                    
+        
+        <div class="card isu-link-card">
+          
+                      <div class="isu-link-card_button">
+                              <span class="fa fa-arrow-right"></span>
+                            <span>Learn more about our program</span>
+            </div>
+                  </div>
+
+                  </a>
+        
+      
+    </div>
+  </div>
+
+
+<div class="isu-block-front isu-block isu-link-card_wrapper isu-link-card_dark-red isu-link-card_text-md isu-link-card_full-width">
+  
+    
+
+  
+              
+    <div class="isu-block-content">
+
+            
+
+      
+                              <a href="/stories" class="isu-link-card_link isu-link-card_no-image isu-link-card_has-button">
+                    
+        
+        <div class="card isu-link-card">
+          
+                      <div class="isu-link-card_button">
+                              <span class="fa fa-arrow-right"></span>
+                            <span>Check out our Student Stories</span>
+            </div>
+                  </div>
+
+                  </a>
+        
+      
+    </div>
+  </div>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="isu-landingpage_red py-5" data-ss="home-row-7">
+    <div class="container isu-row isu-columns_two-thirds-one-third">
+      <div class="row">
+
+        
+        
+                  <div class="col-md-8 isu-column isu-column-1">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+          <h2 class="isu-block-title h4">Part of Something Bigger</h2> 
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><p>Iowa State's Start Something Network is just one of the many ways you as a student can be part of Innovate at Iowa State — an inclusive culture that fuels curiosity and nurtures creative sparks.</p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+                  <div class="col-md-4 isu-column isu-column-2">
+            <div>
+              
+
+<div class="isu-block-front isu-block isu-text-card clearfix">
+  
+    
+            <div class="isu-block-content">
+        
+
+
+            <div><p><a href="https://innovate.iastate.edu/">Catch the latest<br>
+<em>Innovate at Iowa State</em><br>
+events and programs.</a>&nbsp;</p></div>
+      
+      </div>
+    
+  </div>
+
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      
+      
+    </div>
+
+  </div>
+
+  </main>
+
+
+<footer class="isu-footer" aria-label="Footer">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-sm-6 col-md-6 col-lg-3">
+
+                  <div class="mb-3">
+                          <a href="https://www.iastate.edu">
+                            <img class="isu-footer-logo" width="180" height="58" src="/themes/contrib/iastate_theme/isu-stacked.svg" class="wordmark-isu"  alt="Iowa State University logo" >
+                          </a>
+                      </div>
+        
+        
+              </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3">
+
+                  <div class="mb-3">
+
+                          <h2 class="isu-footer_contact-title" id="footercontact">
+                Start Something College of Agriculture and Life Sciences
+              </h2>
+                                      <div class="isu-footer_contact-address">
+                30 Curtiss Hall<br />
+513 Farm House Ln<br />
+Ames, IA 50011-1054
+              </div>
+            
+                          <div class="isu-footer_contact-email">
+                <a href="mailto:startsomethingcals@iastate.edu">startsomethingcals@iastate.edu</a>
+              </div>
+            
+                          <div class="isu-footer_contact-phone">
+                <span>Phone: <a href="tel:+15152944945">515-294-4945</a></span>
+              </div>
+            
+                      </div>
+
+        
+              </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3">
+
+                  <div>
+            <h2 class="visually-hidden" id="footersocialmenu">Social media</h2>
+            <ul class="isu-social-menu">
+                              <li><a href="https://www.facebook.com/ISUCALSInnovates">Facebook</a></li>
+                              <li><a href="https://www.instagram.com/isucalsinnovates/">Instagram</a></li>
+                              <li><a href="https://twitter.com/ISUCALSInnovate">X [formerly Twitter]</a></li>
+                              <li><a href="https://www.linkedin.com/company/start-something-cals">LinkedIn</a></li>
+                          </ul>
+          </div>
+        
+              </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3">
+
+                  <div class="mb-3">
+            <h2 class="visually-hidden">Copyright Information</h2>
+
+            <p class="isu-copyright">Copyright © <script>document.write(new Date().getFullYear());</script><br>Iowa State University<br>of Science and Technology<br>All rights reserved.</p>
+
+            <h2 class="visually-hidden">Legal and Privacy Links</h2>
+            <ul class="isu-legal-menu">
+              <li><a href="http://www.policy.iastate.edu/policy/discrimination">Non-discrimination Policy</a></li>
+              <li><a href="http://www.policy.iastate.edu/electronicprivacy">Privacy Policy</a></li>
+              <li><a href="http://digitalaccess.iastate.edu">Digital Access &amp; Accessibility</a></li>
+              <li><a href="https://www.iastate.edu/about/consumer">Consumer Information</a></li>
+            </ul>
+          </div>
+        
+              </div>
+    </div>
+  </div>
+
+  </footer>
+
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/306","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackMailto":true},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"2ec425ac5e47a7ecc7a907947e7eec7a96ace3cded883d12d84cb43d88bf2305"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.3"></script>
+<script src="/core/misc/drupal.js?v=10.2.3"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.3"></script>
+<script src="/modules/contrib/matomo/js/matomo.js?v=10.2.3"></script>
+<script src="/themes/isubit/iastate8_theme/js/bootstrap/util.js?v=4.6.1"></script>
+<script src="/themes/isubit/iastate8_theme/js/base/isu-navbar.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/base/iastate_theme.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/base/isu-responsivetables.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/base/isu-main-menu.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-tooltips.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-block-collapse.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-adventure.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-events.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-expertise.js?s9gyp4"></script>
+<script src="/modules/isubit/iastate8_events/js/isu-events.js?s9gyp4"></script>
+<script src="/themes/isubit/iastate8_theme/js/isu-random.js?s9gyp4"></script>
+
+  </body>
+</html>

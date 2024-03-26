@@ -1,8 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-    <head data-js-assets="components/gdprConsent.js,components/headerNavigation.js,components/specsSearch.js,legacy-scripts/components.js,legacy-scripts/market-development.js"><meta charset="utf-8" /><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.5.1",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this._interceptClickListeners(this),window.addEventListener("pageshow",e=>{this.persisted=e.persisted,this.everythingLoaded&&this._triggerLastFunctions()}),document.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(e){if(document.hidden){e._triggerListener();return}this.triggerEvents.forEach(t=>window.addEventListener(t,e.userEventHandler,{passive:!0})),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(e=>window.removeEventListener(e,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!0),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}_interceptClickListeners(e){EventTarget.prototype.addEventListenerBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(t,i,r){"click"!==t||e.windowLoaded||i===e.clickHandler||e.interceptedClickListeners.push({target:this,func:i,options:r}),(this||window).addEventListenerBase(t,i,r)}}_disableOtherEventListeners(e,t){this.interceptedClickListeners.forEach(i=>{i.target===e&&(t?e.removeEventListener("click",i.func,i.options):e.addEventListener("click",i.func,i.options))}),e.parentNode!==document.documentElement&&this._disableOtherEventListeners(e.parentNode,t)}_waitForPendingClicks(){return new Promise(e=>{this._isClickPending?this._pendingClickFinished=e:e()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(e,t,i){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(i,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(t=>{let i=t.getAttribute("data-rocket-src");if(i&&0!==i.indexOf("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{let r=new URL(i).origin;r!==location.origin&&e.push({src:r,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}catch(n){}}}),e=[...new Map(e.map(e=>[JSON.stringify(e),e])).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(e){console.error(e)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{e.hasAttribute("data-rocket-src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)})}async _transformScript(e){if(await this._littleBreath(),!0===e.noModule&&"noModule"in HTMLScriptElement.prototype){e.setAttribute("data-rocket-status","skipped");return}return new Promise(t=>{let i;function r(){(i||e).setAttribute("data-rocket-status","executed"),t()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)i=document.createElement("script"),[...e.attributes].forEach(e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),"data-rocket-src"===t&&(t="src"),i.setAttribute(t,e.nodeValue))}),e.text&&(i.text=e.text),i.hasAttribute("src")?(i.addEventListener("load",r),i.addEventListener("error",function(){i.setAttribute("data-rocket-status","failed"),t()}),setTimeout(()=>{i.isConnected||t()},1)):(i.text=e.text,r()),e.parentNode.replaceChild(i,e);else{let n=e.getAttribute("data-rocket-type"),s=e.getAttribute("data-rocket-src");n?(e.type=n,e.removeAttribute("data-rocket-type")):e.removeAttribute("type"),e.addEventListener("load",r),e.addEventListener("error",function(){e.setAttribute("data-rocket-status","failed"),t()}),s?(e.removeAttribute("data-rocket-src"),e.src=s):e.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(e.text)))}}catch(a){e.setAttribute("data-rocket-status","failed"),t()}})}async _loadScriptsFromList(e){let t=e.shift();return t&&t.isConnected?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var i=document.createDocumentFragment();e.forEach(e=>{let r=e.getAttribute&&e.getAttribute("data-rocket-src")||e.src;if(r){let n=document.createElement("link");n.href=r,n.rel=t,"preconnect"!==t&&(n.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),e.crossOrigin&&(n.crossOrigin=e.crossOrigin),e.integrity&&(n.integrity=e.integrity),i.appendChild(n),this.trash.push(n)}}),document.head.appendChild(i)}_delayEventListeners(e){let t={};function i(i,r){return t[r].eventsToRewrite.indexOf(i)>=0&&!e.everythingLoaded?"rocket-"+i:i}function r(e,r){var n;!t[n=e]&&(t[n]={originalFunctions:{add:n.addEventListener,remove:n.removeEventListener},eventsToRewrite:[]},n.addEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.add.apply(n,arguments)},n.removeEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.remove.apply(n,arguments)}),t[e].eventsToRewrite.push(r)}function n(t,i){let r=t[i];t[i]=null,Object.defineProperty(t,i,{get:()=>r||function(){},set(n){e.everythingLoaded?r=n:t["rocket"+i]=r=n}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t;function i(t){return e.everythingLoaded?t:t.split(" ").map(e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e).join(" ")}function r(r){if(r&&r.fn&&!e.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(t){return e.domReadyFired?t.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>t.bind(document)(r)),r([])};let n=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{let t=arguments[0][e];delete arguments[0][e],arguments[0][i(e)]=t})),n.apply(this,arguments),this},e.allJQueries.push(r)}t=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>t,set(e){r(e)}})}async _pendingWebpackRequests(e){let t=document.querySelector("script[data-webpack]");async function i(){return new Promise(e=>{t.addEventListener("load",e),t.addEventListener("error",e)})}t&&(await i(),await e._requestAnimFrame(),await e._pendingWebpackRequests(e))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async _triggerWindowLoad(){await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(e=>e(window).trigger("rocket-jquery-load")),await this._littleBreath();let e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}_triggerLastFunctions(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}_handleDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){let i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+t);let r=document.createRange(),n=i.parentElement,s=e.get(i);void 0===s&&(s=i.nextSibling,e.set(i,s));let a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(e=>setTimeout(e)):new Promise(e=>requestAnimationFrame(e))}_emptyTrash(){this.trash.forEach(e=>e.remove())}static run(){let e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
-        
+    <head data-js-assets="components/gdprConsent.js,components/headerNavigation.js,components/specsSearch.js,legacy-scripts/components.js,legacy-scripts/market-development.js">
+        <meta charset="utf-8" />
         <title>UpRamp Community - CableLabs</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -26,7 +26,7 @@
         </style>
 
         <script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll(".rev_slider ul li"),r=0,a=i.length;r<a;r++){ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"));for(var n=1;n<11;)ewwwAttr(i[r],"data-param"+n,i[r].getAttribute("data-webp-param"+n)),n++}for(r=0,a=(i=document.querySelectorAll(".rev_slider img")).length;r<a;r++)ewwwAttr(i[r],"data-lazyload",i[r].getAttribute("data-webp-lazyload"));for(var o=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=o.length;r<a;r++)ewwwAttr(o[r],"data-thumb",o[r].getAttribute("data-webp-thumb"))}for(var l=document.querySelectorAll("video"),r=0,a=l.length;r<a;r++)ewwwAttr(l[r],"poster",e?l[r].getAttribute("data-poster-webp"):l[r].getAttribute("data-poster-image"));for(var s,c=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=c.length;r<a;r++)e&&(ewwwAttr(c[r],"data-lazy-srcset",c[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(c[r],"data-srcset",c[r].getAttribute("data-srcset-webp")),ewwwAttr(c[r],"data-lazy-src",c[r].getAttribute("data-lazy-src-webp")),ewwwAttr(c[r],"data-src",c[r].getAttribute("data-src-webp")),ewwwAttr(c[r],"data-orig-file",c[r].getAttribute("data-webp-orig-file")),ewwwAttr(c[r],"data-medium-file",c[r].getAttribute("data-webp-medium-file")),ewwwAttr(c[r],"data-large-file",c[r].getAttribute("data-webp-large-file")),null!=(s=c[r].getAttribute("srcset"))&&!1!==s&&s.includes("R0lGOD")&&ewwwAttr(c[r],"src",c[r].getAttribute("data-lazy-src-webp"))),c[r].className=c[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var w=document.querySelectorAll(".ewww_webp"),r=0,a=w.length;r<a;r++)e?(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-webp")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-webp")),ewwwAttr(w[r],"data-orig-file",w[r].getAttribute("data-webp-orig-file")),ewwwAttr(w[r],"data-medium-file",w[r].getAttribute("data-webp-medium-file")),ewwwAttr(w[r],"data-large-file",w[r].getAttribute("data-webp-large-file")),ewwwAttr(w[r],"data-large_image",w[r].getAttribute("data-webp-large_image")),ewwwAttr(w[r],"data-src",w[r].getAttribute("data-webp-src"))):(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-img")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-img"))),w[r].className=w[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><!-- Google Tag Manager -->
-<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -34,10 +34,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <!-- CableLabs Tracking Script -->
-<script data-minify="1" async src="https://www.cablelabs.com/wp-content/cache/min/1/analytics.js?ver=1710184103"></script>
+<script async src="https://analytics-scripts.cablelabs.com/analytics.js"></script>
 
 <!-- Woopra code starts here -->
-<script type="rocketlazyloadscript">
+<script>
     (function(){
         var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
     })("woopra");
@@ -65,7 +65,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             template_directory_uri: 'https://www.cablelabs.com/wp-content/themes/cablelabs-v23',
         }
     </script>
-    <script data-minify="1" type='module' defer crossorigin src='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/dist/global.911a339c41e2bb5047fd.js?ver=1710184103'></script><script data-minify="1" type='text/javascript' defer nomodule src='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/dist/global.9e31ed00e07234b678a4.js?ver=1710184103'></script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <script type='module' defer crossorigin src='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/dist/global.536e02adeedf5a84358a.js'></script><script type='text/javascript' defer nomodule src='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/dist/global.4bcc8f2e1de64ee7d5dd.js'></script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO Premium plugin v21.9 (Yoast SEO v21.9.1) - https://yoast.com/wordpress/plugins/seo/ -->
 	<link rel="canonical" href="https://www.cablelabs.com/upramp" />
@@ -101,12 +101,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href='https://static.hotjar.com' crossorigin='' rel='preconnect' />
 <link href='https://static.woopra.com' crossorigin='' rel='preconnect' />
 <link href='https://www.google-analytics.com' crossorigin='' rel='preconnect' />
-<link data-minify="1" rel='stylesheet' id='cl_reset-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/reset.css?ver=1710184103' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='cl_fonts-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/fonts.css?ver=1710184103' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='cl_global-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/global.css?ver=1710184103' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='cl_components-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/components.css?ver=1710184104' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='cl_jquery.bxslider-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/vendor/jquery.bxslider.css?ver=1710184302' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='cl_market-development-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/btp/css/market-development.css?ver=1710184510' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_reset-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/reset.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_fonts-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/fonts.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_global-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/global.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_components-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/components.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_jquery.bxslider-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/vendor/jquery.bxslider.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cl_market-development-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/css/market-development.css?ver=6.4.3' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css' type='text/css'>
 
 	img.wp-smiley, img.emoji {
@@ -132,7 +132,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link data-minify="1" rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='cl_globalStyles-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/themes/cablelabs-v23/dist/globalStyles.de659abc7185ce1610a2.css?ver=1710184103' type='text/css' media='all' />
+<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='cl_globalStyles-css' href='https://www.cablelabs.com/wp-content/themes/cablelabs-v23/dist/globalStyles.667a0fe203fc9660eacf.css?ver=6.4.3' type='text/css' media='all' />
 <style id='has-inline-styles-inline-css' type='text/css'>
 .has-social-placeholder {display: none;height: 0;width: 0;overflow: hidden;}.has-inline-text { background-color: #ffefb1; color: #000000; }.has-inline-text:hover { background-color: #fcd63c; color: #000000; }
 </style>
@@ -140,9 +140,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.cablelabs.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 </style>
 <script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=1.0.1" id="bodhi-dompurify-library-js" defer></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.1" id="bodhi_svg_inline-js" defer></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=1.0.1" id="bodhi-dompurify-library-js"></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.1" id="bodhi_svg_inline-js"></script>
 <script type="text/javascript" id="bodhi_svg_inline-js-after">
 /* <![CDATA[ */
 cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled="on";
@@ -155,12 +155,12 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
 <link rel="alternate" type="text/xml+oembed" href="https://www.cablelabs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cablelabs.com%2Fupramp&#038;format=xml" />
 		<meta property="fb:pages" content="696084400453641" />
 		    
-    <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    <script type="text/javascript">
         var ajaxurl = 'https://www.cablelabs.com/wp-core/wp-admin/admin-ajax.php';
     </script>
 	
 	<!-- Woopra code starts here -->
-	<script type="rocketlazyloadscript">
+	<script>
 		(function(){
 		var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
 		})("woopra");
@@ -202,31 +202,31 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                         data-section-banner
                     >
                         <img
-                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20100'%3E%3C/svg%3E"
-                            class="section-banner__image section-banner__image--mobile ewww_webp_lazy_load"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAABkAQMAAABgj9xgAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAB5JREFUWMPtwTEBAAAAwqD1T20MH6AAAAAAAAAAeBgdsAABdAJoZQAAAABJRU5ErkJggg=="
+                            class="section-banner__image section-banner__image--mobile lazyload ewww_webp_lazy_load"
                             alt="Winter Conference 2024 Banner"
                             width="600"
                             height="100"
-                        data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141627/WC-Mobile-Banner.jpg"  data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141627/WC-Mobile-Banner.jpg.webp"><noscript><img
+                         data-src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141627/WC-Mobile-Banner.jpg" decoding="async" data-eio-rwidth="600" data-eio-rheight="100" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141627/WC-Mobile-Banner.jpg.webp"><noscript><img
                             src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141627/WC-Mobile-Banner.jpg"
                             class="section-banner__image section-banner__image--mobile"
                             alt="Winter Conference 2024 Banner"
                             width="600"
                             height="100"
-                        ></noscript>
+                         data-eio="l"></noscript>
                         <img
-                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%2099'%3E%3C/svg%3E"
-                            class="section-banner__image section-banner__image--desktop ewww_webp_lazy_load"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAABjAQMAAABXKjU2AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAChJREFUeNrtwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAAAAAAAAADgYRf8AAXIBVJQAAAAASUVORK5CYII="
+                            class="section-banner__image section-banner__image--desktop lazyload ewww_webp_lazy_load"
                             alt=""
                             width="1440"
                             height="99"
-                        data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141722/WC-Site-Banner.jpg"  data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141722/WC-Site-Banner.jpg.webp"><noscript><img
+                         data-src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141722/WC-Site-Banner.jpg" decoding="async" data-eio-rwidth="1440" data-eio-rheight="99" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141722/WC-Site-Banner.jpg.webp"><noscript><img
                             src="https://www-res.cablelabs.com/wp-content/uploads/2021/08/11141722/WC-Site-Banner.jpg"
                             class="section-banner__image section-banner__image--desktop"
                             alt=""
                             width="1440"
                             height="99"
-                        ></noscript>
+                         data-eio="l"></noscript>
                     </a>
                                 <header class="header-navigation" data-comp-header-navigation>
                     <nav class="header-navigation__wrapper">
@@ -237,16 +237,16 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
     >
         <span class="screen-reader-only">CableLabs</span>
         <img
-            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20308%2046'%3E%3C/svg%3E"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATQAAAAuAQMAAACcdXeVAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABdJREFUOMtjYBgFo2AUjIJRMApGASEAAAcwAAEcjfspAAAAAElFTkSuQmCC"
             alt="CableLabs Logo"
             width="308"
             height="46"
-        data-lazy-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png" /><noscript><img
+ data-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png" decoding="async" class="lazyload" data-eio-rwidth="308" data-eio-rheight="46" /><noscript><img
             src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png"
             alt="CableLabs Logo"
             width="308"
             height="46"
-        /></noscript>
+ data-eio="l" /></noscript>
     </a>
     <div data-search-form-container="mobile" style="margin-left: auto;">
         <button class="header-navigation__search-button" aria-label="Open search" data-search-button>
@@ -278,16 +278,16 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                                     <a href="/" class="header-navigation__logo">
                                         <span class="screen-reader-only">CableLabs</span>
                                         <img
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20308%2046'%3E%3C/svg%3E"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATQAAAAuAQMAAACcdXeVAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABdJREFUOMtjYBgFo2AUjIJRMApGASEAAAcwAAEcjfspAAAAAElFTkSuQmCC"
                                             alt="CableLabs Logo"
                                             width="308"
                                             height="46"
-                                        data-lazy-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png" /><noscript><img
+ data-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png" decoding="async" class="lazyload" data-eio-rwidth="308" data-eio-rheight="46" /><noscript><img
                                             src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/logo.png"
                                             alt="CableLabs Logo"
                                             width="308"
                                             height="46"
-                                        /></noscript>
+ data-eio="l" /></noscript>
                                     </a>
                                 </li>
                                 
@@ -773,7 +773,7 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
 
 <main id="market-development">
 
-        <section data-bg="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19152846/UpRamp-Header-1-e1597872548373.png" class="rocket-lazyload" id="header" style="">
+        <section id="header" style="" class="lazyload" data-back="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19152846/UpRamp-Header-1-e1597872548373.png" data-back-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19152846/UpRamp-Header-1-e1597872548373.png.webp">
         <div class="main-content-container cl-standard-text">
             <h1 >UpRamp Community</h1>
             <div class="subtitle">From partnering with, funding, and acquiring startups and emerging tech companies, to collaborating with universities and tech thought leaders, CableLabs members are doing incredible work with third parties to increase the ever-expanding technology capabilities and stay competitive. This is the place where they all come together to create the future.    </div>
@@ -787,14 +787,14 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                 <div class="main-content-container cl-standard-text">
             <div class="content">
                                     <div class="block">
-                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20163%20163'%3E%3C/svg%3E" alt="" width="163" height="163" data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png" data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png.webp" class="ewww_webp_lazy_load" /><noscript><img src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png" alt="" width="163" height="163" /></noscript>
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJAQMAAACzCIRGAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABxJREFUWMPtwTEBAAAAwqD1T+1jDKAAAAAAALgBFTMAAVHCHpYAAAAASUVORK5CYII=" alt="" width="163" height="163" data-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png" decoding="async" class="lazyload ewww_webp_lazy_load" data-eio-rwidth="201" data-eio-rheight="201" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png.webp" /><noscript><img src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150155/2-2.png" alt="" width="163" height="163" data-eio="l" /></noscript>
                         <h2>Monthly Meetings, Engagement Platform, A Community </h2>
                         <h3><p style="color:black"><b>A place for sharing and collaborating</p></b></h3>
                         <div><p><span class="normaltextrun">The </span><span class="normaltextrun">UpRamp</span><span class="normaltextrun"> Community is where CableLabs members share their outside innovation work. In doing so, they’re exposing the community to new startups and partnerships, developing new relationships, sharing best practices, overcoming obstacles, brainstorming, and seeking collaboration opportunities. All of this happens in our monthly meetings and bi-annual events, in addition to a community Slack channel and collaboration platform.</span></p>
 </div>
                     </div>
                                     <div class="block">
-                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20163%20163'%3E%3C/svg%3E" alt="" width="163" height="163" data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png" data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png.webp" class="ewww_webp_lazy_load" /><noscript><img src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png" alt="" width="163" height="163" /></noscript>
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJAQMAAACzCIRGAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABxJREFUWMPtwTEBAAAAwqD1T+1jDKAAAAAAALgBFTMAAVHCHpYAAAAASUVORK5CYII=" alt="" width="163" height="163" data-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png" decoding="async" class="lazyload ewww_webp_lazy_load" data-eio-rwidth="201" data-eio-rheight="201" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png.webp" /><noscript><img src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/19150303/Artboard-1-2.png" alt="" width="163" height="163" data-eio="l" /></noscript>
                         <h2>The Game Changers</h2>
                         <h3><p style="color:black"><b>This community is made up of the people changing cable’s direction by working with others to invent the future.</p></b> </h3>
                         <div><p class="p1">The UpRamp Community is made up of those that lead:</p>
@@ -812,7 +812,7 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
     </section>
 
     <section id="advisory-group">
-                <div data-bg="" class="background-image rocket-lazyload" style=""></div>
+                <div class="background-image lazyload" style=""></div>
         <div class="main-content-container cl-standard-text">
             <h2>Advisory Group </h2>
             <div class="intro-content">
@@ -875,7 +875,7 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
     </section>
 
     <section id="upramp-alumni">
-                <div data-bg="" class="background-image rocket-lazyload" style=""></div>
+                <div class="background-image lazyload" style=""></div>
         <div class="main-content-container cl-standard-text">
             <h2>UpRamp Alumni</h2>
             <div class="intro-content">
@@ -891,16 +891,16 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                                                     <a href="https://www.cablelabs.com/fiterator-alumni " target="_blank" class="black-button-single cl-standard-text">
                                 <div class="icon">
                                     <img
-                                        src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202236%20580'%3E%3C/svg%3E"
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAHyAQMAAAAwVkF1AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAItJREFUeNrtwTEBAAAAwqD1T20Gf6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgM1OEAAR4h9HMAAAAASUVORK5CYII="
                                         alt="UpRamp Fiterator Logo"
                                         width="2236"
                                         height="580"
-                                    data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091233/upramp_logo_fiterator_white.png"  data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091233/upramp_logo_fiterator_white.png.webp" class="ewww_webp_lazy_load"><noscript><img
+                                     data-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091233/upramp_logo_fiterator_white.png" decoding="async" class="lazyload ewww_webp_lazy_load" data-eio-rwidth="2236" data-eio-rheight="580" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091233/upramp_logo_fiterator_white.png.webp"><noscript><img
                                         src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091233/upramp_logo_fiterator_white.png"
                                         alt="UpRamp Fiterator Logo"
                                         width="2236"
                                         height="580"
-                                    ></noscript>
+                                     data-eio="l"></noscript>
                                 </div>
                                 <div class="text">
                                     <h2>Fiterator Alumni</h2>
@@ -910,16 +910,16 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                                                     <a href="https://www.cablelabs.com/upramp-alumni" target="_blank" class="black-button-single cl-standard-text">
                                 <div class="icon">
                                     <img
-                                        src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201921%20792'%3E%3C/svg%3E"
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAMYAQMAAAAQFmi4AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAM9JREFUeNrtwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GbptgABmn1S5wAAAABJRU5ErkJggg=="
                                         alt="UpRamp Logo"
                                         width="1921"
                                         height="792"
-                                    data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091408/UpRamp_Logo_Blue_Horiz_ColorWhite.png"  data-lazy-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091408/UpRamp_Logo_Blue_Horiz_ColorWhite.png.webp" class="ewww_webp_lazy_load"><noscript><img
+                                     data-src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091408/UpRamp_Logo_Blue_Horiz_ColorWhite.png" decoding="async" class="lazyload ewww_webp_lazy_load" data-eio-rwidth="1921" data-eio-rheight="792" data-src-webp="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091408/UpRamp_Logo_Blue_Horiz_ColorWhite.png.webp"><noscript><img
                                         src="https://www-res.cablelabs.com/wp-content/uploads/2020/08/18091408/UpRamp_Logo_Blue_Horiz_ColorWhite.png"
                                         alt="UpRamp Logo"
                                         width="1921"
                                         height="792"
-                                    ></noscript>
+                                     data-eio="l"></noscript>
                                 </div>
                                 <div class="text">
                                     <h2>Innovation Showcase and Fiterator Alumni</h2>
@@ -929,16 +929,16 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                                                     <a href="https://upramp.cablelabs.com" target="_blank" class="black-button-single cl-standard-text">
                                 <div class="icon">
                                     <img
-                                        src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%201500'%3E%3C/svg%3E"
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABdwAAAXcAQMAAAAC+94nAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAASlJREFUeNrtwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBpTqAABLdxiJwAAAABJRU5ErkJggg=="
                                         alt="Blog Icon"
                                         width="1500"
                                         height="1500"
-                                    data-lazy-src="https://www-res.cablelabs.com/wp-content/uploads/2020/07/27141555/blogicon2.png" ><noscript><img
+                                     data-src="https://www-res.cablelabs.com/wp-content/uploads/2020/07/27141555/blogicon2.png" decoding="async" class="lazyload" data-eio-rwidth="1500" data-eio-rheight="1500"><noscript><img
                                         src="https://www-res.cablelabs.com/wp-content/uploads/2020/07/27141555/blogicon2.png"
                                         alt="Blog Icon"
                                         width="1500"
                                         height="1500"
-                                    ></noscript>
+                                     data-eio="l"></noscript>
                                 </div>
                                 <div class="text">
                                     <h2>Fiterator and Innovation Showcase News</h2>
@@ -951,7 +951,7 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
     </section>
 
     <section id="member-area">
-                <div data-bg="" class="background-image rocket-lazyload" style=""></div>
+                <div class="background-image lazyload" style=""></div>
         <div class="main-content-container cl-standard-text">
             <h2>Member Area</h2>
             <div class="intro-content">
@@ -977,8 +977,8 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                     <!--[if lte IE 8]>
                     <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
                     <![endif]-->
-                    <script type="rocketlazyloadscript" charset="utf-8" data-rocket-type="text/javascript" data-rocket-src="//js.hsforms.net/forms/v2.js"></script>
-                    <script type="rocketlazyloadscript">
+                    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+                    <script>
                         hbspt.forms.create({
                         portalId: '1697621',
                         formId: '90ab830c-5bc4-4810-9638-830c640673e8',
@@ -1058,18 +1058,18 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
                             <a href="/privacy-policy">Privacy Policy</a>
                         </div>
                         <img
-                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2047'%3E%3C/svg%3E"
-                            class="site-footer__logo"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAAvAQMAAABjUGUsAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABdJREFUOMtjYBgFo2AUjIJRMApGAU4AAAcpAAFyhF/aAAAAAElFTkSuQmCC"
+                            class="site-footer__logo lazyload"
                             alt="CableLabs Logo"
                             width="300"
                             height="47"
-                        data-lazy-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/footer-logo.png" /><noscript><img
+ data-src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/footer-logo.png" decoding="async" data-eio-rwidth="300" data-eio-rheight="47" /><noscript><img
                             src="https://www.cablelabs.com/wp-content/themes/cablelabs-v23/btp/images/footer-logo.png"
                             class="site-footer__logo"
                             alt="CableLabs Logo"
                             width="300"
                             height="47"
-                        /></noscript>
+ data-eio="l" /></noscript>
                         <p>
                             CableLabs is funded by its cable industry member companies as a non-profit Innovation and R&amp;D lab under Internal Revenue Code 501(c)(6) status.
                         </p>
@@ -1079,10 +1079,10 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
         </footer>
     </div>
 
-        <script data-minify="1" type="text/javascript" id="hs-script-loader" async defer src="https://www.cablelabs.com/wp-content/cache/min/1/1697621.js?ver=1710184103"></script>
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1697621.js"></script>
         <!-- End of HubSpot Embed Code -->
-    <link data-minify="1" rel='stylesheet' id='highlight-and-share-css' href='https://www.cablelabs.com/wp-content/cache/min/1/wp-content/plugins/highlight-and-share/dist/has-themes.css?ver=1710184103' type='text/css' media='all' />
-<script type="rocketlazyloadscript">
+    <link rel='stylesheet' id='highlight-and-share-css' href='https://www.cablelabs.com/wp-content/plugins/highlight-and-share/dist/has-themes.css?ver=4.6.0' type='text/css' media='all' />
+<script>
               (function(e){
                   var el = document.createElement('script');
                   el.setAttribute('data-account', 'UZqZVP6RPM');
@@ -1170,9 +1170,9 @@ cssTarget="img.style-svg";ForceInlineSVGActive="false";frontSanitizationEnabled=
 var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=730" id="eio-lazy-load-js" defer></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js" defer></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js" defer></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=730" id="eio-lazy-load-js"></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
 <script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
 <script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="https://www.cablelabs.com/wp-core/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
@@ -1187,9 +1187,9 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 var highlight_and_share = {"show_facebook":"1","show_twitter":"1","show_linkedin":"1","show_ok":"","show_vk":"","show_email":"","show_xing":"","show_copy":"","show_whatsapp":"","show_telegram":"","show_mastodon":"","twitter_username":"CABLELABS","enable_webshare_inline_highlight":"","enable_webshare_click_to_share":"","content_legacy_mode":"","mobile":"","content":".blog-content-container,.has-content-area,.has-excerpt-area","tweet_text":"Tweet","facebook_text":"Share","linkedin_text":"LinkedIn","ok_text":"Odnoklassniki","vk_text":"VKontakte","mastodon_text":"Mastodon","whatsapp_text":"WhatsApp","xing_text":"Xing","copy_text":"Copy","email_text":"E-mail","webshare_text":"Share","prefix":"","suffix":"","inline_highlight_tooltips_enabled":"","inline_highlight_tooltips_text":""};
 /* ]]> */
 </script>
-<script data-minify="1" type="text/javascript" src="https://www.cablelabs.com/wp-content/cache/min/1/wp-content/plugins/highlight-and-share/dist/highlight-and-share.js?ver=1710184104" id="highlight-and-share-js" defer></script>
-<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.9" id="heartbeat-js" defer></script>
-        <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/highlight-and-share/dist/highlight-and-share.js?ver=4.6.0" id="highlight-and-share-js"></script>
+<script type="text/javascript" src="https://www.cablelabs.com/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.9" id="heartbeat-js"></script>
+        <script type="text/javascript">
             /* <![CDATA[ */
            document.querySelectorAll("ul.nav-menu").forEach(
                ulist => { 
@@ -1207,7 +1207,3 @@ images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.adde
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.cablelabs.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
 </body>
 </html>
-
-<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
-
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1710521671 -->

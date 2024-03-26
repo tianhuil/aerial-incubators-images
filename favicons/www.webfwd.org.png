@@ -6,7 +6,7 @@
 <!--[if IE 8]>		<html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app28.us.archive.org';v.server_ms=639;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app220.us.archive.org';v.server_ms=536;archive_analytics.send_pageview({});});</script>
 <script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
 <script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
 <script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
@@ -309,7 +309,7 @@ __wm.bt(725,27,25,2,"web","https://webfwd.org/","20180106223649",1996,"https://w
 </html>
 <!--
      FILE ARCHIVED ON 22:36:49 Jan 06, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:25:27 Mar 15, 2024.
+     INTERNET ARCHIVE ON 21:34:22 Mar 21, 2024.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -317,12 +317,12 @@ __wm.bt(725,27,25,2,"web","https://webfwd.org/","20180106223649",1996,"https://w
 -->
 <!--
 playback timings (ms):
-  exclusion.robots: 2.271 (7)
-  exclusion.robots.policy: 2.128 (7)
-  cdx.remote: 0.999 (7)
-  esindex: 0.113 (7)
-  LoadShardBlock: 1485.146 (24)
-  PetaboxLoader3.datanode: 1179.5 (25)
-  PetaboxLoader3.resolve: 173.406 (2)
-  load_resource: 191.234
+  exclusion.robots: 1.397 (7)
+  exclusion.robots.policy: 1.283 (7)
+  cdx.remote: 0.675 (7)
+  esindex: 0.072 (7)
+  LoadShardBlock: 719.159 (24)
+  PetaboxLoader3.datanode: 525.667 (25)
+  load_resource: 130.827
+  PetaboxLoader3.resolve: 116.034
 -->

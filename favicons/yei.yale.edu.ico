@@ -524,7 +524,7 @@
 
   
     <div class="views-element-container">
-  <section class="view view--stories view--block-featured-stories view--display-default js-view-dom-id-234ba256848e32f731a6e110c2c765f5fb17d2c176012d15de4ff4f41eb67a4e">
+  <section class="view view--stories view--block-featured-stories view--display-default js-view-dom-id-02b42bc47b3d561533fd62ca0126ee7e08bc9d99a1cea5db5ca0b04f6c6b3d1c">
   
   <div class="view__content">
     
@@ -651,7 +651,7 @@
 
   
     <div class="views-element-container">
-  <section class="view view--events-upcoming view--block-events-upcoming view--display-default js-view-dom-id-b8a2d31dfd113ca0a56c6b50351cb7544ded21107c237cd21f8e74cbf0efa8c7">
+  <section class="view view--events-upcoming view--block-events-upcoming view--display-default js-view-dom-id-0b79b74511b4cc3f0bff47459b862b6a5b2e649160dfa032c9de29905116fd08">
   
   <div class="view__content">
     
@@ -688,7 +688,7 @@
 
       <h1 class="node-teaser__heading">
               <a href="https://lu.ma/z7lx9eub">
-          My Career as a Joiner
+          My Career as a Joiner: Bennett Byerley, Co-Founder &amp; COO of Verb Energy
         </a>
           </h1>
         </header>
@@ -770,7 +770,7 @@
 
   
     <div class="views-element-container">
-  <section class="view view--stories view--block-stories-list-by-story-type view--display-grid js-view-dom-id-acf41f6470f5534c724f5992c53f289e0621e6925011f29d446385ec62711fa7">
+  <section class="view view--stories view--block-stories-list-by-story-type view--display-grid js-view-dom-id-2bcf5e07a0669a20c36ab168a617e8bce62eb98f5e523510c72001461fec5910">
   
   <div class="view__content">
     
@@ -880,7 +880,7 @@
 
   
     <div class="views-element-container">
-  <section class="view view--events-previous view--block-recent-events view--display-grid js-view-dom-id-c59f8475bdb3fc7d4244c193016a8a7b515020c36d8a203ffbd1901bdf604113">
+  <section class="view view--events-previous view--block-recent-events view--display-grid js-view-dom-id-7b00c1538a68f8456ad00eb68725580d49beb9e2b1aaa9e108e4180525528e87">
   
   <div class="view__content">
     
@@ -1255,7 +1255,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bu\/bu.checker,captcha\/base,ckeditor_indentblock\/indentblock,core\/internal.jquery.form,paragraphs\/drupal.paragraphs.unpublished,recaptcha_v3\/recaptcha_v3,system\/base,tsai_city\/tsai-city-main.theme,views\/views.ajax,views\/views.module,webform\/webform.ajax,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.flexbox,webform\/webform.element.message,webform\/webform.form","theme":"tsai_city","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/node\/7?ajax_form=1":true},"bu":{"_core":{"default_config_hash":"hHRgRa8uaUJPBEvzD2uaerY4Z9xdbV4glRDRNp8euEE"},"notify_ie":-4,"notify_firefox":-3,"notify_opera":-3,"notify_safari":-3,"notify_chrome":-3,"insecure":true,"unsupported":false,"mobile":true,"visibility_type":"hide","visibility_pages":"admin\/*","source":"\/\/browser-update.org\/update.min.js","show_source":"","position":"top","text_override":"","reminder":null,"reminder_closed":null,"new_window":true,"url":"","no_close":false,"test_mode":false},"component":{"plugins":[]},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/node\/7?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Up"}},"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/node\/7?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:c59f8475bdb3fc7d4244c193016a8a7b515020c36d8a203ffbd1901bdf604113":{"view_name":"events_previous","view_display_id":"block_recent_events","view_args":"","view_path":"\/node\/7","view_base_path":null,"view_dom_id":"c59f8475bdb3fc7d4244c193016a8a7b515020c36d8a203ffbd1901bdf604113","pager_element":0,"viewsreference":{"data":{"argument":null,"offset":null,"title":0,"pager":null,"limit":"3"},"enabled_settings":{"argument":"argument","title":"title"},"parent_entity_type":"paragraph","parent_entity_id":"195","parent_field_name":"field_view"}},"views_dom_id:b8a2d31dfd113ca0a56c6b50351cb7544ded21107c237cd21f8e74cbf0efa8c7":{"view_name":"events_upcoming","view_display_id":"block_events_upcoming","view_args":"","view_path":"\/node\/7","view_base_path":null,"view_dom_id":"b8a2d31dfd113ca0a56c6b50351cb7544ded21107c237cd21f8e74cbf0efa8c7","pager_element":0,"viewsreference":{"data":{"argument":null,"offset":null,"title":0,"pager":null,"limit":"5"},"enabled_settings":{"argument":"argument","title":"title"},"parent_entity_type":"paragraph","parent_entity_id":"32","parent_field_name":"field_view"}}}},"user":{"uid":0,"permissionsHash":"2bfb9d66182f6d3e90845d009545d8fcaefd19adeb8843cbb49e8fc1523b39e6"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/7","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bu\/bu.checker,captcha\/base,ckeditor_indentblock\/indentblock,core\/internal.jquery.form,paragraphs\/drupal.paragraphs.unpublished,recaptcha_v3\/recaptcha_v3,system\/base,tsai_city\/tsai-city-main.theme,views\/views.ajax,views\/views.module,webform\/webform.ajax,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.flexbox,webform\/webform.element.message,webform\/webform.form","theme":"tsai_city","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/node\/7?ajax_form=1":true},"bu":{"_core":{"default_config_hash":"hHRgRa8uaUJPBEvzD2uaerY4Z9xdbV4glRDRNp8euEE"},"notify_ie":-4,"notify_firefox":-3,"notify_opera":-3,"notify_safari":-3,"notify_chrome":-3,"insecure":true,"unsupported":false,"mobile":true,"visibility_type":"hide","visibility_pages":"admin\/*","source":"\/\/browser-update.org\/update.min.js","show_source":"","position":"top","text_override":"","reminder":null,"reminder_closed":null,"new_window":true,"url":"","no_close":false,"test_mode":false},"component":{"plugins":[]},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/node\/7?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign Up"}},"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/node\/7?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:7b00c1538a68f8456ad00eb68725580d49beb9e2b1aaa9e108e4180525528e87":{"view_name":"events_previous","view_display_id":"block_recent_events","view_args":"","view_path":"\/node\/7","view_base_path":null,"view_dom_id":"7b00c1538a68f8456ad00eb68725580d49beb9e2b1aaa9e108e4180525528e87","pager_element":0,"viewsreference":{"data":{"argument":null,"offset":null,"title":0,"pager":null,"limit":"3"},"enabled_settings":{"argument":"argument","title":"title"},"parent_entity_type":"paragraph","parent_entity_id":"195","parent_field_name":"field_view"}},"views_dom_id:0b79b74511b4cc3f0bff47459b862b6a5b2e649160dfa032c9de29905116fd08":{"view_name":"events_upcoming","view_display_id":"block_events_upcoming","view_args":"","view_path":"\/node\/7","view_base_path":null,"view_dom_id":"0b79b74511b4cc3f0bff47459b862b6a5b2e649160dfa032c9de29905116fd08","pager_element":0,"viewsreference":{"data":{"argument":null,"offset":null,"title":0,"pager":null,"limit":"5"},"enabled_settings":{"argument":"argument","title":"title"},"parent_entity_type":"paragraph","parent_entity_id":"32","parent_field_name":"field_view"}}}},"user":{"uid":0,"permissionsHash":"2bfb9d66182f6d3e90845d009545d8fcaefd19adeb8843cbb49e8fc1523b39e6"}}</script>
 <script src="https://www.google.com/recaptcha/api.js?render=6LdkM74ZAAAAABBjr7oNt66OHAR3118vK1Latgkc" defer async></script>
 <script src="/core/misc/polyfills/element.matches.js?v=9.5.11"></script>
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
@@ -1299,5 +1299,5 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NC648D6"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-9e35774272679a6d596","applicationID":"922927661","transactionName":"ZVRVbRdRWEVSWkdaWVwedloRWVlYHElSVFNtUlZaDVU=","queueTime":0,"applicationTime":21,"atts":"SRNWG19LS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-9e35774272679a6d596","applicationID":"922927661","transactionName":"ZVRVbRdRWEVSWkdaWVwedloRWVlYHElSVFNtUlZaDVU=","queueTime":0,"applicationTime":28,"atts":"SRNWG19LS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

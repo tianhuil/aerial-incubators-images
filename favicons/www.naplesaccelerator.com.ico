@@ -46,7 +46,7 @@
         <input placeholder="Search" data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="60" maxlength="60" class="form-text" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-yhul-j2hoif317olgcywhnja0woqxw1r23f5wfxnb24" type="hidden" name="form_build_id" value="form-yHUl-j2HOIf317oLgcyWHnjA0wOQxW1R23F5WFxNb24" />
+<input autocomplete="off" data-drupal-selector="form-fc1w-v4n1lc1v3y2yc2tcwhjpsoon5wj76h76dcti50" type="hidden" name="form_build_id" value="form-fc1W-v4N1Lc1V3Y2yc2TcwHJPsoon5wJ76H76DCTi50" />
 <input data-drupal-selector="edit-collier-search-form" type="hidden" name="form_id" value="collier_search_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><div class="search-button"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button button--primary js-form-submit form-submit" />
 </div></div>
@@ -141,12 +141,6 @@
           </li>
                   <li>
             <a href="/expand" data-drupal-link-system-path="node/146">Expand</a>
-          </li>
-                  <li>
-            <a href="/available-properties" data-drupal-link-system-path="node/76">Property Search</a>
-          </li>
-                  <li>
-            <a href="/form/submit-property" data-drupal-link-system-path="node/96">Submit a Property</a>
           </li>
                   <li>
             <a href="/site-selection-tools" data-drupal-link-system-path="node/156">Site Selection Tools</a>
@@ -423,19 +417,6 @@
   <a class="abs top left bottom full-width flex pa-3 a-end j-center unstyle" href="/startup" target="_self">
     <div class="content px-2 full-width flex center col ca">
       <h3 class="text-shadow mb-3 color white"><span class="field field--name-title field--type-string field--label-hidden">Start a Business in Collier County</span>
-</h3>
-      <button class="outlined uc">Learn More</button>
-    </div>
-  </a>
-</article>
-
-  
-
-
-<article data-history-node-id="76" role="article" class="node node-landing featured-content bg-image full-width rel" about="/available-properties" style="background-image: linear-gradient(to bottom, rgba(16,79,99,0.4) 0%,rgba(16,79,99,0.4) 100%), url(https://www.collieredo.org/sites/default/files/styles/hero/public/2020-05/Property-Search-Flowers-Naples.jpg?itok=-B-agyWt)">
-  <a class="abs top left bottom full-width flex pa-3 a-end j-center unstyle" href="/available-properties" target="_self">
-    <div class="content px-2 full-width flex center col ca">
-      <h3 class="text-shadow mb-3 color white"><span class="field field--name-title field--type-string field--label-hidden">Property Search</span>
 </h3>
       <button class="outlined uc">Learn More</button>
     </div>
