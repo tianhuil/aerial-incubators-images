@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div id="searchContainer" class="site-search search-bar-container">
         
-        <div id="searchbox-198de2d7-553e-40ff-858c-2ff4d051bae0">
+        <div id="searchbox-a6aedef6-79fc-472a-9fc4-b4ca3a1e1b4a">
             <div id="searchio-searchbox" data-results-page="/search" data-account="1669868074240554073" data-collection="rgare-cust" role="search"></div>
               <div id="suggestions"></div>
               <div>
@@ -131,13 +131,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-1'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="4fd4ae22-8818-4e1c-b8a5-7133125f7a3d">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="a288cdc6-1234-48c0-9907-4a2ce601405b">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="4fd4ae22-8818-4e1c-b8a5-7133125f7a3d" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
+            <ul id="a288cdc6-1234-48c0-9907-4a2ce601405b" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -145,10 +145,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="a3d07287-ea15-4df4-8fb2-542d81df7bb4">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="1a234225-6cc9-4249-a44f-f64ba376d13f">
                     Gateway
                 </button>
-                <ul id="a3d07287-ea15-4df4-8fb2-542d81df7bb4" class="utility-menu__sub-list">
+                <ul id="1a234225-6cc9-4249-a44f-f64ba376d13f" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -208,8 +208,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="main__list" id='navbar-2'>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="51e701e4-2362-491e-ae7d-48bde8e18926">Solutions</button>
-            <ul id="51e701e4-2362-491e-ae7d-48bde8e18926" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="56dc6db6-c553-4108-b8e5-5434887dc452">Solutions</button>
+            <ul id="56dc6db6-c553-4108-b8e5-5434887dc452" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/solutions/solutions-landing" target="_self">Solutions</a>
             </li>
@@ -244,8 +244,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="283fb2e2-99fe-45a9-9fb3-fc4989865883">Global Presence</button>
-            <ul id="283fb2e2-99fe-45a9-9fb3-fc4989865883" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a07167b2-f1e8-47a5-a6af-64ce0d754c48">Global Presence</button>
+            <ul id="a07167b2-f1e8-47a5-a6af-64ce0d754c48" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/global-presence/global-presence-landing" target="_self">Global Presence</a>
             </li>
@@ -265,8 +265,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="65a85187-0156-4164-b1a8-e03f9d845853">Knowledge Center</button>
-            <ul id="65a85187-0156-4164-b1a8-e03f9d845853" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="d2d93516-75f0-4e57-a215-d917f740cff9">Knowledge Center</button>
+            <ul id="d2d93516-75f0-4e57-a215-d917f740cff9" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/knowledge-center/knowledge-center-landing" target="_self">Knowledge Center</a>
             </li>
@@ -277,8 +277,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="4ce1c8c0-612b-4f10-91dc-f551d9e29be8">Company</button>
-            <ul id="4ce1c8c0-612b-4f10-91dc-f551d9e29be8" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="d2eefbfc-cece-4d1b-a3f2-256e5ae8d6a1">Company</button>
+            <ul id="d2eefbfc-cece-4d1b-a3f2-256e5ae8d6a1" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/our-company/our-company-landing" target="_self">Company</a>
             </li>
@@ -301,8 +301,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="10c4afbb-7b9d-441a-a4b0-4f08cfa198e2">Investors</button>
-            <ul id="10c4afbb-7b9d-441a-a4b0-4f08cfa198e2" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a46de7b9-cd8a-4ddd-a5bb-4da56df283b0">Investors</button>
+            <ul id="a46de7b9-cd8a-4ddd-a5bb-4da56df283b0" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/investors/investors" target="_blank">Investors&#160;</a>
             </li>
@@ -310,8 +310,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="b2fca604-f9d7-4826-9551-27ab4f7af0cc">Careers</button>
-            <ul id="b2fca604-f9d7-4826-9551-27ab4f7af0cc" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="9d6bc4ef-c333-4e93-a3bd-58dc6b0036b6">Careers</button>
+            <ul id="9d6bc4ef-c333-4e93-a3bd-58dc6b0036b6" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/careers/careers-overview" target="_self">Careers</a>
             </li>
@@ -349,13 +349,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-3'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="2c7eb446-b472-40b4-a52f-6c8a15bfd380">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="94167d8f-696b-43d2-81ba-3b7418b3f95e">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="2c7eb446-b472-40b4-a52f-6c8a15bfd380" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
+            <ul id="94167d8f-696b-43d2-81ba-3b7418b3f95e" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -363,10 +363,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="980ba28b-871e-4232-abdd-931ea29f7603">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="ed699403-0663-4844-b683-5ba28de1b598">
                     Gateway
                 </button>
-                <ul id="980ba28b-871e-4232-abdd-931ea29f7603" class="utility-menu__sub-list">
+                <ul id="ed699403-0663-4844-b683-5ba28de1b598" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -799,7 +799,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<div id="carousel-4b3f18c2-c464-4822-84dc-59e4ca0c4c5b" class="callout-carousel callout-slider swiper">
+<div id="carousel-34793b83-5b78-4fb7-abd7-3d355125b6a0" class="callout-carousel callout-slider swiper">
 
   <div class="callout-carousel__pagination"></div>
 
@@ -1146,9 +1146,102 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
     <div class="kc-featured__list">
             <div class="kc-featured__item" >       
                   <div class="kc-featured__media">
-                    <img data-src="/images/default-source/kc-article-images/protein-science-medical-lab.jpg?sfvrsn=9571cdfd_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Man in lab coat working in a medical laboratory" />
+                    <img data-src="/images/default-source/kc-article-images/inside-rga_howad-liao.jpg?sfvrsn=e6af53a2_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Howard Liao" />
                     <noscript>
-                        <img src="/images/default-source/kc-article-images/protein-science-medical-lab.jpg?sfvrsn=9571cdfd_1" class="kc-featured__img" alt="Man in lab coat working in a medical laboratory" />
+                        <img src="/images/default-source/kc-article-images/inside-rga_howad-liao.jpg?sfvrsn=e6af53a2_1" class="kc-featured__img" alt="Howard Liao" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">April 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/private-debt-and-equity---howard-liao" target="_self">
+                   Private Debt and Equity | Howard Liao
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>In this <em>Inside RGA</em> Q&amp;A, <strong>Howard Liao</strong>, RGA’s Seni...</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/private-debt-and-equity---howard-liao" aria-label="Read More for Private Debt and Equity | Howard Liao" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/prt-recipe.jpg?sfvrsn=22217863_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="A chef mixes colorful ingredients at a table" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/prt-recipe.jpg?sfvrsn=22217863_1" class="kc-featured__img" alt="A chef mixes colorful ingredients at a table" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">April 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/team-collaboration-in-pension-risk-transfer-is-a-key-ingredient-for-success" target="_self">
+                   Team Collaboration in Pension Risk Transfer is a Key Ingredient For Success
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>Pension risk transfer (PRT) is a booming sector of the insurance industry. In...</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/team-collaboration-in-pension-risk-transfer-is-a-key-ingredient-for-success" aria-label="Read More for Team Collaboration in Pension Risk Transfer is a Key Ingredient For Success" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/advanced-analytics-careers.jpg?sfvrsn=99748291_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="A female professional with a computer in her lap laughs as she speaks to a group of her peers" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/advanced-analytics-careers.jpg?sfvrsn=99748291_1" class="kc-featured__img" alt="A female professional with a computer in her lap laughs as she speaks to a group of her peers" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Articles</span>
+
+                    <span class="kc-featured__date">April 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/how-to-develop-your-advanced-analytics-career-as-an-actuary" target="_self">
+                   How to Develop Your Advanced Analytics Career as an Actuary
+                </a>
+
+                  <div class="kc-featured__summary">
+                    <p>Are you interested in becoming an advanced analytics actuary, one of the most...</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/how-to-develop-your-advanced-analytics-career-as-an-actuary" aria-label="Read More for How to Develop Your Advanced Analytics Career as an Actuary" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
+                    <img data-src="/images/default-source/acquisition-timeline/pharmacy-counter.jpg?sfvrsn=acdaa3db_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Woman paying for prescription at pharmacy counter" />
+                    <noscript>
+                        <img src="/images/default-source/acquisition-timeline/pharmacy-counter.jpg?sfvrsn=acdaa3db_1" class="kc-featured__img" alt="Woman paying for prescription at pharmacy counter" />
                     </noscript>
                   </div>
               <div class="kc-featured__content">
@@ -1157,106 +1250,13 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
 
                     <span class="kc-featured__date">March 2024</span>    
                 </div>                
-                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/the-protein-science-revolution--implications-for-human-health-and-mortality-assumptions" target="_self">
-                   The Protein Science Revolution: Implications for human health and mortality assumptions
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/changing-financial-risks-for-medigap-insurance" target="_self">
+                   Changing Financial Risks for Medigap Insurance
                 </a>
 
                   <div class="kc-featured__summary">
-                    RGA's Craig Armstrong explores recent key breakthroughs in protein science, the ...
-                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/the-protein-science-revolution--implications-for-human-health-and-mortality-assumptions" aria-label="Read More for The Protein Science Revolution: Implications for human health and mortality assumptions" target="_self">
-                      Read More
-                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
-                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
-                      </svg>
-                    </a>
-                  </div>
-                                
-              </div>
-
-
-            </div>
-            <div class="kc-featured__item" >       
-                  <div class="kc-featured__media">
-                    <img data-src="/images/default-source/kc-article-images/sidewalkcrowd.jpg?sfvrsn=34183d0e_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Aerial shot of large crowd on a city sidewalk" />
-                    <noscript>
-                        <img src="/images/default-source/kc-article-images/sidewalkcrowd.jpg?sfvrsn=34183d0e_1" class="kc-featured__img" alt="Aerial shot of large crowd on a city sidewalk" />
-                    </noscript>
-                  </div>
-              <div class="kc-featured__content">
-                <div class="kc-featured__meta">
-                    <span class="kc-featured__category">Articles</span>
-
-                    <span class="kc-featured__date">March 2024</span>    
-                </div>                
-                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/the-cdc-s-new-respiratory-guidelines--five-key-questions" target="_self">
-                   The CDC’s New Respiratory Guidelines: Five Key Questions
-                </a>
-
-                  <div class="kc-featured__summary">
-                    RGA’s Chief Science Advisor Dr. Daniel Zimmerman shares his thoughts on updated ...
-                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/the-cdc-s-new-respiratory-guidelines--five-key-questions" aria-label="Read More for The CDC’s New Respiratory Guidelines: Five Key Questions" target="_self">
-                      Read More
-                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
-                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
-                      </svg>
-                    </a>
-                  </div>
-                                
-              </div>
-
-
-            </div>
-            <div class="kc-featured__item" >       
-                  <div class="kc-featured__media">
-                    <img data-src="/images/default-source/kc-article-images/drowning-in-forms.png?sfvrsn=39611485_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="A man wearing a red sweater stares grimly at a stack of forms" />
-                    <noscript>
-                        <img src="/images/default-source/kc-article-images/drowning-in-forms.png?sfvrsn=39611485_1" class="kc-featured__img" alt="A man wearing a red sweater stares grimly at a stack of forms" />
-                    </noscript>
-                  </div>
-              <div class="kc-featured__content">
-                <div class="kc-featured__meta">
-                    <span class="kc-featured__category">Articles</span>
-
-                    <span class="kc-featured__date">March 2024</span>    
-                </div>                
-                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/are-we-drowning-in-forms" target="_self">
-                   Are We Drowning in Forms?
-                </a>
-
-                  <div class="kc-featured__summary">
-                    <p>Claims adjudicators play a pivotal role in the insurance industry. Their deci...</p>
-                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/are-we-drowning-in-forms" aria-label="Read More for Are We Drowning in Forms?" target="_self">
-                      Read More
-                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
-                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
-                      </svg>
-                    </a>
-                  </div>
-                                
-              </div>
-
-
-            </div>
-            <div class="kc-featured__item" >       
-                  <div class="kc-featured__media">
-                    <img data-src="/images/default-source/kc-article-images/insurance-roundtable-on-jumbo-violations.jpg?sfvrsn=665bdda3_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Group of out of focus businesspeople clustered around microphones" />
-                    <noscript>
-                        <img src="/images/default-source/kc-article-images/insurance-roundtable-on-jumbo-violations.jpg?sfvrsn=665bdda3_1" class="kc-featured__img" alt="Group of out of focus businesspeople clustered around microphones" />
-                    </noscript>
-                  </div>
-              <div class="kc-featured__content">
-                <div class="kc-featured__meta">
-                    <span class="kc-featured__category">Articles</span>
-
-                    <span class="kc-featured__date">March 2024</span>    
-                </div>                
-                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/insurance-roundtable--harnessing-structured-underwriting-data-for-automation--innovation--and-accuracy" target="_self">
-                   Insurance Roundtable: Harnessing Structured Underwriting Data for Automation, Innovation, and Accuracy
-                </a>
-
-                  <div class="kc-featured__summary">
-                    <p>To look more closely at industry efforts to streamline the collection and int...</p>
-                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/insurance-roundtable--harnessing-structured-underwriting-data-for-automation--innovation--and-accuracy" aria-label="Read More for Insurance Roundtable: Harnessing Structured Underwriting Data for Automation, Innovation, and Accuracy" target="_self">
+                    <p>Originally published as a two-part series (</p>
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/changing-financial-risks-for-medigap-insurance" aria-label="Read More for Changing Financial Risks for Medigap Insurance" target="_self">
                       Read More
                       <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
                         <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
@@ -1350,16 +1350,16 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
             <li class="news-card__item">
                 <div class="news-card__meta">
 				    <span class="text-muted">
-					    Mar 25, 2024
+					    Apr 1, 2024
 				    </span>
                     
                 </div>
 
 				<h3 class="news-card__title">
-					RGA Canada annonce une transaction historique en coassurance de 5.8 milliards de dollars Canadiens avec Manuvie
+					Reinsurance Group of America Appoints New Member to Board of Directors
 				</h3>
 
-				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/25/rga-canada-annonce-une-transaction-historique-en-coassurance-de-5.8-milliards-de-dollars-canadiens-avec-manuvie" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about RGA Canada annonce une transaction historique en coassurance de 5.8 milliards de dollars Canadiens avec Manuvie</span></a>
+				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/04/01/reinsurance-group-of-america-appoints-new-member-to-board-of-directors" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about Reinsurance Group of America Appoints New Member to Board of Directors</span></a>
 			</li>
             <li class="news-card__item">
                 <div class="news-card__meta">
@@ -1370,10 +1370,10 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
                 </div>
 
 				<h3 class="news-card__title">
-					RGA Canada Announces Landmark CA$5.8 Billion Coinsurance Transaction With Manulife
+					RGA Canada annonce une transaction historique en coassurance de 5.8 milliards de dollars Canadiens avec Manuvie
 				</h3>
 
-				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/25/rga-canada-announces-landmark-ca-5.8-billion-coinsurance-transaction-with-manulife" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about RGA Canada Announces Landmark CA$5.8 Billion Coinsurance Transaction With Manulife</span></a>
+				<a href="https://www.rgare.com/our-company/media/press-releases/press-releases-detail/2024/03/25/rga-canada-annonce-une-transaction-historique-en-coassurance-de-5.8-milliards-de-dollars-canadiens-avec-manuvie" class="news-card__more red-arrow-link">Read More<span class="visually-hidden"> about RGA Canada annonce une transaction historique en coassurance de 5.8 milliards de dollars Canadiens avec Manuvie</span></a>
 			</li>
     </ul>
 

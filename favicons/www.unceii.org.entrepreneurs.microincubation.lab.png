@@ -8,7 +8,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width">
 		<meta name="csrf-token-name" content="CRAFT_CSRF_TOKEN">
-		<meta name="csrf-token" content="1yqJeFSoY8oBFq4EwoOno8_EJbv0sXe1Q82n0QM_9_kD6H98ALI9jL1w7Cs1-CXnMUzCSJftzOG1nV_3ru4u8ia6zZRsRoSpUp0rS0TtWe0=">
+		<meta name="csrf-token" content="UabaLVEjp7jjxgzeVGeMnSpMQSR_OLrqvfERbgiCKY5N20e0vUrJ0xOL70kfUPfLs7BukRAGzu4aCRZ-DmvoqdWjYDpN8VHMB5IP3Y578II=">
 		<link rel="dns-prefetch" href="https://eshelmaninnovation.org/" crossorigin>
 		<link rel="preconnect" href="https://eshelmaninnovation.org/" crossorigin>
 
@@ -713,6 +713,14 @@ gtag('config', 'G-8F3CM3ZLHK', {'send_page_view': true,'anonymize_ip': false,'li
 			<div class="color-white spacing-bottom-25"><p>Eshelman Innovation is tackling use disorders affecting North Carolina communities. One example is our work in the opioid epidemic. Funded by the state of North Carolina through the NC Collaboratory, Eshelman Innovation is developing both novel pain drugs and launching digital health startup companies that can help to change the direction of this problem.</p></div>
 		</div>
 
+					<div class="card-links-wrapper">
+																								<button data-video-url="https://vimeo.com/930401295" data-video-button type="button" aria-expanded="false" class="watch-video-button outline color-white">
+									Watch Video
+									<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="11" height="14" viewbox="0 0 11 14" fill="none">
+	<path d="M11 7L0.499999 13.0622L0.5 0.937822L11 7Z" fill="currentColor"/>
+</svg>
+								</button>
+																			</div>
 			</div>
 </div>	</div>
 </div>																<!-- "_/snippets/tab-accordion-home-card" -->
@@ -846,6 +854,14 @@ gtag('config', 'G-8F3CM3ZLHK', {'send_page_view': true,'anonymize_ip': false,'li
 			<div class="color-white spacing-bottom-25"><p>Eshelman Innovation is tackling use disorders affecting North Carolina communities. One example is our work in the opioid epidemic. Funded by the state of North Carolina through the NC Collaboratory, Eshelman Innovation is developing both novel pain drugs and launching digital health startup companies that can help to change the direction of this problem.</p></div>
 		</div>
 
+					<div class="card-links-wrapper">
+																								<button data-video-url="https://vimeo.com/930401295" data-video-button type="button" aria-expanded="false" class="watch-video-button outline color-white">
+									Watch Video
+									<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="11" height="14" viewbox="0 0 11 14" fill="none">
+	<path d="M11 7L0.499999 13.0622L0.5 0.937822L11 7Z" fill="currentColor"/>
+</svg>
+								</button>
+																			</div>
 			</div>
 </div>					</div>
 											
@@ -908,7 +924,7 @@ gtag('config', 'G-8F3CM3ZLHK', {'send_page_view': true,'anonymize_ip': false,'li
 			        </div>
     </div>
 </section>
-																																																									
+																																																														
 				<!-- "_/components/healthcare-innovation" -->
 				
 
@@ -1352,5 +1368,5 @@ gtag('config', 'G-8F3CM3ZLHK', {'send_page_view': true,'anonymize_ip': false,'li
 		</span>
 	</section>
 
-								<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2023","creator":{"@id":"#creator"},"dateCreated":"2023-09-18T07:46:18-07:00","dateModified":"2024-03-13T11:17:29-07:00","datePublished":"2023-09-18T07:46:00-07:00","description":"Eshelman Innovation is an emerging innovation engine that moves groundbreaking healthcare therapeutics and digital health ideas to reality.","headline":"Eshelman Innovation | Accelerating health innovation","image":{"@type":"ImageObject","url":"https://eshelmaninnovation.org/media/_1200x630_crop_center-center_82_none/open-graph-image.png?mtime=1704515106"},"inLanguage":"en-us","mainEntityOfPage":"https://eshelmaninnovation.org/","name":"Eshelman Innovation | Accelerating health innovation","publisher":{"@id":"#creator"},"url":"https://eshelmaninnovation.org/"},{"@id":"#identity","@type":"LocalBusiness","name":"Eshelman Innovation","priceRange":"$"},{"@id":"#creator","@type":"LocalBusiness","name":"Eshelman Innovation","priceRange":"$"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://eshelmaninnovation.org/","name":"Homepage","position":1}],"name":"Breadcrumbs"}]}</script></body>
+								<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2023","creator":{"@id":"#creator"},"dateCreated":"2023-09-18T07:46:18-07:00","dateModified":"2024-04-03T13:11:31-07:00","datePublished":"2023-09-18T07:46:00-07:00","description":"Eshelman Innovation is an emerging innovation engine that moves groundbreaking healthcare therapeutics and digital health ideas to reality.","headline":"Eshelman Innovation | Accelerating health innovation","image":{"@type":"ImageObject","url":"https://eshelmaninnovation.org/media/_1200x630_crop_center-center_82_none/open-graph-image.png?mtime=1704515106"},"inLanguage":"en-us","mainEntityOfPage":"https://eshelmaninnovation.org/","name":"Eshelman Innovation | Accelerating health innovation","publisher":{"@id":"#creator"},"url":"https://eshelmaninnovation.org/"},{"@id":"#identity","@type":"LocalBusiness","name":"Eshelman Innovation","priceRange":"$"},{"@id":"#creator","@type":"LocalBusiness","name":"Eshelman Innovation","priceRange":"$"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://eshelmaninnovation.org/","name":"Homepage","position":1}],"name":"Breadcrumbs"}]}</script></body>
 </html>

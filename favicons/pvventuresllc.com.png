@@ -177,7 +177,7 @@
 <div class="card border-0">
 <div class="card-body text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Links</span>
-<span class="h2">811+</span>
+<span class="h2">857+</span>
 </div>
 </div>
 </div>
@@ -193,7 +193,7 @@
 <div class="card border-0">
 <div class="card-body text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Tracked pageviews</span>
-<span class="h2">781,180+</span>
+<span class="h2">967,918+</span>
 </div>
 </div>
 </div>
@@ -629,7 +629,7 @@ Choose plan </a>
 </footer>
 <input type="hidden" name="global_site_url" value="https://biolink.blog/" />
 <input type="hidden" name="global_url" value="https://biolink.blog/" />
-<input type="hidden" name="global_token" value="c0143517daa003c7e8b70ea2c05fcc88" />
+<input type="hidden" name="global_token" value="bc5a234258cc49b7b130e20970b14100" />
 <input type="hidden" name="global_number_decimal_point" value="." />
 <input type="hidden" name="global_number_thousands_separator" value="," />
 <script>

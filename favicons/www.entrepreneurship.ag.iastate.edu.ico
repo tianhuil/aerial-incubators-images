@@ -196,7 +196,7 @@
         
           <form action="/" method="post" id="iastate8-google-cse-search-form" accept-charset="UTF-8">
   
-<input autocomplete="off" data-drupal-selector="form-7b5ikaznfhg3gxvejc8c-nne-qsi-etr4z2kwulirts" type="hidden" name="form_build_id" value="form-7b5ikaznFhG3GxVEjc8C_nNe_QsI_etr4z2kWuliRTs" />
+<input autocomplete="off" data-drupal-selector="form-xvwjpec97lka5-6ns98tcgdkhy-sg-lzsadkwfxmivs" type="hidden" name="form_build_id" value="form-XvWjPEC97Lka5_6Ns98tCgDKhy_sG-LZsadKWfxMIVs" />
 
 
 <input data-drupal-selector="edit-iastate8-google-cse-search-form" type="hidden" name="form_id" value="iastate8_google_cse_search_form" />
@@ -765,7 +765,7 @@
           <h2 class="isu-block-title h4">Recent Blog Posts</h2> 
     
       <div class="isu-block-content">
-      <div class="container_view container_view_blog_block_1"><div class="js-view-dom-id-db38953babf90b46738e8cdae3e74c73157876c09b287755e394154dd1867858">
+      <div class="container_view container_view_blog_block_1"><div class="js-view-dom-id-1ff398d8f4cc238ff97ed34f008aaada689114cc00e0872de372f8d146b17890">
   
   
   
@@ -778,9 +778,9 @@
   
   <ul class="list-unstyled">
 
+          <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/spring-startup-tour" hreflang="en">Spring Startup Tour</a></span></div></li>
           <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/frontier-agricultural-opportunity-brian-mike-mato-grosso-brazil" hreflang="en">Frontier of Agricultural Opportunity for Brian Mike – Mato Grosso, Brazil</a></span></div></li>
           <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/entrepreneuring-eyesight-alex-hage" hreflang="en">Entrepreneuring for Eyesight – Alex Hage</a></span></div></li>
-          <li class="pb-2 mb-2"><div class="views-field views-field-title"><span class="field-content"><a href="/post/transitioning-working-business-business-entrepreneurial-leadership-mitchell-hora" hreflang="en">Transitioning From Working In The Business to On The Business - Entrepreneurial Leadership with Mitchell Hora</a></span></div></li>
     
   </ul>
 
@@ -810,7 +810,7 @@
           <h2 class="isu-block-title h4">Upcoming Events</h2> 
     
       <div class="isu-block-content">
-      <div class="container_view container_view_events_block_1"><div class="isu-event-view-block-list js-view-dom-id-811b79db70be963675b1deb9c207bd3093e8fc41000b7214f3ef82a974c58e49">
+      <div class="container_view container_view_events_block_1"><div class="isu-event-view-block-list js-view-dom-id-14b13090aaf118722e0e0b14f7b0016b018f694a8000ee17cef7c2a2255a747c">
   
   
   
@@ -823,61 +823,6 @@
   
   <ul class="list-unstyled">
 
-          <li class="pb-2 mb-2">
-
-<div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">
-
-  
-
-  <div class="media isu-horizontal-card_wrap">
-          <div class="isu-horizontal-card_left">      <div  class="isu-event-date_stacked_simple">
-        
-                  <time class="isu-event-date_stacked" datetime="2024-03-27T16:30:00-0500"><div class="isu-event-date_stacked_month">Mar</div> <div class="isu-event-date_stacked_day">27</div></time>
-
-      
-  
-    </div>
-
-</div>
-              <div class="media-body isu-horizontal-card_body">
-
-            <div><h3 class="h6 isu-event_simple-teaser_title">
-  <a href="/event/2024/agricultural-innovation-value-creation-competition" hreflang="en">Agricultural Innovation &amp; Value Creation Competition</a>
-</h3>
-</div>
-    </div>
-        </div>
-
-</div>
-</li>
-          <li class="pb-2 mb-2">
-
-<div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">
-
-  
-
-  <div class="media isu-horizontal-card_wrap">
-          <div class="isu-horizontal-card_left">      <div  class="isu-event-date_stacked_simple">
-        
-                  <time class="isu-event-date_stacked" datetime="2024-04-01T23:59:59-0500"><div class="isu-event-date_stacked_month">Apr</div> <div class="isu-event-date_stacked_day">01</div></time>
-
-      
-  
-    </div>
-
-</div>
-              <div class="media-body isu-horizontal-card_body">
-
-            <h3  class="h6 isu-event_simple-teaser_title" >
-        <a href="https://financialaid.iastate.edu/scholarships/">
-            Start Something College of Agriculture and Life Sciences Scholarship Deadline
-        </a>
-        </h3>
-    </div>
-        </div>
-
-</div>
-</li>
           <li class="pb-2 mb-2">
 
 <div class="node node--type-event node--view-mode-simple-teaser isu-horizontal-card">

@@ -593,28 +593,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-    <!-- Start Single Image: CTA -->
-    <section class="component single-image cta">
-        <div class="grid-container">
-            <div class="image" style="background-image: url(/-/media/Site/Cox/Homepage-images/HR_Roundtable_V2_800x518.png?h=518&amp;w=800&amp;hash=631FCA0847F99D0B85442BB2B9432DEF)"></div>
-            <div class="text">
-                <div class="text-inner">
-                    <h2>HR RoundTable @ SMU Cox</h2>
-                    <p>"A true meeting of HR executives learning together and shaping contemporary HR practices in their companies." - Joe Frodsham, President, CMP</p>
-<p>Join a select group of strategic HR leaders from the DFW area to network and exchange ideas.</p>
-<br class="t-last-br" />
-                </div>
-                <div class="bottom-container">
-                    
-                    <a class="button white" href="/cox/Degrees-and-Programs/Executive-Education/HR-Roundtable#Learn More">Learn More</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Single Image: CTA -->
-
-
-
     <!-- Start Upcoming Events -->
     <section class="component upcoming-events overview-cta">
 
@@ -913,6 +891,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="cards-container">
                     <ul>
                                 <li>
+                                    <a href="/cox/At-SMU-Cox/Cox-News/20240404_BBA_Best-and-Brightest">
+                                        <div class="image" style="background-image: url('/-/media/Site/Cox/At-SMU-Cox/Desai-and-Garrett.png')"></div>
+                                        <div class="text">
+                                            <h3>Two Class of ’24 BBAs Selected as “Best and Brightest” Undergraduate Business Majors</h3>
+                                            <p></p>
+                                            <p>Mohan Desai ('24) and Lydia Garrett ('24) have been named among Poets&Quants Best & Brightest Undergraduate Business Majors of 2024.</p>
+                                            <div class="cta">Learn More</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
                                     <a href="/cox/At-SMU-Cox/Cox-News/20240311_covideffect">
                                         <div class="image" style="background-image: url('/-/media/Site/Cox/At-SMU-Cox/covid-effect2.jpg')"></div>
                                         <div class="text">
@@ -930,17 +919,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <h3>Senior Business Leader Joins SMU Cox Spears Institute for Entrepreneurial Leadership</h3>
                                             <p></p>
                                             <p>Veteran leader Joshua Taylor has joined SMU Cox School of Business as the Managing Director of the William S. Spears Institute for Entrepreneurial Leadership. Taylor will be responsible for leading the Institute’s goals, programs and operations, in alignment with the overall mission and vision of SMU Cox, Co-Founding Directors Megha Tolia and Nirav Tolia and benefactor Dr. William S. Spears.</p>
-                                            <div class="cta">Learn More</div>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/cox/At-SMU-Cox/Cox-News/20240202_Hunt-Superbowl">
-                                        <div class="image" style="background-image: url('/-/media/Site/Cox/At-SMU-Cox/Clark-Hunt-Rashee-Rice.jpg')"></div>
-                                        <div class="text">
-                                            <h3>Congrats to Chiefs owner Clark Hunt (BBA '87), and former SMU WR turned Chiefs rookie Rashee Rice, for winning Superbowl LVIII!</h3>
-                                            <p></p>
-                                            <p>Congratulations! SMU Cox Executive Board Member Clark Hunt's Chiefs took their talents to Las Vegas against the 49ers, winning 25 to 22.</p>
                                             <div class="cta">Learn More</div>
                                         </div>
                                     </a>

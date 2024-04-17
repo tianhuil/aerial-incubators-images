@@ -721,7 +721,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </section> 
          
          <section class="bar" id="content">
-            <div class="grid-container"><span class="bar-label show-for-large">Latest News</span><div class="js-slider bar-slider" data-slick="{ &#34;arrows&#34;: false, &#34;autoplay&#34;: true, &#34;fade&#34;: true, &#34;speed&#34;: 1000, &#34;autoplaySpeed&#34;: 5000}"><div>	<a href="/news/senior-readings-career-path-looks-promisingly-sweet.html">Senior Reading’s career path looks promisingly sweet </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/marketing-senior-takes-advantage-of-harbert-student-focused-opportunities.html">Marketing senior's internships great prep for career </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/curating-talent-young-alums-scholarship-fills-talent-gap-in-tech.html">Curating talent </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/fathers-legacy-lives-on-through-new-scholarship.html">Father's legacy lives on through new scholarship </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/junior-makes-most-of-career-prep-services-with-senate-and-big-4-accounting-firm-internships.html">Junior makes most of career prep services with senate and Big 4 accounting firm internships </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div></div>
+            <div class="grid-container"><span class="bar-label show-for-large">Latest News</span><div class="js-slider bar-slider" data-slick="{ &#34;arrows&#34;: false, &#34;autoplay&#34;: true, &#34;fade&#34;: true, &#34;speed&#34;: 1000, &#34;autoplaySpeed&#34;: 5000}"><div>	<a href="/news/fifth-annual-citybuilders-symposium-coming-to-birmingham.html">Fifth-annual Auburn CityBuilders symposium coming to Birmingham  </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/abglo-wins-top-prize-at-2024-tiger-cage-pitch-competition.html">AbGlo wins top prize at 2024 Tiger Cage pitch competition </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/harbert-students-research-earns-awards.html">Harbert students' research earns awards </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/em-microelectronic-joining-auburn-rfid-lab-advisory-board.html">EM Microelectronic joining Auburn's RFID Lab advisory board </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div><div>	<a href="/news/new-endeavor-helps-aspiring-women-entrepreneurs-take-flight-and-soar.html">New endeavor helps aspiring women entrepreneurs take flight and soar </a>	<a href="/news" class="readMore bar-readMore">All News<span class="icon--arrowRight readMore-icon" data-grunticon-embed=""></span></a></div></div>
                <div class="hide-for-large">
                   <ul class="menu horizontal utilityBox show-for-large hero-links">
                      <li><a class="utilityBox-item iconText iconText--large" href="/request-info.html"><span class="iconText-icon"><span aria-hidden="true" class="fas fa-pencil-alt"></span></span>
@@ -1450,19 +1450,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-
-<!-- Google Universal Analytics Tracking Code -->
-
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-							})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	ga('create', 'UA-31336863-1', 'auburn.edu');
-	ga('send', 'pageview');
-</script>
-
+<!-- Site Improve -->
 <script type="text/javascript">
 /*<![CDATA[*/
 (function() {
