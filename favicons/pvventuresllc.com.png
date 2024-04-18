@@ -1,85 +1,89 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-<title>Multiple Bio Links for Instagram - Biolink.blog</title>
+<title>Your all-in-one social tool - Biolink.blog</title>
 <base href="https://biolink.blog/">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta name="robots" content="index,follow" />
 <link rel="canonical" href="https://biolink.blog/" />
+<meta name="robots" content="noarchive">
 <link rel="alternate" href="https://biolink.blog/" hreflang="x-default" />
-<link href="https://biolink.blog/themes/altum/assets/css/bootstrap.min.css?v=2100" id="css_theme_style" rel="stylesheet" media="screen,print">
-<link href="https://biolink.blog/themes/altum/assets/css/custom.css?v=2100" rel="stylesheet" media="screen,print">
-<link href="https://biolink.blog/themes/altum/assets/css/link-custom.css?v=2100" rel="stylesheet" media="screen,print">
-<link href="https://biolink.blog/themes/altum/assets/css/animate.min.css?v=2100" rel="stylesheet" media="screen,print">
+<link rel="alternate" href="https://biolink.blog/id/" hreflang="id" />
+<link href="https://biolink.blog/themes/altum/assets/css/bootstrap.min.css?v=4600" id="css_theme_style" rel="stylesheet" media="screen,print">
+<link href="https://biolink.blog/themes/altum/assets/css/custom.css?v=4600" rel="stylesheet" media="screen,print">
+<link rel="stylesheet" href="https://biolink.blog/themes/altum/assets/css/libraries/aos.min.css">
 <meta name="google-site-verification" content="UJUuAQIFeCzP5QgUIw66FD7SwBZHCMyb-xoyt6mZHCI" />
 </head>
-<body class=" bg-white " data-theme-style="light">
-<main class="animate__animated animate__fadeIn">
-<div class="index-container">
-<nav id="navbar" class="navbar navbar-index navbar-expand-lg navbar-light">
+<body class="index  " data-theme-style="light">
 <div class="container">
-<a class="navbar-brand font-weight-bold" href="https://biolink.blog/">
-<img src="https://biolink.blog/uploads/logo/7a82581871f6422a83d413c1d49047d8.jpg" class="img-fluid navbar-logo" alt="Website Logo" />
-</a>
-<button class="btn navbar-custom-toggler text-dark border-dark d-lg-none" type="button" data-toggle="collapse" data-target="#main_navbar" aria-controls="main_navbar" aria-expanded="false" aria-label="Toggle navigation">
-<i class="fa fa-fw fa-bars"></i>
+<nav id="navbar" class="navbar navbar-main navbar-expand-lg navbar-light mb-6 index-highly-rounded border border-gray-100 mt-4">
+<div class="container">
+<a class="navbar-brand" href="https://biolink.blog/" data-logo data-light-value="Biolink.blog" data-light-class data-light-tag="span" data-dark-value="Biolink.blog" data-dark-class data-dark-tag="span">
+Biolink.blog </a>
+<button class="btn navbar-custom-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#main_navbar" aria-controls="main_navbar" aria-expanded="false" aria-label="Toggle navigation">
+<i class="fas fa-fw fa-bars"></i>
 </button>
 <div class="collapse navbar-collapse justify-content-end" id="main_navbar">
 <ul class="navbar-nav">
 <li class="nav-item d-flex align-items-center">
-<a class="btn btn-sm btn-light" href="https://biolink.blog/login"><i class="fa fa-fw fa-sm fa-sign-in-alt"></i> Login</a>
+<a class="btn btn-sm btn-outline-primary" href="https://biolink.blog/login"><i class="fas fa-fw fa-sm fa-sign-in-alt"></i> Sign in</a>
 </li>
 </ul>
 </div>
 </div>
 </nav>
-<div class="container my-9">
+</div>
+<main class="altum-animate altum-animate-fill-none altum-animate-fade-in">
+<div class="index-container">
+<div class="container index-container-content">
 <div class="row">
 <div class="col">
 <div class="text-left">
-<h1 class="index-header mb-4">Do everything with just one link.</h1>
-<p class="index-subheader mb-5">Shorten URLs, create bio link pages & custom QR codes. All with proper analytics of your visitors.</p>
+<div>
+<span class="badge badge-light">
+<i class="fas fa-fw fa-star fa-sm text-warning"></i><i class="fas fa-fw fa-star fa-sm text-warning"></i><i class="fas fa-fw fa-star fa-sm text-warning"></i><i class="fas fa-fw fa-star fa-sm text-warning"></i><i class="fas fa-fw fa-star fa-sm text-warning"></i>
+Loved by 100+ creators </span>
+</div>
+<h1 class="index-header mb-4">Do everything with one platform.</h1>
+<p class="index-subheader mb-5">🔗 Short links &nbsp;&nbsp;&nbsp; 📱 Bio pages &nbsp;&nbsp;&nbsp; 🤳 QR codes &nbsp;&nbsp;&nbsp; 👤 Share Vcards &nbsp;&nbsp;&nbsp; 📃 Transfer files &nbsp;&nbsp;&nbsp; 🧑‍💻 Host HTML Sites</p>
 <div class="d-flex flex-column flex-lg-row">
-<a href="https://biolink.blog/register" class="btn btn-primary index-button mb-3 mb-lg-0 mr-lg-3">Get Started</a>
-<a href="https://biolink.blog/example" target="_blank" class="btn btn-outline-dark index-button mb-3 mb-lg-0">Bio page Demo <i class="fa fa-fw fa-xs fa-external-link-alt"></i></a>
 </div>
 </div>
 </div>
 <div class="d-none d-lg-block col">
-<img src="https://biolink.blog/themes/altum/assets/images/hero.png" class="index-image" loading="lazy" />
+<img src="https://biolink.blog/themes/altum/assets/images/hero.png" class="index-image" />
 </div>
 </div>
 </div>
 </div>
-<div class="container mt-8">
+<div class="container mt-6">
+<div class="card index-highly-rounded border-0" data-aos="fade-up">
+<div class="card-body">
 <div class="row">
-<div class="col-lg-7 mb-5">
-<img src="https://biolink.blog/themes/altum/assets/images/index/bio-link.png" class="img-fluid shadow" loading="lazy" />
+<div class="col-auto col-lg-5 mb-4 mb-lg-0">
+<img src="https://biolink.blog/themes/altum/assets/images/index/bio-link.jpg" class="index-card-image index-highly-rounded" loading="lazy" />
 </div>
-<div class="col-lg-5 mb-5 d-flex align-items-center">
-<div>
-<span class="fa-stack fa-2x">
-<i class="fa fa-circle fa-stack-2x text-primary-100"></i>
-<i class="fa fa-users fa-stack-1x text-primary"></i>
-</span>
+<div class="col">
+<div class="bg-primary-100 p-3 w-fit-content rounded">
+<i class="fas fa-fw fa-users fa-lg text-primary"></i>
+</div>
 <h2 class="mt-3">Bio link pages</h2>
-<p class="mt-3">Create your own unique & highly customizable bio link page with ease.</p>
+<p class="h6 mt-2">Create your own unique & highly customizable bio link page with ease.</p>
 <ul class="list-style-none mt-4">
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>Custom colors & branding</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
-<div>Multiple ready-to-use components</div>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
+<div>Tons of ready-to-use components</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>SEO settings</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>Password protection, sensitive content warning</div>
 </li>
 </ul>
@@ -87,536 +91,464 @@
 </div>
 </div>
 </div>
-<div class="container mt-8">
+</div>
+<div class="container mt-6">
+<div class="card index-highly-rounded border-0" data-aos="fade-up">
+<div class="card-body">
 <div class="row">
-<div class="col-lg-5 mb-5 d-flex align-items-center order-1 order-lg-0">
-<div>
-<span class="fa-stack fa-2x">
-<i class="fa fa-circle fa-stack-2x text-primary-100"></i>
-<i class="fa fa-link fa-stack-1x text-primary"></i>
-</span>
+<div class="col-auto col-lg-5 mb-4 mb-lg-0">
+<img src="https://biolink.blog/themes/altum/assets/images/index/short-link.png" class="index-card-image index-highly-rounded" loading="lazy" />
+</div>
+<div class="col">
+<div class="bg-primary-100 p-3 w-fit-content rounded">
+<i class="fas fa-fw fa-link fa-lg text-primary"></i>
+</div>
 <h2 class="mt-3">Shortened links</h2>
-<p class="mt-3">Yes! You can use our service as a shortener as well.</p>
+<p class="h6 mt-2">Yes! You can use our service as a shortener as well.</p>
 <ul class="list-style-none mt-4">
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>Scheduling & expiration limits</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>Country, device & language targeting</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>A/B Rotation</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
 <div>Password protection, sensitive content warning</div>
 </li>
 </ul>
 </div>
 </div>
-<div class="col-lg-7 mb-5 order-0 order-lg-1">
-<img src="https://biolink.blog/themes/altum/assets/images/index/short-link.png" class="img-fluid shadow" loading="lazy" />
 </div>
 </div>
 </div>
-<div class="container mt-8">
+<div class="container mt-6">
+<div class="card index-highly-rounded border-0" data-aos="fade-up">
+<div class="card-body">
 <div class="row">
-<div class="col-lg-7 mb-5">
-<img src="https://biolink.blog/themes/altum/assets/images/index/qr-code.png" class="img-fluid shadow" loading="lazy" />
+<div class="col-auto col-lg-5 mb-4 mb-lg-0">
+<img src="https://biolink.blog/themes/altum/assets/images/index/analytics.jpg" class="index-card-image index-highly-rounded" loading="lazy" />
 </div>
-<div class="col-lg-5 mb-5 d-flex align-items-center">
-<div>
-<span class="fa-stack fa-2x">
-<i class="fa fa-circle fa-stack-2x text-primary-100"></i>
-<i class="fa fa-qrcode fa-stack-1x text-primary"></i>
-</span>
-<h2 class="mt-3">QR Codes</h2>
-<p class="mt-3">Fully featured QR code generator system with easy to use templates.</p>
+<div class="col">
+<div class="bg-primary-100 p-3 w-fit-content rounded">
+<i class="fas fa-fw fa-chart-bar fa-lg text-primary"></i>
+</div>
+<h2 class="mt-3">Built-in analytics</h2>
+<p class="h6 mt-2">Easy to understand, yet detailed and comprehensive analytics for all your links. GDPR, CCPA and PECR compliant.</p>
 <ul class="list-style-none mt-4">
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
-<div>Custom colors with gradients</div>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
+<div>Countries & cities</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
-<div>Custom logo</div>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
+<div>Referrers & UTMs</div>
 </li>
 <li class="d-flex align-items-center mb-2">
-<i class="fa fa-fw fa-sm fa-check-circle text-primary mr-3"></i>
-<div>Vcard, WiFi, Calendar, Location..etc templates</div>
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
+<div>Devices & operating systems</div>
+</li>
+<li class="d-flex align-items-center mb-2">
+<i class="fas fa-fw fa-sm fa-check-circle text-success mr-3"></i>
+<div>Browsers, Languages</div>
 </li>
 </ul>
 </div>
 </div>
 </div>
 </div>
+</div>
+<div class="py-3"></div>
 <div class="container mt-8">
 <div class="row">
-<div class="col-lg-5 mb-5 d-flex align-items-center order-1 order-lg-0">
-<div>
-<span class="fa-stack fa-2x">
-<i class="fa fa-circle fa-stack-2x text-primary-100"></i>
-<i class="fa fa-chart-line fa-stack-1x text-primary"></i>
-</span>
-<h2 class="mt-3">Built-in analytics</h2>
-<p class="mt-3">Day by day analytics, referrers, countries, operating systems, languages and many more.</p>
-</div>
-</div>
-<div class="col-lg-7 mb-5 order-0 order-lg-1">
-<img src="https://biolink.blog/themes/altum/assets/images/index/analytics.png" class="img-fluid shadow" loading="lazy" />
-</div>
-</div>
-</div>
-<div class="index-background-one py-7 mt-8">
-<div class="container">
-<div class="row justify-content-between">
-<div class="col-12 col-lg-3 mb-4 mb-lg-0">
-<div class="card border-0">
-<div class="card-body text-center d-flex flex-column">
-<span class="font-weight-bold text-muted mb-3">Links</span>
-<span class="h2">857+</span>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-3 mb-4 mb-lg-0">
-<div class="card border-0">
-<div class="card-body text-center d-flex flex-column">
-<span class="font-weight-bold text-muted mb-3">QR Codes</span>
-<span class="h2">1+</span>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-3 mb-4 mb-lg-0">
-<div class="card border-0">
-<div class="card-body text-center d-flex flex-column">
-<span class="font-weight-bold text-muted mb-3">Tracked pageviews</span>
-<span class="h2">967,918+</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container mt-8">
-<div class="row">
-<div class="col-12 col-lg-4 mb-5 mb-lg-0">
-<div class="card d-flex flex-column justify-content-between h-100">
+<style>
+            /* File Links */
+            .file-links-background {
+                background-color: #ecfdf5;
+            }
+            .file-links-icon {
+                color: #10b981;
+            }
+
+            /* VCard Links */
+            .vcard-links-background {
+                background-color: #ecfeff;
+            }
+            .vcard-links-icon {
+                color: #06b6d4;
+            }
+
+            /* Event Links */
+            .event-links-background {
+                background-color: #eef2ff;
+            }
+            .event-links-icon {
+                color: #6366f1;
+            }
+
+            /* Tools */
+            .tools-background {
+                background-color: #eef2ff;
+            }
+            .tools-icon {
+                color: #06b6d4;
+            }
+
+            /* Domains */
+            .domains-background {
+                background-color: #faf5ff;
+            }
+            .domains-icon {
+                color: #a855f7;
+            }
+
+            /* Projects */
+            .projects-background {
+                background-color: #fdf4ff;
+            }
+            .projects-icon {
+                color: #d946ef;
+            }
+
+            /* File Links - Dark Theme */
+            [data-theme-style="dark"] .file-links-background {
+                background-color: #1a4731;
+            }
+            [data-theme-style="dark"] .file-links-icon {
+                color: #047857;
+            }
+
+            /* VCard Links - Dark Theme */
+            [data-theme-style="dark"] .vcard-links-background {
+                background-color: #1a4044;
+            }
+            [data-theme-style="dark"] .vcard-links-icon {
+                color: #025e73;
+            }
+
+            /* Event Links - Dark Theme */
+            [data-theme-style="dark"] .event-links-background {
+                background-color: #1a1c36;
+            }
+            [data-theme-style="dark"] .event-links-icon {
+                color: #3134a1;
+            }
+
+            /* Tools - Dark Theme */
+            [data-theme-style="dark"] .tools-background {
+                background-color: #1a1c36; /* Same as event links */
+            }
+            [data-theme-style="dark"] .tools-icon {
+                color: #025e73; /* Same as vcard links */
+            }
+
+            /* Domains - Dark Theme */
+            [data-theme-style="dark"] .domains-background {
+                background-color: #2d1e3f;
+            }
+            [data-theme-style="dark"] .domains-icon {
+                color: #6d22a5;
+            }
+
+            /* Projects - Dark Theme */
+            [data-theme-style="dark"] .projects-background {
+                background-color: #321a36;
+            }
+            [data-theme-style="dark"] .projects-icon {
+                color: #a316af;
+            }
+        </style>
+<div class="col-12 col-lg-4 mb-5 icon-zoom-animation" data-aos="fade-up" data-aos-delay="400">
+<div class="card index-highly-rounded border-0 d-flex flex-column justify-content-between h-100">
 <div class="card-body">
-<div class="mb-2 bg-gray-100 p-3 rounded">
-<i class="fa fa-fw fa-lg fa-project-diagram text-gray mr-3"></i>
+<div class="tools-background mb-3 p-3 index-highly-rounded">
+<i class="fas fa-fw fa-lg fa-screwdriver-wrench mr-3 tools-icon"></i>
+<span class="h5">Tools</span>
+</div>
+<span class="text-muted">We are also offering you a set of 35 amount of useful web tools as a bonus.</span>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-4 mb-5 icon-zoom-animation" data-aos="fade-up" data-aos-delay="600">
+<div class="card index-highly-rounded border-0 d-flex flex-column justify-content-between h-100">
+<div class="card-body">
+<div class="projects-background mb-3 p-3 index-highly-rounded">
+<i class="fas fa-fw fa-lg fa-project-diagram mr-3 projects-icon"></i>
 <span class="h5">Projects</span>
 </div>
 <span class="text-muted">Easiest way to categorize your managed resources.</span>
 </div>
 </div>
 </div>
-<div class="col-12 col-lg-4 mb-5 mb-lg-0">
-<div class="card d-flex flex-column justify-content-between h-100">
-<div class="card-body">
-<div class="mb-2 bg-gray-100 p-3 rounded">
-<i class="fa fa-fw fa-lg fa-adjust text-gray mr-3"></i>
-<span class="h5">Tracking pixels</span>
-</div>
-<span class="text-muted">Facebook, Google Analytics, Google Tag Manager, LinkedIn, Pinterest, Twitter, Quora, TikTok tracking pixels available.</span>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4 mb-5 mb-lg-0">
-<div class="card d-flex flex-column justify-content-between h-100">
-<div class="card-body">
-<div class="mb-2 bg-gray-100 p-3 rounded">
-<i class="fa fa-fw fa-lg fa-globe text-gray mr-3"></i>
-<span class="h5">Custom domains</span>
-</div>
-<span class="text-muted">Connect your own domain or use our predefined ones.</span>
-</div>
-</div>
-</div>
 </div>
 </div>
 <div class="container mt-8">
+<div class="card py-4 index-highly-rounded border-0">
+<div class="card-body">
+<div class="text-center mb-4">
+<h2>URLs that open apps automatically</h2>
+<p class="text-muted">Short links that automatically detect the used app and open it on mobile.</p>
+</div>
+<div class="d-flex flex-wrap justify-content-center">
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Reddit">
+<span title="Reddit"><i class="fab fa-reddit fa-fw fa-xl mx-1" style="color: #ff4500"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Twitter">
+<span title="Twitter"><i class="fab fa-twitter fa-fw fa-xl mx-1" style="color: #1da1f2"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="YouTube">
+<span title="YouTube"><i class="fab fa-youtube fa-fw fa-xl mx-1" style="color: #ff0000"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Instagram">
+<span title="Instagram"><i class="fab fa-instagram fa-fw fa-xl mx-1" style="color: #e1306c"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Whatsapp">
+<span title="Whatsapp"><i class="fab fa-whatsapp fa-fw fa-xl mx-1" style="color: #128c7e"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Snapchat">
+<span title="Snapchat"><i class="fab fa-snapchat fa-fw fa-xl mx-1" style="color: #000000"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Facebook Messenger">
+<span title="Facebook Messenger"><i class="fab fa-facebook-messenger fa-fw fa-xl mx-1" style="color: #0084ff"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Telegram">
+<span title="Telegram"><i class="fab fa-telegram fa-fw fa-xl mx-1" style="color: #0088cc"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Spotify">
+<span title="Spotify"><i class="fab fa-spotify fa-fw fa-xl mx-1" style="color: #2CD85C"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="LinkedIn">
+<span title="LinkedIn"><i class="fab fa-linkedin fa-fw fa-xl mx-1" style="color: #0a66c2"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Pinterest">
+<span title="Pinterest"><i class="fab fa-pinterest fa-fw fa-xl mx-1" style="color: #e60023"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Twitch">
+<span title="Twitch"><i class="fab fa-twitch fa-fw fa-xl mx-1" style="color: #9146ff"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Netflix">
+<span title="Netflix"><i class="fas fa-film fa-fw fa-xl mx-1" style="color: #e50914"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Google Sheets">
+<span title="Google Sheets"><i class="fas fa-file fa-fw fa-xl mx-1" style="color: #25a465"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Google Maps">
+<span title="Google Maps"><i class="fas fa-map-location-dot fa-fw fa-xl mx-1" style="color: #4285f4"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Airbnb">
+<span title="Airbnb"><i class="fab fa-airbnb fa-fw fa-xl mx-1" style="color: #FF385c"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="TripAdvisor">
+<span title="TripAdvisor"><i class="fas fa-plane fa-fw fa-xl mx-1" style="color: #00AF87"></i></span>
+</div>
+<div class="bg-gray-100 index-highly-rounded w-fit-content p-3 m-4 icon-zoom-animation" data-toggle="tooltip" title="Amazon">
+<span title="Amazon"><i class="fab fa-amazon fa-fw fa-xl mx-1" style="color: #ff9900"></i></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="py-3"></div>
+<div class="container mt-8">
+<div class="card py-4 index-highly-rounded border-0 bg-gray-900">
+<div class="card-body">
+<div class="row justify-content-between">
+<div class="col-12 col-lg-3 mb-4 mb-lg-0">
+<div class="text-center d-flex flex-column">
+<span class="font-weight-bold text-muted mb-3">Links</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--purple); --gradient-two: var(--pink);">867+</span>
+</div>
+</div>
+<div class="col-12 col-lg-3 mb-4 mb-lg-0">
+<div class="text-center d-flex flex-column">
+<span class="font-weight-bold text-muted mb-3">Tracked pageviews</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--blue); --gradient-two: var(--purple);">1,038,369+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="py-3"></div>
+<div class="container mt-8">
+<div class="card py-4 border-0 index-highly-rounded">
+<div class="card-body">
+<div class="text-center mb-4">
+<h2>Tracking pixels</h2>
+<p class="text-muted">All the links easily integrate with any of the following pixel providers.</p>
+</div>
+<div class="row">
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-facebook fa-fw fa-xl mx-1" style="color: #1877f2"></i>
+<span class="h6">Facebook</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-google fa-fw fa-xl mx-1" style="color: #4285f4"></i>
+<span class="h6">Google Analytics</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-google fa-fw fa-xl mx-1" style="color: #34a853"></i>
+<span class="h6">Google Tag Manager</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-linkedin fa-fw fa-xl mx-1" style="color: #0077b5"></i>
+<span class="h6">LinkedIn</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-pinterest fa-fw fa-xl mx-1" style="color: #e60023"></i>
+<span class="h6">Pinterest</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-x-twitter fa-fw fa-xl mx-1" style="color: #1da1f2"></i>
+<span class="h6">X</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-quora fa-fw fa-xl mx-1" style="color: #a82400"></i>
+<span class="h6">Quora</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-tiktok fa-fw fa-xl mx-1" style="color: #ff0050"></i>
+<span class="h6">TikTok</span>
+</div>
+</div>
+<div class="col-6 col-lg-4" data-aos="fade-up">
+<div class="bg-gray-100 rounded w-100 p-3 my-4 icon-zoom-animation text-truncate">
+<i class="fab fa-snapchat fa-fw fa-xl mx-1" style="color: #000000"></i>
+<span class="h6">Snapchat</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="py-3"></div>
+<div class="container mt-8">
 <div class="text-center mb-5">
-<h2>Pricing plans</h2>
-<p class="text-muted">Choose and get exactly what you need.</p>
+<h2><span class="text-primary">Answers</span> for your common <span class="text-primary">questions</span></h2>
 </div>
-<div class="mb-5 d-flex justify-content-center">
-<div class="bg-gray-100 rounded p-2">
-<div class="btn-group-toggle" data-toggle="buttons">
-<label class="btn btn-light border-0 active" data-payment-frequency="monthly">
-<input type="radio" name="payment_frequency" checked="checked"> Monthly </label>
-<label class="btn btn-light border-0 " data-payment-frequency="annual">
-<input type="radio" name="payment_frequency"> Annual </label>
-<label class="btn btn-light border-0 " data-payment-frequency="lifetime">
-<input type="radio" name="payment_frequency"> Lifetime </label>
+<div class="accordion index-faq" id="faq_accordion">
+<div class="card index-highly-rounded">
+<div class="card-body">
+<div class id="faq_accordion_one">
+<h3 class="mb-0">
+<button class="btn btn-lg font-weight-bold btn-block d-flex justify-content-between text-gray-800 px-0 icon-zoom-animation" type="button" data-toggle="collapse" data-target="#faq_accordion_answer_one" aria-expanded="true" aria-controls="faq_accordion_answer_one">
+<span>How do you edit this?</span>
+<span data-icon>
+<i class="fas fa-fw fa-circle-chevron-down"></i>
+</span>
+</button>
+</h3>
 </div>
-</div>
-</div>
-<div>
-<div class="row justify-content-around">
-<div class="col-12 col-md-6 col-lg-4 p-3">
-<div class="pricing-plan rounded" style>
-<div class="pricing-header">
-<span class="pricing-name">Free</span>
-<div class="pricing-price">
-<span class="pricing-price-amount">0</span>
-</div>
-<div class="pricing-details"></div>
-</div>
-<div class="pricing-body d-flex flex-column justify-content-between">
-<ul class="pricing-features">
-<li>
-<div><strong>5</strong> Biolink Pages</div>
-</li>
-<li>
-<div><strong>5</strong> Biolink Blocks</div>
-</li>
-<li>
-<div><strong>5</strong> Shortened Links</div>
-</li>
-<li>
-<div><strong>4</strong> Projects</div>
-</li>
-<li>
-<div><strong>5</strong> Pixels</div>
-</li>
-<li>
-<div><strong>0</strong> QR Codes</div>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Link, Heading, Image, Socials, Mail signup, SoundCloud, Spotify, YouTube, Twitch, Vimeo, TikTok">
-<strong>11</strong> Enabled Biolink Blocks </span>
-</div>
-</li>
-<li>
-<div><strong>0</strong> Custom Domains</div>
-</li>
-<li>
-<div>0 days statistics retention</div>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="You get access to extra domains to use."><i class="fa fa-fw fa-sm fa-globe mr-1"></i> Additional Global Domains</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Instead of auto generated urls, like /a853we6, you get to choose your own"><i class="fa fa-fw fa-sm fa-link mr-1"></i> Custom Back-half</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Provides the ability to enter deep links, like: steam://rungameid/id"><i class="fa fa-fw fa-sm fa-paperclip mr-1"></i> Deep linking</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="All the branding will be removed from your created Biolinks"><i class="fa fa-fw fa-sm fa-eye-slash mr-1"></i> Removable branding</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="Change and whitelabel the branding of your Biolinks"><i class="fa fa-fw fa-sm fa-ad mr-1"></i> Custom branding</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You can choose your own custom colors for links inside of the biolink pages"><i class="fa fa-fw fa-sm fa-paint-brush mr-1"></i> Custom colors</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="You get access to more advanced statistics for all your links"><i class="fa fa-fw fa-sm fa-chart-bar mr-1"></i> Indepth Statistics</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You can add your own custom Biolink page backgrounds"><i class="fa fa-fw fa-sm fa-fill mr-1"></i> Custom Backgrounds</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="The ability to schedule links for when to go live & when to expire based on amount of clicks or date range."><i class="fa fa-fw fa-sm fa-clock mr-1"></i> Links scheduling & limiter</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Customize the meta tags for your biolink pages"><i class="fa fa-fw fa-sm fa-search-plus mr-1"></i> SEO Features</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Easily adjust the UTM parameters for all your links"><i class="fa fa-fw fa-sm fa-key mr-1"></i> UTM Parameters</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to multiple fonts to use for your biolink page"><i class="fa fa-fw fa-sm fa-pen-nib mr-1"></i> Extra Fonts</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to password protect your links or biolink pages"><i class="fa fa-fw fa-sm fa-lock mr-1"></i> Password protection</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="Get access to enable sensitive content warning on your links or biolink pages"><i class="fa fa-fw fa-sm fa-eye mr-1"></i> Sensitive content</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="The ability to temporarily redirect a biolink page to a specific URL (useful when having promotions)"><i class="fa fa-fw fa-sm fa-forward mr-1"></i> Leap link</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="All your links from your biolink pages will be dofollow links."><i class="fa fa-fw fa-sm fa-link mr-1"></i> Dofollow links</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You won't see any ads on the platform and neither will ads be placed on your biolink pages"><i class="fa fa-fw fa-sm fa-eye-slash mr-1"></i> No Ads</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="Add your own CSS to your vcards for more customizability."><i class="fa fa-fw fa-code mr-1"></i> Custom CSS</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="Add your own JavaScript code to your vcards, like a custom tracking code, help chat..etc"><i class="fa fa-fw fa-code mr-1"></i> Custom JS</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-<li>
-<div class="text-muted">
-<span data-toggle="tooltip" title="Get access to use the REST API."><i class="fa fa-fw fa-code mr-1"></i> API access</span>
-</div>
-<i class="fa fa-fw fa-sm fa-times-circle text-muted"></i>
-</li>
-</ul>
-<a href="https://biolink.blog/register?redirect=pay/free" class="btn btn-lg btn-block btn-primary ">Choose plan</a>
+<div id="faq_accordion_answer_one" class="collapse text-muted mt-3" aria-labelledby="faq_accordion_one" data-parent="#faq_accordion">
+All the FAQ section can be edited from the admin panel - languages section. </div>
 </div>
 </div>
+<div class="card index-highly-rounded">
+<div class="card-body">
+<div class id="faq_accordion_two">
+<h3 class="mb-0">
+<button class="btn btn-lg font-weight-bold btn-block d-flex justify-content-between text-gray-800 px-0 icon-zoom-animation" type="button" data-toggle="collapse" data-target="#faq_accordion_answer_two" aria-expanded="true" aria-controls="faq_accordion_answer_two">
+<span>Lorem ipsum dolor sit amet</span>
+<span data-icon>
+<i class="fas fa-fw fa-circle-chevron-down"></i>
+</span>
+</button>
+</h3>
 </div>
-<div class="col-12 col-md-6 col-lg-4 p-3" data-plan-monthly="true" data-plan-annual="true" data-plan-lifetime="true">
-<div class="pricing-plan rounded" style>
-<div class="pricing-header">
-<span class="pricing-name">Unlimited</span>
-<div class="pricing-price">
-<span class="pricing-price-amount d-none" data-plan-payment-frequency="monthly">20</span>
-<span class="pricing-price-amount d-none" data-plan-payment-frequency="annual">18</span>
-<span class="pricing-price-amount d-none" data-plan-payment-frequency="lifetime">15</span>
-<span class="pricing-price-currency">USD</span>
-</div>
-<div class="pricing-details">Unlimited</div>
-</div>
-<div class="pricing-body d-flex flex-column justify-content-between">
-<ul class="pricing-features">
-<li>
-<div><strong>Unlimited</strong> Biolink Pages</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> Biolink Blocks</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> Shortened Links</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> Projects</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> Pixels</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> QR Codes</div>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Link, Heading, Paragraph, Avatar, Image, Socials, Mail signup, SoundCloud, Spotify, YouTube, Twitch, Vimeo, TikTok, Phone collector">
-<strong>14</strong> Enabled Biolink Blocks </span>
-</div>
-</li>
-<li>
-<div><strong>Unlimited</strong> Custom Domains</div>
-</li>
-<li>
-<div>Unlimited days statistics retention</div>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You get access to extra domains to use."><i class="fa fa-fw fa-sm fa-globe mr-1"></i> Additional Global Domains</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Instead of auto generated urls, like /a853we6, you get to choose your own"><i class="fa fa-fw fa-sm fa-link mr-1"></i> Custom Back-half</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Provides the ability to enter deep links, like: steam://rungameid/id"><i class="fa fa-fw fa-sm fa-paperclip mr-1"></i> Deep linking</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="All the branding will be removed from your created Biolinks"><i class="fa fa-fw fa-sm fa-eye-slash mr-1"></i> Removable branding</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Change and whitelabel the branding of your Biolinks"><i class="fa fa-fw fa-sm fa-ad mr-1"></i> Custom branding</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You can choose your own custom colors for links inside of the biolink pages"><i class="fa fa-fw fa-sm fa-paint-brush mr-1"></i> Custom colors</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You get access to more advanced statistics for all your links"><i class="fa fa-fw fa-sm fa-chart-bar mr-1"></i> Indepth Statistics</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You can add your own custom Biolink page backgrounds"><i class="fa fa-fw fa-sm fa-fill mr-1"></i> Custom Backgrounds</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="The ability to schedule links for when to go live & when to expire based on amount of clicks or date range."><i class="fa fa-fw fa-sm fa-clock mr-1"></i> Links scheduling & limiter</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Customize the meta tags for your biolink pages"><i class="fa fa-fw fa-sm fa-search-plus mr-1"></i> SEO Features</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Easily adjust the UTM parameters for all your links"><i class="fa fa-fw fa-sm fa-key mr-1"></i> UTM Parameters</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to multiple fonts to use for your biolink page"><i class="fa fa-fw fa-sm fa-pen-nib mr-1"></i> Extra Fonts</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to password protect your links or biolink pages"><i class="fa fa-fw fa-sm fa-lock mr-1"></i> Password protection</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to enable sensitive content warning on your links or biolink pages"><i class="fa fa-fw fa-sm fa-eye mr-1"></i> Sensitive content</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="The ability to temporarily redirect a biolink page to a specific URL (useful when having promotions)"><i class="fa fa-fw fa-sm fa-forward mr-1"></i> Leap link</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="All your links from your biolink pages will be dofollow links."><i class="fa fa-fw fa-sm fa-link mr-1"></i> Dofollow links</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="You won't see any ads on the platform and neither will ads be placed on your biolink pages"><i class="fa fa-fw fa-sm fa-eye-slash mr-1"></i> No Ads</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Add your own CSS to your vcards for more customizability."><i class="fa fa-fw fa-code mr-1"></i> Custom CSS</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Add your own JavaScript code to your vcards, like a custom tracking code, help chat..etc"><i class="fa fa-fw fa-code mr-1"></i> Custom JS</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-<li>
-<div class>
-<span data-toggle="tooltip" title="Get access to use the REST API."><i class="fa fa-fw fa-code mr-1"></i> API access</span>
-</div>
-<i class="fa fa-fw fa-sm fa-check-circle text-success"></i>
-</li>
-</ul>
-<a href="https://biolink.blog/register?redirect=pay/1" class="btn btn-lg btn-block btn-primary">
-Choose plan </a>
+<div id="faq_accordion_answer_two" class="collapse text-muted mt-3" aria-labelledby="faq_accordion_two" data-parent="#faq_accordion">
+Lorem ipsum dolor sit amet, vim eu quem nonumes omittam. Mutat facete patrioque et est, nusquam abhorreant definiebas te sit, albucius urbanitas pro ad. Ne nemore officiis sed. Cu mundi docendi qui, nam nonumes maluisset constituto an, vix ea solum accusamus consequuntur. </div>
 </div>
 </div>
+<div class="card index-highly-rounded">
+<div class="card-body">
+<div class id="faq_accordion_three">
+<h3 class="mb-0">
+<button class="btn btn-lg font-weight-bold btn-block d-flex justify-content-between text-gray-800 px-0 icon-zoom-animation" type="button" data-toggle="collapse" data-target="#faq_accordion_answer_three" aria-expanded="true" aria-controls="faq_accordion_answer_three">
+<span>Virtute feugiat ocurreret ad cum</span>
+<span data-icon>
+<i class="fas fa-fw fa-circle-chevron-down"></i>
+</span>
+</button>
+</h3>
+</div>
+<div id="faq_accordion_answer_three" class="collapse text-muted mt-3" aria-labelledby="faq_accordion_three" data-parent="#faq_accordion">
+Virtute feugiat ocurreret ad cum, pro in posse ullum adversarium, te qui stet graece antiopam. Amet omnesque indoctum ut mel, ea eam sonet saperet nostrum. Te modus delectus mel, pri populo definitionem ne, an eam hinc labitur inciderint. Novum vivendum gloriatur ex nec, ad vocibus eleifend deterruisset pro, mutat voluptaria repudiandae eum ea. Ipsum soluta cotidieque sea ut, aliquando scripserit no has, iisque impetus erroribus pro ad. Case labitur scaevola vis ut, clita meliore te eos. </div>
+</div>
+</div>
+<div class="card index-highly-rounded">
+<div class="card-body">
+<div class id="faq_accordion_four">
+<h3 class="mb-0">
+<button class="btn btn-lg font-weight-bold btn-block d-flex justify-content-between text-gray-800 px-0 icon-zoom-animation" type="button" data-toggle="collapse" data-target="#faq_accordion_answer_four" aria-expanded="true" aria-controls="faq_accordion_answer_four">
+<span>Mel iusto putant feugiat et</span>
+<span data-icon>
+<i class="fas fa-fw fa-circle-chevron-down"></i>
+</span>
+</button>
+</h3>
+</div>
+<div id="faq_accordion_answer_four" class="collapse text-muted mt-3" aria-labelledby="faq_accordion_four" data-parent="#faq_accordion">
+Mel iusto putant feugiat et, qui alii virtute eu. Diceret corrumpit mei an. Ius ei congue iudico, ex quo delectus indoctum. Mnesarchum reprehendunt pro ex, ea vix amet maluisset, in autem omnes consectetuer eum. </div>
 </div>
 </div>
 </div>
 </div>
 </main>
-<footer class="footer">
 <div class="container d-print-none">
+<footer class="footer app-footer">
 <div class="d-flex flex-column flex-lg-row justify-content-between mb-3">
 <div class="mb-3 mb-lg-0">
-<a class="h5" href="https://biolink.blog/">
-<img src="https://biolink.blog/uploads/logo/7a82581871f6422a83d413c1d49047d8.jpg" class="mb-2 footer-logo" alt="Website Logo" />
+<a class="h5 footer-heading" href="https://biolink.blog/" data-logo data-light-value="Biolink.blog" data-light-class="mb-2" data-light-tag="span" data-dark-value="Biolink.blog" data-dark-class="mb-2" data-dark-tag="span">
+<span class="mb-2">Biolink.blog</span>
 </a>
-<div>Copyright © 2024 Biolink.blog.</div>
+<div class="text-muted">Copyright © 2024 Biolink.blog.</div>
 </div>
 <div class="d-flex flex-column flex-lg-row">
+<div class="dropdown mb-2 ml-lg-3">
+<button type="button" class="btn btn-link text-decoration-none p-0" id="language_switch" data-tooltip data-tooltip-hide-on-click title="Choose language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="fas fa-fw fa-sm fa-language mr-1"></i> english </button>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="language_switch">
+<a href="https://biolink.blog/en/" class="dropdown-item" data-set-language="english">
+<i class="fas fa-fw fa-sm fa-check mr-2 text-success"></i>
+english </a>
+<a href="https://biolink.blog/id/" class="dropdown-item" data-set-language="Indonesia">
+<span class="mr-2">2</span>
+Indonesia </a>
+</div>
+</div>
 <div class="mb-2 ml-lg-3">
 <button type="button" id="switch_theme_style" class="btn btn-link text-decoration-none p-0" data-toggle="tooltip" title="Switch to Dark Mode" data-title-theme-style-light="Switch to Light Mode" data-title-theme-style-dark="Switch to Dark Mode">
-<span data-theme-style="light" class><i class="fa fa-fw fa-sm fa-sun mr-1"></i> Light</span>
-<span data-theme-style="dark" class="d-none"><i class="fa fa-fw fa-sm fa-moon mr-1"></i> Dark</span>
+<span data-theme-style="light" class><i class="fas fa-fw fa-sm fa-sun text-warning"></i></span>
+<span data-theme-style="dark" class="d-none"><i class="fas fa-fw fa-sm fa-moon"></i></span>
 </button>
 </div>
 </div>
 </div>
 <div class="row">
-<div class="col-12 col-lg mb-3">
+<div class="col-12 col-lg mb-3 mb-lg-0">
 <ul class="list-style-none d-flex flex-column flex-lg-row flex-wrap m-0">
+<li class="mb-2 mr-lg-3"><a href="https://biolink.blog/blog">Blog</a></li>
 <li class="mb-2 mr-lg-3"><a href="https://biolink.blog/" target="_blank">Biolink.blog</a></li>
 </ul>
 </div>
@@ -625,11 +557,11 @@ Choose plan </a>
 </div>
 </div>
 </div>
-</div>
 </footer>
+</div>
 <input type="hidden" name="global_site_url" value="https://biolink.blog/" />
 <input type="hidden" name="global_url" value="https://biolink.blog/" />
-<input type="hidden" name="global_token" value="bc5a234258cc49b7b130e20970b14100" />
+<input type="hidden" name="global_token" value="3f1b95a68a67994ca9906074538c59c1" />
 <input type="hidden" name="global_number_decimal_point" value="." />
 <input type="hidden" name="global_number_thousands_separator" value="," />
 <script>
@@ -641,12 +573,13 @@ Choose plan </a>
     let decimal_point = document.querySelector('[name="global_number_decimal_point"]').value;
     let thousands_separator = document.querySelector('[name="global_number_thousands_separator"]').value;
 </script>
-<script src="https://biolink.blog/themes/altum/assets/js/libraries/jquery.min.js?v=2100"></script>
-<script src="https://biolink.blog/themes/altum/assets/js/libraries/popper.min.js?v=2100"></script>
-<script src="https://biolink.blog/themes/altum/assets/js/libraries/bootstrap.min.js?v=2100"></script>
-<script src="https://biolink.blog/themes/altum/assets/js/main.js?v=2100"></script>
-<script src="https://biolink.blog/themes/altum/assets/js/functions.js?v=2100"></script>
-<script src="https://biolink.blog/themes/altum/assets/js/libraries/fontawesome-all.min.js?v=2100"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/jquery.min.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/popper.min.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/bootstrap.min.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/custom.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/fontawesome.min.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/fontawesome-solid.min.js?v=4600"></script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/fontawesome-brands.min.js?v=4600"></script>
 <script>
                 'use strict';
 
@@ -692,6 +625,36 @@ Choose plan </a>
                 payment_frequency_handler();
             </script>
 <script>
+        'use strict';
+
+        $('#faq_accordion').on('show.bs.collapse', event => {
+            let svg = event.target.parentElement.querySelector('[data-icon] svg')
+            svg.style.transform = 'rotate(180deg)';
+            svg.style.color = 'var(--primary)';
+        })
+
+        $('#faq_accordion').on('hide.bs.collapse', event => {
+            let svg = event.target.parentElement.querySelector('[data-icon] svg')
+            svg.style.color = 'var(--primary-800)';
+            svg.style.removeProperty('transform');
+        })
+    </script>
+<script src="https://biolink.blog/themes/altum/assets/js/libraries/aos.min.js"></script>
+<script>
+    AOS.init({
+        delay: 100,
+        duration: 600
+    });
+</script>
+<script>
+                'use strict';
+
+                document.querySelectorAll('[data-set-language]').forEach(element => element.addEventListener('click', event => {
+                    let language = event.currentTarget.getAttribute('data-set-language');
+                    set_cookie(`set_language`, language, 90, "\/");
+                }));
+            </script>
+<script>
     document.querySelector('#switch_theme_style').addEventListener('click', event => {
         let theme_style = document.querySelector('body[data-theme-style]').getAttribute('data-theme-style');
         let new_theme_style = theme_style == 'light' ? 'dark' : 'light';
@@ -706,15 +669,25 @@ Choose plan </a>
 
         switch(new_theme_style) {
             case 'dark':
-                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/bootstrap-dark.min.css?v=2100");
-                document.body.classList.add('c_darkmode');
+                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/bootstrap-dark.min.css?v=4600");
+                document.body.classList.add('cc--darkmode');
                 break;
 
             case 'light':
-                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/bootstrap.min.css?v=2100");
-                document.body.classList.remove('c_darkmode');
+                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/bootstrap.min.css?v=4600");
+                document.body.classList.remove('cc--darkmode');
                 break;
         }
+
+        /* Refresh the logo/title */
+        document.querySelectorAll('[data-logo]').forEach(element => {
+            let new_brand_value = element.getAttribute(`data-${new_theme_style}-value`);
+            let new_brand_class = element.getAttribute(`data-${new_theme_style}-class`);
+            let new_brand_tag = element.getAttribute(`data-${new_theme_style}-tag`)
+            let new_brand_html = new_brand_tag == 'img' ? `<img src="${new_brand_value}" class="${new_brand_class}" alt="Website Logo" />` : `<${new_brand_tag} class="${new_brand_class}">${new_brand_value}</${new_brand_tag}>`;
+            element.innerHTML = new_brand_html;
+        });
+
 
         document.querySelector(`#switch_theme_style`).setAttribute('data-original-title', document.querySelector(`#switch_theme_style`).getAttribute(`data-title-theme-style-${theme_style}`));
         document.querySelector(`#switch_theme_style [data-theme-style="${new_theme_style}"]`).classList.remove('d-none');

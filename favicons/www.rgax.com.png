@@ -1,6 +1,6 @@
  <!DOCTYPE html> <html class="no-js" lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <title>
 	Reinsurance Group of America | RGA
-</title> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png"> <link rel="manifest" href="/assets/icons/site.webmanifest"> <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5"> <link rel="shortcut icon" href="/favicon.ico"> <meta name="msapplication-TileColor" content="#00aba9"> <meta name="msapplication-config" content="/assets/icons/browserconfig.xml"> <meta name="theme-color" content="#ffffff"> <link rel="preload" as="style" href="https://use.typekit.net/djp0gjp.css"> <link rel="stylesheet" href="https://use.typekit.net/djp0gjp.css"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"> <link href="/ResourcePackages/Talon/assets/dist/css/critical.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/SitefinityWebApp/ResourcePackages/Talon/assets/dist/css/tools/searchIO/searchio-input.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/pageheader/hero.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/tabcarousel.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/knowledgecenter/featured.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/callouts.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/cards/cards.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /> <script>(function () { "use strict"; var el = document.getElementsByTagName('html')[0], nojsClass = "no-js", jsClass = "js"; if (el.classList) { el.classList.remove(nojsClass); el.classList.add(jsClass); } else { el.className = el.className.replace(new RegExp('(^|\\b)' + nojsClass.split(' ').join('|') + '(\\b|$)', 'gi'), ' '); el.className += ' ' + jsClass; } }());</script> <meta property="og:title" content="Reinsurance Group of America" /><meta property="og:description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /><meta property="og:url" content="https://www.rgare.com" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Default" /><script type="text/javascript">
+</title> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png"> <link rel="manifest" href="/assets/icons/site.webmanifest"> <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5"> <link rel="shortcut icon" href="/favicon.ico"> <meta name="msapplication-TileColor" content="#00aba9"> <meta name="msapplication-config" content="/assets/icons/browserconfig.xml"> <meta name="theme-color" content="#ffffff"> <link rel="preload" as="style" href="https://use.typekit.net/djp0gjp.css"> <link rel="stylesheet" href="https://use.typekit.net/djp0gjp.css"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"> <link href="/ResourcePackages/Talon/assets/dist/css/critical.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/SitefinityWebApp/ResourcePackages/Talon/assets/dist/css/tools/searchIO/searchio-input.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/pageheader/hero.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/tabcarousel.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/knowledgecenter/featured.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/callouts/callouts.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/Talon/assets/dist/css/components/cards/cards.min.css?package=Talon&amp;v=MTQuMi43OTI3LjE5OTc5" rel="stylesheet" type="text/css" /> <script>(function () { "use strict"; var el = document.getElementsByTagName('html')[0], nojsClass = "no-js", jsClass = "js"; if (el.classList) { el.classList.remove(nojsClass); el.classList.add(jsClass); } else { el.className = el.className.replace(new RegExp('(^|\\b)' + nojsClass.split(' ').join('|') + '(\\b|$)', 'gi'), ' '); el.className += ' ' + jsClass; } }());</script> <meta property="og:title" content="Reinsurance Group of America" /><meta property="og:description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /><meta property="og:url" content="https://www.rgare.com/?page=insights/press-release-ivari-selects-logiq3-to-deliver-reinsurance-management-and-administration-services-through-strategic-outsourcing-partnership?_hsenc=p2ANqtz-8sQTEsJq6yj8hR_rRXzlHnis8DCSEnk0XFxN54Rz-h-LmrDOYlXARxyw5PFwl_TunoW4yC" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Default" /><script type="text/javascript">
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .kc-featured.padding-top-2 {
     z-index: 3;
     position: relative;
-}</style><meta name="Generator" content="Sitefinity 14.4.8133.0 DX" /><link rel="canonical" href="https://www.rgare.com" /><meta name="description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /></head> <body> <header id="site-header" class="site-header" role="banner">  
+}</style><meta name="Generator" content="Sitefinity 14.4.8133.0 DX" /><link rel="canonical" href="https://www.rgare.com/?page=insights/press-release-ivari-selects-logiq3-to-deliver-reinsurance-management-and-administration-services-through-strategic-outsourcing-partnership?_hsenc=p2ANqtz-8sQTEsJq6yj8hR_rRXzlHnis8DCSEnk0XFxN54Rz-h-LmrDOYlXARxyw5PFwl_TunoW4yC" /><meta name="description" content="At RGA, we specialize in providing life and health-related reinsurance and financial solutions to help our clients effectively manage risk and capital." /></head> <body> <header id="site-header" class="site-header" role="banner">  
 
 
 
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div id="searchContainer" class="site-search search-bar-container">
         
-        <div id="searchbox-a6aedef6-79fc-472a-9fc4-b4ca3a1e1b4a">
+        <div id="searchbox-d8971804-acb9-408d-a1a3-586f2846550e">
             <div id="searchio-searchbox" data-results-page="/search" data-account="1669868074240554073" data-collection="rgare-cust" role="search"></div>
               <div id="suggestions"></div>
               <div>
@@ -131,13 +131,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-1'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="a288cdc6-1234-48c0-9907-4a2ce601405b">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="b2e70b37-d1b8-4e59-baa6-adf8438fada7">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="a288cdc6-1234-48c0-9907-4a2ce601405b" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
+            <ul id="b2e70b37-d1b8-4e59-baa6-adf8438fada7" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-1'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -145,10 +145,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="1a234225-6cc9-4249-a44f-f64ba376d13f">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="64c51788-dc47-4e88-9b47-baa335640357">
                     Gateway
                 </button>
-                <ul id="1a234225-6cc9-4249-a44f-f64ba376d13f" class="utility-menu__sub-list">
+                <ul id="64c51788-dc47-4e88-9b47-baa335640357" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -208,8 +208,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="main__list" id='navbar-2'>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="56dc6db6-c553-4108-b8e5-5434887dc452">Solutions</button>
-            <ul id="56dc6db6-c553-4108-b8e5-5434887dc452" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="e325c840-917f-44b3-9dab-42e27753191f">Solutions</button>
+            <ul id="e325c840-917f-44b3-9dab-42e27753191f" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/solutions/solutions-landing" target="_self">Solutions</a>
             </li>
@@ -244,8 +244,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a07167b2-f1e8-47a5-a6af-64ce0d754c48">Global Presence</button>
-            <ul id="a07167b2-f1e8-47a5-a6af-64ce0d754c48" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="575d208a-51c2-4dbd-a4f3-6747522d7fb0">Global Presence</button>
+            <ul id="575d208a-51c2-4dbd-a4f3-6747522d7fb0" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/global-presence/global-presence-landing" target="_self">Global Presence</a>
             </li>
@@ -265,8 +265,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="d2d93516-75f0-4e57-a215-d917f740cff9">Knowledge Center</button>
-            <ul id="d2d93516-75f0-4e57-a215-d917f740cff9" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="c86ac8b8-760f-4694-b3d5-f476ca51ace1">Knowledge Center</button>
+            <ul id="c86ac8b8-760f-4694-b3d5-f476ca51ace1" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/knowledge-center/knowledge-center-landing" target="_self">Knowledge Center</a>
             </li>
@@ -277,8 +277,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="d2eefbfc-cece-4d1b-a3f2-256e5ae8d6a1">Company</button>
-            <ul id="d2eefbfc-cece-4d1b-a3f2-256e5ae8d6a1" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="75501bd7-f852-48d4-b8e2-ab5801802189">Company</button>
+            <ul id="75501bd7-f852-48d4-b8e2-ab5801802189" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/our-company/our-company-landing" target="_self">Company</a>
             </li>
@@ -301,8 +301,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="a46de7b9-cd8a-4ddd-a5bb-4da56df283b0">Investors</button>
-            <ul id="a46de7b9-cd8a-4ddd-a5bb-4da56df283b0" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="95cbcadb-15bc-4b44-9ed5-21f1e81e6db5">Investors</button>
+            <ul id="95cbcadb-15bc-4b44-9ed5-21f1e81e6db5" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/investors/investors" target="_blank">Investors&#160;</a>
             </li>
@@ -310,8 +310,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </li>
         <li class="main__list-item ">
-            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="9d6bc4ef-c333-4e93-a3bd-58dc6b0036b6">Careers</button>
-            <ul id="9d6bc4ef-c333-4e93-a3bd-58dc6b0036b6" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
+            <button type="button" class="main__list-link main__list-link--toggle" data-toggle data-target="7b05afea-64eb-4ba1-a15c-1cc4da23d96e">Careers</button>
+            <ul id="7b05afea-64eb-4ba1-a15c-1cc4da23d96e" class="main__submenu" aria-labelledby='navbarDropdownMenuLink-2'>
                             <li class="main__submenu-item">
                 <a class="main__submenu-link " href="/careers/careers-overview" target="_self">Careers</a>
             </li>
@@ -349,13 +349,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     <ul class="utility-menu__list" id='navbar-3'>
         <li class="utility-menu__item ">
-            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="94167d8f-696b-43d2-81ba-3b7418b3f95e">
+            <button type="button" class="utility-menu__link utility-menu__link--toggle" data-toggle data-target="7b048969-a7ce-45df-baf7-a20f9765107b">
                 <span class="utility-menu__icon"><svg class="icon icon-profile" focusable="false" aria-hidden="true">
             <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-profile"></use>
         </svg></span>
               Portal Login
             </button>
-            <ul id="94167d8f-696b-43d2-81ba-3b7418b3f95e" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
+            <ul id="7b048969-a7ce-45df-baf7-a20f9765107b" class="utility-menu__sub" aria-labelledby='navbarDropdownMenuLink-3'>
                             <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/asap" target="_blank">ASAP</a>
             </li>
@@ -363,10 +363,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="utility-menu__sub-link " href="/portal-login/rga-central" target="_blank">RGA Central</a>
             </li>
             <li class="utility-menu__sub-item">
-                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="ed699403-0663-4844-b683-5ba28de1b598">
+                <button type="button" class="utility-menu__sub-link utility-menu__sub-toggle  " data-toggle data-target="ef4f7c85-d4cc-4978-9c32-36947cd84168">
                     Gateway
                 </button>
-                <ul id="ed699403-0663-4844-b683-5ba28de1b598" class="utility-menu__sub-list">
+                <ul id="ef4f7c85-d4cc-4978-9c32-36947cd84168" class="utility-menu__sub-list">
                                 <li class="utility-menu__sub-item">
                 <a class="utility-menu__sub-link " href="/portal-login/gateway/gateway-tk" target="_blank">Gateway TK</a>
             </li>
@@ -799,7 +799,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<div id="carousel-34793b83-5b78-4fb7-abd7-3d355125b6a0" class="callout-carousel callout-slider swiper">
+<div id="carousel-630bcbe1-9aae-466e-9713-67508c1068ea" class="callout-carousel callout-slider swiper">
 
   <div class="callout-carousel__pagination"></div>
 
@@ -1146,6 +1146,37 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
     <div class="kc-featured__list">
             <div class="kc-featured__item" >       
                   <div class="kc-featured__media">
+                    <img data-src="/images/default-source/kc-article-images/scientist-analyzing-blood.jpg?sfvrsn=e206079f_3" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Woman in lab coat analyzing vial of blood" />
+                    <noscript>
+                        <img src="/images/default-source/kc-article-images/scientist-analyzing-blood.jpg?sfvrsn=e206079f_3" class="kc-featured__img" alt="Woman in lab coat analyzing vial of blood" />
+                    </noscript>
+                  </div>
+              <div class="kc-featured__content">
+                <div class="kc-featured__meta">
+                    <span class="kc-featured__category">Research and White Papers</span>
+
+                    <span class="kc-featured__date">April 2024</span>    
+                </div>                
+                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/multi-cancer-early-detection-tests-and-modeling-the-potential-impact-on-insurance" target="_self">
+                   Multi-Cancer Early Detection Tests and Modeling the Potential Impact on Insurance
+                </a>
+
+                  <div class="kc-featured__summary">
+                    MCED tests promise to transform the detection of cancer. RGA explores what this ...
+                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/multi-cancer-early-detection-tests-and-modeling-the-potential-impact-on-insurance" aria-label="Read More for Multi-Cancer Early Detection Tests and Modeling the Potential Impact on Insurance" target="_self">
+                      Read More
+                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
+                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
+                      </svg>
+                    </a>
+                  </div>
+                                
+              </div>
+
+
+            </div>
+            <div class="kc-featured__item" >       
+                  <div class="kc-featured__media">
                     <img data-src="/images/default-source/kc-article-images/inside-rga_howad-liao.jpg?sfvrsn=e6af53a2_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Howard Liao" />
                     <noscript>
                         <img src="/images/default-source/kc-article-images/inside-rga_howad-liao.jpg?sfvrsn=e6af53a2_1" class="kc-featured__img" alt="Howard Liao" />
@@ -1226,37 +1257,6 @@ RGA is distinguished by more than the depth of our technical expertise; we are k
                   <div class="kc-featured__summary">
                     <p>Are you interested in becoming an advanced analytics actuary, one of the most...</p>
                     <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/how-to-develop-your-advanced-analytics-career-as-an-actuary" aria-label="Read More for How to Develop Your Advanced Analytics Career as an Actuary" target="_self">
-                      Read More
-                      <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
-                        <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>
-                      </svg>
-                    </a>
-                  </div>
-                                
-              </div>
-
-
-            </div>
-            <div class="kc-featured__item" >       
-                  <div class="kc-featured__media">
-                    <img data-src="/images/default-source/acquisition-timeline/pharmacy-counter.jpg?sfvrsn=acdaa3db_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="kc-featured__img lazy-img fadeInUp" alt="Woman paying for prescription at pharmacy counter" />
-                    <noscript>
-                        <img src="/images/default-source/acquisition-timeline/pharmacy-counter.jpg?sfvrsn=acdaa3db_1" class="kc-featured__img" alt="Woman paying for prescription at pharmacy counter" />
-                    </noscript>
-                  </div>
-              <div class="kc-featured__content">
-                <div class="kc-featured__meta">
-                    <span class="kc-featured__category">Research and White Papers</span>
-
-                    <span class="kc-featured__date">March 2024</span>    
-                </div>                
-                <a class="kc-featured__title"  href="https://www.rgare.com/knowledge-center/article/changing-financial-risks-for-medigap-insurance" target="_self">
-                   Changing Financial Risks for Medigap Insurance
-                </a>
-
-                  <div class="kc-featured__summary">
-                    <p>Originally published as a two-part series (</p>
-                    <a class="kc-featured__link" href="https://www.rgare.com/knowledge-center/article/changing-financial-risks-for-medigap-insurance" aria-label="Read More for Changing Financial Risks for Medigap Insurance" target="_self">
                       Read More
                       <svg class="icon icon-arrow_forward" focusable="false" aria-hidden="true">
                         <use href="/ResourcePackages/Talon/assets/dist/sprites/svgdefs.svg#icon-arrow_forward"></use>

@@ -829,10 +829,18 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                     </div>
                 </header>  
                         <div class="row js-carousel__slider col-auto">
+                                                                                                                                                                                    <div class="col-12 col-lg-4">
+                            <a class="news-card" href="../../news/ilsi/2024/varuni-chopra-social-impact-fellow.html">
+                                <div class="news-card__image-wrap">
+                                    <div aria-label="Female student sitting outside looking at the camera" class="news-card__image" role="img" style="background-image: url('../../news/ilsi/2024/images/varuni-chopra-headshot.jpg');"></div>                                    <date class="news-card__date">04/17/2024</date>
+                                </div>
+                                <div class="news-card__title js-truncation">Social Impact Fellow Reflection: Varuni Chopra (Beautiful Curly Me)</div>
+                                                                                            </a>
+                        </div>
                                                                                                                                                                                                                 <div class="col-12 col-lg-4">
                             <a class="news-card" href="../../news/ilsi/2024/ilsi_i2s_poster_showcase_2024.html">
                                 <div class="news-card__image-wrap">
-                                    <div aria-label="" class="news-card__image" role="img" style="background-image: url('../../_files/images/centers-and-initiatives/ilsi/i2s-cal-2024_cropped_1to1.jpg');"></div>                                    <date class="news-card__date">04/08/2024</date>
+                                    <div aria-label="Ideas to Serve presenters with their project." class="news-card__image" role="img" style="background-image: url('../../news/ilsi/2024/images/i2s-cal-2024_cropped_1to1.jpg');"></div>                                    <date class="news-card__date">04/08/2024</date>
                                 </div>
                                 <div class="news-card__title js-truncation">2024 Ideas to Serve Poster Showcase</div>
                                                                                             </a>
@@ -843,14 +851,6 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                                     <div aria-label="Sophia Aslam" class="news-card__image" role="img" style="background-image: url('../../_files/images/centers-and-initiatives/ilsi/sophia-aslam.jpg');"></div>                                    <date class="news-card__date">04/05/2024</date>
                                 </div>
                                 <div class="news-card__title js-truncation">Social Impact Fellow Reflection: Sophia Aslam (In Good Company)</div>
-                                                                                            </a>
-                        </div>
-                                                                                                                                                                                                                <div class="col-12 col-lg-4">
-                            <a class="news-card" href="../../news/ilsi/2024/social-impact-fellow-reflection-aabid-quraishi-in-good-company-works.html">
-                                <div class="news-card__image-wrap">
-                                    <div aria-label="Aabid Quraishi" class="news-card__image" role="img" style="background-image: url('../../_files/images/centers-and-initiatives/ilsi/aahmd-headshot.jpg');"></div>                                    <date class="news-card__date">04/03/2024</date>
-                                </div>
-                                <div class="news-card__title js-truncation">Social Impact Fellow Reflection: Aabid Quraishi (In Good Company)</div>
                                                                                             </a>
                         </div>
                                                                                                                                                                                     </div>
