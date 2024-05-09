@@ -40,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 	</head>
 	
-<body >
+<body  >
  
 <nav class="breadcrumbs" id="crumbs-nav" aria-label="Breadcrumb">
             <div class="breadcrumbs__list">
@@ -151,6 +151,9 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                                                     <ul class="navigation__sublist">
                                                                                                 				                                                                                                                                                        <li class="navigation__item navigation__item--mobile-secondary">
                                                                     <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/undergraduate/index.html" target="_parent">Undergraduate</a>
+                                                                </li>
+                                                                                                                                                            				                                                                                                                                                        <li class="navigation__item navigation__item--mobile-secondary">
+                                                                    <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/ms-management/index.html" target="_parent">M.S. Major in Management</a>
                                                                 </li>
                                                                                                                                                             				                                                                                                                                                        <li class="navigation__item navigation__item--mobile-secondary">
                                                                     <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/mba-programs/index.html" target="_parent">MBA</a>
@@ -305,6 +308,9 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                                                                 <ul class="navigation__sublist">
                                                                                                                                                                                                                                                                                                                         <li class="navigation__item navigation__item--mobile-secondary">
                                                                                 <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/undergraduate/index.html" target="_parent">Undergraduate</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                <li class="navigation__item navigation__item--mobile-secondary">
+                                                                                <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/ms-management/index.html" target="_parent">M.S. Major in Management</a>
                                                                             </li>
                                                                                                                                                                                                                                                                                                                                                                                                 <li class="navigation__item navigation__item--mobile-secondary">
                                                                                 <a class="navigation__link navigation__link--second-level" href="https://www.scheller.gatech.edu/explore-programs/mba-programs/index.html" target="_parent">MBA</a>
@@ -575,8 +581,8 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
             <div class="col-12 text-center col-lg-9">
                 <div class="headline headline--no-top-padding">
                                             <h2 class="headline__heading">Let’s Build a Better World</h2>
-                                                                <p class="headline__content">The Institute for Leadership and Social Impact is an interdisciplinary institute that promotes servant leadership and organizational practices that contribute to a more just, caring, and sustainable world.</p>
-                                    </div>
+                                                                                        	                        <p class="headline__content">The Institute for Leadership and Social Impact is an interdisciplinary institute that promotes servant leadership and organizational practices that contribute to a more just, caring, and sustainable world.</p>
+                                                            </div>
             </div>
         </div>
     </div>
@@ -830,6 +836,14 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                 </header>  
                         <div class="row js-carousel__slider col-auto">
                                                                                                                                                                                     <div class="col-12 col-lg-4">
+                            <a class="news-card" href="../../news/2024/2024-ideas-to-serve-student-projects-explore-mental-health-environmental-justice-and-affordable-housing.html">
+                                <div class="news-card__image-wrap">
+                                    <div aria-label="Group at I2S Poster Showcase" class="news-card__image" role="img" style="background-image: url('../../news/2024/photos/i2s-showcase.jpg');"></div>                                    <date class="news-card__date">04/24/2024</date>
+                                </div>
+                                <div class="news-card__title js-truncation">2024 Ideas to Serve Student Projects Explore Mental Health, Environmental Justice, and Affordable Housing</div>
+                                                                                            </a>
+                        </div>
+                                                                                                                                                                                                                <div class="col-12 col-lg-4">
                             <a class="news-card" href="../../news/ilsi/2024/varuni-chopra-social-impact-fellow.html">
                                 <div class="news-card__image-wrap">
                                     <div aria-label="Female student sitting outside looking at the camera" class="news-card__image" role="img" style="background-image: url('../../news/ilsi/2024/images/varuni-chopra-headshot.jpg');"></div>                                    <date class="news-card__date">04/17/2024</date>
@@ -843,14 +857,6 @@ height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Ma
                                     <div aria-label="Ideas to Serve presenters with their project." class="news-card__image" role="img" style="background-image: url('../../news/ilsi/2024/images/i2s-cal-2024_cropped_1to1.jpg');"></div>                                    <date class="news-card__date">04/08/2024</date>
                                 </div>
                                 <div class="news-card__title js-truncation">2024 Ideas to Serve Poster Showcase</div>
-                                                                                            </a>
-                        </div>
-                                                                                                                                                                                                                <div class="col-12 col-lg-4">
-                            <a class="news-card" href="../../news/ilsi/2024/social-impact-fellow-reflection-sophia-aslam-in-good-company-works.html">
-                                <div class="news-card__image-wrap">
-                                    <div aria-label="Sophia Aslam" class="news-card__image" role="img" style="background-image: url('../../_files/images/centers-and-initiatives/ilsi/sophia-aslam.jpg');"></div>                                    <date class="news-card__date">04/05/2024</date>
-                                </div>
-                                <div class="news-card__title js-truncation">Social Impact Fellow Reflection: Sophia Aslam (In Good Company)</div>
                                                                                             </a>
                         </div>
                                                                                                                                                                                     </div>

@@ -362,13 +362,13 @@ Loved by 100+ creators </span>
 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
 <div class="text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Links</span>
-<span class="h1 text-gradient-primary" style="--gradient-one: var(--purple); --gradient-two: var(--pink);">867+</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--purple); --gradient-two: var(--pink);">885+</span>
 </div>
 </div>
 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
 <div class="text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Tracked pageviews</span>
-<span class="h1 text-gradient-primary" style="--gradient-one: var(--blue); --gradient-two: var(--purple);">1,038,369+</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--blue); --gradient-two: var(--purple);">1,229,070+</span>
 </div>
 </div>
 </div>
@@ -561,7 +561,7 @@ Indonesia </a>
 </div>
 <input type="hidden" name="global_site_url" value="https://biolink.blog/" />
 <input type="hidden" name="global_url" value="https://biolink.blog/" />
-<input type="hidden" name="global_token" value="3f1b95a68a67994ca9906074538c59c1" />
+<input type="hidden" name="global_token" value="95bc7b3cb7814e89e0a44a13115516d2" />
 <input type="hidden" name="global_number_decimal_point" value="." />
 <input type="hidden" name="global_number_thousands_separator" value="," />
 <script>
@@ -669,7 +669,7 @@ Indonesia </a>
 
         switch(new_theme_style) {
             case 'dark':
-                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/bootstrap-dark.min.css?v=4600");
+                css.setAttribute('href', "https:\/\/biolink.blog\/themes\/altum\/assets\/css\/custom-bootstrap\/bootstrap-dark.min.css?v=4600");
                 document.body.classList.add('cc--darkmode');
                 break;
 

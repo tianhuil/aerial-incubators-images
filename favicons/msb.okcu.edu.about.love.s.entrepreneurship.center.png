@@ -1,0 +1,1009 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/assets/js/basictable/basictable.min.css">
+    <link rel="stylesheet" href="/assets/js/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/js/owlcarousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=20240419">
+    <link rel="stylesheet" href="/assets/calendar/css/main.css">
+    <link rel="stylesheet" href="/assets/css/custom.css?v=20240419">
+
+    
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1699050493735010');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1699050493735010&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+_linkedin_partner_id = "2510338";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2510338&fmt=gif" />
+</noscript>
+
+<script>
+!function (w, d, t) {
+w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+ttq.load('BULEENQI3U1KE4FJ7810');
+ttq.page();
+}(window, document, 'ttq');
+</script>
+
+<!-- Reddit Pixel -->
+
+<script>
+
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_hfo1k');rdt('track', 'PageVisit');
+
+</script>
+
+<!-- DO NOT MODIFY -->
+
+<!-- End Reddit Pixel -->
+
+
+
+        
+  <title>Oklahoma City University | Meinders School of Business</title>
+<script>dataLayer = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KFWX3W');
+</script>
+<script>/* Facebook Pixel script did not render */
+</script>
+<script>/* LinkedIn Insight script did not render */
+</script><meta name="keywords" content="Oklahoma City University, college, university, Oklahoma City education">
+<meta name="description" content="As a top liberal arts &amp; sciences university, Oklahoma City University has been leading students to their creative edge for nearly 120 years. We are a…">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="8960596522" property="fb:profile_id">
+<meta content="en_US" property="og:locale">
+<meta content="Oklahoma City University" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business" property="og:url">
+<meta content="Meinders School of Business" property="og:title">
+<meta content="As a top liberal arts &amp; sciences university, Oklahoma City University has been leading students to their creative edge for nearly 120 years. We are a…" property="og:description">
+<meta content="https://okc-university.transforms.svdcdn.com/production/news/campus.jpeg?w=1200&amp;h=630&amp;q=82&amp;auto=format&amp;fit=crop&amp;dm=1701015201&amp;s=2f4d7472d2e17f65b62b4da5391ecaeb" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="An aerial view of Oklahoma City University&#039;s campus with the Oklahoma City skyline in the background." property="og:image:alt">
+<meta content="https://www.instagram.com/oklahomacityuniversity/" property="og:see_also">
+<meta content="https://www.youtube.com/oklahomacityuniversity" property="og:see_also">
+<meta content="https://www.linkedin.com/school/oklahoma-city-university/mycompany/" property="og:see_also">
+<meta content="https://www.facebook.com/oklahomacityuniversity" property="og:see_also">
+<meta content="https://twitter.com/okcu" property="og:see_also">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@okcu">
+<meta name="twitter:creator" content="@okcu">
+<meta name="twitter:title" content="Meinders School of Business">
+<meta name="twitter:description" content="As a top liberal arts &amp; sciences university, Oklahoma City University has been leading students to their creative edge for nearly 120 years. We are a…">
+<meta name="twitter:image" content="https://okc-university.transforms.svdcdn.com/production/news/campus.jpeg?w=800&amp;h=418&amp;q=82&amp;auto=format&amp;fit=crop&amp;dm=1701015201&amp;s=b806ffb889f3c0c5bc56efe67fbe11d5">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<meta name="twitter:image:alt" content="An aerial view of Oklahoma City University&#039;s campus with the Oklahoma City skyline in the background.">
+<link href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business" rel="canonical">
+<link href="https://www.okcu.edu" rel="home">
+<link type="text/plain" href="https://www.okcu.edu/humans.txt" rel="author"></head>
+
+  <body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFWX3W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    
+    
+        
+              
+        
+    
+    <a href="#main-content" class="sr-only">Skip to content</a>
+        <header>
+    
+            
+      <div class="topmenu">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <ul  class="nav d-flex justify-content-end"><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/visit">Visit</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/request-info">Request Info</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/about/give">Give</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/admissions-overview">Apply Now</a></li></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="mainmenu">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <nav class="navbar navbar-light">
+                <div class="container">
+                    <a class="navbar-brand" href="https://www.okcu.edu/">
+                        <img src="/assets/images/logo.png" alt="Oklahoma City University">
+                    </a>
+                    <div class="header-buttons d-flex">
+                        <div class="search-form me-1 border" style="display:none;">
+                            <form class="d-flex" method="GET" action="/search">
+                                <input class="form-control me-1 no-border" type="search" placeholder="Search" aria-label="Search" name="s">
+                                <button class="btn btn-success" type="submit">GO!</button>
+                                <button class="btn btn-link button-search__close" aria-label="Close">
+                                    <i class="far fa-close"></i>
+                                </button>
+                            </form>
+                        </div>
+                        <button class="btn btn-link button-search" aria-label="Search">
+                            <i class="far fa-search"></i>
+                        </button>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+                    <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarSupportedContent">
+                        <div class="offcanvas-topmenu">
+                          <div class="container">
+                            <div class="row">
+                              <div class="col-12">
+                                <ul  class="nav d-flex justify-content-end"><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/visit">Visit</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/request-info">Request Info</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/about/give">Give</a></li><li  class="nav-item"><a  class="nav-link" href="https://www.okcu.edu/admissions/admissions-overview">Apply Now</a></li></ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="offcanvas-header">
+                          <img src="/assets/images/logo.png" alt="Oklahoma City University">
+                          <button type="button" class="btn btn-link close-btn" data-bs-dismiss="offcanvas" aria-label="Close">
+                              <i class="far fa-close"></i>
+                          </button>
+                        </div>
+                        <div class="offcanvas-body">
+                          
+                          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                                                <li class="nav-item dropdown">
+                                      <a href="#" class="nav-link active show dropdown-toggle" id="menuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                          Academics
+                                      </a>
+
+                                                                                <ul class="dropdown-menu show" aria-labelledby="menuDropdown">
+                                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/overview" class="nav-link  " >
+                                          Overview
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="/programs" class="nav-link  " >
+                                          All Programs
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/schools-colleges" class="nav-link active show " >
+                                          Schools &amp; Colleges
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/course-schedule" class="nav-link  " >
+                                          Course Schedule
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/online-degrees" class="nav-link  " >
+                                          Online Degrees
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/honors-program" class="nav-link  " >
+                                          Honors Program
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/study-abroad" class="nav-link  " >
+                                          Study Abroad
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/academic-testing" class="nav-link  " >
+                                          Academic Testing
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/academics/service-learning" class="nav-link  " >
+                                          Service Learning
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                                <li class="nav-item dropdown">
+                                      <a href="#" class="nav-link  dropdown-toggle" id="menuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                          Admissions
+                                      </a>
+
+                                                                                <ul class="dropdown-menu " aria-labelledby="menuDropdown">
+                                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/admissions-overview" class="nav-link  " >
+                                          Admissions Overview
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/first-year" class="nav-link  " >
+                                          First Year
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/transfer" class="nav-link  " >
+                                          Transfer
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/graduate" class="nav-link  " >
+                                          Graduate
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/international" class="nav-link  " >
+                                          International
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/request-info" class="nav-link  " >
+                                          Request Info
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/visit" class="nav-link  " >
+                                          Visit Oklahoma City University
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/admissions-events" class="nav-link  " >
+                                          Admissions Events
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/admissions/recursos-en-espanol" class="nav-link  " >
+                                          Recursos En Espanol
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                                <li class="nav-item dropdown">
+                                      <a href="#" class="nav-link  dropdown-toggle" id="menuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                          Paying for OCU
+                                      </a>
+
+                                                                                <ul class="dropdown-menu " aria-labelledby="menuDropdown">
+                                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/affordability" class="nav-link  " >
+                                          Affordability
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/cost-of-attendance" class="nav-link  " >
+                                          Cost of Attendance
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/types-of-assistance" class="nav-link  " >
+                                          Types of Assistance
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/tips-for-applying" class="nav-link  " >
+                                          Tips for Applying
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/net-price-calculator" class="nav-link  " >
+                                          Net Price Calculator
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/contact-us" class="nav-link  " >
+                                          Contact Us
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/paying-for-ocu/forms" class="nav-link  " >
+                                          Forms
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                                <li class="nav-item dropdown">
+                                      <a href="#" class="nav-link  dropdown-toggle" id="menuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                          Campus Life
+                                      </a>
+
+                                                                                <ul class="dropdown-menu " aria-labelledby="menuDropdown">
+                                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/overview" class="nav-link  " >
+                                          Overview
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/vibrant-city" class="nav-link  " >
+                                          Vibrant City
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/libraries" class="nav-link  " >
+                                          Libraries
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/housing-residence-life" class="nav-link  " >
+                                          Housing &amp; Residence Life
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/religious-life" class="nav-link  " >
+                                          Religious Life
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/athletics" class="nav-link  " >
+                                          Athletics
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/arts-culture" class="nav-link  " >
+                                          Arts &amp; Culture
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/diversity-equity-and-inclusion" class="nav-link  " >
+                                          Diversity
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/student-organizations-activities" class="nav-link  " >
+                                          Student Organizations &amp; Activities
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/support-services" class="nav-link  " >
+                                          Support Services
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/campus-life/box-office" class="nav-link  " >
+                                          Box Office
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                                <li class="nav-item dropdown">
+                                      <a href="#" class="nav-link  dropdown-toggle" id="menuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                          About OCU
+                                      </a>
+
+                                                                                <ul class="dropdown-menu " aria-labelledby="menuDropdown">
+                                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/overview" class="nav-link  " >
+                                          Overview
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/quick-facts" class="nav-link  " >
+                                          Quick Facts
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/presidents-office" class="nav-link  " >
+                                          President&#039;s Office
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/community-events-and-rentals" class="nav-link  " >
+                                          Community Events and Rentals
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/alumni" class="nav-link  " >
+                                          Alumni
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/give" class="nav-link  " >
+                                          Give
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/get-involved" class="nav-link  " >
+                                          Get Involved
+                                      </a>
+
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/about/communications-marketing" class="nav-link  " >
+                                          Communications &amp; Marketing
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                                <li class="nav-item ">
+                                      <a href="https://www.okcu.edu/current" class="nav-link  " >
+                                          Current Students
+                                      </a>
+
+                                                                        </li>
+                                                                        </ul>
+                                                                        </li>
+                                                        </ul>
+
+                        </div>
+                    </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+
+            <div class="subpage__hero">
+        <div class="row g-0 h-100">
+            <div class="col">
+                                <img src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-header-4.jpg?w=2000&amp;h=764&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1704900719&amp;s=981c8e0fa9961bb2c9f0bfd4684a1cd7" alt="">
+            </div>
+        </div>
+    </div>
+
+    <main class="subpage">
+            <div class="container">
+            <div class="row">
+                                <div class="col-lg-7 offset-lg-1">
+                                        <div class="breadcrumb">
+        <span property="itemListElement" typeof="ListItem">
+            <a property="item" typeof="WebPage" href="https://www.okcu.edu/">
+                Home
+            </a>
+        </span>
+        &nbsp;&nbsp;&#187;&nbsp;&nbsp;
+
+        
+        
+        
+        
+                    <span property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="https://www.okcu.edu/academics">
+                    Academics
+                </a>
+            </span>
+            &nbsp;&nbsp;&#187;&nbsp;&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                <a property="item" typeof="WebPage" href="https://www.okcu.edu/academics/schools-colleges">
+                    Schools &amp; Colleges
+                </a>
+            </span>
+            &nbsp;&nbsp;&#187;&nbsp;&nbsp;
+                <span property="itemListElement" typeof="ListItem">
+            <span property="name" class="current-item">Meinders School Of Business</span>
+            <meta property="url" content="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business">
+        </span>
+
+    </div>
+
+
+                    <div class="subpage__title">
+                        <h1>Meinders School of Business</h1>
+                    </div>
+
+                    <article>
+                                        <p><span style="background-color:#FFFFFF;color:rgb(53,57,64);"><strong>The Meinders School of Business prepares graduate and undergraduate students to be socially responsible leaders in a global economy through teaching excellence and faculty scholarship in business practice and disciplines. Faculty and students engage with the business community, local government, and regulatory agencies as part of the teaching-learning process. We offer our students a variety of in-demand degrees, including several fully online and STEM-designated options, as well as professional education and certificate options for the life-long learner.</strong></span></p>
+                        
+<section class="image_slideshow owl-carousel">
+    <div class="image_slideshow__image">
+                <img
+          src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-1.jpg?w=800&amp;h=450&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702059283&amp;s=d5c528dbb0df76073ff54f406a98c91e"
+          alt="Business slider 1"
+          width="800"
+          height="450"
+          srcset="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-1.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059283&amp;s=c65deab5d5c6d3b877749d37a78d360f 1.5x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-1.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059283&amp;s=c65deab5d5c6d3b877749d37a78d360f 2x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-1.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059283&amp;s=c65deab5d5c6d3b877749d37a78d360f 3x"
+        />
+    </div>
+    <div class="image_slideshow__image">
+                <img
+          src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-2.jpg?w=800&amp;h=450&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702059284&amp;s=39fcd8a75f211c9bf0e9c00c60ababeb"
+          alt="Business slider 2"
+          width="800"
+          height="450"
+          srcset="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-2.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=55885236d867e60589fbfc1dd74de335 1.5x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-2.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=55885236d867e60589fbfc1dd74de335 2x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-2.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=55885236d867e60589fbfc1dd74de335 3x"
+        />
+    </div>
+    <div class="image_slideshow__image">
+                <img
+          src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-4.jpg?w=800&amp;h=450&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702059285&amp;s=90539125c5d0f878786887d5f24ba3f9"
+          alt="Business slider 4"
+          width="800"
+          height="450"
+          srcset="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-4.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=88f38aabcf63afe6644b001e75763476 1.5x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-4.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=88f38aabcf63afe6644b001e75763476 2x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-4.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=88f38aabcf63afe6644b001e75763476 3x"
+        />
+    </div>
+    <div class="image_slideshow__image">
+                <img
+          src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-3.jpg?w=800&amp;h=450&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702059284&amp;s=a801595e31ad9111b25ceecc7da68403"
+          alt="Business slider 3"
+          width="800"
+          height="450"
+          srcset="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-3.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=ddba3f552f2ec8c383794b8e6bf2f817 1.5x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-3.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=ddba3f552f2ec8c383794b8e6bf2f817 2x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-3.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059284&amp;s=ddba3f552f2ec8c383794b8e6bf2f817 3x"
+        />
+    </div>
+    <div class="image_slideshow__image">
+                <img
+          src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-5.jpg?w=800&amp;h=450&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702059285&amp;s=b46ba338f5958aa736dd6956e9bf4579"
+          alt="Business slider 5"
+          width="800"
+          height="450"
+          srcset="https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-5.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=c426c4bcbd6e8f1e41f05b46f64a52d3 1.5x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-5.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=c426c4bcbd6e8f1e41f05b46f64a52d3 2x, https://okc-university.transforms.svdcdn.com/production/Academics/Business/business-slider-5.jpg?w=800&amp;q=85&amp;fm=jpg&amp;fit=crop&amp;dm=1702059285&amp;s=c426c4bcbd6e8f1e41f05b46f64a52d3 3x"
+        />
+    </div>
+</section>                        <p><span style="background-color:#FFFFFF;color:#000000;">With a low student-to-faculty ratio, hands-on investment and research opportunities, internships and study-abroad programs, Oklahoma City University's Meinders School of Business sets you on a course for success.</span></p>
+                        <section class="block__button mb-2">
+        <div class="text-center">
+        <a href="/programs?q=business" class="btn btn-success ">BROWSE ACADEMIC PROGRAMS</a>
+    </div>
+    </section>
+                        <section class="statistics mb-3">
+    <div class="container">
+        <div class="row">
+                                                <div class="col-md-6">
+                            <div class="statistics__container">
+                    <div class="statistics__number">
+                                                <span class="count" data-number="5">5</span>
+                                            </div>
+                    <div class="statistics__text">STEM-designated graduates degrees offered at the Meinders School of Business</div>
+                    <div class="statistics__link"></div>
+                </div>
+            </div>
+                                    <div class="col-md-6">
+                            <div class="statistics__container">
+                    <div class="statistics__number">
+                                                <span class="count" data-number="11">11</span>
+                        <span class="statistics__number__suffix">:1</span>                    </div>
+                    <div class="statistics__text">student-to-faculty ratio</div>
+                    <div class="statistics__link"></div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</section>
+                        <section class="contentWithBackground p-2 mb-3 bg-blue-light txt-dark-blue">
+	<h2>BUSINESS FAST FACTS</h2>
+<ul><li>The Meinders School of Business is AACSB accredited, placing it in the top 4.5% of business schools in the world</li><li>Business students are eligible for generous automatic academic scholarships based on high school GPA</li><li>Meinders offers a variety of additional scholarships, including the Meinders Business Fellows, the Business Excellence Award and the Meinders Business Transfer Scholarship</li><li>All students have access to our cutting-edge Bloomberg Terminal Lab </li><li>Meinders School of Business offers several opportunities for student engagement, including the Investment Club, Student Accounting Society and Business Ethics Consortium</li></ul>
+</section>                        
+<section class="sidebar__events">
+    <h2>Featured Events</h2>
+    <div class="sidebar__events__item">
+        No upcoming events. Please check back soon.
+        </div>
+
+</section>
+                        <section class="sidebar__news">
+    <h2>Related News</h2>
+    <div class="sidebar__news__container">
+                <div class="sidebar__news__item">
+            <div class="row g-0">
+                <div class="col-2">
+                    <div class="sidebar__news__item__image">
+                        <img src="https://okc-university.transforms.svdcdn.com/production/news/Panel-WomenInLeadership_123.webp?w=600&amp;h=399&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1703315067&amp;s=49695f12428699737aba8966efdae87f" alt="">
+                    </div>
+                </div>
+                <div class="col-10">
+                    <div class="sidebar__news__item__date">
+                        Mar 7, 2024
+                    </div>
+                    <div class="sidebar__news__item__title">
+                        <a href="https://www.okcu.edu/news/women-in-leadership-promotes-positive-influence">Women in Leadership promotes positive ‘Influence’</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="sidebar__news__item">
+            <div class="row g-0">
+                <div class="col-2">
+                    <div class="sidebar__news__item__image">
+                        <img src="https://okc-university.transforms.svdcdn.com/production/Blog/Business%E2%80%942023.05.30_KramerNursingBuilding-13.jpg?w=800&amp;h=534&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1709147886&amp;s=a4c6d8241043181c5b89b83e50bf893b" alt="">
+                    </div>
+                </div>
+                <div class="col-10">
+                    <div class="sidebar__news__item__date">
+                        Mar 4, 2024
+                    </div>
+                    <div class="sidebar__news__item__title">
+                        <a href="https://www.okcu.edu/news/income-tax-assistance-program-returns-to-ocu">Income tax assistance program returns to OCU</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="sidebar__news__item">
+            <div class="row g-0">
+                <div class="col-2">
+                    <div class="sidebar__news__item__image">
+                        <img src="https://okc-university.transforms.svdcdn.com/production/Current-Students/MEINDERS-OCU.jpeg?w=850&amp;h=567&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1706702147&amp;s=ead9bdf573f5c49f01744c66303998cd" alt="">
+                    </div>
+                </div>
+                <div class="col-10">
+                    <div class="sidebar__news__item__date">
+                        Feb 12, 2024
+                    </div>
+                    <div class="sidebar__news__item__title">
+                        <a href="https://www.okcu.edu/news/ocu-signs-partnership-to-add-supply-chain-management-courses">OCU signs partnership to add supply chain management courses</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="sidebar__news__item">
+            <div class="row g-0">
+                <div class="col-2">
+                    <div class="sidebar__news__item__image">
+                        <img src="https://okc-university.transforms.svdcdn.com/production/news/data_analysis_promo.webp?w=800&amp;h=323&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1703255320&amp;s=9f83dbcce87fad56ccd8d14f84ad4209" alt="">
+                    </div>
+                </div>
+                <div class="col-10">
+                    <div class="sidebar__news__item__date">
+                        Nov 20, 2023
+                    </div>
+                    <div class="sidebar__news__item__title">
+                        <a href="https://www.okcu.edu/news/business-school-launches-data-scientist-certificate-program">Business school launches data scientist certificate program</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+</section>
+                                                                <p>&nbsp;</p><figure class="image"><img src="https://okc-university.transforms.svdcdn.com/production/Snippets/star-divider-F.jpg?w=2000&h=167&auto=compress%2Cformat&fit=crop&dm=1705956644&s=8c9c83bc71ec6a8b6f66246f4d987aa5"></figure>
+                                            <section class="coordinator mb-3">
+    <div class="coordinator__title">
+        <h2>CONTACT US</h2>
+    </div>
+        <div class="coordinator__name">
+        Meinders School of Business
+    </div>
+        <div class="coordinator__text">
+                <a href="/cdn-cgi/l/email-protection#5c30313d2e2835321c33373f2972393829"><span class="__cf_email__" data-cfemail="b9d5d4d8cbcdd0d7f9d6d2dacc97dcddcc">[email&#160;protected]</span></a>                <br><a href="telno:405-208-4913">405-208-4913</a>    </div>
+    
+        <div class="coordinator__socmed">
+        <a href="https://www.facebook.com/OCUMSB" title="facebook" class=" me-1"><em class="fa-brands fa-facebook"></em></a>
+        <a href="https://www.instagram.com/ocumsb" title="instagram" class=" me-1"><em class="fa-brands fa-instagram"></em></a>
+        <a href="https://twitter.com/ocumsb" title="twitter" class=" me-1"><em class="fa-brands fa-twitter"></em></a>
+        <a href="https://www.linkedin.com/in/ocumsb" title="linkedin" class=" me-1"><em class="fa-brands fa-linkedin"></em></a>
+        </div>
+
+</section>
+                                        </article>
+                </div>
+
+                                <div class="col-lg-4">
+                    <div class="sidebar">
+                                                        
+<section class="sidebar__nav">
+    <div class="sidebar__menu__title">
+        <h2>Academics</h2>
+    </div>
+    <nav class="sidebar__menu__items">
+        <ul class="parent">
+                                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/overview" class="sidebar__menu__entry">Overview</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/schools-colleges" class="sidebar__menu__entry">Schools &amp; Colleges</a>
+
+                                                                                <ul class="child_level_1">
+                                                                                                                        <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/ann-lacy-school-of-dance-and-entertainment" class="sidebar__menu__entry ">Ann Lacy School of American Dance and Entertainment</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/college-of-health" class="sidebar__menu__entry ">College of Health Professions</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/kramer-school-of-nursing" class="sidebar__menu__entry ">Kramer School of Nursing</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="active">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business" class="sidebar__menu__entry current-page">Meinders School of Business</a>
+
+                                                                                                                    <ul class="child_level_2">
+                                                                                                                                                                        <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/about-us" class="sidebar__menu__entry ">About Us</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                            <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/degrees" class="sidebar__menu__entry ">Degrees</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                            <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/faculty-staff" class="sidebar__menu__entry ">Faculty &amp; Staff</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                            <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/professional-education" class="sidebar__menu__entry ">Professional Education</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                                                                                                                <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/economic-research-policy-institute" class="sidebar__menu__entry ">Steven C. Agee Economic Research &amp; Policy Institute</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                            <li class=""><a href="https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business/about-hall-of-honor" class="sidebar__menu__entry ">Hall of Honor</a>
+
+                                                
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/petree-college-of-arts-and-sciences" class="sidebar__menu__entry ">Petree College of Arts &amp; Sciences</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/school-of-law" class="sidebar__menu__entry ">School of Law</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/school-of-theatre" class="sidebar__menu__entry ">School of Theatre</a>
+
+                                    
+                                </li>
+                                                                                                                            <li class="">
+                                    <a href="https://www.okcu.edu/academics/schools-colleges/wanda-l-bass-school-of-music" class="sidebar__menu__entry ">Wanda L. Bass School of Music</a>
+
+                                    
+                                </li>
+                                                                                        </ul>
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/course-schedule" class="sidebar__menu__entry">Course Schedule</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/online-degrees" class="sidebar__menu__entry">Online Degrees</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/honors-program" class="sidebar__menu__entry">Honors Program</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/study-abroad" class="sidebar__menu__entry">Study Abroad</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/academic-testing" class="sidebar__menu__entry">Academic Testing</a>
+
+                        
+                    </li>
+                                                                            <li class="">
+                        <a href="https://www.okcu.edu/academics/service-learning" class="sidebar__menu__entry">Service Learning</a>
+
+                        
+                    </li>
+                                                                                    </ul>
+    </nav>
+</section>
+                                    <section class="sidebar__button">
+        <a href="https://okcuerx.my.salesforce-sites.com/forms/apex/ERx_Forms__PageMaker?pageId=rfi" class="btn btn-success wd-100">Request Info</a>
+    </section>
+                        <section class="sidebar__button">
+        <a href="/admissions/admissions-overview" class="btn btn-success wd-100">Apply Now</a>
+    </section>
+                        <section class="sidebar__testimonial">
+    <div class="sidebar__testimonial__carousel owl-carousel owl-theme">
+                        <div class="sidebar__testimonial__carousel__item">
+            <div class="row">
+                <div class="col-12">
+                    <div class="sidebar__testimonial__image">
+                                                <img src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/Ian-McEntire-testimonial.jpg?w=1000&amp;h=1076&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1702060860&amp;s=ecbdb2126c26b098176bd3837a1d8f2a" alt="">
+                                            </div>
+                </div>
+                <div class="col-12">
+                    <div class="sidebar__testimonial__sign"><img src="/assets/images/quotes.png" alt=""></div>
+                    <div class="sidebar__testimonial__quote">
+                        The Meinders faculty is equipped to build competitive and career-ready students, and businesses are constantly seeking our students to work for them.”
+                    </div>
+                    <div class="sidebar__testimonial__name">
+                        Ian McEntire
+                    </div>
+                    <div class="sidebar__testimonial__class">
+                        Economics student
+                    </div>
+                </div>
+            </div>
+        </div>  
+            </div>            
+</section>
+
+                        <section class="sidebar__image">
+        <img src="https://okc-university.transforms.svdcdn.com/production/Academics/Business/2022.06.28_MeindersCampus-279-Edit.jpg?w=800&amp;h=1208&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1706214366&amp;s=3e6a0772803c3960aa0ee2926cd9f860" alt="">
+    </section>                        <section class="sidebar__degree-finder">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 g-0">
+                <div class="sidebar__degree-finder__container">
+                    <div class="sidebar__degree-finder__subtitle">Degree Finder</div>
+                    <div class="sidebar__degree-finder__title"><h2>Explore Programs</h2></div>
+                    <div class="sidebar__degree-finder__form">
+                        <p>Find your passion:</p>
+                        <form method="GET" action="https://www.okcu.edu/programs">
+                            <input id="sidebar__degree-finder__input" name="q" class="form-control  me-1 no-border" placeholder="Search for a program" aria-label="Search">
+                            <button type="submit" class="btn btn-success">GO!</button>
+                        </form>
+                        <p>or <a href="https://www.okcu.edu/programs">View All Programs</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+                            </div>
+                </div>
+                            </div>
+        </div>    
+    </main>
+
+            <style>
+                                </style>
+        <div class="sticky-tab">
+            <a href="" >
+                <span class="sticky-tab__text"></span>
+            </a>
+        </div>
+    
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="footer__logo">
+                    <img src="/assets/images/logo-white.png" alt="Oklahoma City University">
+                </div>
+                <div class="footer__text">
+                    <p>
+                        2501 N Blackwelder<br>
+                        Oklahoma City, OK 73106-1493<br>
+                        405-208-5000<br>
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="footer__menu">
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div class="footer__menu__title">About OCU</div>
+                            <ul  class=""><li ><a  class="" href="https://www.okcu.edu/faculty-staff/human-resources/careers-at-ocu">Careers</a></li><li ><a  class="" href="https://www.okcu.edu/admissions/visit/map">Map</a></li><li ><a  class="" href="https://www.okcu.edu/about/accreditations-and-affiliations">Accreditations and Affiliations</a></li><li ><a  class="" href="https://www.okcu.edu/about/nondiscrimination-statement">Nondiscrimination Statement</a></li><li ><a  class="" href="/faculty">Faculty/Staff Directory</a></li></ul>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="footer__menu__title">Academics</div>
+                            <ul  class=""><li ><a  class="active" href="https://www.okcu.edu/academics/schools-colleges">Schools &amp; Colleges</a></li><li ><a  class="" href="/programs">Academic Programs</a></li><li ><a  class="" href="https://www.okcu.edu/current/academic-affairs">Academic Affairs</a></li></ul>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="footer__menu__title">Resources for</div>
+                            <ul  class=""><li ><a  class="" href="https://www.okcu.edu/current-students">Current Students</a></li><li ><a  class="" href="https://www.okcu.edu/faculty-staff/overview">Faculty/Staff</a></li><li ><a  class="" href="https://www.okcu.edu/about/alumni">Alumni</a></li></ul>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="footer__social">
+                    <ul>
+                        <li><a href="https://www.facebook.com/oklahomacityuniversity" aria-label="Facebook" title="Facebook"><em class="fa-brands fa-facebook"></em></a></li>
+                        <li><a href="https://www.youtube.com/oklahomacityuniversity" aria-label="Youtube" title="Youtube"><em class="fa-brands fa-youtube"></em></a></li>
+                        <li><a href="https://www.instagram.com/oklahomacityuniversity/" aria-label="Instagram" title="Instagram"><em class="fa-brands fa-instagram"></em></a></li>
+                        <li><a href="https://twitter.com/OKCU" aria-label="Twitter" title="Twitter"><em class="fa-brands fa-twitter"></em></a></li>
+                        <li><a href="https://www.linkedin.com/school/oklahoma-city-university/" aria-label="Linked In" title="Linked In"><em class="fa-brands fa-linkedin"></em></a></li>
+                        <li><a href="https://www.tiktok.com/@oklahomacityuniversity" aria-label="TikTok" title="TikTok"><em class="fa-brands fa-tiktok"></em></a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+        <div class="subfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <p class="text-small">In compliance with federal law, including the Provision of Title IX of the Educational Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, and the Americans with Disabilities Act of 1990, Oklahoma City University does not illegally discriminate against persons on the basis of race, religion, sex, color, national or ethnic origin, age, disability, or military service in the administration of educational policies, programs, or activities, its admissions policies, scholarship and loan programs, athletic or other University administered programs, or employment.</p>
+                        <p>© 2024 Oklahoma City University. All rights reserved. Site by <a href="https://mrwconnected.com">MRW</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="back-to-top" aria-label="Back to Top"><img src="/assets/images/top.png" alt="Back to Top"></div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+<script src="//code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+<script src="/assets/js/owlcarousel/owl.carousel.min.js"></script>
+<script src="/assets/js/jQueryRotate.js"></script>
+<script src="/assets/js/starter.js"></script>
+<script src='https://kit.fontawesome.com/1ab1da88b4.js?ver=3.7.3' id='font-awesome-pro-js'></script>
+<script src="/assets/calendar/js/main.js"></script>
+<script src="/assets/js/basictable/jquery.basictable.min.js"></script>
+
+<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebSite","author":{"@id":"https://www.okcu.edu/#identity"},"copyrightHolder":{"@id":"https://www.okcu.edu/#identity"},"copyrightYear":"2023","creator":{"@id":"#creator"},"dateCreated":"2023-09-19T20:12:00-05:00","dateModified":"2024-03-18T14:35:18-05:00","datePublished":"2023-09-19T20:12:00-05:00","description":"As a top liberal arts & sciences university, Oklahoma City University has been leading students to their creative edge for nearly 120 years. We are a diverse community of academic achievers, big thinkers, independent spirits and dedicated artists. At OCU, students from across the globe follow their passions and excel in the arts & sciences, religion, business, health care and the performing arts. Discover why Oklahoma City University is such a great place to learn, live and call home.","headline":"Meinders School of Business","image":{"@type":"ImageObject","url":"https://okc-university.transforms.svdcdn.com/production/news/campus.jpeg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1701015201&s=2f4d7472d2e17f65b62b4da5391ecaeb"},"inLanguage":"en-us","mainEntityOfPage":"https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business","name":"Meinders School of Business","publisher":{"@id":"#creator"},"url":"https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business"},{"@id":"https://www.okcu.edu/#identity","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"United States","addressLocality":"Oklahoma City","addressRegion":"Oklahoma","postalCode":"73106","streetAddress":"2501 N Blackwelder"},"description":"As a top liberal arts & sciences university, Oklahoma City University has been leading students to their creative edge for nearly 120 years. We are a diverse community of academic achievers, big thinkers, independent spirits and dedicated artists. At OCU, students from across the globe follow their passions and excel in the arts & sciences, religion, business, health care and the performing arts. Discover why Oklahoma City University is such a great place to learn, live and call home.","email":"visit@okcu.edu","image":{"@type":"ImageObject","height":"953","url":"https://okc-university.transforms.svdcdn.com/staging/General-design/OCU_logo_stacked-1.png?w=1030&h=953&auto=compress%2Cformat&fit=crop&dm=1706979358&s=0d99a6c7d2030c72c1095ab7d32c07fb","width":"1030"},"logo":{"@type":"ImageObject","height":"60","url":"https://okc-university.transforms.svdcdn.com/production/General-design/OCU_logo_stacked-1.png?w=600&h=60&q=82&fm=png&fit=clip&dm=1706979358&s=9ec92bea74102ec84aef6e8fe7604896","width":"65"},"name":"Oklahoma City University","priceRange":"$","sameAs":["https://twitter.com/okcu","https://www.facebook.com/oklahomacityuniversity","https://www.linkedin.com/school/oklahoma-city-university/mycompany/","https://www.youtube.com/oklahomacityuniversity","https://www.instagram.com/oklahomacityuniversity/"],"telephone":"405-208-5000","url":"https://www.okcu.edu"},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://www.okcu.edu","name":"Home","position":1},{"@type":"ListItem","item":"https://www.okcu.edu/academics","name":"Academics","position":2},{"@type":"ListItem","item":"https://www.okcu.edu/academics/schools-colleges","name":"Schools & Colleges","position":3},{"@type":"ListItem","item":"https://www.okcu.edu/academics/schools-colleges/meinders-school-of-business","name":"Meinders School of Business","position":4}],"name":"Breadcrumbs"}]}</script><script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'876e160d5b84a4dd',t:'MTcxMzU0MjIwMi42MzAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
