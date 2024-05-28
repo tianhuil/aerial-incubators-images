@@ -362,13 +362,13 @@ Loved by 100+ creators </span>
 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
 <div class="text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Links</span>
-<span class="h1 text-gradient-primary" style="--gradient-one: var(--purple); --gradient-two: var(--pink);">885+</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--purple); --gradient-two: var(--pink);">897+</span>
 </div>
 </div>
 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
 <div class="text-center d-flex flex-column">
 <span class="font-weight-bold text-muted mb-3">Tracked pageviews</span>
-<span class="h1 text-gradient-primary" style="--gradient-one: var(--blue); --gradient-two: var(--purple);">1,229,070+</span>
+<span class="h1 text-gradient-primary" style="--gradient-one: var(--blue); --gradient-two: var(--purple);">1,236,889+</span>
 </div>
 </div>
 </div>
@@ -561,7 +561,7 @@ Indonesia </a>
 </div>
 <input type="hidden" name="global_site_url" value="https://biolink.blog/" />
 <input type="hidden" name="global_url" value="https://biolink.blog/" />
-<input type="hidden" name="global_token" value="95bc7b3cb7814e89e0a44a13115516d2" />
+<input type="hidden" name="global_token" value="a345a2229be7ce0002851d884c005d99" />
 <input type="hidden" name="global_number_decimal_point" value="." />
 <input type="hidden" name="global_number_thousands_separator" value="," />
 <script>
